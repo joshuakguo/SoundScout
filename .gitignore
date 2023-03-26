@@ -9,6 +9,8 @@ __pycache__/
 
 instance/
 
+data/
+
 .pytest_cache/
 .coverage
 htmlcov/
@@ -17,3 +19,4 @@ dist/
 build/
 *.egg-info/
 helpers/*
+.env
