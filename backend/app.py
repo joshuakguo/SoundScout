@@ -43,9 +43,16 @@ def sql_search(episode):
     return json.dumps([dict(zip(keys, i)) for i in data])
 
 
-def sql_search2(episode):
+def sql_search_names(episode):
     query_sql = f"""SELECT DISTINCT playlistname FROM playlists WHERE LOWER( playlistname ) LIKE '%%{episode.lower()}%%' """
     keys = ["playlistname"]
+    data = mysql_engine.query_selector(query_sql)
+    return json.dumps([dict(zip(keys, i)) for i in data])
+
+
+def sql_search_tracks(episode):
+    query_sql = f"""SELECT trackname FROM playlists WHERE LOWER( playlistname ) = '{episode.lower()}' """
+    keys = ["trackname"]
     data = mysql_engine.query_selector(query_sql)
     return json.dumps([dict(zip(keys, i)) for i in data])
 
@@ -69,13 +76,13 @@ def search():
     docs = dict()
     IDFs = dict()
     for word in query_vec:
-        names = json.loads(sql_search2(word))
+        names = json.loads(sql_search_names(word))
         docs[word] = [i["playlistname"] for i in names]
         # CHANGE LATER: I have no idea how to see the length of a dataset in MYSQL, so I just guessed it was about a million rows
         # ALSO: once we get better tokenizing, add maximium IDF value
         IDFs[word] = math.log(1000000/(1 + len(docs[word])), 2)
 
-    scoreAcc = dict()
+    docscore = dict()
     qNorms = 0
     for word in query_vec:
         if IDFs[word] == None:
@@ -84,22 +91,36 @@ def search():
         curr_idf = IDFs[word]
         qNorms += curr_idf ** 2
         for doc in curr_docs:
-            scoreAcc[doc] = scoreAcc.get(doc, 0) + curr_idf ** 2
+            docscore[doc] = docscore.get(doc, 0) + curr_idf ** 2
 
     # since we set all tfs = 1, doc norm is just square root of its score
     qNorms = math.sqrt(qNorms)
 
     cossim = list()
 
-    for doc in scoreAcc.keys():
-        cossim.append((doc, scoreAcc[doc]/(math.sqrt(scoreAcc[doc]) + qNorms)))
+    for doc in docscore.keys():
+        cossim.append((doc, docscore[doc]/(math.sqrt(docscore[doc]) + qNorms)))
 
     cossim.sort(key=lambda x: x[1], reverse=True)
-    print(cossim[:50])
+    topk = cossim[:5]
+    print(topk)
+
+    songs = dict()
+    for tup in topk:
+        print(tup[0])
+        tracknames = json.loads(sql_search_tracks(tup[0]))
+        pl_songs = [i["trackname"] for i in tracknames]
+        for s in pl_songs:
+            songs[s] = songs.get(s, 0) + tup[1]
+
+    song_tups = list()
+    for s in songs.keys():
+        song_tups.append((s, songs[s]))
+    song_tups.sort(key=lambda x: x[1], reverse=True)
+    print(song_tups[:20])
 
     # for cossim, we need:
     # IDF of every query term = weight
     # because docs are onyl a few words long, tf doesn't carry too much meaning, so we ignore it
 
-
-# app.run(debug=True)
+    # app.run(debug=True)
