@@ -18,8 +18,8 @@
                 <h1 id="google-0-2">0</h1>
             </div>
             <div class="input-box" onclick="sendFocus()">
-                <img src="{{ url_for('static', filename='images/mag.png') }}" />
-                <input placeholder="Search for a playlist" id="filter-text-val" onkeyup="filterText()">
+                <img src="{{ url_for('static', filename='images/mag.png') }}" onclick=search() />
+                <input placeholder="Search for a playlist" id="filter-text-val">
             </div>
         </div>
         <div id="answer-box">
@@ -52,6 +52,14 @@
                     document.getElementById("answer-box").appendChild(tempDiv)
                 }));
 
+        }
+
+        function search() {
+            document.getElementById("answer-box").innerHTML = ""
+            console.log(document.getElementById("filter-text-val").value)
+            fetch("/search?" + new URLSearchParams({ title: document.getElementById("filter-text-val").value }).toString())
+                .then((response) => response.json())
+                .then((data) => console.log(data));
         }
 
     </script>
