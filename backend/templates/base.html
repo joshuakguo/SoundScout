@@ -28,9 +28,7 @@
 
   <script>
     function answerBoxTemplate(title, titleDesc) {
-      return `<div class=''>
-                <h3 class='song-title'>${title}</h3>
-            </div>`
+      return `<h3 class='song-title'>${title}</h3>`
     }
 
     function sendFocus() {
@@ -52,7 +50,8 @@
         .then((data) =>
           data.forEach((row) => {
             let tempDiv = document.createElement("div")
-            tempDiv.innerHTML = answerBoxTemplate(row[0], row[1])
+            tempDiv.className = "answer"
+            tempDiv.innerHTML = answerBoxTemplate(row[0], row[3])
             document.getElementById("answer-box").appendChild(tempDiv)
           })
         )
