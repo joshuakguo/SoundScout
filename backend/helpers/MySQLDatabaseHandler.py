@@ -40,7 +40,7 @@ class MySQLDatabaseHandler(object):
         if self.IS_DOCKER:
             return
         if file_path is None:
-            file_path = os.path.join(os.environ['ROOT_PATH'],'dump.sql')
+            file_path = os.path.join(os.environ['ROOT_PATH'],'init.sql')
         sql_file = open(file_path,"r")
         sql_file_data = list(filter(lambda x:x != '',sql_file.read().split(";\n")))
         self.query_executor(sql_file_data)
