@@ -26,8 +26,8 @@ services:
         image: mysql:latest
         restart: always
         environment:
-                MYSQL_USER: root
-                MYSQL_PASSWORD: qwertyuiop
+                MYSQL_USER: admin
+                MYSQL_PASSWORD: admin
                 MYSQL_DATABASE: playlistsdb
                 MYSQL_ROOT_PASSWORD: qwertyuiop
         volumes:
