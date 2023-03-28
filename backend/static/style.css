@@ -81,9 +81,22 @@
   margin-top: 3rem;
 }
 
-#answer-box .song-title {
+@media (max-width: 1024.02px) {
+  #answer-box .answer .song-title {
+    font-weight: bold;
+    font-family: "Kanit", sans-serif;
+    color: whitesmoke;
+    font-size: 1rem;
+    margin-bottom: 0.2rem;
+  }
+}
+
+#answer-box .answer .song-title {
+  font-weight: bold;
   font-family: "Kanit", sans-serif;
   color: whitesmoke;
+  font-size: 1.25rem;
+  margin-bottom: 0.2rem;
 }
 
 /* .episode-desc {
