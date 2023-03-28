@@ -56,9 +56,9 @@ def sql_search_tracks(episode):
     return json.dumps([dict(zip(keys, i)) for i in data])
 
 
-@app.route("/")
-def home():
-    return render_template('base.html', title="sample html")
+# @app.route("/")
+# def home():
+    # return render_template('base.html', title="sample html")
 
 
 @app.route("/episodes")
@@ -123,4 +123,4 @@ def search():
     # IDF of every query term = weight
     # because docs are onyl a few words long, tf doesn't carry too much meaning, so we ignore it
 
-    # app.run(debug=True)
+app.run(debug=True)

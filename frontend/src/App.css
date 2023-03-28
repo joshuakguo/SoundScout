@@ -1,0 +1,115 @@
+.full-body-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  min-height: 100vh;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(68, 68, 68);
+  z-index: -10;
+}
+
+.parallax-wrap {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  display: block;
+  z-index: -1;
+}
+
+.parallax-wrap .background-grid {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-image: radial-gradient(circle at 1px 1px, gray 1px, transparent 0);
+  background-size: 40px 40px;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+  font-size: 3rem;
+  font-family: "Open Sans", sans-serif;
+}
+
+.title h1 {
+  margin-bottom: 0;
+  margin-right: 0.25rem;
+  color: whitesmoke;
+}
+
+.input-box {
+  border-radius: 3rem;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  margin-top: 1rem;
+  padding: 0.75rem;
+  width: 37.5rem;
+  background-color: whitesmoke;
+}
+
+.input-box img {
+  height: 1.25rem;
+  width: 1.25rem;
+}
+
+.top-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.input-box input {
+  width: 100%;
+  margin-left: 0.75rem;
+  font-size: 1rem;
+  border: none;
+  outline: 0;
+  background-color: whitesmoke;
+}
+
+#answer-box {
+  width: 44rem;
+  margin-top: 3rem;
+}
+
+@media (max-width: 1024.02px) {
+  #answer-box .answer .song-title {
+    font-weight: bold;
+    font-family: "Kanit", sans-serif;
+    color: whitesmoke;
+    font-size: 1rem;
+    margin-bottom: 0.2rem;
+  }
+}
+
+#answer-box .answer .song-title {
+  font-weight: bold;
+  font-family: "Kanit", sans-serif;
+  color: whitesmoke;
+  font-size: 1.25rem;
+  margin-bottom: 0.2rem;
+}
+
+/* .episode-desc {
+  font-family: "Montserrat", sans-serif;
+} */
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 3rem;
+  background-color: transparent;
+  text-align: center;
+  color: whitesmoke;
+  font-family: "Open Sans", sans-serif;
+}
