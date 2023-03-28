@@ -40,26 +40,16 @@
             document.getElementById('filter-text-val').focus()
         }
 
-        function filterText() {
-            document.getElementById("answer-box").innerHTML = ""
-            console.log(document.getElementById("filter-text-val").value)
-            fetch("/episodes?" + new URLSearchParams({ title: document.getElementById("filter-text-val").value }).toString())
-                .then((response) => response.json())
-                .then((data) => data.forEach(row => {
-
-                    let tempDiv = document.createElement("div")
-                    tempDiv.innerHTML = answerBoxTemplate(row.playlistname, row.trackname)
-                    document.getElementById("answer-box").appendChild(tempDiv)
-                }));
-
-        }
-
         function search() {
             document.getElementById("answer-box").innerHTML = ""
             console.log(document.getElementById("filter-text-val").value)
             fetch("/search?" + new URLSearchParams({ title: document.getElementById("filter-text-val").value }).toString())
                 .then((response) => response.json())
-                .then((data) => console.log(data));
+                .then((data) => data.forEach(row => {
+                    let tempDiv = document.createElement("div")
+                    tempDiv.innerHTML = answerBoxTemplate(row.playlistname, row.trackname)
+                    document.getElementById("answer-box").appendChild(tempDiv)
+                }));
         }
 
     </script>
