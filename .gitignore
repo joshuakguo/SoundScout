@@ -18,6 +18,5 @@ dist/
 build/
 *.egg-info/
 helpers/*
-.env
 
 .prettierrc.json

@@ -123,4 +123,4 @@ def search():
     # IDF of every query term = weight
     # because docs are onyl a few words long, tf doesn't carry too much meaning, so we ignore it
 
-app.run(debug=True)
+# app.run(debug=True)

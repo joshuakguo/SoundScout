@@ -39,7 +39,7 @@ const search: MouseEventHandler<HTMLImageElement> = (e) => {
     box.removeChild(box.lastElementChild)
   }
   fetch(
-    "http://localhost:8091/search?" +
+    "http://localhost:5000/search?" +
       new URLSearchParams({ title: (document.getElementById("filter-text-val") as HTMLInputElement).value }).toString()
   )
     .then((response) => response.json())
