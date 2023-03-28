@@ -118,6 +118,7 @@ def search():
         song_tups.append((s, songs[s]))
     song_tups.sort(key=lambda x: x[1], reverse=True)
     print(song_tups[:20])
+    return song_tups[:20]
 
     # for cossim, we need:
     # IDF of every query term = weight
