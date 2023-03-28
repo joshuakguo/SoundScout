@@ -2,7 +2,6 @@ import json
 import os
 import re
 import math
-import numpy as np
 from flask import Flask, render_template, request
 from flask_cors import CORS
 from helpers.MySQLDatabaseHandler import MySQLDatabaseHandler
