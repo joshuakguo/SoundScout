@@ -2,13 +2,12 @@ import json
 import os
 import re
 import math
-import numpy as np
 from flask import Flask, render_template, request
 from flask_cors import CORS
 from helpers.MySQLDatabaseHandler import MySQLDatabaseHandler
-from dotenv import load_dotenv
+# from dotenv import load_dotenv
 
-load_dotenv()
+# load_dotenv()
 
 # ROOT_PATH for linking with all your files.
 # Feel free to use a config.py or settings.py with a global export variable
@@ -18,7 +17,7 @@ os.environ['ROOT_PATH'] = os.path.abspath(os.path.join("..", os.curdir))
 # Don't worry about the deployment credentials, those are fixed
 # You can use a different DB name if you want to
 MYSQL_USER = "root"
-MYSQL_USER_PASSWORD = os.getenv('MYSQL_USER_PASSWORD')
+MYSQL_USER_PASSWORD = "qwertyuiop"
 MYSQL_PORT = 3306
 MYSQL_DATABASE = "playlistsdb"
 
@@ -118,6 +117,7 @@ def search():
         song_tups.append((s, songs[s]))
     song_tups.sort(key=lambda x: x[1], reverse=True)
     print(song_tups[:20])
+    return song_tups[:10]
 
     # for cossim, we need:
     # IDF of every query term = weight

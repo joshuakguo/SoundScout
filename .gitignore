@@ -3,13 +3,12 @@ env/*
 Docker/__pycache__
 
 venv/
+.venv/
 
 *.pyc
 __pycache__/
 
 instance/
-
-data/
 
 .pytest_cache/
 .coverage
@@ -20,3 +19,5 @@ build/
 *.egg-info/
 helpers/*
 .env
+
+.prettierrc.json
