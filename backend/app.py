@@ -5,24 +5,25 @@ import math
 from flask import Flask, render_template, request
 from flask_cors import CORS
 from helpers.MySQLDatabaseHandler import MySQLDatabaseHandler
-# from dotenv import load_dotenv
+from dotenv import load_dotenv
 
-# load_dotenv()
+load_dotenv()
 
 # ROOT_PATH for linking with all your files.
 # Feel free to use a config.py or settings.py with a global export variable
-os.environ['ROOT_PATH'] = os.path.abspath(os.path.join("..", os.curdir))
+os.environ["ROOT_PATH"] = os.path.abspath(os.path.join("..", os.curdir))
 
 # These are the DB credentials for your OWN MySQL
 # Don't worry about the deployment credentials, those are fixed
 # You can use a different DB name if you want to
 MYSQL_USER = "root"
-MYSQL_USER_PASSWORD = "qwertyuiop"
+MYSQL_USER_PASSWORD = os.getenv("MYSQL_USER_PASSWORD")
 MYSQL_PORT = 3306
 MYSQL_DATABASE = "playlistsdb"
 
 mysql_engine = MySQLDatabaseHandler(
-    MYSQL_USER, MYSQL_USER_PASSWORD, MYSQL_PORT, MYSQL_DATABASE)
+    MYSQL_USER, MYSQL_USER_PASSWORD, MYSQL_PORT, MYSQL_DATABASE
+)
 
 # Path to init.sql file. This file can be replaced with your own file for testing on localhost, but do NOT move the init.sql file
 mysql_engine.load_file_into_db()
@@ -58,7 +59,15 @@ def sql_search_tracks(episode):
 
 @app.route("/")
 def home():
-    return render_template('base.html', title="sample html")
+    return render_template("base.html", title="sample html")
+
+
+@app.route("/test")
+def test():
+    query_sql = f"""SELECT * FROM playlists"""
+    keys = ["id", "json_data"]
+    data = mysql_engine.query_selector(query_sql)
+    return json.dumps([dict(zip(keys, i)) for i in data])
 
 
 @app.route("/episodes")
@@ -79,7 +88,7 @@ def search():
         docs[word] = [i["playlistname"] for i in names]
         # CHANGE LATER: I have no idea how to see the length of a dataset in MYSQL, so I just guessed it was about a million rows
         # ALSO: once we get better tokenizing, add maximium IDF value
-        IDFs[word] = math.log(1000000/(1 + len(docs[word])), 2)
+        IDFs[word] = math.log(1000000 / (1 + len(docs[word])), 2)
 
     docscore = dict()
     qNorms = 0
@@ -88,9 +97,9 @@ def search():
             continue
         curr_docs = docs[word]
         curr_idf = IDFs[word]
-        qNorms += curr_idf ** 2
+        qNorms += curr_idf**2
         for doc in curr_docs:
-            docscore[doc] = docscore.get(doc, 0) + curr_idf ** 2
+            docscore[doc] = docscore.get(doc, 0) + curr_idf**2
 
     # since we set all tfs = 1, doc norm is just square root of its score
     qNorms = math.sqrt(qNorms)
@@ -98,7 +107,7 @@ def search():
     cossim = list()
 
     for doc in docscore.keys():
-        cossim.append((doc, docscore[doc]/(math.sqrt(docscore[doc]) + qNorms)))
+        cossim.append((doc, docscore[doc] / (math.sqrt(docscore[doc]) + qNorms)))
 
     cossim.sort(key=lambda x: x[1], reverse=True)
     topk = cossim[:5]

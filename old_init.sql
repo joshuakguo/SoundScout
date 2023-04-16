@@ -12,6 +12,5 @@ CREATE TABLE playlists(
 
 LOAD DATA LOCAL infile '../data/spotify_dataset.csv' INTO TABLE playlists
 fields terminated by ','
-enclosed by '"'
 lines terminated by '\n'
 (user_id, artistname, trackname, playlistname)
