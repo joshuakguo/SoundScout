@@ -19,7 +19,7 @@ CREATE TABLE playlists(
     playlist_description varchar(1000)
 );
 
-LOAD DATA LOCAL infile '../data/processed_playlists.csv' INTO TABLE playlists
-fields terminated by ','
-lines terminated by '\n'
-(id, playlist_name, collaborative, pid, modified_at, num_tracks, num_albums, num_followers, tracks, num_edits, duration_ms, num_artists, playlist_description)
+-- LOAD DATA LOCAL infile '../data/processed_playlists.csv' INTO TABLE playlists
+-- fields terminated by ','
+-- lines terminated by '\n'
+-- (id, playlist_name, collaborative, pid, modified_at, num_tracks, num_albums, num_followers, tracks, num_edits, duration_ms, num_artists, playlist_description)

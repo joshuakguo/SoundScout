@@ -10,6 +10,7 @@ from helpers.MySQLDatabaseHandler import MySQLDatabaseHandler
 from dotenv import load_dotenv
 
 load_dotenv()
+nltk.download('punkt')
 
 # ROOT_PATH for linking with all your files.
 # Feel free to use a config.py or settings.py with a global export variable
@@ -34,7 +35,7 @@ app = Flask(__name__)
 CORS(app)
 
 
-total_playlists = 0
+total_playlists = 150000
 total_tracks = 0
 inv_idx = {}  # (k, v): (term, (pid, tf=1))
 playlists = {}  # (k, v): (pid, playlist JSON)
@@ -69,6 +70,7 @@ def process_mpd(path):
     """
     filenames = os.listdir(path)
     for filename in sorted(filenames):
+        print(filename)
         if filename.startswith("mpd.slice.") and filename.endswith(".json"):
             fullpath = os.sep.join((path, filename))
             f = open(fullpath)
@@ -77,12 +79,12 @@ def process_mpd(path):
             mpd_slice = json.loads(js)
 
             for playlist in mpd_slice["playlists"]:
-                playlists["pid"] = playlist
+                playlists[playlist["pid"]] = playlist
                 process_playlist(playlist)
 
 
 def process_playlist(playlist):
-    global total_playlists, total_tracks
+    global total_playlists
     total_playlists += 1
 
     nname = normalize_name(playlist["name"])
@@ -93,10 +95,7 @@ def process_playlist(playlist):
         tok = stemmer.stem(tok)
         if tok not in inv_idx:
             inv_idx[tok] = []
-        inv_idx[tok].append((playlist["pid"], 1))
-
-    for track in playlist["tracks"]:
-        total_tracks += 1
+        inv_idx[tok].append(playlist["pid"])
 
 
 def compute_idf(n_docs, min_df=2, max_df_ratio=0.2):
@@ -108,10 +107,12 @@ def compute_idf(n_docs, min_df=2, max_df_ratio=0.2):
 
 def compute_doc_norms(n_docs):
     # Precompute the euclidean norm of each document.
+    print(n_docs)
     norms = np.zeros(n_docs)
     for term, doc in inv_idx.items():
         for d in doc:
-            norms[d] += idf.get(term, 0) ** 2
+            t = idf.get(term, 0)
+            norms[d] += t ** 2
     return np.sqrt(norms)
 
 
@@ -136,10 +137,10 @@ def normalize_name(name):
     return name
 
 
-def index_search(query, index, idf, doc_norms, score_func=accumulate_dot_scores):
+def index_search(query, index, idf, doc_norms):
     """
-    Search the collection of documents for the given query.\
-    
+    Search the collection of documents for the given query.
+
     Returns
     =======
     results: sorted tuple list (score, pid)
@@ -160,7 +161,7 @@ def index_search(query, index, idf, doc_norms, score_func=accumulate_dot_scores)
             query_norm += (tf * idf[i]) ** 2
     query_norm = np.sqrt(query_norm)
 
-    dot_scores = score_func(query_word_counts, index, idf)
+    dot_scores = accumulate_dot_scores(query_word_counts)
     for doc, score in dot_scores.items():
         cossim = score / (query_norm * doc_norms[doc])
         results.append((cossim, doc))
@@ -171,12 +172,16 @@ def index_search(query, index, idf, doc_norms, score_func=accumulate_dot_scores)
 
 @app.route("/")
 def home():
-    global inv_idx, doc_norms
+    global inv_idx, doc_norms, total_playlists
+    print("processing")
     process_mpd("../data")
+    print("computing idf")
+    print(total_playlists)
     compute_idf(total_playlists)
     inv_idx = {key: val for key, val in inv_idx.items() if key in idf}
+    print('computing doc norms')
     doc_norms = compute_doc_norms(total_playlists)
-
+    print('done')
     return render_template("base.html", title="sample html")
 
 
@@ -200,7 +205,6 @@ def search():
     query = normalize_name(query)
     k = 50  # Number of playlists to examine
     top_playlists = index_search(query, inv_idx, idf, doc_norms)[:k]
-
     song_scores = {}
     for score, pid in top_playlists:
         for track in playlists[pid]["tracks"]:
@@ -210,7 +214,8 @@ def search():
 
             song_scores[song] += score
 
-    ranked_songs = song_scores.items()
+    ranked_songs = list(song_scores.items())
     ranked_songs.sort(key=lambda x: x[1], reverse=True)
+    print(ranked_songs[:50])
     return ranked_songs[:50]
     # app.run(debug=True)
