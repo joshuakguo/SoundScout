@@ -10,8 +10,7 @@ CREATE TABLE playlists(
     playlistname varchar(64)
 );
 
-LOAD DATA LOCAL infile '../data/spotify_dataset.csv' INTO TABLE playlists
-fields terminated by ','
-enclosed by '"'
-lines terminated by '\n'
-(user_id, artistname, trackname, playlistname)
+-- LOAD DATA LOCAL infile '../data/spotify_dataset.csv' INTO TABLE playlists
+-- fields terminated by ','
+-- lines terminated by '\n'
+-- (user_id, artistname, trackname, playlistname)
