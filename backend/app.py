@@ -93,7 +93,7 @@ def process_playlist(playlist):
         tok = stemmer.stem(tok)
         if tok not in inv_idx:
             inv_idx[tok] = []
-        inv_idx[tok].append((playlist["pid"], 1))
+        inv_idx[tok].append(playlist["pid"])
 
     for track in playlist["tracks"]:
         total_tracks += 1
