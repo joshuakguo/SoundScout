@@ -10,7 +10,8 @@ from helpers.MySQLDatabaseHandler import MySQLDatabaseHandler
 from dotenv import load_dotenv
 
 load_dotenv()
-nltk.download('punkt')
+nltk.download("punkt")
+nltk.download("stopwords")
 
 # ROOT_PATH for linking with all your files.
 # Feel free to use a config.py or settings.py with a global export variable
@@ -35,7 +36,7 @@ app = Flask(__name__)
 CORS(app)
 
 
-total_playlists = 150000
+total_playlists = 0
 total_tracks = 0
 inv_idx = {}  # (k, v): (term, (pid, tf=1))
 playlists = {}  # (k, v): (pid, playlist JSON)
@@ -90,9 +91,9 @@ def process_playlist(playlist):
     nname = normalize_name(playlist["name"])
     tokens = nltk.word_tokenize(nname)
 
-    stemmer = nltk.SnowballStemmer("english")
+    lemmatizer = nltk.WordNetLemmatizer()
     for tok in tokens:
-        tok = stemmer.stem(tok)
+        tok = lemmatizer.lemmatize(tok)
         if tok not in inv_idx:
             inv_idx[tok] = []
         inv_idx[tok].append(playlist["pid"])
@@ -112,7 +113,7 @@ def compute_doc_norms(n_docs):
     for term, doc in inv_idx.items():
         for d in doc:
             t = idf.get(term, 0)
-            norms[d] += t ** 2
+            norms[d] += t**2
     return np.sqrt(norms)
 
 
@@ -148,8 +149,8 @@ def index_search(query, index, idf, doc_norms):
     results = []
 
     query_tokens = nltk.word_tokenize(query)
-    stemmer = nltk.SnowballStemmer("english")
-    query_tokens = [stemmer.stem(tok) for tok in query_tokens]
+    lemmatizer = nltk.WordNetLemmatizer()
+    query_tokens = [lemmatizer.lemmatize(tok) for tok in query_tokens]
 
     query_word_counts = {t: 0 for t in query_tokens}
     for token in query_tokens:
@@ -179,9 +180,9 @@ def home():
     print(total_playlists)
     compute_idf(total_playlists)
     inv_idx = {key: val for key, val in inv_idx.items() if key in idf}
-    print('computing doc norms')
+    print("computing doc norms")
     doc_norms = compute_doc_norms(total_playlists)
-    print('done')
+    print("done")
     return render_template("base.html", title="sample html")
 
 
