@@ -2,32 +2,34 @@ import React, { MouseEventHandler, useEffect } from "react";
 import "./App.css";
 
 function App() {
-  useEffect(() => {
-    fetch("http://localhost:5000/start");
-  }, []);
+  // useEffect(() => {
+  //   fetch("http://localhost:5000/start");
+  // }, []);
 
   return (
-    <div className="full-body-container">
+    <>
       <div className="parallax-wrap">
         <div className="background-grid"></div>
       </div>
-      <div className="top-text">
-        <div className="title">
-          <h1>
-            <span style={{ color: "deepskyblue" }}>Sound</span>Scout
-          </h1>
+      <main>
+        <div className="top-text">
+          <div className="title">
+            <h1>
+              <span style={{ color: "deepskyblue" }}>Sound</span>Scout
+            </h1>
+          </div>
+          <div className="input-box" onClick={sendFocus}>
+            <img src="mag.png" onClick={search} />
+            <input placeholder="Search for a playlist" id="filter-text-val" />
+          </div>
         </div>
-        <div className="input-box" onClick={sendFocus}>
-          <img src="mag.png" onClick={search} />
-          <input placeholder="Search for a playlist" id="filter-text-val" />
-        </div>
-      </div>
-      <div id="answer-box"></div>
+        <div id="answer-box"></div>
+      </main>
       <footer>
         Created by Harrison Chin, Willy Jiang, Joshua Guo, Eric Huang, Alex
         Levinson
       </footer>
-    </div>
+    </>
   );
 }
 

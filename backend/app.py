@@ -196,6 +196,7 @@ def start():
     print('computing doc norms')
     doc_norms = compute_doc_norms(total_playlists)
     print('done')
+    return "done"
 
 
 
@@ -231,5 +232,5 @@ def search():
     ranked_songs = list(song_scores.items())
     ranked_songs.sort(key=lambda x: x[1], reverse=True)
     print(ranked_songs[:50])
-    return ranked_songs[:50]
+    return ranked_songs[:10]
     # app.run(debug=True)
