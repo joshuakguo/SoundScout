@@ -2,9 +2,9 @@ import React, { MouseEventHandler, useEffect } from "react";
 import "./App.css";
 
 function App() {
-  // useEffect(() => {
-  //   fetch("http://localhost:5000/start");
-  // }, []);
+  useEffect(() => {
+    fetch("http://localhost:5050/start");
+  }, []);
 
   return (
     <>
@@ -50,11 +50,11 @@ const search: MouseEventHandler<HTMLImageElement> = (e) => {
     box.removeChild(box.lastElementChild);
   }
   fetch(
-    "http://localhost:5000/search?" +
-      new URLSearchParams({
-        title: (document.getElementById("filter-text-val") as HTMLInputElement)
-          .value,
-      }).toString()
+    "http://localhost:5050/search?" +
+    new URLSearchParams({
+      title: (document.getElementById("filter-text-val") as HTMLInputElement)
+        .value,
+    }).toString()
   )
     .then((response) => response.json())
     .then((data) =>
