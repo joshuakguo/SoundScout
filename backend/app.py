@@ -35,33 +35,12 @@ app = Flask(__name__)
 CORS(app)
 
 
-total_playlists = 150000
+total_playlists = 0
 total_tracks = 0
 inv_idx = {}  # (k, v): (term, (pid, tf=1))
 playlists = {}  # (k, v): (pid, playlist JSON)
 idf = {}
 doc_norms = None
-
-
-def sql_search(episode):
-    query_sql = f"""SELECT * FROM playlists WHERE LOWER( playlistname ) LIKE '%%{episode.lower()}%%' """
-    keys = ["user_id", "artistname", "trackname", "playlistname"]
-    data = mysql_engine.query_selector(query_sql)
-    return json.dumps([dict(zip(keys, i)) for i in data])
-
-
-def sql_search_names(episode):
-    query_sql = f"""SELECT DISTINCT playlistname FROM playlists WHERE LOWER( playlistname ) LIKE '%%{episode.lower()}%%' """
-    keys = ["playlistname"]
-    data = mysql_engine.query_selector(query_sql)
-    return json.dumps([dict(zip(keys, i)) for i in data])
-
-
-def sql_search_tracks(episode):
-    query_sql = f"""SELECT trackname FROM playlists WHERE LOWER( playlistname ) = '{episode.lower()}' """
-    keys = ["trackname"]
-    data = mysql_engine.query_selector(query_sql)
-    return json.dumps([dict(zip(keys, i)) for i in data])
 
 
 def process_mpd(path):
@@ -70,8 +49,9 @@ def process_mpd(path):
     """
     filenames = os.listdir(path)
     for filename in sorted(filenames):
-        print(filename)
         if filename.startswith("mpd.slice.") and filename.endswith(".json"):
+            if total_playlists % 1000000 == 0:
+                print(filename)
             fullpath = os.sep.join((path, filename))
             f = open(fullpath)
             js = f.read()
@@ -170,48 +150,9 @@ def index_search(query, index, idf, doc_norms):
     return results
 
 
-# @app.route("/")
-# def home():
-#     global inv_idx, doc_norms, total_playlists
-#     print("processing")
-#     process_mpd("../data")
-#     print("computing idf")
-#     print(total_playlists)
-#     compute_idf(total_playlists)
-#     inv_idx = {key: val for key, val in inv_idx.items() if key in idf}
-#     print('computing doc norms')
-#     doc_norms = compute_doc_norms(total_playlists)
-#     print('done')
-#     return render_template("base.html", title="sample html")
-
-
 @app.route("/start")
 def start():
-    global inv_idx, doc_norms, total_playlists
-    print("processing")
-    process_mpd("../data")
-    print("computing idf")
-    print(total_playlists)
-    compute_idf(total_playlists)
-    inv_idx = {key: val for key, val in inv_idx.items() if key in idf}
-    print("computing doc norms")
-    doc_norms = compute_doc_norms(total_playlists)
-    print("done")
-    return "done"
-
-
-@app.route("/test")
-def test():
-    query_sql = f"""SELECT * FROM playlists"""
-    keys = ["id", "json_data"]
-    data = mysql_engine.query_selector(query_sql)
-    return json.dumps([dict(zip(keys, i)) for i in data])
-
-
-@app.route("/episodes")
-def episodes_search():
-    text = request.args.get("title")
-    return sql_search(text)
+    pass
 
 
 @app.route("/search")
@@ -232,5 +173,16 @@ def search():
     ranked_songs = list(song_scores.items())
     ranked_songs.sort(key=lambda x: x[1], reverse=True)
     print(ranked_songs[:50])
-    return ranked_songs[:10]
+    return ranked_songs[:15]
     # app.run(debug=True)
+
+
+print("processing")
+process_mpd("../data")
+print("computing idf")
+print(total_playlists)
+compute_idf(total_playlists)
+inv_idx = {key: val for key, val in inv_idx.items() if key in idf}
+print("computing doc norms")
+doc_norms = compute_doc_norms(total_playlists)
+print("done")
