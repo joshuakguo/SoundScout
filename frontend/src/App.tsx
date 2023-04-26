@@ -2,9 +2,9 @@ import React, { MouseEventHandler, useEffect } from "react";
 import "./App.css";
 
 function App() {
-  useEffect(() => {
-    fetch("http://localhost:5050/start");
-  }, []);
+  // useEffect(() => {
+  //   fetch("http://localhost:5050/start");
+  // }, []);
 
   return (
     <>
