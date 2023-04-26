@@ -6,164 +6,8 @@
     },
     "playlists": [
         {
-            "name": "thank you",
-            "pid": 6529,
-            "num_tracks": 29,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Nicki Minaj",
-                    "track_uri": "spotify:track:7KcGEssn7BnJdTgildK5y0",
-                    "track_name": "No Frauds"
-                },
-                {
-                    "artist_name": "Kehlani",
-                    "track_uri": "spotify:track:39jPNpyS33FFAw6xsFvvmG",
-                    "track_name": "Personal"
-                },
-                {
-                    "artist_name": "Halsey",
-                    "track_uri": "spotify:track:7hHTbI9DRg8u9oJ92RQJkw",
-                    "track_name": "Don\u2019t Play"
-                },
-                {
-                    "artist_name": "Madison Beer",
-                    "track_uri": "spotify:track:5kApwSRDqF5CKclVLw1FBM",
-                    "track_name": "Dead"
-                },
-                {
-                    "artist_name": "Harry Styles",
-                    "track_uri": "spotify:track:4B1rpPmQXwj78wk6aIGwwU",
-                    "track_name": "Two Ghosts"
-                },
-                {
-                    "artist_name": "blackbear",
-                    "track_uri": "spotify:track:1nMYtxDrONcoGnKRvxTwPv",
-                    "track_name": "i miss the old u"
-                },
-                {
-                    "artist_name": "Little Mix",
-                    "track_uri": "spotify:track:0YHUITU3w6ws1v8ehT264g",
-                    "track_name": "Shout Out to My Ex"
-                },
-                {
-                    "artist_name": "Rae Sremmurd",
-                    "track_uri": "spotify:track:4jTiyLlOJVJj3mCr7yfPQD",
-                    "track_name": "This Could Be Us"
-                },
-                {
-                    "artist_name": "Rihanna",
-                    "track_uri": "spotify:track:1Tt4sE4pXi57mTD1GCzsqm",
-                    "track_name": "Needed Me"
-                },
-                {
-                    "artist_name": "State Champs",
-                    "track_uri": "spotify:track:3uoA6QSeuFuDClnBt5R2eg",
-                    "track_name": "All You Are Is History"
-                },
-                {
-                    "artist_name": "Marina and the Diamonds",
-                    "track_uri": "spotify:track:3IDXUp8ZsVGdc54j5MOTWZ",
-                    "track_name": "Better Than That"
-                },
-                {
-                    "artist_name": "The Cab",
-                    "track_uri": "spotify:track:50XDQOyJSPUzh91BJAHKZA",
-                    "track_name": "These Are The Lies"
-                },
-                {
-                    "artist_name": "All Time Low",
-                    "track_uri": "spotify:track:7GZKme55JpmLq3alBDQm11",
-                    "track_name": "Dirty Laundry"
-                },
-                {
-                    "artist_name": "ONE OK ROCK",
-                    "track_uri": "spotify:track:4u3qi4mgvCQzeTSIuUWHzl",
-                    "track_name": "Take What You Want (feat. 5 Seconds of Summer)"
-                },
-                {
-                    "artist_name": "Kehlani",
-                    "track_uri": "spotify:track:0bBgXH6mybXjdngxKF5zBE",
-                    "track_name": "Piece Of Mind"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:343YBumqHu19cGoGARUTsd",
-                    "track_name": "Fake Love"
-                },
-                {
-                    "artist_name": "Lupe Fiasco",
-                    "track_uri": "spotify:track:1hWYT0w2R0J19rlVkiez7X",
-                    "track_name": "Battle Scars"
-                },
-                {
-                    "artist_name": "The Neighbourhood",
-                    "track_uri": "spotify:track:5E30LdtzQTGqRvNd7l6kG5",
-                    "track_name": "Daddy Issues"
-                },
-                {
-                    "artist_name": "Neck Deep",
-                    "track_uri": "spotify:track:3lHlwN1X2hAfpkAUj18X3C",
-                    "track_name": "I Hope This Comes Back To Haunt You"
-                },
-                {
-                    "artist_name": "Mariahlynn",
-                    "track_uri": "spotify:track:1x3pC7fvTwPi2SSoV3JM4B",
-                    "track_name": "Never Bitch"
-                },
-                {
-                    "artist_name": "Tame Impala",
-                    "track_uri": "spotify:track:5M4yti0QxgqJieUYaEXcpw",
-                    "track_name": "Eventually"
-                },
-                {
-                    "artist_name": "Hailee Steinfeld",
-                    "track_uri": "spotify:track:3Bjr9MzHM7KHk6zq7KvJRN",
-                    "track_name": "Love Myself"
-                },
-                {
-                    "artist_name": "Demi Lovato",
-                    "track_uri": "spotify:track:3m660poUr1chesgkkjQM7P",
-                    "track_name": "Sorry Not Sorry"
-                },
-                {
-                    "artist_name": "blackbear",
-                    "track_uri": "spotify:track:53mrVsi49rLHIaKBiSvElG",
-                    "track_name": "do re mi (feat. Gucci Mane)"
-                },
-                {
-                    "artist_name": "Justin Bieber",
-                    "track_uri": "spotify:track:7nZmah2llfvLDiUjm0kiyz",
-                    "track_name": "Friends (with BloodPop\u00ae)"
-                },
-                {
-                    "artist_name": "Alex Aiono",
-                    "track_uri": "spotify:track:7ljINgOY5EXojToJf0ROGQ",
-                    "track_name": "Question"
-                },
-                {
-                    "artist_name": "Cash Cash",
-                    "track_uri": "spotify:track:1839RWzPRZCVgvamu4sHSN",
-                    "track_name": "All My Love (feat. Conor Maynard)"
-                },
-                {
-                    "artist_name": "LANY",
-                    "track_uri": "spotify:track:74ODGXs4byLTRdnKGM4s6E",
-                    "track_name": "Super Far"
-                },
-                {
-                    "artist_name": "Dua Lipa",
-                    "track_uri": "spotify:track:2ekn2ttSfGqwhhate0LSR0",
-                    "track_name": "New Rules"
-                }
-            ],
-            "num_edits": 13,
-            "duration_ms": 6355077,
-            "num_artists": 27
-        },
-        {
             "name": "summer 2016 :$",
-            "pid": 6530,
+            "pid": 4958,
             "num_tracks": 144,
             "num_followers": 24,
             "tracks": [
@@ -894,7 +738,7 @@
         },
         {
             "name": "Best Songs of 2016",
-            "pid": 6531,
+            "pid": 4959,
             "num_tracks": 33,
             "num_followers": 18,
             "tracks": [
@@ -1070,7 +914,7 @@
         },
         {
             "name": "spring has sprung",
-            "pid": 6532,
+            "pid": 4960,
             "num_tracks": 42,
             "num_followers": 14,
             "tracks": [
@@ -1291,7 +1135,7 @@
         },
         {
             "name": "slow",
-            "pid": 6533,
+            "pid": 4961,
             "num_tracks": 26,
             "num_followers": 12,
             "tracks": [
@@ -1432,7 +1276,7 @@
         },
         {
             "name": "J.Balvin",
-            "pid": 6534,
+            "pid": 4962,
             "num_tracks": 26,
             "num_followers": 72,
             "tracks": [
@@ -1572,244 +1416,8 @@
             "num_artists": 10
         },
         {
-            "name": "sleep time",
-            "pid": 6535,
-            "num_tracks": 45,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Meditaci\u00f3n Interna",
-                    "track_uri": "spotify:track:2m2Tcnw0xxVUjmddO9TAJd",
-                    "track_name": "Poder"
-                },
-                {
-                    "artist_name": "Meditaci\u00f3n Interna",
-                    "track_uri": "spotify:track:1yo99aiUUnqnxHtE3Aqcsm",
-                    "track_name": "Abundancia"
-                },
-                {
-                    "artist_name": "Meditaci\u00f3n Interna",
-                    "track_uri": "spotify:track:19j2GuVjeq6KVYjRrC1hN9",
-                    "track_name": "Invierno"
-                },
-                {
-                    "artist_name": "Meditaci\u00f3n Interna",
-                    "track_uri": "spotify:track:5mdyp45mdnodUPEelh9iLS",
-                    "track_name": "Verano"
-                },
-                {
-                    "artist_name": "Meditaci\u00f3n Interna",
-                    "track_uri": "spotify:track:0InBJu9jyAHbIve8YVlDmF",
-                    "track_name": "Fuego Interno"
-                },
-                {
-                    "artist_name": "Meditaci\u00f3n Interna",
-                    "track_uri": "spotify:track:3RNYWdxWM6S2HGOMoZEcIM",
-                    "track_name": "Sonidos Del Silencio"
-                },
-                {
-                    "artist_name": "Meditaci\u00f3n Interna",
-                    "track_uri": "spotify:track:366LOqomEjMacn3WDZQWu6",
-                    "track_name": "Purificaci\u00f3n Del Alma"
-                },
-                {
-                    "artist_name": "Meditaci\u00f3n Interna",
-                    "track_uri": "spotify:track:3gzwK81H2w7OzSKtQI9n8d",
-                    "track_name": "Calma"
-                },
-                {
-                    "artist_name": "Meditaci\u00f3n Interna",
-                    "track_uri": "spotify:track:2Dn1EuGMEBXArR3HPSKEz9",
-                    "track_name": "Serenidad"
-                },
-                {
-                    "artist_name": "Meditaci\u00f3n Interna",
-                    "track_uri": "spotify:track:3dS2bKN9n037q5uHryXhzz",
-                    "track_name": "Oto\u00f1o"
-                },
-                {
-                    "artist_name": "Meditaci\u00f3n Interna",
-                    "track_uri": "spotify:track:6sQufJdOCeO1v5WfiBHGgU",
-                    "track_name": "Camino De Flores"
-                },
-                {
-                    "artist_name": "Meditaci\u00f3n Interna",
-                    "track_uri": "spotify:track:6CvUT344SIymyJLWkCh0F5",
-                    "track_name": "Serenidad"
-                },
-                {
-                    "artist_name": "Meditaci\u00f3n Interna",
-                    "track_uri": "spotify:track:6qguRrH16OphiFjXGLvd7O",
-                    "track_name": "Sue\u00f1o Eterno"
-                },
-                {
-                    "artist_name": "Meditaci\u00f3n Interna",
-                    "track_uri": "spotify:track:6ZaRieKF1o2wV23PYBZg8w",
-                    "track_name": "Primavera"
-                },
-                {
-                    "artist_name": "Meditaci\u00f3n Interna",
-                    "track_uri": "spotify:track:1cqykTtqxC7HcMY8xxHam0",
-                    "track_name": "Purificaci\u00f3n Espiritual"
-                },
-                {
-                    "artist_name": "Relaxing Music Therapy",
-                    "track_uri": "spotify:track:6gXCUExo4x8qokJnKI8F2s",
-                    "track_name": "Sleep Sound"
-                },
-                {
-                    "artist_name": "Relaxing Music Therapy",
-                    "track_uri": "spotify:track:1WNbgLRWBFV0NydmIz4sFU",
-                    "track_name": "Soft Spa Music"
-                },
-                {
-                    "artist_name": "Relaxing Music Therapy",
-                    "track_uri": "spotify:track:2QO1mHvp0z1vhTzhIYVz8F",
-                    "track_name": "Awakening"
-                },
-                {
-                    "artist_name": "Relaxing Music Therapy",
-                    "track_uri": "spotify:track:4zeedJLtTMv7CIUG981JvV",
-                    "track_name": "Healing Your Soul"
-                },
-                {
-                    "artist_name": "Relaxing Music Therapy",
-                    "track_uri": "spotify:track:5uGkrRgCDLe4TXDMvRvOV0",
-                    "track_name": "Yoga Master"
-                },
-                {
-                    "artist_name": "Relaxing Music Therapy",
-                    "track_uri": "spotify:track:1FZ0pwPCRJhgeZTlgFfWah",
-                    "track_name": "Sleep Time Music"
-                },
-                {
-                    "artist_name": "Relaxing Music Therapy",
-                    "track_uri": "spotify:track:57wtHEz87p32K6hKqGiFzb",
-                    "track_name": "Inner Spirit"
-                },
-                {
-                    "artist_name": "Relaxing Music Therapy",
-                    "track_uri": "spotify:track:6BBLbeCgy1Q9Rgl1YNanDK",
-                    "track_name": "Infinity Music"
-                },
-                {
-                    "artist_name": "Relaxing Music Therapy",
-                    "track_uri": "spotify:track:4YwL6UJ5RWavqYUwAY6bCp",
-                    "track_name": "Quiet Night"
-                },
-                {
-                    "artist_name": "Relaxing Music Therapy",
-                    "track_uri": "spotify:track:1wgaJNwPbffjtBP4wMBRWZ",
-                    "track_name": "Healing"
-                },
-                {
-                    "artist_name": "Relaxing Music Therapy",
-                    "track_uri": "spotify:track:1y8nDyFpx70gQI9F7nLWJr",
-                    "track_name": "Lightning Sounds"
-                },
-                {
-                    "artist_name": "Relaxing Music Therapy",
-                    "track_uri": "spotify:track:57LqsnZlgLY3A3XHDbLvfD",
-                    "track_name": "Enjoy Your Time"
-                },
-                {
-                    "artist_name": "Relaxing Music Therapy",
-                    "track_uri": "spotify:track:3cqMG6o6lOFS59Vjx2eRRW",
-                    "track_name": "Full Moon"
-                },
-                {
-                    "artist_name": "Relaxing Music Therapy",
-                    "track_uri": "spotify:track:4rbDmZ88qdUejW8FoCU29n",
-                    "track_name": "Peacefully"
-                },
-                {
-                    "artist_name": "Relaxing Music Therapy",
-                    "track_uri": "spotify:track:7A8ZffXHJxyuZKkE9HE8Dq",
-                    "track_name": "Therapy"
-                },
-                {
-                    "artist_name": "Relaxing Music",
-                    "track_uri": "spotify:track:6yBsd7CiiGiZLSraSX5m9C",
-                    "track_name": "Spiritual Road"
-                },
-                {
-                    "artist_name": "Relaxing Music",
-                    "track_uri": "spotify:track:0599nslOnJY0hX2cNWT3w6",
-                    "track_name": "Quiet Morning"
-                },
-                {
-                    "artist_name": "Relaxing Music",
-                    "track_uri": "spotify:track:5IFv9O1C86LaIIgMFBo15X",
-                    "track_name": "Internal Balance"
-                },
-                {
-                    "artist_name": "Relaxing Music",
-                    "track_uri": "spotify:track:7tbdCD2cNk8Kwi17xtVurA",
-                    "track_name": "Soft Sounds"
-                },
-                {
-                    "artist_name": "Relaxing Music",
-                    "track_uri": "spotify:track:7JUGlRZROtCxum9JRgVg59",
-                    "track_name": "Stress Relief"
-                },
-                {
-                    "artist_name": "Relaxing Music",
-                    "track_uri": "spotify:track:7iWUeMaXO2MsQbTCzviend",
-                    "track_name": "Amber Light"
-                },
-                {
-                    "artist_name": "Relaxing Music",
-                    "track_uri": "spotify:track:4xQD0LWHN3vMpaMR9f2RgK",
-                    "track_name": "Slow Walk"
-                },
-                {
-                    "artist_name": "Relaxing Music",
-                    "track_uri": "spotify:track:6pOuhNGlmdtGHD8O8o9IyR",
-                    "track_name": "Calm Time"
-                },
-                {
-                    "artist_name": "Relaxing Music",
-                    "track_uri": "spotify:track:6EClz0fp60Eytj5aEoYw9G",
-                    "track_name": "Meditation"
-                },
-                {
-                    "artist_name": "Relaxing Music",
-                    "track_uri": "spotify:track:6ILO0BajLwuwyupuNga3uS",
-                    "track_name": "Yin Yang"
-                },
-                {
-                    "artist_name": "Relaxing Music",
-                    "track_uri": "spotify:track:736C8131GcL20sRxz9nYhK",
-                    "track_name": "Slow Moment"
-                },
-                {
-                    "artist_name": "Relaxing Music",
-                    "track_uri": "spotify:track:3aAg8Cz8GWquUmFky6XAdv",
-                    "track_name": "Well Being"
-                },
-                {
-                    "artist_name": "Relaxing Music",
-                    "track_uri": "spotify:track:0jHpwgs2XtwYiUlu5MEWRw",
-                    "track_name": "Good Night"
-                },
-                {
-                    "artist_name": "Relaxing Music",
-                    "track_uri": "spotify:track:6FR7XKiDFhacZGJjqtwkZG",
-                    "track_name": "Spiritual Time"
-                },
-                {
-                    "artist_name": "Relaxing Music",
-                    "track_uri": "spotify:track:38oOuQFPkx46669CahAc2E",
-                    "track_name": "Beginning of End"
-                }
-            ],
-            "num_edits": 2,
-            "duration_ms": 8932053,
-            "num_artists": 3
-        },
-        {
             "name": "Thanksgiving",
-            "pid": 6536,
+            "pid": 4963,
             "num_tracks": 77,
             "num_followers": 43,
             "tracks": [
@@ -2205,7 +1813,7 @@
         },
         {
             "name": "Brandi Carlile",
-            "pid": 6537,
+            "pid": 4964,
             "num_tracks": 121,
             "num_followers": 12,
             "tracks": [

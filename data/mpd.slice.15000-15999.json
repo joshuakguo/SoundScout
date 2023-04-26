@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "tyga",
-            "pid": 2482,
+            "pid": 1890,
             "num_tracks": 184,
             "num_followers": 27,
             "tracks": [
@@ -938,7 +938,7 @@
         },
         {
             "name": "Dat Way",
-            "pid": 2483,
+            "pid": 1891,
             "num_tracks": 222,
             "num_followers": 80,
             "tracks": [
@@ -2059,7 +2059,7 @@
         },
         {
             "name": "Old Classics",
-            "pid": 2484,
+            "pid": 1892,
             "num_tracks": 66,
             "num_followers": 33,
             "tracks": [
@@ -2400,7 +2400,7 @@
         },
         {
             "name": "trap",
-            "pid": 2485,
+            "pid": 1893,
             "num_tracks": 208,
             "num_followers": 38,
             "tracks": [
@@ -3451,7 +3451,7 @@
         },
         {
             "name": "BAHAMAS",
-            "pid": 2486,
+            "pid": 1894,
             "num_tracks": 84,
             "num_followers": 13,
             "tracks": [
@@ -3881,384 +3881,8 @@
             "num_artists": 46
         },
         {
-            "name": "WORSHIP",
-            "pid": 2487,
-            "num_tracks": 73,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Jesus Culture",
-                    "track_uri": "spotify:track:7E5QChLNwAKMlbXKcgBbG3",
-                    "track_name": "Fill Me Up - Live"
-                },
-                {
-                    "artist_name": "Israel Houghton",
-                    "track_uri": "spotify:track:2MtAz3G4DXpy4iQIFqMtOJ",
-                    "track_name": "Moving Forward"
-                },
-                {
-                    "artist_name": "Hillsong Worship",
-                    "track_uri": "spotify:track:65UAXIxpJtVSHz05KjykmQ",
-                    "track_name": "Open Heaven (River Wild) - Live"
-                },
-                {
-                    "artist_name": "Citipointe Live",
-                    "track_uri": "spotify:track:5OQe7w3y0gFKEOis5Br8iC",
-                    "track_name": "Lion (feat. Beau Lamshed)"
-                },
-                {
-                    "artist_name": "Johnnyswim",
-                    "track_uri": "spotify:track:1Ceyu1SpGIlm8H8WH5MWtP",
-                    "track_name": "Live While We're Younger"
-                },
-                {
-                    "artist_name": "Hillsong United",
-                    "track_uri": "spotify:track:3YkYKCrF7kPbbDxsYJXVKE",
-                    "track_name": "All I Need Is You - Live"
-                },
-                {
-                    "artist_name": "Kevin LeVar & One Sound",
-                    "track_uri": "spotify:track:57iQXTRzaKvQnaIJXiDFlO",
-                    "track_name": "A Heart That Forgives"
-                },
-                {
-                    "artist_name": "David Crowder Band",
-                    "track_uri": "spotify:track:6WSFMa721PvfnspCRsGOMh",
-                    "track_name": "How He Loves"
-                },
-                {
-                    "artist_name": "Hillsong United",
-                    "track_uri": "spotify:track:5Mw9bXG1dLNhbjofkVS2oR",
-                    "track_name": "Oceans (Where Feet May Fail)"
-                },
-                {
-                    "artist_name": "Kim Walker-Smith",
-                    "track_uri": "spotify:track:573mudwDhftRSSbvLHC8xS",
-                    "track_name": "Spirit Break Out - Live"
-                },
-                {
-                    "artist_name": "Hillsong Worship",
-                    "track_uri": "spotify:track:6R6y4EqvzjVttPWzRUqxlc",
-                    "track_name": "Healer - Live"
-                },
-                {
-                    "artist_name": "Jesus Culture",
-                    "track_uri": "spotify:track:0WFaQNCdmyONO7GIWL8mDZ",
-                    "track_name": "Set A Fire - Live"
-                },
-                {
-                    "artist_name": "Hillsong Worship",
-                    "track_uri": "spotify:track:5LAktw7NqbS32MbomXIR1g",
-                    "track_name": "From The Inside Out - Live"
-                },
-                {
-                    "artist_name": "Hillsong United",
-                    "track_uri": "spotify:track:7HdvPclBiBpuUzpERTYfxK",
-                    "track_name": "The Stand - Live"
-                },
-                {
-                    "artist_name": "Will Reagan",
-                    "track_uri": "spotify:track:48As0rtAlPb7noYyA07kOk",
-                    "track_name": "Sweetest Name"
-                },
-                {
-                    "artist_name": "D and Chi",
-                    "track_uri": "spotify:track:5TJOtjHXdHFFahjP9ibEBX",
-                    "track_name": "Galaxies"
-                },
-                {
-                    "artist_name": "Phil Wickham",
-                    "track_uri": "spotify:track:1sQwgtZAWGM7tWH9cRVzNK",
-                    "track_name": "Messiah / You're Beautiful"
-                },
-                {
-                    "artist_name": "Will Reagan",
-                    "track_uri": "spotify:track:3LSna6W1dRf2QbsUgmRoFf",
-                    "track_name": "Set a Fire"
-                },
-                {
-                    "artist_name": "Amanda Cook",
-                    "track_uri": "spotify:track:6ioD6MFM6yjNsadkfVMSXj",
-                    "track_name": "You Don\u2019t Miss a Thing (Live)"
-                },
-                {
-                    "artist_name": "Flyleaf",
-                    "track_uri": "spotify:track:7k9iVpyeR5ybSPSkvmAP6K",
-                    "track_name": "All Around Me"
-                },
-                {
-                    "artist_name": "Jaye Thomas",
-                    "track_uri": "spotify:track:1LloVFsTKFHl6POze3ouPW",
-                    "track_name": "Shekinah (Live)"
-                },
-                {
-                    "artist_name": "Kari Jobe",
-                    "track_uri": "spotify:track:6IYIYOZTF4yM6MwFr7g5Xy",
-                    "track_name": "Hands To The Heavens - Live"
-                },
-                {
-                    "artist_name": "Steffany Gretzinger",
-                    "track_uri": "spotify:track:367yPvrZCiD6vHvOZqLO8V",
-                    "track_name": "Be Still"
-                },
-                {
-                    "artist_name": "10,000 Fathers",
-                    "track_uri": "spotify:track:3Hmk3VPZduikJ5o3KLNlNK",
-                    "track_name": "Good Good Father (feat. Georgie Wilkins)"
-                },
-                {
-                    "artist_name": "Kari Jobe",
-                    "track_uri": "spotify:track:4Jvq8lCTo5shqoqeDTQ9F7",
-                    "track_name": "Holy Spirit - Revisited"
-                },
-                {
-                    "artist_name": "Jenn Johnson",
-                    "track_uri": "spotify:track:6I40ZPL4cb2buc3A7sH5YL",
-                    "track_name": "God I Look to You"
-                },
-                {
-                    "artist_name": "Hillsong United",
-                    "track_uri": "spotify:track:1k0Pi10bIcmEN7lmllw0cB",
-                    "track_name": "All I Need Is You / Came To My Rescue - Medley/Lark Remix"
-                },
-                {
-                    "artist_name": "Jesus Culture",
-                    "track_uri": "spotify:track:35WuqC0pMixNnnljOx1wjc",
-                    "track_name": "Let It Rain - Live"
-                },
-                {
-                    "artist_name": "Hillsong United",
-                    "track_uri": "spotify:track:22uHATEsLnwkgBQkZKsnvb",
-                    "track_name": "Fire Fall Down - Live"
-                },
-                {
-                    "artist_name": "Travis Greene",
-                    "track_uri": "spotify:track:3hpWqA4yHikr9wKIfh5ogd",
-                    "track_name": "You Keep Me"
-                },
-                {
-                    "artist_name": "Lauren Daigle",
-                    "track_uri": "spotify:track:4ajsTrCAjWtUPLU6xCy4u4",
-                    "track_name": "First"
-                },
-                {
-                    "artist_name": "Lauren Daigle",
-                    "track_uri": "spotify:track:2JEcE2v4tOpKzVZFjpLR59",
-                    "track_name": "How Can It Be"
-                },
-                {
-                    "artist_name": "Matthew West",
-                    "track_uri": "spotify:track:3b6yQRfPf0wPiEKCTA46ZO",
-                    "track_name": "Strong Enough"
-                },
-                {
-                    "artist_name": "for KING & COUNTRY",
-                    "track_uri": "spotify:track:5MCG4XcVcvCOXWpSg2cfRC",
-                    "track_name": "Shoulders"
-                },
-                {
-                    "artist_name": "Crowder",
-                    "track_uri": "spotify:track:1SsfOO8alQGF38tecwdHiL",
-                    "track_name": "Come As You Are - Live"
-                },
-                {
-                    "artist_name": "Sisterbrother",
-                    "track_uri": "spotify:track:3Z4tsBYv2ySEYQUpJYyZrh",
-                    "track_name": "We Are Redeemed"
-                },
-                {
-                    "artist_name": "Paul McClure",
-                    "track_uri": "spotify:track:6imkvepCHheIMhxdbxp53M",
-                    "track_name": "Jesus, We Love You (Live)"
-                },
-                {
-                    "artist_name": "Fellowship Creative",
-                    "track_uri": "spotify:track:5MiXzhyinOsItftPuwOLFz",
-                    "track_name": "Holding Onto You"
-                },
-                {
-                    "artist_name": "Jonathan David Helser",
-                    "track_uri": "spotify:track:4LdNy84s0Q7xjaEWbU1JAs",
-                    "track_name": "Abba"
-                },
-                {
-                    "artist_name": "Oaks Worship",
-                    "track_uri": "spotify:track:4DmJ7Yd34OBXzaDRRLCH8E",
-                    "track_name": "To Honor You (Live)"
-                },
-                {
-                    "artist_name": "United Pursuit",
-                    "track_uri": "spotify:track:6wWxr5Vkx2HKcmN1R1tELK",
-                    "track_name": "Fill Me Up (feat. Will Reagan)"
-                },
-                {
-                    "artist_name": "Elevation Worship",
-                    "track_uri": "spotify:track:0kDdjHylcMnCU4DvsAL7Fi",
-                    "track_name": "Only King Forever"
-                },
-                {
-                    "artist_name": "Hillsong Worship",
-                    "track_uri": "spotify:track:3s0IJQHm5xtEFQ3iHISGdt",
-                    "track_name": "To Be Like You - Live"
-                },
-                {
-                    "artist_name": "Elevation Worship",
-                    "track_uri": "spotify:track:0fPwregqch9wLJj4yQH6Bk",
-                    "track_name": "Here as in Heaven"
-                },
-                {
-                    "artist_name": "Twenty One Pilots",
-                    "track_uri": "spotify:track:5cbpoIu3YjoOwbBDGUEp3P",
-                    "track_name": "Car Radio"
-                },
-                {
-                    "artist_name": "Twenty One Pilots",
-                    "track_uri": "spotify:track:3C3cr2JQwXIhqAHqOardVO",
-                    "track_name": "Holding On To You"
-                },
-                {
-                    "artist_name": "Isla Vista Worship",
-                    "track_uri": "spotify:track:7w0JJqemxICJVhhZn2i8ut",
-                    "track_name": "Dancing on the Moon"
-                },
-                {
-                    "artist_name": "Mosaic MSC",
-                    "track_uri": "spotify:track:3IyoXNa53ZKwCpjQIDx15N",
-                    "track_name": "Running to You - Live"
-                },
-                {
-                    "artist_name": "Little Image",
-                    "track_uri": "spotify:track:2jv3k2FFoB8XeGAB0Pc0j8",
-                    "track_name": "Words"
-                },
-                {
-                    "artist_name": "Little Image",
-                    "track_uri": "spotify:track:6wNZWnw5RDDLeSjfWKYyx2",
-                    "track_name": "Fill My Cup"
-                },
-                {
-                    "artist_name": "Steffany Gretzinger",
-                    "track_uri": "spotify:track:1GonqVH4ptYKwPNZ9f3l49",
-                    "track_name": "You Know Me"
-                },
-                {
-                    "artist_name": "Steffany Gretzinger",
-                    "track_uri": "spotify:track:2oq908qDmARqhOlqVvEUbJ",
-                    "track_name": "We Dance (Live)"
-                },
-                {
-                    "artist_name": "Housefires",
-                    "track_uri": "spotify:track:3SEeaeV3HzES7ClOd4P3wz",
-                    "track_name": "Heaven Is All Around Us"
-                },
-                {
-                    "artist_name": "Housefires",
-                    "track_uri": "spotify:track:67OMKYEjFQraUXCKEr8BOC",
-                    "track_name": "Faithfulness"
-                },
-                {
-                    "artist_name": "Amanda Cook",
-                    "track_uri": "spotify:track:390Wrd097A2Fa15NzxukHa",
-                    "track_name": "Wonder (Live) [Spontaneous]"
-                },
-                {
-                    "artist_name": "Kings Kaleidoscope",
-                    "track_uri": "spotify:track:3TjbpRjtWYHFwigdLMr8Zl",
-                    "track_name": "Come Thou Fount"
-                },
-                {
-                    "artist_name": "Steffany Gretzinger",
-                    "track_uri": "spotify:track:4QqJzSUAtJgZ3AiCjDc89y",
-                    "track_name": "Out of Hiding"
-                },
-                {
-                    "artist_name": "Elevation Worship",
-                    "track_uri": "spotify:track:1lEk3U3MzbDeL5MNHkE9JU",
-                    "track_name": "O Come to the Altar"
-                },
-                {
-                    "artist_name": "Hillsong United",
-                    "track_uri": "spotify:track:7dcX4P7koRDPZjnfhBIuIe",
-                    "track_name": "With Everything - Live"
-                },
-                {
-                    "artist_name": "Amanda Cook",
-                    "track_uri": "spotify:track:3nPEEH0Ex7mUSLY53ezySF",
-                    "track_name": "Pieces"
-                },
-                {
-                    "artist_name": "Kings Kaleidoscope",
-                    "track_uri": "spotify:track:2Nuh1lfaz61r49sXhD4Cpr",
-                    "track_name": "A Prayer"
-                },
-                {
-                    "artist_name": "Bethel Music",
-                    "track_uri": "spotify:track:0aozFSMWvotmlC7atnLjQr",
-                    "track_name": "Jesus We Love You"
-                },
-                {
-                    "artist_name": "Elevation Worship",
-                    "track_uri": "spotify:track:6U5HBxyn6hSI7yYIB1OPND",
-                    "track_name": "Hold on to Me"
-                },
-                {
-                    "artist_name": "Hillsong Worship",
-                    "track_uri": "spotify:track:4VWVupm8eU3Njc7YIQHs0F",
-                    "track_name": "One Thing - Live"
-                },
-                {
-                    "artist_name": "Jesus Culture",
-                    "track_uri": "spotify:track:2tscU6TS7ggmM8gkKJlHZC",
-                    "track_name": "I Want To Know You - Live"
-                },
-                {
-                    "artist_name": "Hillsong United",
-                    "track_uri": "spotify:track:5VlojXyAGM1q9ke2ybxrVT",
-                    "track_name": "Hosanna"
-                },
-                {
-                    "artist_name": "Leeland",
-                    "track_uri": "spotify:track:0ttGekhJiRgUntY34isdm9",
-                    "track_name": "Where You Are (Live)"
-                },
-                {
-                    "artist_name": "Hillsong United",
-                    "track_uri": "spotify:track:58yhHre6kOePZPD15hZWgP",
-                    "track_name": "Touch The Sky"
-                },
-                {
-                    "artist_name": "Housefires",
-                    "track_uri": "spotify:track:4Pl0i6WAf7Xf8v0GdLwqit",
-                    "track_name": "This Love"
-                },
-                {
-                    "artist_name": "Will Reagan",
-                    "track_uri": "spotify:track:4Xwry2rjyXZg9unm8QaRFL",
-                    "track_name": "Not in a Hurry"
-                },
-                {
-                    "artist_name": "Will Reagan",
-                    "track_uri": "spotify:track:2YkANIn2t02TQms674Vv9Z",
-                    "track_name": "Lay It All Down"
-                },
-                {
-                    "artist_name": "Will Reagan",
-                    "track_uri": "spotify:track:3PCQDAWFchTpCqggfessst",
-                    "track_name": "Need You More"
-                },
-                {
-                    "artist_name": "Jesus Culture",
-                    "track_uri": "spotify:track:4VwwBOCBAzJ2AcfgtfQknP",
-                    "track_name": "Our God Reigns - Live"
-                }
-            ],
-            "num_edits": 33,
-            "duration_ms": 27303416,
-            "num_artists": 39
-        },
-        {
             "name": "femme fatale",
-            "pid": 2488,
+            "pid": 1895,
             "num_tracks": 19,
             "num_followers": 12,
             "tracks": [

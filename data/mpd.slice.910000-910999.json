@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Musica Cristiana ",
-            "pid": 4734,
+            "pid": 3601,
             "num_tracks": 228,
             "num_followers": 87,
             "tracks": [
@@ -1158,7 +1158,7 @@
         },
         {
             "name": "invincible",
-            "pid": 4735,
+            "pid": 3602,
             "num_tracks": 38,
             "num_followers": 55,
             "tracks": [
@@ -1359,7 +1359,7 @@
         },
         {
             "name": "litty",
-            "pid": 4736,
+            "pid": 3603,
             "num_tracks": 32,
             "num_followers": 13,
             "tracks": [
@@ -1531,7 +1531,7 @@
         },
         {
             "name": "February '17",
-            "pid": 4737,
+            "pid": 3604,
             "num_tracks": 22,
             "num_followers": 40,
             "tracks": [
@@ -1649,262 +1649,6 @@
             "num_edits": 15,
             "duration_ms": 5134104,
             "num_artists": 21
-        },
-        {
-            "name": "Bitter",
-            "pid": 4738,
-            "num_tracks": 49,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Palace",
-                    "track_uri": "spotify:track:6xxy4SktborcH1wRjISek5",
-                    "track_name": "Bitter"
-                },
-                {
-                    "artist_name": "Lyn Collins",
-                    "track_uri": "spotify:track:41VralobTkW7XgR5TebwNk",
-                    "track_name": "Think (About It) - Single Version"
-                },
-                {
-                    "artist_name": "Filter",
-                    "track_uri": "spotify:track:6jc5gHCmrZW1XLcRM3wFlC",
-                    "track_name": "Hey Man, Nice Shot - Remastered Version"
-                },
-                {
-                    "artist_name": "The Rolling Stones",
-                    "track_uri": "spotify:track:3m1Psiln0cpEOpRbh1ljGh",
-                    "track_name": "Laugh, I Nearly Died - Remastered"
-                },
-                {
-                    "artist_name": "The Who",
-                    "track_uri": "spotify:track:2KmEgiY8fQs0G6WNxtzQKr",
-                    "track_name": "Baba O'Riley"
-                },
-                {
-                    "artist_name": "Frank Iero And The Patience",
-                    "track_uri": "spotify:track:3L09mZDFxB8snZATX0BbaJ",
-                    "track_name": "Oceans"
-                },
-                {
-                    "artist_name": "Frank Iero And The Patience",
-                    "track_uri": "spotify:track:6sFS10AfOqgapfZjKLbiqb",
-                    "track_name": "Remedy"
-                },
-                {
-                    "artist_name": "Frank Iero And The Patience",
-                    "track_uri": "spotify:track:5SoD6FeVgch8ORFDGPaaq7",
-                    "track_name": "I'm A Mess"
-                },
-                {
-                    "artist_name": "Radiohead",
-                    "track_uri": "spotify:track:4gq2bc2770XvbJdEtfUbmw",
-                    "track_name": "Go Slowly"
-                },
-                {
-                    "artist_name": "Radiohead",
-                    "track_uri": "spotify:track:6Dk0sQnYPsbS42c9PXsdnO",
-                    "track_name": "Banana Co"
-                },
-                {
-                    "artist_name": "Death Spells",
-                    "track_uri": "spotify:track:7oz9NkV0Tg8CQ73FEy6Roz",
-                    "track_name": "choke on one another"
-                },
-                {
-                    "artist_name": "Bryan Adams",
-                    "track_uri": "spotify:track:6oOJU64nYMU4ljUiMCGeHe",
-                    "track_name": "Here I Am - Spirit: Stallion Of The Cimarron/Soundtrack Version/End Title"
-                },
-                {
-                    "artist_name": "Gerard Way",
-                    "track_uri": "spotify:track:2lDGj4Pi8UuQIPQdi8M9Eu",
-                    "track_name": "The Bureau"
-                },
-                {
-                    "artist_name": "Gerard Way",
-                    "track_uri": "spotify:track:176J9E3MwJX8eCd3RvS0Nn",
-                    "track_name": "Action Cat"
-                },
-                {
-                    "artist_name": "Gerard Way",
-                    "track_uri": "spotify:track:7dtGJHOBbVDwIWDQU38WhJ",
-                    "track_name": "No Shows"
-                },
-                {
-                    "artist_name": "Gerard Way",
-                    "track_uri": "spotify:track:31q2AsxMNpxHNENkWKG1j0",
-                    "track_name": "Brother"
-                },
-                {
-                    "artist_name": "Gerard Way",
-                    "track_uri": "spotify:track:3WLBoX1iX4ljJpR7SEeadm",
-                    "track_name": "Millions"
-                },
-                {
-                    "artist_name": "Gerard Way",
-                    "track_uri": "spotify:track:4LayGZR6aW0VCoMlv828NM",
-                    "track_name": "Zero Zero"
-                },
-                {
-                    "artist_name": "Gerard Way",
-                    "track_uri": "spotify:track:2ef3tmn1HTyBtj2DBlW5j1",
-                    "track_name": "Juarez"
-                },
-                {
-                    "artist_name": "Gerard Way",
-                    "track_uri": "spotify:track:6iwithG74PfTNOQ9mQcsKx",
-                    "track_name": "Drugstore Perfume"
-                },
-                {
-                    "artist_name": "Gerard Way",
-                    "track_uri": "spotify:track:6CZyq8HYfDDiTcWESdUOE0",
-                    "track_name": "Get The Gang Together"
-                },
-                {
-                    "artist_name": "Gerard Way",
-                    "track_uri": "spotify:track:1yMl0URAMcNjErFuJoCXEe",
-                    "track_name": "How It's Going To Be"
-                },
-                {
-                    "artist_name": "Gerard Way",
-                    "track_uri": "spotify:track:1tg5c5gVzzpSHUsIWbEl8v",
-                    "track_name": "Maya The Psychic"
-                },
-                {
-                    "artist_name": "Pink Floyd",
-                    "track_uri": "spotify:track:6mFkJmJqdDVQ1REhVfGgd1",
-                    "track_name": "Wish You Were Here"
-                },
-                {
-                    "artist_name": "Pink Floyd",
-                    "track_uri": "spotify:track:5HNCy40Ni5BZJFw1TKzRsC",
-                    "track_name": "Comfortably Numb"
-                },
-                {
-                    "artist_name": "My Chemical Romance",
-                    "track_uri": "spotify:track:0BpKPyXhWsTaWkgXeOd1Sn",
-                    "track_name": "Thank You For The Venom"
-                },
-                {
-                    "artist_name": "Radiohead",
-                    "track_uri": "spotify:track:2O6h9bcoyqbg9OYTqHJ535",
-                    "track_name": "Staircase"
-                },
-                {
-                    "artist_name": "Junkie",
-                    "track_uri": "spotify:track:4WxJ86gEChfjTrk85PKOte",
-                    "track_name": "I Like The Things You Say"
-                },
-                {
-                    "artist_name": "Junkie",
-                    "track_uri": "spotify:track:5yO24DmcDRjTRxqpJfnJNA",
-                    "track_name": "W/E"
-                },
-                {
-                    "artist_name": "Junkie",
-                    "track_uri": "spotify:track:2zvmyjvzkN91SXGfSF2jgD",
-                    "track_name": "Glued Ghouls"
-                },
-                {
-                    "artist_name": "Junkie",
-                    "track_uri": "spotify:track:0eSRLAPbhVFHVSYST4x9OE",
-                    "track_name": "Bowls"
-                },
-                {
-                    "artist_name": "Junkie",
-                    "track_uri": "spotify:track:44Gc3EcJVZBJA0W924pMk9",
-                    "track_name": "Hurl"
-                },
-                {
-                    "artist_name": "Junkie",
-                    "track_uri": "spotify:track:01Cr2PPYmV9oAwd0XzHoCU",
-                    "track_name": "Always Bummed Always In Love"
-                },
-                {
-                    "artist_name": "Junkie",
-                    "track_uri": "spotify:track:4TR9n6l6G8Gz7L0luYtcwR",
-                    "track_name": "I'm Not Complaining (I Think I Like It)"
-                },
-                {
-                    "artist_name": "Junkie",
-                    "track_uri": "spotify:track:5UIijd5Gq6hV0ZEQPFwtOB",
-                    "track_name": "Oh Wonder"
-                },
-                {
-                    "artist_name": "Junkie",
-                    "track_uri": "spotify:track:4Ahx0ObdVI8I0iOOowi8ve",
-                    "track_name": "Sick Boyz"
-                },
-                {
-                    "artist_name": "Junkie",
-                    "track_uri": "spotify:track:2CYboY1n3JfRImK8oXfdlk",
-                    "track_name": "Demons"
-                },
-                {
-                    "artist_name": "Junkie",
-                    "track_uri": "spotify:track:3gvs4It1YrkVVdlEiuLkrv",
-                    "track_name": "Olives Owner"
-                },
-                {
-                    "artist_name": "Junkie",
-                    "track_uri": "spotify:track:4BaDwbOyX8F1Ol2DqJ9Lim",
-                    "track_name": "(Whatever)"
-                },
-                {
-                    "artist_name": "Glass Animals",
-                    "track_uri": "spotify:track:0rRjGruFonCGOt0S5zAJNQ",
-                    "track_name": "The Other Side Of Paradise"
-                },
-                {
-                    "artist_name": "Glass Animals",
-                    "track_uri": "spotify:track:32zkKx35Et6A515oZKxDkD",
-                    "track_name": "Life Itself"
-                },
-                {
-                    "artist_name": "Glass Animals",
-                    "track_uri": "spotify:track:1LPGwuFgIzbJoShfDdw7MY",
-                    "track_name": "Youth"
-                },
-                {
-                    "artist_name": "Glass Animals",
-                    "track_uri": "spotify:track:5b9iBVhfYxDF4JJcHrNIx5",
-                    "track_name": "Gooey"
-                },
-                {
-                    "artist_name": "Young the Giant",
-                    "track_uri": "spotify:track:5jFUr4cSK8mjK4xX7O5Dcl",
-                    "track_name": "Anagram"
-                },
-                {
-                    "artist_name": "Cage The Elephant",
-                    "track_uri": "spotify:track:4sebUbjqbcgDSwG6PbSGI0",
-                    "track_name": "Come a Little Closer"
-                },
-                {
-                    "artist_name": "Bear Hands",
-                    "track_uri": "spotify:track:5ciqyuB1G3ulnQsNGmoOE8",
-                    "track_name": "Giants"
-                },
-                {
-                    "artist_name": "Cage The Elephant",
-                    "track_uri": "spotify:track:5r5Lj2MkgwQJz6TaBdL865",
-                    "track_name": "Spiderhead"
-                },
-                {
-                    "artist_name": "Nimmo",
-                    "track_uri": "spotify:track:7dl1pbAenwU1Zlm0HjL0XI",
-                    "track_name": "My Only Friend - Amtrac Remix"
-                },
-                {
-                    "artist_name": "Isaiah Rashad",
-                    "track_uri": "spotify:track:2RPbEp0DyBVlkRvvYKopO7",
-                    "track_name": "Wat's Wrong (feat. Zacari & Kendrick Lamar)"
-                }
-            ],
-            "num_edits": 15,
-            "duration_ms": 11688473,
-            "num_artists": 19
         }
     ]
 }

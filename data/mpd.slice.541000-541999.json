@@ -6,129 +6,8 @@
     },
     "playlists": [
         {
-            "name": "Father's Day",
-            "pid": 1125,
-            "num_tracks": 22,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Loudon Wainwright III",
-                    "track_uri": "spotify:track:1i471IRObk6M9yjsl8kSJ7",
-                    "track_name": "Daughter"
-                },
-                {
-                    "artist_name": "George Strait",
-                    "track_uri": "spotify:track:4pFNWAU8e8F32NQkMyLAZi",
-                    "track_name": "Love Without End, Amen"
-                },
-                {
-                    "artist_name": "Paul Simon",
-                    "track_uri": "spotify:track:4aU1zq0W9Ftg1UAQSj4aHN",
-                    "track_name": "Father and Daughter"
-                },
-                {
-                    "artist_name": "The Civil Wars",
-                    "track_uri": "spotify:track:2ItPhHWZ7GMnY1Aw8glvQx",
-                    "track_name": "My Father's Father"
-                },
-                {
-                    "artist_name": "Eric Clapton",
-                    "track_uri": "spotify:track:7zXqmgoZNRHNFgFAOoxhx6",
-                    "track_name": "My Father's Eyes"
-                },
-                {
-                    "artist_name": "Johnny Cash",
-                    "track_uri": "spotify:track:6cyQhHuw8lEXgHGJlXUiR9",
-                    "track_name": "Daddy Sang Bass"
-                },
-                {
-                    "artist_name": "Keith Urban",
-                    "track_uri": "spotify:track:1uYo3Z74TbEIEiqBE0U26S",
-                    "track_name": "Song For Dad"
-                },
-                {
-                    "artist_name": "Phillip Phillips",
-                    "track_uri": "spotify:track:0d1ZmSlIf05gkCPuSPy0Yq",
-                    "track_name": "Home"
-                },
-                {
-                    "artist_name": "Nancy Sinatra",
-                    "track_uri": "spotify:track:1jASrhbG0AgWRywfpcPCgB",
-                    "track_name": "It's For My Dad"
-                },
-                {
-                    "artist_name": "Jewel",
-                    "track_uri": "spotify:track:7eZ9J7f45nCpkadR4eMd8I",
-                    "track_name": "Daddy"
-                },
-                {
-                    "artist_name": "Alan Jackson",
-                    "track_uri": "spotify:track:38hbQ1wHHBNXDpPGJRMY28",
-                    "track_name": "Drive (For Daddy Gene)"
-                },
-                {
-                    "artist_name": "Montgomery Gentry",
-                    "track_uri": "spotify:track:10ps1I1sIMRNZW11eceN7W",
-                    "track_name": "Where I Come From"
-                },
-                {
-                    "artist_name": "Fleetwood Mac",
-                    "track_uri": "spotify:track:3D8bcwMmgPR5ZnpL52rY1q",
-                    "track_name": "Oh Daddy - 2004 Remastered Edition"
-                },
-                {
-                    "artist_name": "Bruce Springsteen",
-                    "track_uri": "spotify:track:20mvEa8wRNsdU7diadzRGg",
-                    "track_name": "My Father's House"
-                },
-                {
-                    "artist_name": "John Mayer",
-                    "track_uri": "spotify:track:5FPnjikbwlDMULCCCa6ZCJ",
-                    "track_name": "Daughters"
-                },
-                {
-                    "artist_name": "Reba McEntire",
-                    "track_uri": "spotify:track:43z33yJDu1dCyE50sPzErp",
-                    "track_name": "The Greatest Man I Never Knew"
-                },
-                {
-                    "artist_name": "George Strait",
-                    "track_uri": "spotify:track:3iOj4ayedPVnAByhCkmm8E",
-                    "track_name": "So Much Like My Dad"
-                },
-                {
-                    "artist_name": "Kenny Chesney",
-                    "track_uri": "spotify:track:1CjQCQsl9FDb3WhjGcFOzG",
-                    "track_name": "There Goes My Life"
-                },
-                {
-                    "artist_name": "Johnny Cash",
-                    "track_uri": "spotify:track:1YjIjip6wBvtSUlmci3XCj",
-                    "track_name": "A Boy Named Sue"
-                },
-                {
-                    "artist_name": "Paul Carrack",
-                    "track_uri": "spotify:track:27HFoiUTff8D8GYcMHJJSn",
-                    "track_name": "The Living Years - Remastered"
-                },
-                {
-                    "artist_name": "Miley Cyrus",
-                    "track_uri": "spotify:track:3qhIhyu9Sl8lyF43vNt9Dv",
-                    "track_name": "I Learned From You"
-                },
-                {
-                    "artist_name": "Taylor Swift",
-                    "track_uri": "spotify:track:1wJL1A0QUHJPf2cm7tsrdw",
-                    "track_name": "Never Grow Up"
-                }
-            ],
-            "num_edits": 3,
-            "duration_ms": 5160082,
-            "num_artists": 20
-        },
-        {
             "name": "School",
-            "pid": 1126,
+            "pid": 854,
             "num_tracks": 81,
             "num_followers": 15,
             "tracks": [
@@ -543,244 +422,8 @@
             "num_artists": 60
         },
         {
-            "name": "tranquilas",
-            "pid": 1127,
-            "num_tracks": 45,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Hayden Calnin",
-                    "track_uri": "spotify:track:150JKtEd6xquzqPyRjP7j7",
-                    "track_name": "Comatose"
-                },
-                {
-                    "artist_name": "Matt Corby",
-                    "track_uri": "spotify:track:1YY2l5k7QmWoEWBprsmTuL",
-                    "track_name": "Brother."
-                },
-                {
-                    "artist_name": "The National",
-                    "track_uri": "spotify:track:33xh6sgYhga7iQ7HARN7V6",
-                    "track_name": "About Today"
-                },
-                {
-                    "artist_name": "Giles Corey",
-                    "track_uri": "spotify:track:4McullpiOd45TwEHlOISgs",
-                    "track_name": "No One Is Ever Going to Want Me"
-                },
-                {
-                    "artist_name": "Dustin Tebbutt",
-                    "track_uri": "spotify:track:1rSrMVQbnYWihopHxGXhOD",
-                    "track_name": "The Breach"
-                },
-                {
-                    "artist_name": "The Careful Ones",
-                    "track_uri": "spotify:track:0YyKEUqjK2aolXbdqIoUb6",
-                    "track_name": "Paper Knees"
-                },
-                {
-                    "artist_name": "Tom Rosenthal",
-                    "track_uri": "spotify:track:1XHGkqgymzwzFWFWKqi6O8",
-                    "track_name": "As Luck Would Have It"
-                },
-                {
-                    "artist_name": "Daughter",
-                    "track_uri": "spotify:track:1drUAdX3NY4dTieuxdedLY",
-                    "track_name": "Smother"
-                },
-                {
-                    "artist_name": "Nick Mulvey",
-                    "track_uri": "spotify:track:34a7VkqKRQ4pA2598XizKN",
-                    "track_name": "Cucurucu"
-                },
-                {
-                    "artist_name": "Novo Amor",
-                    "track_uri": "spotify:track:4GjD33yTih7RqvGkH9C9wO",
-                    "track_name": "From Gold"
-                },
-                {
-                    "artist_name": "Geoffroy Sauv\u00e9",
-                    "track_uri": "spotify:track:4RujpLjFPn0Dm2ANLPIkV0",
-                    "track_name": "Rules of Attraction"
-                },
-                {
-                    "artist_name": "Ed Prosek",
-                    "track_uri": "spotify:track:6YQE75iFANu9Dasx1Mch9w",
-                    "track_name": "Hold On Tight"
-                },
-                {
-                    "artist_name": "Ed Prosek",
-                    "track_uri": "spotify:track:2imIDBuTC4kBEouTIxHqZQ",
-                    "track_name": "California"
-                },
-                {
-                    "artist_name": "Message To Bears",
-                    "track_uri": "spotify:track:751TJAeguNwru2gpJ51ToF",
-                    "track_name": "At a Glance"
-                },
-                {
-                    "artist_name": "On An On",
-                    "track_uri": "spotify:track:58VZtWOA75FCms5fd8H7Zy",
-                    "track_name": "Drifting"
-                },
-                {
-                    "artist_name": "Axel Flovent",
-                    "track_uri": "spotify:track:2QxfLCOPJoeIaXXyrcgCPl",
-                    "track_name": "Dancers"
-                },
-                {
-                    "artist_name": "Axel Flovent",
-                    "track_uri": "spotify:track:6AQ3guMjWgetjRpQASwrE5",
-                    "track_name": "Forest Fires"
-                },
-                {
-                    "artist_name": "Tell No Foxx",
-                    "track_uri": "spotify:track:6McXek2TXZjCwb0cr1wjcR",
-                    "track_name": "Silence"
-                },
-                {
-                    "artist_name": "Seafret",
-                    "track_uri": "spotify:track:1au9q3wiWxIwXTazIjHdfF",
-                    "track_name": "Give Me Something"
-                },
-                {
-                    "artist_name": "Seafret",
-                    "track_uri": "spotify:track:1Fid2jjqsHViMX6xNH70hE",
-                    "track_name": "Atlantis"
-                },
-                {
-                    "artist_name": "Novo Amor",
-                    "track_uri": "spotify:track:7N0osVtma3QzvMOfVbdSL8",
-                    "track_name": "Weather"
-                },
-                {
-                    "artist_name": "The Album Leaf",
-                    "track_uri": "spotify:track:4jpdRGit34qv15mjaCJM7X",
-                    "track_name": "Blank Pages"
-                },
-                {
-                    "artist_name": "The Album Leaf",
-                    "track_uri": "spotify:track:3tbM7y3MXFAZbcaAS279Cp",
-                    "track_name": "A Day in the Life"
-                },
-                {
-                    "artist_name": "Andrew Bird",
-                    "track_uri": "spotify:track:3v6NuKeDbFbaq1lNjw3XtR",
-                    "track_name": "Pulaski at Night"
-                },
-                {
-                    "artist_name": "The Middle East",
-                    "track_uri": "spotify:track:5eeMft4YZx0Xdf9yJPNZJY",
-                    "track_name": "Blood"
-                },
-                {
-                    "artist_name": "Rhye",
-                    "track_uri": "spotify:track:4nLaeAathdcgAhhB0h5aWe",
-                    "track_name": "Open"
-                },
-                {
-                    "artist_name": "Rhye",
-                    "track_uri": "spotify:track:77eJ2jPNaV8MiuQatgmeQ9",
-                    "track_name": "The Fall"
-                },
-                {
-                    "artist_name": "Sarah Jaffe",
-                    "track_uri": "spotify:track:6uaWRTGqadohCbGwo9EVSD",
-                    "track_name": "Clementine"
-                },
-                {
-                    "artist_name": "The Perishers",
-                    "track_uri": "spotify:track:4EocGB9LrPxeC7yKAVnyn3",
-                    "track_name": "Nothing Like You And I"
-                },
-                {
-                    "artist_name": "The National Parks",
-                    "track_uri": "spotify:track:5ITmuvjtUUdxVQCCsaKBDx",
-                    "track_name": "As We Ran"
-                },
-                {
-                    "artist_name": "Great Lake Swimmers",
-                    "track_uri": "spotify:track:0N0r9fZeAPf7OmPnUEMQtv",
-                    "track_name": "Your Rocky Spine"
-                },
-                {
-                    "artist_name": "Vancouver Sleep Clinic",
-                    "track_uri": "spotify:track:5r09ZUBR3ZPOAr0feB2j4G",
-                    "track_name": "Collapse"
-                },
-                {
-                    "artist_name": "AURORA",
-                    "track_uri": "spotify:track:6oBCi3MzGudD7hQ2V5NkO4",
-                    "track_name": "Awakening"
-                },
-                {
-                    "artist_name": "Vancouver Sleep Clinic",
-                    "track_uri": "spotify:track:3piBkAlDyMAI0WQ5SMQdxB",
-                    "track_name": "Vapour"
-                },
-                {
-                    "artist_name": "St. South",
-                    "track_uri": "spotify:track:01qIefOW1UdSDS1mHoSZ3x",
-                    "track_name": "Slacks"
-                },
-                {
-                    "artist_name": "To Kill A King",
-                    "track_uri": "spotify:track:65z28RA7Nmzsog6Noln0sB",
-                    "track_name": "Choices"
-                },
-                {
-                    "artist_name": "Kids Of Adelaide",
-                    "track_uri": "spotify:track:6oSMnd3ljBT8NC3M8wdxei",
-                    "track_name": "Old One"
-                },
-                {
-                    "artist_name": "John Butler Trio",
-                    "track_uri": "spotify:track:3gANYesc3UZsimMoee5Jmx",
-                    "track_name": "Ocean - Live"
-                },
-                {
-                    "artist_name": "Charlie Cunningham",
-                    "track_uri": "spotify:track:5WbbSGSA8qb601YH4SqLA6",
-                    "track_name": "Lights Off"
-                },
-                {
-                    "artist_name": "Sleepers' Reign",
-                    "track_uri": "spotify:track:7fFYQQY3Knzxzr8fuiGIUl",
-                    "track_name": "Four Dots"
-                },
-                {
-                    "artist_name": "Donovan Woods",
-                    "track_uri": "spotify:track:0PeX8v4FBZZnVKry8SfTZG",
-                    "track_name": "Put on, Cologne"
-                },
-                {
-                    "artist_name": "Winterbourne",
-                    "track_uri": "spotify:track:4asocwUbrFvs7ZLuDFuC2q",
-                    "track_name": "Steady My Bones"
-                },
-                {
-                    "artist_name": "Kim Churchill",
-                    "track_uri": "spotify:track:6jAyxL48SmPElMhu2dl0cg",
-                    "track_name": "Window to the Sky"
-                },
-                {
-                    "artist_name": "Khushi",
-                    "track_uri": "spotify:track:5K9gDRrPAQLMAuts77OQ7u",
-                    "track_name": "Magpie"
-                },
-                {
-                    "artist_name": "Alex Vargas",
-                    "track_uri": "spotify:track:3xDstCCc4HetM73ifulnGx",
-                    "track_name": "Till Forever Runs Out"
-                }
-            ],
-            "num_edits": 27,
-            "duration_ms": 11639449,
-            "num_artists": 38
-        },
-        {
             "name": "Wicked Games",
-            "pid": 1128,
+            "pid": 855,
             "num_tracks": 40,
             "num_followers": 380,
             "tracks": [
@@ -991,7 +634,7 @@
         },
         {
             "name": "Beatz",
-            "pid": 1129,
+            "pid": 856,
             "num_tracks": 13,
             "num_followers": 12,
             "tracks": [
@@ -1067,7 +710,7 @@
         },
         {
             "name": "GOLD",
-            "pid": 1130,
+            "pid": 857,
             "num_tracks": 89,
             "num_followers": 12,
             "tracks": [
@@ -1524,7 +1167,7 @@
         },
         {
             "name": "Tamil Songs",
-            "pid": 1131,
+            "pid": 858,
             "num_tracks": 80,
             "num_followers": 12,
             "tracks": [
@@ -1935,7 +1578,7 @@
         },
         {
             "name": "Echo",
-            "pid": 1132,
+            "pid": 859,
             "num_tracks": 101,
             "num_followers": 23,
             "tracks": [

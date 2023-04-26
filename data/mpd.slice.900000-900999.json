@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Breakup Playlist",
-            "pid": 5471,
+            "pid": 4155,
             "num_tracks": 32,
             "num_followers": 195,
             "tracks": [
@@ -178,7 +178,7 @@
         },
         {
             "name": "6LACK",
-            "pid": 5472,
+            "pid": 4156,
             "num_tracks": 95,
             "num_followers": 20,
             "tracks": [
@@ -664,7 +664,7 @@
         },
         {
             "name": "driving",
-            "pid": 5473,
+            "pid": 4157,
             "num_tracks": 58,
             "num_followers": 179,
             "tracks": [
@@ -965,7 +965,7 @@
         },
         {
             "name": "Chill",
-            "pid": 5474,
+            "pid": 4158,
             "num_tracks": 153,
             "num_followers": 17,
             "tracks": [
@@ -1741,144 +1741,8 @@
             "description": "Easy on the ears."
         },
         {
-            "name": "Quiet Time",
-            "pid": 5475,
-            "num_tracks": 25,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Chris Tomlin",
-                    "track_uri": "spotify:track:4qGwoTBvRhJ7YGeoQGytJV",
-                    "track_name": "I Lift My Hands"
-                },
-                {
-                    "artist_name": "Bryan & Katie Torwalt",
-                    "track_uri": "spotify:track:1AtwsVXr1zaZf4YgIEOlDK",
-                    "track_name": "Holy Spirit"
-                },
-                {
-                    "artist_name": "Justin Bieber",
-                    "track_uri": "spotify:track:5Z2Ccva1c5ns7sTBmK7IeN",
-                    "track_name": "Pray - Acoustic Version"
-                },
-                {
-                    "artist_name": "Laura Story",
-                    "track_uri": "spotify:track:6lV8cAancMB859zfBUqpPZ",
-                    "track_name": "Blessings"
-                },
-                {
-                    "artist_name": "Brian Johnson",
-                    "track_uri": "spotify:track:6Y0VMYZ0UioJ8QRvYLz7XY",
-                    "track_name": "Have It All (Live)"
-                },
-                {
-                    "artist_name": "Bryan & Katie Torwalt",
-                    "track_uri": "spotify:track:22wEdAfAi35HqfNBCRzaz4",
-                    "track_name": "When You Walk Into The Room"
-                },
-                {
-                    "artist_name": "Hillsong Young & Free",
-                    "track_uri": "spotify:track:0Ofr0P002SYAWaDqWZrzkh",
-                    "track_name": "To My Knees - Live"
-                },
-                {
-                    "artist_name": "Sara Groves",
-                    "track_uri": "spotify:track:2M7z1CWHua5LkoQXdOPJku",
-                    "track_name": "Enough"
-                },
-                {
-                    "artist_name": "Brandon Heath",
-                    "track_uri": "spotify:track:23Rc6AF3rDV8nr5KQh16Ai",
-                    "track_name": "Trust You"
-                },
-                {
-                    "artist_name": "Hillsong Young & Free",
-                    "track_uri": "spotify:track:1RcSPmJz0xDnUQ117e4x64",
-                    "track_name": "Sinking Deep - Live"
-                },
-                {
-                    "artist_name": "Hillsong Worship",
-                    "track_uri": "spotify:track:1urrG04mC0IopJD7vpKiiW",
-                    "track_name": "I Surrender - Live"
-                },
-                {
-                    "artist_name": "Lauren Daigle",
-                    "track_uri": "spotify:track:4908mwb34dqgcaxHeFjitw",
-                    "track_name": "Trust In You"
-                },
-                {
-                    "artist_name": "for KING & COUNTRY",
-                    "track_uri": "spotify:track:5Z2TvUNflVYGsoFGkvAKzE",
-                    "track_name": "Without You"
-                },
-                {
-                    "artist_name": "Elevation Worship",
-                    "track_uri": "spotify:track:0Iahiy5y1VEmuwTFb65tG8",
-                    "track_name": "Give Me Faith"
-                },
-                {
-                    "artist_name": "Leeland",
-                    "track_uri": "spotify:track:0ttGekhJiRgUntY34isdm9",
-                    "track_name": "Where You Are (Live)"
-                },
-                {
-                    "artist_name": "Sara Groves",
-                    "track_uri": "spotify:track:6II4GnJwIVeCgDmbqxK35M",
-                    "track_name": "He's Always Been Faithful"
-                },
-                {
-                    "artist_name": "Lauren Daigle",
-                    "track_uri": "spotify:track:017651h0F4cNRHhf8VbBt4",
-                    "track_name": "Here's My Heart"
-                },
-                {
-                    "artist_name": "Brandon Heath",
-                    "track_uri": "spotify:track:3gotHhn9ERCzVpDTUjGXDe",
-                    "track_name": "Love Does"
-                },
-                {
-                    "artist_name": "Shane & Shane",
-                    "track_uri": "spotify:track:4fGvSRhTz9cFsnc48tJAvl",
-                    "track_name": "Oceans (Where Feet May Fail)"
-                },
-                {
-                    "artist_name": "Passion",
-                    "track_uri": "spotify:track:2yQQYGMz8BpZnTgtXF8Mns",
-                    "track_name": "Waiting Here For You - Live"
-                },
-                {
-                    "artist_name": "Young Oceans",
-                    "track_uri": "spotify:track:0gmvadJOAU3cWqvH3P5MvL",
-                    "track_name": "Come to Us O Lord"
-                },
-                {
-                    "artist_name": "Hillsong Worship",
-                    "track_uri": "spotify:track:5BKs5rzX3vAvqdQzodIUWH",
-                    "track_name": "You'll Come - Live"
-                },
-                {
-                    "artist_name": "Jenn Johnson",
-                    "track_uri": "spotify:track:6I40ZPL4cb2buc3A7sH5YL",
-                    "track_name": "God I Look to You"
-                },
-                {
-                    "artist_name": "Keith & Kristyn Getty",
-                    "track_uri": "spotify:track:15sauKN8vieeKOVWWR9UG2",
-                    "track_name": "In Christ Alone"
-                },
-                {
-                    "artist_name": "Vertical Worship",
-                    "track_uri": "spotify:track:1d2LyEJ1zZ0gWtlxyZQpDE",
-                    "track_name": "I Will Follow"
-                }
-            ],
-            "num_edits": 4,
-            "duration_ms": 7907993,
-            "num_artists": 19
-        },
-        {
             "name": "J. Cole",
-            "pid": 5476,
+            "pid": 4159,
             "num_tracks": 171,
             "num_followers": 20,
             "tracks": [
@@ -2744,7 +2608,7 @@
         },
         {
             "name": "tbt",
-            "pid": 5477,
+            "pid": 4160,
             "num_tracks": 134,
             "num_followers": 14,
             "tracks": [
@@ -3425,7 +3289,7 @@
         },
         {
             "name": "Once upon a time...",
-            "pid": 5478,
+            "pid": 4161,
             "num_tracks": 93,
             "num_followers": 23,
             "tracks": [
@@ -3901,7 +3765,7 @@
         },
         {
             "name": "motivaci\u00f3n",
-            "pid": 5479,
+            "pid": 4162,
             "num_tracks": 208,
             "num_followers": 15,
             "tracks": [

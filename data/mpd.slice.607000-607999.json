@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "car music ",
-            "pid": 6617,
+            "pid": 5024,
             "num_tracks": 103,
             "num_followers": 131,
             "tracks": [
@@ -533,7 +533,7 @@
         },
         {
             "name": "APRIL 2017",
-            "pid": 6618,
+            "pid": 5025,
             "num_tracks": 58,
             "num_followers": 21,
             "tracks": [
@@ -833,219 +833,8 @@
             "num_artists": 56
         },
         {
-            "name": "1234",
-            "pid": 6619,
-            "num_tracks": 40,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Snoop Dogg",
-                    "track_uri": "spotify:track:6YbhspuOar1D9WSSnfe7ds",
-                    "track_name": "Young, Wild & Free (feat. Bruno Mars) - feat. Bruno Mars"
-                },
-                {
-                    "artist_name": "Trey Songz",
-                    "track_uri": "spotify:track:2IpGdrWvIZipmaxo1YRxw5",
-                    "track_name": "Bottoms Up - feat. Nicki Minaj"
-                },
-                {
-                    "artist_name": "Bryson Tiller",
-                    "track_uri": "spotify:track:3pXF1nA74528Edde4of9CC",
-                    "track_name": "Don't"
-                },
-                {
-                    "artist_name": "J. Cole",
-                    "track_uri": "spotify:track:6Ius4TC0L3cN74HT7ENE6e",
-                    "track_name": "Wet Dreamz"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:6LxSe8YmdPxy095Ux6znaQ",
-                    "track_name": "Headlines"
-                },
-                {
-                    "artist_name": "DJ Khaled",
-                    "track_uri": "spotify:track:608a1wIsSd5KzMEqm1O7w3",
-                    "track_name": "I'm On One"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:4Kz4RdRCceaA9VgTqBhBfa",
-                    "track_name": "The Motto"
-                },
-                {
-                    "artist_name": "Bryson Tiller",
-                    "track_uri": "spotify:track:43PuMrRfbyyuz4QpZ3oAwN",
-                    "track_name": "Exchange"
-                },
-                {
-                    "artist_name": "Bryson Tiller",
-                    "track_uri": "spotify:track:16bHRxM89ue0TiCKARYbRp",
-                    "track_name": "Sorry Not Sorry"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:4jtyUzZm9WLc2AdaJ1dso7",
-                    "track_name": "0 To 100 / The Catch Up"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:31Q9ZTF9x81BDonlObCbvP",
-                    "track_name": "Forever"
-                },
-                {
-                    "artist_name": "Big Sean",
-                    "track_uri": "spotify:track:4E92bmgFiHxvy2SNjXjC3b",
-                    "track_name": "Blessings"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:6jdOi5U5LBzQrc4c1VT983",
-                    "track_name": "Hold On, We're Going Home"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:6V2D8Lls36APk0THDjBDfE",
-                    "track_name": "Started From the Bottom"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:0V4l4GQhgnWQGtCWpvA7va",
-                    "track_name": "Crew Love"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:0m1KYWlT6LhFRBDVq9UNx4",
-                    "track_name": "HYFR (Hell Ya Fucking Right)"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:3fyMH1t6UPeR5croea9PrR",
-                    "track_name": "Best I Ever Had"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:4zLOwx1yRJXWkHKt1XzF1p",
-                    "track_name": "Now & Forever"
-                },
-                {
-                    "artist_name": "Lil Wayne",
-                    "track_uri": "spotify:track:6t2eIONH4Sax3R21QWiKNp",
-                    "track_name": "Believe Me"
-                },
-                {
-                    "artist_name": "Tyga",
-                    "track_uri": "spotify:track:0srwKuJPH8yBzzFUJMBQM2",
-                    "track_name": "Rack City"
-                },
-                {
-                    "artist_name": "Tyga",
-                    "track_uri": "spotify:track:2NRUU0gP1d8Yif8CpsCW8l",
-                    "track_name": "Faded"
-                },
-                {
-                    "artist_name": "Travis Porter",
-                    "track_uri": "spotify:track:4P6BuLsqtg5uISdE77ypI9",
-                    "track_name": "Ayy Ladies"
-                },
-                {
-                    "artist_name": "PARTYNEXTDOOR",
-                    "track_uri": "spotify:track:5wUUWVRvrciJqFitZF8R0P",
-                    "track_name": "Recognize (feat. Drake)"
-                },
-                {
-                    "artist_name": "J. Cole",
-                    "track_uri": "spotify:track:1HNs07uZxZniPNmniw2GTa",
-                    "track_name": "Apparently"
-                },
-                {
-                    "artist_name": "J. Cole",
-                    "track_uri": "spotify:track:7lL3MvFWFFSD25pBz72Agj",
-                    "track_name": "A Tale of 2 Citiez"
-                },
-                {
-                    "artist_name": "J. Cole",
-                    "track_uri": "spotify:track:6rbeWjEavBHvX2kr6lSogS",
-                    "track_name": "Work Out"
-                },
-                {
-                    "artist_name": "J. Cole",
-                    "track_uri": "spotify:track:20wR5XQpaL1uvVY8gmc4uY",
-                    "track_name": "Can't Get Enough"
-                },
-                {
-                    "artist_name": "Macklemore & Ryan Lewis",
-                    "track_uri": "spotify:track:3bidbhpOYeV4knp8AIu8Xn",
-                    "track_name": "Can't Hold Us - feat. Ray Dalton"
-                },
-                {
-                    "artist_name": "Wiz Khalifa",
-                    "track_uri": "spotify:track:1ULa3GfdMKs0MfRpm6xVlu",
-                    "track_name": "We Dem Boyz"
-                },
-                {
-                    "artist_name": "Lukas Graham",
-                    "track_uri": "spotify:track:7129iqBafaphfc3WPCGC0L",
-                    "track_name": "7 Years"
-                },
-                {
-                    "artist_name": "Ca$h Out",
-                    "track_uri": "spotify:track:1POAx4NMLOBPVKZUSsBh92",
-                    "track_name": "Cashin' Out"
-                },
-                {
-                    "artist_name": "Lil Wayne",
-                    "track_uri": "spotify:track:2DLsQuwxEdXt2yp54vw355",
-                    "track_name": "No Worries"
-                },
-                {
-                    "artist_name": "Power of Sound",
-                    "track_uri": "spotify:track:5m2M2bPx08t1SQ9kyAVabV",
-                    "track_name": "I Woke Up in a New Bugatti"
-                },
-                {
-                    "artist_name": "2 Chainz",
-                    "track_uri": "spotify:track:23WHTR4EN7QUx1oqa2z0zh",
-                    "track_name": "We Own It (Fast & Furious)"
-                },
-                {
-                    "artist_name": "Kid Ink",
-                    "track_uri": "spotify:track:59PL9AwYjIrIpP04n9gmMR",
-                    "track_name": "Ride Out"
-                },
-                {
-                    "artist_name": "YG",
-                    "track_uri": "spotify:track:27PmKcvsjXp7G1IQgLUkYY",
-                    "track_name": "My Nigga"
-                },
-                {
-                    "artist_name": "Macklemore & Ryan Lewis",
-                    "track_uri": "spotify:track:3AYcyxEACnmE6d96RPubID",
-                    "track_name": "Thrift Shop (feat. Wanz)"
-                },
-                {
-                    "artist_name": "OB OBrien",
-                    "track_uri": "spotify:track:63M8PK8yavNITSViKUB62p",
-                    "track_name": "Schemin Up (feat. Drake and P. Reign)"
-                },
-                {
-                    "artist_name": "ScHoolboy Q",
-                    "track_uri": "spotify:track:2kfpH2OAAdpk5J3JaraAIh",
-                    "track_name": "Hands On The Wheel"
-                },
-                {
-                    "artist_name": "J. Cole",
-                    "track_uri": "spotify:track:4gkl7QbQvBd3TM9PhlWFkI",
-                    "track_name": "Love Yourz"
-                }
-            ],
-            "num_edits": 12,
-            "duration_ms": 9661900,
-            "num_artists": 21
-        },
-        {
             "name": "SAVAGE",
-            "pid": 6620,
+            "pid": 5026,
             "num_tracks": 32,
             "num_followers": 22,
             "tracks": [
@@ -1216,7 +1005,7 @@
         },
         {
             "name": "slow jams",
-            "pid": 6621,
+            "pid": 5027,
             "num_tracks": 109,
             "num_followers": 58,
             "tracks": [
@@ -1769,97 +1558,6 @@
             "num_edits": 56,
             "duration_ms": 26596636,
             "num_artists": 65
-        },
-        {
-            "name": "Summer Jams",
-            "pid": 6622,
-            "num_tracks": 16,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Blackbird Blackbird",
-                    "track_uri": "spotify:track:4NL7K25jKNiKY5bei9hzV6",
-                    "track_name": "All"
-                },
-                {
-                    "artist_name": "Bayonics",
-                    "track_uri": "spotify:track:4I0rwOCts91Ez4lA2pBuVZ",
-                    "track_name": "Wheels Keep Turning"
-                },
-                {
-                    "artist_name": "Mykki Blanco",
-                    "track_uri": "spotify:track:7fvCoN3j9diijOALrQBTcW",
-                    "track_name": "Feeling Special"
-                },
-                {
-                    "artist_name": "Eve",
-                    "track_uri": "spotify:track:56phrFBYmdUmO8b3GvbT0t",
-                    "track_name": "She Bad Bad"
-                },
-                {
-                    "artist_name": "Nina Sky",
-                    "track_uri": "spotify:track:2ndnVdR8si7CW9T8vJRHyW",
-                    "track_name": "Move Ya Body"
-                },
-                {
-                    "artist_name": "Glass Candy",
-                    "track_uri": "spotify:track:3cLFC3a5OQeiLSkk5CVLAT",
-                    "track_name": "Feeling Without Touching"
-                },
-                {
-                    "artist_name": "Fake Blood",
-                    "track_uri": "spotify:track:0bekVF6ym5g2r06zqpyN4w",
-                    "track_name": "All In The Blink - Radio Edit"
-                },
-                {
-                    "artist_name": "Blackbird Blackbird",
-                    "track_uri": "spotify:track:3MqkHfPaJRnykjWBH4vqM1",
-                    "track_name": "Summer Heart"
-                },
-                {
-                    "artist_name": "Dj Spinna",
-                    "track_uri": "spotify:track:0hEPLSoADH3rgUeZClbymk",
-                    "track_name": "Intergalactic Soul"
-                },
-                {
-                    "artist_name": "Gondwana",
-                    "track_uri": "spotify:track:649bIUP229t1UR3KBAZdaF",
-                    "track_name": "Piensame"
-                },
-                {
-                    "artist_name": "Conspirator",
-                    "track_uri": "spotify:track:1XSylmlymClnBaKpqZotVr",
-                    "track_name": "PowWow"
-                },
-                {
-                    "artist_name": "Tenderlions",
-                    "track_uri": "spotify:track:3K3Zs4IEcYbRcC36H3y5uO",
-                    "track_name": "Feed Froward - Original Mix"
-                },
-                {
-                    "artist_name": "Alex Metric",
-                    "track_uri": "spotify:track:6LHDJaz2rh5uQuXY5P7oSp",
-                    "track_name": "Scandalism"
-                },
-                {
-                    "artist_name": "Boys Noize",
-                    "track_uri": "spotify:track:0yCyHVnzMmm5I0SBspXDFD",
-                    "track_name": "What You Want"
-                },
-                {
-                    "artist_name": "Duke Dumont",
-                    "track_uri": "spotify:track:4pYlJsKrPbc1Vy6OExIxZx",
-                    "track_name": "Need U (100%) - Radio Edit"
-                },
-                {
-                    "artist_name": "Proxy",
-                    "track_uri": "spotify:track:6pHNCrEnhW9ItXZp17Nmkb",
-                    "track_name": "Who Are You? - 770 EQ"
-                }
-            ],
-            "num_edits": 2,
-            "duration_ms": 3877341,
-            "num_artists": 15
         }
     ]
 }

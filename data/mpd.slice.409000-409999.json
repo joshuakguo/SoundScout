@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Happy",
-            "pid": 2024,
+            "pid": 1544,
             "num_tracks": 80,
             "num_followers": 20,
             "tracks": [
@@ -418,7 +418,7 @@
         },
         {
             "name": "Chill Rap",
-            "pid": 2025,
+            "pid": 1545,
             "num_tracks": 82,
             "num_followers": 13,
             "tracks": [
@@ -839,7 +839,7 @@
         },
         {
             "name": "surf rock.",
-            "pid": 2026,
+            "pid": 1546,
             "num_tracks": 78,
             "num_followers": 93,
             "tracks": [
@@ -1241,7 +1241,7 @@
         },
         {
             "name": "AfTeR PaRtY",
-            "pid": 2027,
+            "pid": 1547,
             "num_tracks": 79,
             "num_followers": 1813,
             "tracks": [
@@ -1646,374 +1646,8 @@
             "num_artists": 56
         },
         {
-            "name": "hu",
-            "pid": 2028,
-            "num_tracks": 71,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Lullabies",
-                    "track_uri": "spotify:track:7rfzeAqIFbChUX4AOnLXXN",
-                    "track_name": "Yuna (Adventure Club Remix)"
-                },
-                {
-                    "artist_name": "Kye Kye",
-                    "track_uri": "spotify:track:35EO1cfOvHaDsYH89De5iT",
-                    "track_name": "Broke"
-                },
-                {
-                    "artist_name": "Sir Sly",
-                    "track_uri": "spotify:track:6xwCM0M4JkURMD4eljeChg",
-                    "track_name": "Ghost"
-                },
-                {
-                    "artist_name": "Emancipator",
-                    "track_uri": "spotify:track:7cHRys0Lhk9642dLaPUMkm",
-                    "track_name": "Soon It Will Be Cold Enough to Build Fires"
-                },
-                {
-                    "artist_name": "Pretty Lights",
-                    "track_uri": "spotify:track:3WS7spXVlbeC5kjePmHMQW",
-                    "track_name": "Finally Moving"
-                },
-                {
-                    "artist_name": "Neon Indian",
-                    "track_uri": "spotify:track:35rdv7N27twjo4gnUzmnRZ",
-                    "track_name": "Polish Girl"
-                },
-                {
-                    "artist_name": "Phantogram",
-                    "track_uri": "spotify:track:0UPsdEgJx6ypkfFUxD3ZHh",
-                    "track_name": "Don't Move"
-                },
-                {
-                    "artist_name": "Ellie Goulding",
-                    "track_uri": "spotify:track:6S39fhexETOGjnvcOOKSZm",
-                    "track_name": "Hanging On - Edit"
-                },
-                {
-                    "artist_name": "The Weeknd",
-                    "track_uri": "spotify:track:50YZQsqoTXoPHd1YmZyBID",
-                    "track_name": "Devil May Cry - From \u201cThe Hunger Games: Catching Fire\u201d Soundtrack"
-                },
-                {
-                    "artist_name": "MS MR",
-                    "track_uri": "spotify:track:4YLrDf8qrpEfGo8Btndj08",
-                    "track_name": "Hurricane"
-                },
-                {
-                    "artist_name": "MS MR",
-                    "track_uri": "spotify:track:0RlFCfoNeFK3mzmvqvrVlI",
-                    "track_name": "Bones"
-                },
-                {
-                    "artist_name": "Sleeping At Last",
-                    "track_uri": "spotify:track:3tJjZMHLqhD8DaGgdBICnc",
-                    "track_name": "Saturn"
-                },
-                {
-                    "artist_name": "Yuna",
-                    "track_uri": "spotify:track:4xB9lkX25TyB2SpZjk8X04",
-                    "track_name": "Lullabies"
-                },
-                {
-                    "artist_name": "HAERTS",
-                    "track_uri": "spotify:track:2FliDPMFLgJu4OQXX7pLGI",
-                    "track_name": "Hemiplegia"
-                },
-                {
-                    "artist_name": "James Blake",
-                    "track_uri": "spotify:track:03CLsFk6JSz301bKuukPSD",
-                    "track_name": "Retrograde"
-                },
-                {
-                    "artist_name": "James Blake",
-                    "track_uri": "spotify:track:1rwvcsAKtqUK4aNffC0nvU",
-                    "track_name": "Life Round Here"
-                },
-                {
-                    "artist_name": "Noosa",
-                    "track_uri": "spotify:track:4hEx4pOr6zMsREYezwWNqn",
-                    "track_name": "Walk On By"
-                },
-                {
-                    "artist_name": "Mackintosh Braun",
-                    "track_uri": "spotify:track:67RffQxeVEWkvWJLZ8Uytt",
-                    "track_name": "On And On"
-                },
-                {
-                    "artist_name": "Blackbird Blackbird",
-                    "track_uri": "spotify:track:0ga8SPC1uPdqkzPUns5VVS",
-                    "track_name": "Hawaii"
-                },
-                {
-                    "artist_name": "Toro y Moi",
-                    "track_uri": "spotify:track:4p3jL7SFn8YDXmMPeEs4W2",
-                    "track_name": "Still Sound"
-                },
-                {
-                    "artist_name": "Youth Lagoon",
-                    "track_uri": "spotify:track:7BoWuTVwBzhc0xeNNH3LWC",
-                    "track_name": "Cannons"
-                },
-                {
-                    "artist_name": "HAIM",
-                    "track_uri": "spotify:track:1vSEwZtoQA0sJxkOgF7MtG",
-                    "track_name": "Falling"
-                },
-                {
-                    "artist_name": "Bonobo",
-                    "track_uri": "spotify:track:2Yz2Z1ENB85nYrK3Rg2qxO",
-                    "track_name": "First Fires"
-                },
-                {
-                    "artist_name": "Bibio",
-                    "track_uri": "spotify:track:78El3zAkN9I0P0J06kn5PK",
-                    "track_name": "Lovers\u2019 Carvings"
-                },
-                {
-                    "artist_name": "Wildcat! Wildcat!",
-                    "track_uri": "spotify:track:7hFAZvG3XZjNwvr5OKfBHz",
-                    "track_name": "Mr. Quiche"
-                },
-                {
-                    "artist_name": "Wildcat! Wildcat!",
-                    "track_uri": "spotify:track:3KZT3CjamlBStKVhjPryuR",
-                    "track_name": "Garden Grays"
-                },
-                {
-                    "artist_name": "Empire of the Sun",
-                    "track_uri": "spotify:track:0UpQ4fWxoCFoVUGYvjUH7F",
-                    "track_name": "We Are the People"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:0V4l4GQhgnWQGtCWpvA7va",
-                    "track_name": "Crew Love"
-                },
-                {
-                    "artist_name": "Ratatat",
-                    "track_uri": "spotify:track:3sF9v2qDFDGTyYismssCFI",
-                    "track_name": "Drugs"
-                },
-                {
-                    "artist_name": "Little Dragon",
-                    "track_uri": "spotify:track:4tc5UgZiIdz8LAISqEk1hP",
-                    "track_name": "Ritual Union"
-                },
-                {
-                    "artist_name": "M83",
-                    "track_uri": "spotify:track:1eyzqe2QqGZUmfcPZtrIyt",
-                    "track_name": "Midnight City"
-                },
-                {
-                    "artist_name": "The Bamboos",
-                    "track_uri": "spotify:track:0qYAgbjY0oONzeO9gVkek0",
-                    "track_name": "The Wilhelm Scream - feat. Megan Washington"
-                },
-                {
-                    "artist_name": "Mackintosh Braun",
-                    "track_uri": "spotify:track:2q3ck1AVUX6twLvEKKhpcC",
-                    "track_name": "Nothing Else Is Real"
-                },
-                {
-                    "artist_name": "Bon Iver",
-                    "track_uri": "spotify:track:76NHoWRJrfjx0rtF6OZRsM",
-                    "track_name": "I Can't Make You Love Me/Nick of Time"
-                },
-                {
-                    "artist_name": "Daughter",
-                    "track_uri": "spotify:track:6Ge8hGFQucHiGmy9BZbMQj",
-                    "track_name": "Still"
-                },
-                {
-                    "artist_name": "Daughter",
-                    "track_uri": "spotify:track:1vyrrrnb7182SL6iOMor3O",
-                    "track_name": "Youth"
-                },
-                {
-                    "artist_name": "jeremy messersmith",
-                    "track_uri": "spotify:track:74XzT6sJuCIw0Py539SNQR",
-                    "track_name": "A Girl, a Boy, and a Graveyard"
-                },
-                {
-                    "artist_name": "City and Colour",
-                    "track_uri": "spotify:track:2OegsP7cm3seAMsaK40dai",
-                    "track_name": "We Found Each Other In The Dark"
-                },
-                {
-                    "artist_name": "JR JR",
-                    "track_uri": "spotify:track:1KQ1zcWbnHN9jIECk2wJQ4",
-                    "track_name": "Nothing But Our Love"
-                },
-                {
-                    "artist_name": "The Morning Benders",
-                    "track_uri": "spotify:track:1WLonrQ9AZe3xdywWwBUvL",
-                    "track_name": "Mason Jar"
-                },
-                {
-                    "artist_name": "Bonobo",
-                    "track_uri": "spotify:track:5jdEBt26wjmM7EP8V7jwjP",
-                    "track_name": "Kiara"
-                },
-                {
-                    "artist_name": "Daft Punk",
-                    "track_uri": "spotify:track:4lteJuSjb9Jt9W1W7PIU2U",
-                    "track_name": "Derezzed - Remixed by The Glitch Mob"
-                },
-                {
-                    "artist_name": "Four Tet",
-                    "track_uri": "spotify:track:0Zuw3doXy3H4HCfyb9cMK3",
-                    "track_name": "Angel Echoes"
-                },
-                {
-                    "artist_name": "The Radio Dept.",
-                    "track_uri": "spotify:track:5pbgxrlLouPbT9gJwvMoIn",
-                    "track_name": "Domestic Scene"
-                },
-                {
-                    "artist_name": "Junior Boys",
-                    "track_uri": "spotify:track:4l37Yl4YqvL9QiZJShyGgE",
-                    "track_name": "Itchy Fingers"
-                },
-                {
-                    "artist_name": "The Album Leaf",
-                    "track_uri": "spotify:track:4jpdRGit34qv15mjaCJM7X",
-                    "track_name": "Blank Pages"
-                },
-                {
-                    "artist_name": "Broken Social Scene",
-                    "track_uri": "spotify:track:4ymnGnLzMKGKosMQVURUCZ",
-                    "track_name": "Romance To The Grave"
-                },
-                {
-                    "artist_name": "James Blake",
-                    "track_uri": "spotify:track:2GaAWaIazp02G4PZJV0gxX",
-                    "track_name": "Limit To Your Love"
-                },
-                {
-                    "artist_name": "Milagres",
-                    "track_uri": "spotify:track:0VaafEG6Ik1H5MUH8cxWnr",
-                    "track_name": "Here to Stay"
-                },
-                {
-                    "artist_name": "GIVERS",
-                    "track_uri": "spotify:track:1RILkKCC4b5KhTBNmMxEX3",
-                    "track_name": "Up Up Up"
-                },
-                {
-                    "artist_name": "The Walkmen",
-                    "track_uri": "spotify:track:62OVBiXaQca0qc3f0rQumH",
-                    "track_name": "Victory"
-                },
-                {
-                    "artist_name": "Crystal Castles",
-                    "track_uri": "spotify:track:2L9iSllvdfTZH4H7UQ7bJR",
-                    "track_name": "Pap Smear"
-                },
-                {
-                    "artist_name": "Kyle Andrews",
-                    "track_uri": "spotify:track:62ur4azLUBtx0fnzJqReUL",
-                    "track_name": "Heart U 4 Ever"
-                },
-                {
-                    "artist_name": "Local Natives",
-                    "track_uri": "spotify:track:2fea1IQDXMABCGce4H5dzZ",
-                    "track_name": "Wide Eyes"
-                },
-                {
-                    "artist_name": "TV On The Radio",
-                    "track_uri": "spotify:track:4d12AjSPP8IQZK1CamEwqp",
-                    "track_name": "Will Do"
-                },
-                {
-                    "artist_name": "Digitalism",
-                    "track_uri": "spotify:track:1ODpFzlE5tLzF1eibyRb8v",
-                    "track_name": "2 Hearts"
-                },
-                {
-                    "artist_name": "Au Revoir Simone",
-                    "track_uri": "spotify:track:3wkeRMqU8lhWsySZYoRqTI",
-                    "track_name": "The Last One"
-                },
-                {
-                    "artist_name": "Ariel Pink",
-                    "track_uri": "spotify:track:2qKTOaX1ZeMWn3aKhpxkz5",
-                    "track_name": "Round And Round"
-                },
-                {
-                    "artist_name": "The Morning Benders",
-                    "track_uri": "spotify:track:04wHr5OrcX3blirs4tRGUD",
-                    "track_name": "Hand Me Downs"
-                },
-                {
-                    "artist_name": "The Morning Benders",
-                    "track_uri": "spotify:track:2ARB3fKvRkMGhAtZuTnE5J",
-                    "track_name": "Excuses"
-                },
-                {
-                    "artist_name": "Ambulance LTD",
-                    "track_uri": "spotify:track:04ihAuvyZi7ggHXUYmVZvr",
-                    "track_name": "Anecdote"
-                },
-                {
-                    "artist_name": "Little Joy",
-                    "track_uri": "spotify:track:78dUBuP4dmw7krQz2yEI97",
-                    "track_name": "Unattainable"
-                },
-                {
-                    "artist_name": "Local Natives",
-                    "track_uri": "spotify:track:5v7Eh9qFbUPcjjF7xbLB7l",
-                    "track_name": "Airplanes"
-                },
-                {
-                    "artist_name": "City and Colour",
-                    "track_uri": "spotify:track:3USei2Ja58VV6yOypYNjfN",
-                    "track_name": "The Girl"
-                },
-                {
-                    "artist_name": "BoomBox",
-                    "track_uri": "spotify:track:5cio8CvmB7nBA1OxiSYqrg",
-                    "track_name": "Midnight on the Run"
-                },
-                {
-                    "artist_name": "Crystal Castles",
-                    "track_uri": "spotify:track:2bKSOqtAQ7xSoxQ87If4jq",
-                    "track_name": "Suffocation"
-                },
-                {
-                    "artist_name": "Tan Vampires",
-                    "track_uri": "spotify:track:1Lcy1yj2YlEM6BFIoyfYE7",
-                    "track_name": "Threads"
-                },
-                {
-                    "artist_name": "Fort Lean",
-                    "track_uri": "spotify:track:67zgadovrtu3CI6CGdlVrn",
-                    "track_name": "Dreams (Never Come True)"
-                },
-                {
-                    "artist_name": "Blackbird Blackbird",
-                    "track_uri": "spotify:track:1ajMtpXxmsezJwEUJ25cGs",
-                    "track_name": "It's A War"
-                },
-                {
-                    "artist_name": "City and Colour",
-                    "track_uri": "spotify:track:4s8JxdStqaD6tx60Yhvkis",
-                    "track_name": "How Come Your Arms Are Not Around Me"
-                },
-                {
-                    "artist_name": "City and Colour",
-                    "track_uri": "spotify:track:09C8jjA2fa0j6SFv88wV5h",
-                    "track_name": "Soon Enough"
-                }
-            ],
-            "num_edits": 25,
-            "duration_ms": 17703956,
-            "num_artists": 56
-        },
-        {
             "name": "Lit",
-            "pid": 2029,
+            "pid": 1548,
             "num_tracks": 62,
             "num_followers": 12,
             "tracks": [
@@ -2334,7 +1968,7 @@
         },
         {
             "name": "Hockey ;)",
-            "pid": 2030,
+            "pid": 1549,
             "num_tracks": 64,
             "num_followers": 25,
             "tracks": [
@@ -2666,7 +2300,7 @@
         },
         {
             "name": "Norte\u00f1as",
-            "pid": 2031,
+            "pid": 1550,
             "num_tracks": 74,
             "num_followers": 12,
             "tracks": [

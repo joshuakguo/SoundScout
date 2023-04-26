@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Trance",
-            "pid": 1059,
+            "pid": 799,
             "num_tracks": 97,
             "num_followers": 14,
             "tracks": [
@@ -503,7 +503,7 @@
         },
         {
             "name": "JULY",
-            "pid": 1060,
+            "pid": 800,
             "num_tracks": 15,
             "num_followers": 38,
             "tracks": [
@@ -589,7 +589,7 @@
         },
         {
             "name": "WB",
-            "pid": 1061,
+            "pid": 801,
             "num_tracks": 124,
             "num_followers": 28,
             "tracks": [
@@ -1219,194 +1219,8 @@
             "num_artists": 107
         },
         {
-            "name": "Fall Feels",
-            "pid": 1062,
-            "num_tracks": 35,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Fifth Harmony",
-                    "track_uri": "spotify:track:2ACOWPLUe4A4KuQ5ioD2od",
-                    "track_name": "That's My Girl"
-                },
-                {
-                    "artist_name": "Marina and the Diamonds",
-                    "track_uri": "spotify:track:5UBeEw8u5VurDhPo1klAPY",
-                    "track_name": "Froot"
-                },
-                {
-                    "artist_name": "Chairlift",
-                    "track_uri": "spotify:track:5puD5DykxLKhlNy3GckU6Z",
-                    "track_name": "Ch-Ching"
-                },
-                {
-                    "artist_name": "Beyonc\u00e9",
-                    "track_uri": "spotify:track:6wwrYruEgWlowPDZMq5116",
-                    "track_name": "Blow"
-                },
-                {
-                    "artist_name": "Courtney Barnett",
-                    "track_uri": "spotify:track:7Bx8FPnXl1LdNpyFj8Nxfw",
-                    "track_name": "Pedestrian at Best"
-                },
-                {
-                    "artist_name": "Fitz and The Tantrums",
-                    "track_uri": "spotify:track:7j56HrjR9cGzvekvZY3Faz",
-                    "track_name": "HandClap"
-                },
-                {
-                    "artist_name": "Regina Spektor",
-                    "track_uri": "spotify:track:6KDmK6KDw2QWVqF7INFv0L",
-                    "track_name": "Small Bill$"
-                },
-                {
-                    "artist_name": "Christine and the Queens",
-                    "track_uri": "spotify:track:1ZtfgKh4QWhHRBpOlf4Q9U",
-                    "track_name": "iT"
-                },
-                {
-                    "artist_name": "St. Vincent",
-                    "track_uri": "spotify:track:3rQebN8HL9ZxZsFkmNCpA4",
-                    "track_name": "Birth In Reverse"
-                },
-                {
-                    "artist_name": "Fiona Apple",
-                    "track_uri": "spotify:track:6PNvv1dmDbOWrAYwEcuKBX",
-                    "track_name": "Criminal"
-                },
-                {
-                    "artist_name": "Portugal. The Man",
-                    "track_uri": "spotify:track:7iOyMOxdOULvXqUqC26spJ",
-                    "track_name": "Modern Jesus"
-                },
-                {
-                    "artist_name": "Caesars",
-                    "track_uri": "spotify:track:5XMjXjwCkJVmk0AHm7z8IV",
-                    "track_name": "Jerk It Out"
-                },
-                {
-                    "artist_name": "Shawn Colvin",
-                    "track_uri": "spotify:track:6NUiDZQALrNiDfqDB6ZBaF",
-                    "track_name": "Sunny Came Home"
-                },
-                {
-                    "artist_name": "Meghan Trainor",
-                    "track_uri": "spotify:track:5k5fWendNngd89O8JKoE8L",
-                    "track_name": "Better When I'm Dancin'"
-                },
-                {
-                    "artist_name": "Sia",
-                    "track_uri": "spotify:track:44p0C72gL2FbjWbzkUFfTf",
-                    "track_name": "Bird Set Free"
-                },
-                {
-                    "artist_name": "RAC",
-                    "track_uri": "spotify:track:4jg7cRXfEw0MxMjuxw4xAJ",
-                    "track_name": "Hard To Hold"
-                },
-                {
-                    "artist_name": "Kate Nash",
-                    "track_uri": "spotify:track:0zscy4RolfjsihJlXuQLzG",
-                    "track_name": "Pumpkin Soup"
-                },
-                {
-                    "artist_name": "Laura Gibson",
-                    "track_uri": "spotify:track:5itl90MvwmzyyUD2qrSNxc",
-                    "track_name": "The Cause"
-                },
-                {
-                    "artist_name": "Ann Peebles",
-                    "track_uri": "spotify:track:5RxZ2t9Pujgw4a8n1SBVkZ",
-                    "track_name": "I Can't Stand The Rain"
-                },
-                {
-                    "artist_name": "Sylvan Esso",
-                    "track_uri": "spotify:track:1FejelrM94Ik1mlI64Ofpb",
-                    "track_name": "Coffee"
-                },
-                {
-                    "artist_name": "Tobias Jesso Jr.",
-                    "track_uri": "spotify:track:3TrYli5BpZzzNoyAH64k2K",
-                    "track_name": "Crocodile Tears"
-                },
-                {
-                    "artist_name": "Sam Sparro",
-                    "track_uri": "spotify:track:4FYp10E5svnFAeOj6tNX9Y",
-                    "track_name": "Black & Gold - Marcussen Album Version"
-                },
-                {
-                    "artist_name": "Halsey",
-                    "track_uri": "spotify:track:2IO7yf562c1zLzpanal1DT",
-                    "track_name": "Gasoline"
-                },
-                {
-                    "artist_name": "Kaminsky",
-                    "track_uri": "spotify:track:2tkEYPIMNWfHrwOeyTks4g",
-                    "track_name": "Hold On We're Going Home (feat. Luna)"
-                },
-                {
-                    "artist_name": "Yumi Zouma",
-                    "track_uri": "spotify:track:3eRTobW1c1jEOcdazdwq6c",
-                    "track_name": "Barricade (Matter of Fact)"
-                },
-                {
-                    "artist_name": "CHVRCHES",
-                    "track_uri": "spotify:track:6JIOxuW27X3znAuEUPXKaL",
-                    "track_name": "We Sink"
-                },
-                {
-                    "artist_name": "Bon Iver",
-                    "track_uri": "spotify:track:1LfWibYjk0TD8YNPtzym9A",
-                    "track_name": "33 \u201cGOD\u201d"
-                },
-                {
-                    "artist_name": "Amy Winehouse",
-                    "track_uri": "spotify:track:63hOJX2jdHeRRXQlCKh6gQ",
-                    "track_name": "Mr Magic (Through The Smoke)"
-                },
-                {
-                    "artist_name": "Chet Faker",
-                    "track_uri": "spotify:track:03qDVofuUUQSsSQCLWX0eF",
-                    "track_name": "Gold"
-                },
-                {
-                    "artist_name": "Grimes",
-                    "track_uri": "spotify:track:4P6n0udLAnmCNXVcobYbsK",
-                    "track_name": "Oblivion"
-                },
-                {
-                    "artist_name": "Sia",
-                    "track_uri": "spotify:track:7xHWNBFm6ObGEQPaUxHuKO",
-                    "track_name": "The Greatest"
-                },
-                {
-                    "artist_name": "Twenty One Pilots",
-                    "track_uri": "spotify:track:6i0V12jOa3mr6uu4WYhUBr",
-                    "track_name": "Heathens"
-                },
-                {
-                    "artist_name": "Kiesza",
-                    "track_uri": "spotify:track:51tUT1gHE30GQPhn1agudM",
-                    "track_name": "Hideaway"
-                },
-                {
-                    "artist_name": "Rihanna",
-                    "track_uri": "spotify:track:14WWzenpaEgQZlqPq2nk4v",
-                    "track_name": "Work"
-                },
-                {
-                    "artist_name": "The Knife",
-                    "track_uri": "spotify:track:2YacpExEbX9tF8IbFlFOo4",
-                    "track_name": "Heartbeats"
-                }
-            ],
-            "num_edits": 3,
-            "duration_ms": 7973830,
-            "num_artists": 34
-        },
-        {
             "name": "disney music",
-            "pid": 1063,
+            "pid": 802,
             "num_tracks": 96,
             "num_followers": 77,
             "tracks": [
@@ -1897,7 +1711,7 @@
         },
         {
             "name": "you",
-            "pid": 1064,
+            "pid": 803,
             "num_tracks": 14,
             "num_followers": 25,
             "tracks": [
@@ -1978,7 +1792,7 @@
         },
         {
             "name": "august",
-            "pid": 1065,
+            "pid": 804,
             "num_tracks": 17,
             "num_followers": 13,
             "tracks": [

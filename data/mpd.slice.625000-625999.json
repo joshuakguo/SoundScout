@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "First Dance",
-            "pid": 4267,
+            "pid": 3253,
             "num_tracks": 14,
             "num_followers": 104,
             "tracks": [
@@ -88,7 +88,7 @@
         },
         {
             "name": "Toby Mac",
-            "pid": 4268,
+            "pid": 3254,
             "num_tracks": 56,
             "num_followers": 11111,
             "tracks": [
@@ -379,7 +379,7 @@
         },
         {
             "name": "REMIXES",
-            "pid": 4269,
+            "pid": 3255,
             "num_tracks": 66,
             "num_followers": 17,
             "tracks": [
@@ -720,7 +720,7 @@
         },
         {
             "name": "verano",
-            "pid": 4270,
+            "pid": 3256,
             "num_tracks": 35,
             "num_followers": 13,
             "tracks": [
@@ -906,7 +906,7 @@
         },
         {
             "name": "June 2014",
-            "pid": 4271,
+            "pid": 3257,
             "num_tracks": 56,
             "num_followers": 17,
             "tracks": [
@@ -1197,7 +1197,7 @@
         },
         {
             "name": "girl gang",
-            "pid": 4272,
+            "pid": 3258,
             "num_tracks": 81,
             "num_followers": 12,
             "tracks": [
@@ -1614,7 +1614,7 @@
         },
         {
             "name": "Frenchy",
-            "pid": 4273,
+            "pid": 3259,
             "num_tracks": 23,
             "num_followers": 39,
             "tracks": [
@@ -1740,7 +1740,7 @@
         },
         {
             "name": "California Dreaming",
-            "pid": 4274,
+            "pid": 3260,
             "num_tracks": 22,
             "num_followers": 46,
             "tracks": [
@@ -1862,7 +1862,7 @@
         },
         {
             "name": "belly dance",
-            "pid": 4275,
+            "pid": 3261,
             "num_tracks": 81,
             "num_followers": 135,
             "tracks": [
@@ -2275,302 +2275,6 @@
             "num_edits": 45,
             "duration_ms": 17986935,
             "num_artists": 60
-        },
-        {
-            "name": "mex",
-            "pid": 4276,
-            "num_tracks": 57,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-                    "track_uri": "spotify:track:5jDXNv6ea5k1aNU9Y90otb",
-                    "track_name": "Y Que Quede Claro"
-                },
-                {
-                    "artist_name": "Gerardo Ortiz",
-                    "track_uri": "spotify:track:7yAwyQ2np0KRjeXsGwirez",
-                    "track_name": "D\u00e1maso"
-                },
-                {
-                    "artist_name": "Larry Hern\u00e1ndez",
-                    "track_uri": "spotify:track:5XmGJzHGZaLMNg7fObxBW9",
-                    "track_name": "Arrastrando Las Patas"
-                },
-                {
-                    "artist_name": "Voz De Mando",
-                    "track_uri": "spotify:track:3qK0HkXzkrLvwU2P6MhLpN",
-                    "track_name": "Muchacho De Campo"
-                },
-                {
-                    "artist_name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-                    "track_uri": "spotify:track:1DgyqFjyOsVTakAMr6Qowi",
-                    "track_name": "Hermosa Experiencia"
-                },
-                {
-                    "artist_name": "Jes\u00fas Ojeda y Sus Parientes",
-                    "track_uri": "spotify:track:61UPQMUu5ZYUY1oKpUgtAU",
-                    "track_name": "Estilo Italiano"
-                },
-                {
-                    "artist_name": "Montez de Durango",
-                    "track_uri": "spotify:track:3UtxfzWaBpi91suTUNw3jD",
-                    "track_name": "L\u00e1grimas Del Coraz\u00f3n"
-                },
-                {
-                    "artist_name": "Banda El Recodo",
-                    "track_uri": "spotify:track:0Ndim92MYsrFSseD9gbBcg",
-                    "track_name": "Vas A Llorar Por M\u00ed"
-                },
-                {
-                    "artist_name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-                    "track_uri": "spotify:track:1y8vhYug05asslmpY8bFel",
-                    "track_name": "Cabecita Dura"
-                },
-                {
-                    "artist_name": "Banda Los Recoditos",
-                    "track_uri": "spotify:track:66YYtAnqxkLkLvTozN6feN",
-                    "track_name": "Mientras T\u00fa Jugabas"
-                },
-                {
-                    "artist_name": "Banda El Recodo",
-                    "track_uri": "spotify:track:3EjuEvxoNgHV6urIdPA4cl",
-                    "track_name": "Te Presumo"
-                },
-                {
-                    "artist_name": "K-Paz De La Sierra",
-                    "track_uri": "spotify:track:0qJWmorcTJIxCHdpX9xdMT",
-                    "track_name": "La Vecinita"
-                },
-                {
-                    "artist_name": "Los Titanes De Durango",
-                    "track_uri": "spotify:track:0CcFhIRRW468bAlAwD9FFs",
-                    "track_name": "El Enamorado"
-                },
-                {
-                    "artist_name": "Los Titanes De Durango",
-                    "track_uri": "spotify:track:06KIP93OM4E33CFLbqXXah",
-                    "track_name": "Tubo Que Tuvo Tuvo"
-                },
-                {
-                    "artist_name": "Banda La Enkantadora",
-                    "track_uri": "spotify:track:2rIRumiO4rOHF45nSQGz8t",
-                    "track_name": "El Troquero Locochon"
-                },
-                {
-                    "artist_name": "Voz De Mando",
-                    "track_uri": "spotify:track:6urCY4DusFP1RSl5H2gQC2",
-                    "track_name": "Y Ahora Resulta"
-                },
-                {
-                    "artist_name": "K-Paz De La Sierra",
-                    "track_uri": "spotify:track:1MDa6p9XrN9IMvKqS4PEm3",
-                    "track_name": "Jambalaya"
-                },
-                {
-                    "artist_name": "Los Tigres Del Norte",
-                    "track_uri": "spotify:track:0Ft9dBN6vm9bhvGaUPHyYO",
-                    "track_name": "Golpes En El Coraz\u00f3n"
-                },
-                {
-                    "artist_name": "PeeWee",
-                    "track_uri": "spotify:track:35DnOg2WV37IWE7OtAADlA",
-                    "track_name": "Con Tus Besos"
-                },
-                {
-                    "artist_name": "Los Inquietos Del Norte",
-                    "track_uri": "spotify:track:6wdZMtvFVXGilIEq9VExMS",
-                    "track_name": "Locos Desde Ayer"
-                },
-                {
-                    "artist_name": "Los Titanes De Durango",
-                    "track_uri": "spotify:track:1IhWcfxHog2LokQH2AQ9xd",
-                    "track_name": "El Prostipirugolfo"
-                },
-                {
-                    "artist_name": "Los Inquietos Del Norte",
-                    "track_uri": "spotify:track:2TDAwXLMjRBWp7Loe488gR",
-                    "track_name": "Mi Amigo El De Arriba"
-                },
-                {
-                    "artist_name": "Los Inquietos Del Norte",
-                    "track_uri": "spotify:track:46QOI2BLvVbv9puP7Gh4Er",
-                    "track_name": "La Borrachera"
-                },
-                {
-                    "artist_name": "Los Inquietos Del Norte",
-                    "track_uri": "spotify:track:5qEJIpONZDn5MwVir8Yrk0",
-                    "track_name": "Las Puertas Del Infierno"
-                },
-                {
-                    "artist_name": "Luis Coronel",
-                    "track_uri": "spotify:track:6xK4AzqOpT5oo7fgn0Mvd7",
-                    "track_name": "Mi Ni\u00f1a Traviesa"
-                },
-                {
-                    "artist_name": "El Chapo",
-                    "track_uri": "spotify:track:50tmOF513elS7K3HrwYq29",
-                    "track_name": "Recostada En La Cama (Se Canso De Esperar)"
-                },
-                {
-                    "artist_name": "Fidel Rueda",
-                    "track_uri": "spotify:track:6Ng777bqg8fwA7N7GyUDYm",
-                    "track_name": "Aunque Te Duela"
-                },
-                {
-                    "artist_name": "Fidel Rueda",
-                    "track_uri": "spotify:track:7tZC4PlfV4nDW8lruyzi1A",
-                    "track_name": "Me Encantar\u00eda"
-                },
-                {
-                    "artist_name": "Fidel Rueda",
-                    "track_uri": "spotify:track:6shTB1HYWmnSxuEaCAecVM",
-                    "track_name": "Enhorabuena"
-                },
-                {
-                    "artist_name": "Sergio Vega \"El Shaka\"",
-                    "track_uri": "spotify:track:7j9iuJvGg8Ve2O20CO8Oho",
-                    "track_name": "Due\u00f1o de Ti"
-                },
-                {
-                    "artist_name": "Sergio Vega \"El Shaka\"",
-                    "track_uri": "spotify:track:1mGdJ0oLBiSsQ9vYZxTVCP",
-                    "track_name": "Qui\u00e9n Es Usted"
-                },
-                {
-                    "artist_name": "Sergio Vega \"El Shaka\"",
-                    "track_uri": "spotify:track:7LCymER3kimMSSMBnuyEub",
-                    "track_name": "Millonario De Amor"
-                },
-                {
-                    "artist_name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-                    "track_uri": "spotify:track:5JaMGjY9Ltvo9CFQfmUdYW",
-                    "track_name": "Mi Raz\u00f3n De Ser"
-                },
-                {
-                    "artist_name": "Los Tigres Del Norte",
-                    "track_uri": "spotify:track:160gAhKZb7sGKlLwUUk8IX",
-                    "track_name": "La Reina Del Sur"
-                },
-                {
-                    "artist_name": "Los Tigres Del Norte",
-                    "track_uri": "spotify:track:19Tx1GJy2JGJP43yjZUK6u",
-                    "track_name": "La Puerta Negra"
-                },
-                {
-                    "artist_name": "Los Tigres Del Norte",
-                    "track_uri": "spotify:track:6tTdUPxER1wdW1lAVcuBc4",
-                    "track_name": "Se\u00f1or Locutor"
-                },
-                {
-                    "artist_name": "Mala Fe",
-                    "track_uri": "spotify:track:7neWp4incUBLP1XQTNWmP0",
-                    "track_name": "La Vaca"
-                },
-                {
-                    "artist_name": "Los Tigrillos",
-                    "track_uri": "spotify:track:3a6TQVSXm6zCQzNhTVO2Mo",
-                    "track_name": "El Camale\u00f3n"
-                },
-                {
-                    "artist_name": "Los Buitres De Culiacan Sinaloa",
-                    "track_uri": "spotify:track:5GTtj2q0psedXHdUnFG4z3",
-                    "track_name": "Sanguinarios Del M1"
-                },
-                {
-                    "artist_name": "Banda El Recodo",
-                    "track_uri": "spotify:track:1F6BAyY4iIzHiZCnUIZDbn",
-                    "track_name": "La Mejor De Todas"
-                },
-                {
-                    "artist_name": "Banda El Recodo",
-                    "track_uri": "spotify:track:2b4GVETj0BprQPrmSqmZwf",
-                    "track_name": "Dos Botellas De Mezcal"
-                },
-                {
-                    "artist_name": "Banda El Recodo",
-                    "track_uri": "spotify:track:17Atin09BMavpAvwc8qWph",
-                    "track_name": "Pena Tras Pena"
-                },
-                {
-                    "artist_name": "Banda Los Recoditos",
-                    "track_uri": "spotify:track:01ksPzu3Bw8Lsf9o6xIk8C",
-                    "track_name": "Mi \u00daltimo Deseo"
-                },
-                {
-                    "artist_name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-                    "track_uri": "spotify:track:31DmTztbIIsv6wSE93S4fZ",
-                    "track_name": "El Mejor Perfume"
-                },
-                {
-                    "artist_name": "Banda El Recodo",
-                    "track_uri": "spotify:track:3DqQhY5S4RIWIoFuowD7kX",
-                    "track_name": "Y Llegaste T\u00fa"
-                },
-                {
-                    "artist_name": "Colmillo Norte\u00f1o",
-                    "track_uri": "spotify:track:1VgBDN01P9evVutNs82GdY",
-                    "track_name": "El Bueno y el Malo"
-                },
-                {
-                    "artist_name": "Los Tucanes De Tijuana",
-                    "track_uri": "spotify:track:79xkyiTBHqdGg3SirACPwy",
-                    "track_name": "La Chona"
-                },
-                {
-                    "artist_name": "Grupo Bryndis",
-                    "track_uri": "spotify:track:4Hmuqk2w1fGqwpMP04aDUu",
-                    "track_name": "Amor Prohibido"
-                },
-                {
-                    "artist_name": "El Komander",
-                    "track_uri": "spotify:track:1giHG26ew5FJIPdYfyvdZo",
-                    "track_name": "Soy De Rancho"
-                },
-                {
-                    "artist_name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-                    "track_uri": "spotify:track:0GpOP7dLxKwgUeEQlm4Pth",
-                    "track_name": "Ni Lo Intentes"
-                },
-                {
-                    "artist_name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-                    "track_uri": "spotify:track:1KfQebmcNZ2UeL8qiVIV0h",
-                    "track_name": "T\u00fa No Tienes La Culpa"
-                },
-                {
-                    "artist_name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-                    "track_uri": "spotify:track:0x3Fwy9ojsS2A9OuVu0nVV",
-                    "track_name": "Eres Todo Todo - Bolero"
-                },
-                {
-                    "artist_name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-                    "track_uri": "spotify:track:02oXpscvDGyftzj4tXTOQx",
-                    "track_name": "Las Mulas De Moreno"
-                },
-                {
-                    "artist_name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-                    "track_uri": "spotify:track:6uiFae79TBQx1vPMwelNaD",
-                    "track_name": "La Mar\u00eda"
-                },
-                {
-                    "artist_name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-                    "track_uri": "spotify:track:7qUJGL0fL5f8wSE5BKYKgd",
-                    "track_name": "Olv\u00eddame"
-                },
-                {
-                    "artist_name": "Los Rieleros Del Norte",
-                    "track_uri": "spotify:track:20qd1CUZCdgbOYN8vDt8Se",
-                    "track_name": "Voy A Llorar Por Ti"
-                },
-                {
-                    "artist_name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-                    "track_uri": "spotify:track:1O18MtSAMUk7JfAVB8gGzs",
-                    "track_name": "H\u00e1blame De Ti"
-                }
-            ],
-            "num_edits": 5,
-            "duration_ms": 10663328,
-            "num_artists": 29
         }
     ]
 }

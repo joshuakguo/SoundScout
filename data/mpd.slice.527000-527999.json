@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "sad",
-            "pid": 4150,
+            "pid": 3167,
             "num_tracks": 35,
             "num_followers": 36,
             "tracks": [
@@ -193,279 +193,8 @@
             "description": "sad popular songs"
         },
         {
-            "name": "chill vibes",
-            "pid": 4151,
-            "num_tracks": 52,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "San Holo",
-                    "track_uri": "spotify:track:7uSZPbd8DxdkmSauCKnITY",
-                    "track_name": "We Rise"
-                },
-                {
-                    "artist_name": "Lady Bee",
-                    "track_uri": "spotify:track:7zSxnkB1eqbD1u71pH2PY8",
-                    "track_name": "Drop It Down Like - Radio Edit"
-                },
-                {
-                    "artist_name": "Deep Chills",
-                    "track_uri": "spotify:track:1oCGxlxrgV1eIL5KYIWoV6",
-                    "track_name": "Lighthearted"
-                },
-                {
-                    "artist_name": "Deep Chills",
-                    "track_uri": "spotify:track:1Kr8qVQBldnHQbaMW7wS69",
-                    "track_name": "Blinded"
-                },
-                {
-                    "artist_name": "Imad Royal",
-                    "track_uri": "spotify:track:2SLEugguIEd06mZx58hBPo",
-                    "track_name": "Down For Whatever (feat. Pell)"
-                },
-                {
-                    "artist_name": "Frank Pole",
-                    "track_uri": "spotify:track:2sLOxiEuoHX49R7bHcqQcR",
-                    "track_name": "Afterlife (Remix by Frank Pole)"
-                },
-                {
-                    "artist_name": "M83",
-                    "track_uri": "spotify:track:1eyzqe2QqGZUmfcPZtrIyt",
-                    "track_name": "Midnight City"
-                },
-                {
-                    "artist_name": "Bryce Vine",
-                    "track_uri": "spotify:track:4Y778EFdrOrvILkY3k4FXO",
-                    "track_name": "Nowhere Man"
-                },
-                {
-                    "artist_name": "Jonas Blue",
-                    "track_uri": "spotify:track:6OZh916QF8XNunWaP97WEZ",
-                    "track_name": "Fast Car"
-                },
-                {
-                    "artist_name": "Pell",
-                    "track_uri": "spotify:track:3hBK6nZq22px2RjGqDqt4E",
-                    "track_name": "Ocean View 2.0"
-                },
-                {
-                    "artist_name": "Klingande",
-                    "track_uri": "spotify:track:2xlA7kNX6NPtT2LEWspzAQ",
-                    "track_name": "Jubel - Original Mix"
-                },
-                {
-                    "artist_name": "Mura Masa",
-                    "track_uri": "spotify:track:0m7TPsBkrZfg6Y6hyuuJLh",
-                    "track_name": "Lovesick"
-                },
-                {
-                    "artist_name": "Sam Feldt",
-                    "track_uri": "spotify:track:6PkzXU8dlwtfrwyTlUyVnv",
-                    "track_name": "Show Me Love - EDX Remix / Radio Edit"
-                },
-                {
-                    "artist_name": "Mura Masa",
-                    "track_uri": "spotify:track:2CrvZVY0Tw0CG0MF24TwWg",
-                    "track_name": "When U Need Me"
-                },
-                {
-                    "artist_name": "San Holo",
-                    "track_uri": "spotify:track:7AfoVVRv3unCBEXNZnf2mj",
-                    "track_name": "Fly"
-                },
-                {
-                    "artist_name": "Illenium",
-                    "track_uri": "spotify:track:40ZZYF9I8cGHEuT1h9Gw37",
-                    "track_name": "It's All On U (T-Mass & LZRD Remix) [feat. Liam O'Donnell]"
-                },
-                {
-                    "artist_name": "Kiiara",
-                    "track_uri": "spotify:track:57rOXabUKgkrwHPSqzo4s5",
-                    "track_name": "Feels - Jai Wolf Remix"
-                },
-                {
-                    "artist_name": "Ookay",
-                    "track_uri": "spotify:track:5Ce9z7GqSknXccyppRxNLY",
-                    "track_name": "Thief"
-                },
-                {
-                    "artist_name": "Kygo",
-                    "track_uri": "spotify:track:3FZEv9JddkjHNFiMVxJYpS",
-                    "track_name": "Carry Me"
-                },
-                {
-                    "artist_name": "Kygo",
-                    "track_uri": "spotify:track:2fZW7ByWe46rGih0FtP2XK",
-                    "track_name": "Nothing Left"
-                },
-                {
-                    "artist_name": "Jai Wolf",
-                    "track_uri": "spotify:track:2koyX2xM06OzHfeMZE0bxt",
-                    "track_name": "Drive"
-                },
-                {
-                    "artist_name": "Jai Wolf",
-                    "track_uri": "spotify:track:4RqJKbkdJwkNP6TSRkKxRX",
-                    "track_name": "The World Is Ours"
-                },
-                {
-                    "artist_name": "Oh Wonder",
-                    "track_uri": "spotify:track:2QgNcjwEn0vGmTommfszQd",
-                    "track_name": "Lose It"
-                },
-                {
-                    "artist_name": "Jai Wolf",
-                    "track_uri": "spotify:track:1mia2jUSO5ea1Pe7xmsLV0",
-                    "track_name": "Indian Summer"
-                },
-                {
-                    "artist_name": "Black Coast",
-                    "track_uri": "spotify:track:5LZQ5s0kRZS9nBSd1xLK7U",
-                    "track_name": "Trndsttr (feat. M. Maggie) - Lucian Remix"
-                },
-                {
-                    "artist_name": "Moguai",
-                    "track_uri": "spotify:track:0Ijedu3rsqq5LDWHozml03",
-                    "track_name": "Hold On - Radio Edit"
-                },
-                {
-                    "artist_name": "Starley",
-                    "track_uri": "spotify:track:78rIJddV4X0HkNAInEcYde",
-                    "track_name": "Call On Me - Ryan Riback Extended Remix"
-                },
-                {
-                    "artist_name": "Marshmello",
-                    "track_uri": "spotify:track:1Hk0QRlUFCHYG6zIvUh0Xd",
-                    "track_name": "Summer"
-                },
-                {
-                    "artist_name": "Matoma",
-                    "track_uri": "spotify:track:2H8LPaY3NSjmOFMH2Rygnz",
-                    "track_name": "Running Out"
-                },
-                {
-                    "artist_name": "Seinabo Sey",
-                    "track_uri": "spotify:track:0IDcqQM84frBhAJ8vXC76I",
-                    "track_name": "Younger - Kygo Remix"
-                },
-                {
-                    "artist_name": "Alizzz",
-                    "track_uri": "spotify:track:3QlghHX1jPG5RJYFjrJCNW",
-                    "track_name": "Your Love feat. Max Marshall"
-                },
-                {
-                    "artist_name": "The Chainsmokers",
-                    "track_uri": "spotify:track:7sG2bWi2eDtvX9vX8yC1Gn",
-                    "track_name": "Inside Out"
-                },
-                {
-                    "artist_name": "WALLA",
-                    "track_uri": "spotify:track:3HYXqOAm2Q8b2OyYqzv8d4",
-                    "track_name": "101"
-                },
-                {
-                    "artist_name": "ODESZA",
-                    "track_uri": "spotify:track:4auZhbHhgbiSMeh0kiHCRk",
-                    "track_name": "Say My Name"
-                },
-                {
-                    "artist_name": "The Griswolds",
-                    "track_uri": "spotify:track:3SJv9Gmnq6VXM9xNITfIw1",
-                    "track_name": "Live This Nightmare - NGHTMRE Remix"
-                },
-                {
-                    "artist_name": "Kygo",
-                    "track_uri": "spotify:track:5masKPHeAOVNgxdLebIcK7",
-                    "track_name": "Stole the Show"
-                },
-                {
-                    "artist_name": "Mako",
-                    "track_uri": "spotify:track:5fLZKOUE9D4JrbeAHV6pDI",
-                    "track_name": "Smoke Filled Room - Elephante Remix"
-                },
-                {
-                    "artist_name": "ODESZA",
-                    "track_uri": "spotify:track:4aJnMRNeuDZSQN7FaSNGtM",
-                    "track_name": "How Did I Get Here"
-                },
-                {
-                    "artist_name": "Flume",
-                    "track_uri": "spotify:track:0lOEOflAkoqLcgp0jqshcZ",
-                    "track_name": "On Top"
-                },
-                {
-                    "artist_name": "The Lighthouse And The Whaler",
-                    "track_uri": "spotify:track:15KUDgDxvkghmtB6FxI7Dt",
-                    "track_name": "Venice"
-                },
-                {
-                    "artist_name": "Snakehips",
-                    "track_uri": "spotify:track:6TaqooOXAEcijL6G1AWS2K",
-                    "track_name": "All My Friends"
-                },
-                {
-                    "artist_name": "Cherub",
-                    "track_uri": "spotify:track:152ANCuCtaK7mkhyFubrRG",
-                    "track_name": "Doses & Mimosas"
-                },
-                {
-                    "artist_name": "Flume",
-                    "track_uri": "spotify:track:6vnDoUOHTiVB5DvX18tJon",
-                    "track_name": "Say It"
-                },
-                {
-                    "artist_name": "Petit Biscuit",
-                    "track_uri": "spotify:track:3WRQUvzRvBDr4AxMWhXc5E",
-                    "track_name": "Sunset Lover"
-                },
-                {
-                    "artist_name": "Kiiara",
-                    "track_uri": "spotify:track:6FhQ6UH6m0mlXRLFiyehFR",
-                    "track_name": "Intention"
-                },
-                {
-                    "artist_name": "Kaskade",
-                    "track_uri": "spotify:track:02r2uE8nEHpJAvFFttQxqh",
-                    "track_name": "Fakin It (feat. Ofelia K)"
-                },
-                {
-                    "artist_name": "Jon Bellion",
-                    "track_uri": "spotify:track:1CnPYaKxTVb4LWOtiGOm0m",
-                    "track_name": "All Time Low"
-                },
-                {
-                    "artist_name": "Kiiara",
-                    "track_uri": "spotify:track:3QWjljChcOMkRDYSzF33Qr",
-                    "track_name": "Whippin (feat. Felix Snow)"
-                },
-                {
-                    "artist_name": "Shallou",
-                    "track_uri": "spotify:track:5ffwgrvw4tVlhFcI8efviN",
-                    "track_name": "Doubt (Summer Edit)"
-                },
-                {
-                    "artist_name": "ODESZA",
-                    "track_uri": "spotify:track:7avUYFehb1GscgCncPdBDK",
-                    "track_name": "Sun Models"
-                },
-                {
-                    "artist_name": "Danrell",
-                    "track_uri": "spotify:track:6xUHtKE18uTWVaCt6q1adW",
-                    "track_name": "Hostage"
-                },
-                {
-                    "artist_name": "R3HAB",
-                    "track_uri": "spotify:track:3gfmFoJgmn9LiIj5mV8oSS",
-                    "track_name": "I Just Can't"
-                }
-            ],
-            "num_edits": 11,
-            "duration_ms": 11771265,
-            "num_artists": 40
-        },
-        {
             "name": "Classical",
-            "pid": 4152,
+            "pid": 3168,
             "num_tracks": 20,
             "num_followers": 729,
             "tracks": [
@@ -576,7 +305,7 @@
         },
         {
             "name": "car tunes",
-            "pid": 4153,
+            "pid": 3169,
             "num_tracks": 87,
             "num_followers": 14,
             "tracks": [
@@ -1022,7 +751,7 @@
         },
         {
             "name": "perfect songs",
-            "pid": 4154,
+            "pid": 3170,
             "num_tracks": 162,
             "num_followers": 125,
             "tracks": [
@@ -1843,7 +1572,7 @@
         },
         {
             "name": "Christian Contemporary",
-            "pid": 4155,
+            "pid": 3171,
             "num_tracks": 128,
             "num_followers": 21,
             "tracks": [

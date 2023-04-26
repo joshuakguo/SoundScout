@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "lit\ud83d\udd25",
-            "pid": 713,
+            "pid": 530,
             "num_tracks": 141,
             "num_followers": 15,
             "tracks": [
@@ -723,7 +723,7 @@
         },
         {
             "name": "Christian workout",
-            "pid": 714,
+            "pid": 531,
             "num_tracks": 87,
             "num_followers": 26,
             "tracks": [
@@ -1169,7 +1169,7 @@
         },
         {
             "name": "old songs",
-            "pid": 715,
+            "pid": 532,
             "num_tracks": 60,
             "num_followers": 18,
             "tracks": [
@@ -1480,7 +1480,7 @@
         },
         {
             "name": "Summer Country",
-            "pid": 716,
+            "pid": 533,
             "num_tracks": 51,
             "num_followers": 15,
             "tracks": [
@@ -1746,7 +1746,7 @@
         },
         {
             "name": "Goa",
-            "pid": 717,
+            "pid": 534,
             "num_tracks": 28,
             "num_followers": 15,
             "tracks": [
@@ -1897,7 +1897,7 @@
         },
         {
             "name": "Running playlist",
-            "pid": 718,
+            "pid": 535,
             "num_tracks": 71,
             "num_followers": 13,
             "tracks": [
@@ -2262,344 +2262,8 @@
             "num_artists": 28
         },
         {
-            "name": "Run The Jewels",
-            "pid": 719,
-            "num_tracks": 65,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Killer Mike",
-                    "track_uri": "spotify:track:44XV05LzPeL6nFtNabtBJt",
-                    "track_name": "Big Beast (feat. Bun B, T.I., and Trouble)"
-                },
-                {
-                    "artist_name": "Killer Mike",
-                    "track_uri": "spotify:track:68qkEjGepczQDzuhxH5anO",
-                    "track_name": "Untitled (feat. Scar)"
-                },
-                {
-                    "artist_name": "Killer Mike",
-                    "track_uri": "spotify:track:676tkPoRYf10KDJIIhRRI6",
-                    "track_name": "Go!"
-                },
-                {
-                    "artist_name": "Killer Mike",
-                    "track_uri": "spotify:track:0SiB6Ac2ZIzzgFS81rgLSB",
-                    "track_name": "Southern Fried"
-                },
-                {
-                    "artist_name": "Killer Mike",
-                    "track_uri": "spotify:track:33DOKl2gQ9HNlz4WUKZlEY",
-                    "track_name": "JoJo's Chillin"
-                },
-                {
-                    "artist_name": "Killer Mike",
-                    "track_uri": "spotify:track:2HRYa6iG1M5DRefO8pK2I3",
-                    "track_name": "Reagan"
-                },
-                {
-                    "artist_name": "Killer Mike",
-                    "track_uri": "spotify:track:6SKP6d0DFOBemCvThbuqUj",
-                    "track_name": "Don't Die"
-                },
-                {
-                    "artist_name": "Killer Mike",
-                    "track_uri": "spotify:track:2WzGr3d1CD0w11UmJm5Ms9",
-                    "track_name": "Ghetto Gospel"
-                },
-                {
-                    "artist_name": "Killer Mike",
-                    "track_uri": "spotify:track:52iee9gYhusYbNdaw7yLj9",
-                    "track_name": "Butane (Champion's Anthem) [feat. El-P]"
-                },
-                {
-                    "artist_name": "Killer Mike",
-                    "track_uri": "spotify:track:07CjUn8AEGloGBuSdoLwlc",
-                    "track_name": "Anywhere But Here (feat. Emily Panic)"
-                },
-                {
-                    "artist_name": "Killer Mike",
-                    "track_uri": "spotify:track:2O0t6eNn9IUnkU7ngEf04F",
-                    "track_name": "Willie Burke Sherwood"
-                },
-                {
-                    "artist_name": "Killer Mike",
-                    "track_uri": "spotify:track:0ghupqJWfELLIo1EaYpzqV",
-                    "track_name": "R.A.P. Music"
-                },
-                {
-                    "artist_name": "El-P",
-                    "track_uri": "spotify:track:4zyPlHMdEzygdC9bGcfJPR",
-                    "track_name": "Request Denied"
-                },
-                {
-                    "artist_name": "El-P",
-                    "track_uri": "spotify:track:2OIVxvKa7XYSiZO7IYyIK5",
-                    "track_name": "The Full Retard"
-                },
-                {
-                    "artist_name": "El-P",
-                    "track_uri": "spotify:track:4zFbNiPwD4IK6QZgQuDcus",
-                    "track_name": "Works Every Time (feat. Paul Banks)"
-                },
-                {
-                    "artist_name": "El-P",
-                    "track_uri": "spotify:track:6fYonstl3elKroeUaFysIS",
-                    "track_name": "Drones over Bklyn"
-                },
-                {
-                    "artist_name": "El-P",
-                    "track_uri": "spotify:track:59lhh67RFroR4p8Hh1nrZA",
-                    "track_name": "Oh Hail No (feat. Mr. Motherfucking Exquire & Danny Brown)"
-                },
-                {
-                    "artist_name": "El-P",
-                    "track_uri": "spotify:track:2tFKZgbgaHuX68fQpqdWAU",
-                    "track_name": "Tougher Colder Killer (feat. Killer Mike & Despot)"
-                },
-                {
-                    "artist_name": "El-P",
-                    "track_uri": "spotify:track:0tyO5QX6e5QUYcz2VJqk0x",
-                    "track_name": "True Story"
-                },
-                {
-                    "artist_name": "El-P",
-                    "track_uri": "spotify:track:3iRPqylFhfF5yvnpwGcNwH",
-                    "track_name": "The Jig Is Up"
-                },
-                {
-                    "artist_name": "El-P",
-                    "track_uri": "spotify:track:39uyaTPNLipkBEkuY6vtDe",
-                    "track_name": "Sign Here"
-                },
-                {
-                    "artist_name": "El-P",
-                    "track_uri": "spotify:track:3Q6cmXkfvUNjmzXQO3SWVd",
-                    "track_name": "For My Upstairs Neighbor (Mums the Word)"
-                },
-                {
-                    "artist_name": "El-P",
-                    "track_uri": "spotify:track:56nbhc2ZlvgxovMYbDKKLT",
-                    "track_name": "Stay Down (feat. Nick Diamonds)"
-                },
-                {
-                    "artist_name": "El-P",
-                    "track_uri": "spotify:track:0VR6D8voTii804KGuO3nQR",
-                    "track_name": "$4 Vic / Nothing but Me and You (Ftl)"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:2eha6iitIJ7EaVdvusgtQi",
-                    "track_name": "Run the Jewels"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:03GeUsYpLZHTCe3WvlDFIv",
-                    "track_name": "Banana Clipper"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:0ad2SRLNPJ5yAseRUf51UZ",
-                    "track_name": "36\" Chain"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:4UW2Vz2KHHIIcYLUBvLcvT",
-                    "track_name": "DDFH"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:3UUnrZhdfnzzOIcJth98oH",
-                    "track_name": "Sea Legs"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:3XiWwOnCBJFH14K24DCkS7",
-                    "track_name": "Job Well Done"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:753CrZpvZsFbP6igS3LwdF",
-                    "track_name": "No Come Down"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:4bLfBwFxUVsKJAkJUzAmh9",
-                    "track_name": "Get It"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:6eiy45ANj8Uw6ihvK30dLy",
-                    "track_name": "Twin Hype Back"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:2OfdnBvOwRxADoZotrgluQ",
-                    "track_name": "A Christmas Fucking Miracle"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:6MzMjCBJ9VuzaO9eX5GQRC",
-                    "track_name": "Jeopardy"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:7r01OIqRAWXCXX407lPSbL",
-                    "track_name": "Oh My Darling Don't Cry"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:6zqYITGsQw58qXz31AtQah",
-                    "track_name": "Blockbuster Night, Pt. 1"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:4WIlSfQq77VOALZIcXtyQ9",
-                    "track_name": "Close Your Eyes (And Count to Fuck)"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:4oc6T2mb67AAVxI7b4E12u",
-                    "track_name": "All My Life"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:4EyWimR3ADIHH9YRNPWY9z",
-                    "track_name": "Lie, Cheat, Steal"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:16vn0TO6niDqabn6Jc9vSm",
-                    "track_name": "Early"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:4UV8g39rhK4iqJX7G36PDr",
-                    "track_name": "All Due Respect"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:193tOBnDheJZj8DQ2XwLrq",
-                    "track_name": "Love Again (Akinyele Back)"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:584jkZ2VRopFsi9g4TPa1H",
-                    "track_name": "Crown"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:6m4CfDdxg16D58LkfD9c3X",
-                    "track_name": "Angel Duster"
-                },
-                {
-                    "artist_name": "DJ Shadow",
-                    "track_uri": "spotify:track:3UajtqBR1vopHl4EVQutul",
-                    "track_name": "Nobody Speak"
-                },
-                {
-                    "artist_name": "Miike Snow",
-                    "track_uri": "spotify:track:4wLtsL9o9tjbLG8WSGIqKT",
-                    "track_name": "Heart Is Full (feat. Run The Jewels) - Remix Bonus Track"
-                },
-                {
-                    "artist_name": "Big Grams",
-                    "track_uri": "spotify:track:7lMuO6yXnjlvsSfczyyept",
-                    "track_name": "Born to Shine"
-                },
-                {
-                    "artist_name": "Until The Ribbon Breaks",
-                    "track_uri": "spotify:track:4tb4gotecahMyvoOgNHPFz",
-                    "track_name": "Revolution Indifference"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:37wue2fDZqVGNccW03p1Sk",
-                    "track_name": "Down"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:0QCymIumn4YPTlKOuvDsS1",
-                    "track_name": "Talk to Me"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:5O4meQrvNMz9QmjXXiHnqH",
-                    "track_name": "Legend Has It"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:7pGEmglfZd4S3ZUt9idnxP",
-                    "track_name": "Call Ticketron"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:2IHy47dWsTh0FEHBMdfd38",
-                    "track_name": "Hey Kids (Bumaye)"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:2158CKVDPFy5h5OuyzFNZU",
-                    "track_name": "Stay Gold"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:2IIjl2afuXdHIEjnd8q3B1",
-                    "track_name": "Don't Get Captured"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:5n2DhttfcL1LalAWkhKRXH",
-                    "track_name": "Thieves! (Screamed the Ghost)"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:0rBZj3dwQ6lOOeIdwgTyoa",
-                    "track_name": "2100"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:0URhioon26PogQkIAHCUK4",
-                    "track_name": "Panther Like a Panther (Miracle Mix)"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:6vaIsXWQhvdpNvNHMQ5eHJ",
-                    "track_name": "Everybody Stay Calm"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:69bN6t4hvTsPn9zzByE9fd",
-                    "track_name": "Oh Mama"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:6AXnd7cDO4DbW5F4UnnAHF",
-                    "track_name": "Thursday In the Danger Room"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:7IJnMskjLdZcA1pLcjZ8Ht",
-                    "track_name": "A Report to the Shareholders / Kill Your Masters"
-                },
-                {
-                    "artist_name": "Danger Mouse",
-                    "track_uri": "spotify:track:2ouMVpv6OJglrFHg2GQPwd",
-                    "track_name": "Chase Me - Single Version - Music From The Motion Picture Baby Driver"
-                },
-                {
-                    "artist_name": "Run The Jewels",
-                    "track_uri": "spotify:track:3wCsmunW9P07GfPRKmOpx5",
-                    "track_name": "Mean Demeanor"
-                }
-            ],
-            "num_edits": 5,
-            "duration_ms": 14389916,
-            "num_artists": 8
-        },
-        {
             "name": "gucci",
-            "pid": 720,
+            "pid": 536,
             "num_tracks": 208,
             "num_followers": 24,
             "tracks": [
@@ -3650,7 +3314,7 @@
         },
         {
             "name": "Camp",
-            "pid": 721,
+            "pid": 537,
             "num_tracks": 31,
             "num_followers": 13,
             "tracks": [
@@ -3816,7 +3480,7 @@
         },
         {
             "name": "NEW 1",
-            "pid": 722,
+            "pid": 538,
             "num_tracks": 150,
             "num_followers": 23,
             "tracks": [
@@ -4576,354 +4240,8 @@
             "num_artists": 140
         },
         {
-            "name": "swish",
-            "pid": 723,
-            "num_tracks": 67,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Marc E. Bassy",
-                    "track_uri": "spotify:track:7yCqehT9dKACTFy7YugP0J",
-                    "track_name": "You & Me"
-                },
-                {
-                    "artist_name": "Aer",
-                    "track_uri": "spotify:track:2xH94bp1TPSMPPPnnSwIGL",
-                    "track_name": "Floats My Boat"
-                },
-                {
-                    "artist_name": "Quinn XCII",
-                    "track_uri": "spotify:track:4gHSezW5CHZCvjAUjF2pd5",
-                    "track_name": "Another Day in Paradise"
-                },
-                {
-                    "artist_name": "Russ",
-                    "track_uri": "spotify:track:3pndPhlQWjuSoXhcIIdBjv",
-                    "track_name": "What They Want"
-                },
-                {
-                    "artist_name": "Bryce Vine",
-                    "track_uri": "spotify:track:1Pyxh8ERS8aouSSOQVvVsz",
-                    "track_name": "Sour Patch Kids"
-                },
-                {
-                    "artist_name": "Ty Dolla $ign",
-                    "track_uri": "spotify:track:2NAZcL9tLUkdMMb5v3xFVG",
-                    "track_name": "Blas\u00e9 (feat. Future & Rae Sremmurd) - Louis The Child Remix"
-                },
-                {
-                    "artist_name": "Sean Paul",
-                    "track_uri": "spotify:track:0k2GOhqsrxDTAbFFSdNJjT",
-                    "track_name": "Temperature"
-                },
-                {
-                    "artist_name": "B.o.B",
-                    "track_uri": "spotify:track:6cbVp9abjjESjHgqjM1bWm",
-                    "track_name": "Roll Up (feat. Marko Penn)"
-                },
-                {
-                    "artist_name": "Shwayze & Cisco",
-                    "track_uri": "spotify:track:3JWkjpMCesLuBbz2LMMDgz",
-                    "track_name": "Drunk Off Your Love (feat. Sky Blu of LMFAO)"
-                },
-                {
-                    "artist_name": "Jackson Breit",
-                    "track_uri": "spotify:track:2fS36fnJg8lqq5u8jRKiMx",
-                    "track_name": "Sunny Side"
-                },
-                {
-                    "artist_name": "Hundred Waters",
-                    "track_uri": "spotify:track:5PnBpKOVvQxeFvXVNYSoxs",
-                    "track_name": "Show Me Love (feat. Chance The Rapper, Moses Sumney and Robin Hannibal) - Skrillex Remix"
-                },
-                {
-                    "artist_name": "Aer",
-                    "track_uri": "spotify:track:2p4Yx2CRINRoK2rNdIq2RE",
-                    "track_name": "Says She Loves Me"
-                },
-                {
-                    "artist_name": "Travis Scott",
-                    "track_uri": "spotify:track:3ZqT9tIMBSiGq1M4uZazf9",
-                    "track_name": "On My Vibe"
-                },
-                {
-                    "artist_name": "Lil Duke",
-                    "track_uri": "spotify:track:5CRkUL8PwtIbYCUjXUkZCh",
-                    "track_name": "On My Vibe (Feat. Travi$ Scott)"
-                },
-                {
-                    "artist_name": "Coleman Hell",
-                    "track_uri": "spotify:track:32FX4D4eT8LFP07QvlhSn8",
-                    "track_name": "2 Heads"
-                },
-                {
-                    "artist_name": "Boaz",
-                    "track_uri": "spotify:track:43kFaS6SfcXz49ivLbOBAV",
-                    "track_name": "Don\u2019t Know (feat. Mac Miller)"
-                },
-                {
-                    "artist_name": "Radical Something",
-                    "track_uri": "spotify:track:7ERguEkLSEa0ebJyFlsPm0",
-                    "track_name": "We Were Just Kids"
-                },
-                {
-                    "artist_name": "Ground Up",
-                    "track_uri": "spotify:track:2f3ps1phFpXLut2KIJYZU4",
-                    "track_name": "Lets Ride"
-                },
-                {
-                    "artist_name": "PJ Simas",
-                    "track_uri": "spotify:track:1zDHb1p9J2SUVGqttkIwlW",
-                    "track_name": "Call Me Crazy"
-                },
-                {
-                    "artist_name": "Skizzy Mars",
-                    "track_uri": "spotify:track:2lDthrz5QCx33vIHVE4BAh",
-                    "track_name": "Alcoholics"
-                },
-                {
-                    "artist_name": "Azizi Gibson",
-                    "track_uri": "spotify:track:0ecdnapd1F2Zb7OO2qqh79",
-                    "track_name": "Slave Ship (feat. Waka Flocka Flame)"
-                },
-                {
-                    "artist_name": "Mike Stud",
-                    "track_uri": "spotify:track:5tsI3xxDHDgzHhn30LTQNz",
-                    "track_name": "These Days"
-                },
-                {
-                    "artist_name": "Snakehips",
-                    "track_uri": "spotify:track:6TaqooOXAEcijL6G1AWS2K",
-                    "track_name": "All My Friends"
-                },
-                {
-                    "artist_name": "Snakehips",
-                    "track_uri": "spotify:track:5S8XHyK4CUT42xBtFrLtc1",
-                    "track_name": "Poison"
-                },
-                {
-                    "artist_name": "Travis Mills",
-                    "track_uri": "spotify:track:4aFv0v8fpRsC2hFaIZEYGU",
-                    "track_name": "Young & Stupid"
-                },
-                {
-                    "artist_name": "Mali Music",
-                    "track_uri": "spotify:track:6oGBUCZLXdhq7lpybzZ1i5",
-                    "track_name": "Contradiction"
-                },
-                {
-                    "artist_name": "Jeremih",
-                    "track_uri": "spotify:track:3WjyiSbfR74pjWXQ3IaFKJ",
-                    "track_name": "Impatient"
-                },
-                {
-                    "artist_name": "Jai Paul",
-                    "track_uri": "spotify:track:2NRRrr8ylDK38KD3Ffbw4K",
-                    "track_name": "BTSTU (Edit)"
-                },
-                {
-                    "artist_name": "The Dean's List",
-                    "track_uri": "spotify:track:73QZ6guw6RTWn3d6hJWzbX",
-                    "track_name": "Burn It All"
-                },
-                {
-                    "artist_name": "Skizzy Mars",
-                    "track_uri": "spotify:track:0qZDyzZkeFfPseTXUPnH4C",
-                    "track_name": "Be Lazy"
-                },
-                {
-                    "artist_name": "Hendersin",
-                    "track_uri": "spotify:track:4EHHaKZbSPRv9QHnfug58f",
-                    "track_name": "All I Got"
-                },
-                {
-                    "artist_name": "J. Cole",
-                    "track_uri": "spotify:track:16qYlQ6koFxYVbiJbGHblz",
-                    "track_name": "G.O.M.D."
-                },
-                {
-                    "artist_name": "Skizzy Mars",
-                    "track_uri": "spotify:track:4yRtRbhXvKuxfig9nzhcc1",
-                    "track_name": "Comb"
-                },
-                {
-                    "artist_name": "Cisco Adler",
-                    "track_uri": "spotify:track:60LUrNXIG0TxB6t03HQ7yP",
-                    "track_name": "Hypnotize (feat. Matisyahu)"
-                },
-                {
-                    "artist_name": "Hoodie Allen",
-                    "track_uri": "spotify:track:3D0b0441vvXFJvgbaiDyp3",
-                    "track_name": "Fame Is for Assholes (feat. Chiddy)"
-                },
-                {
-                    "artist_name": "Aer",
-                    "track_uri": "spotify:track:7n0P4QLjOmyqm8Z0BZW19S",
-                    "track_name": "Somewhere I Been"
-                },
-                {
-                    "artist_name": "Dunson",
-                    "track_uri": "spotify:track:16kZHHgDkXqdn5j0KM3qdi",
-                    "track_name": "Broke Ass Dope Ass Rapper"
-                },
-                {
-                    "artist_name": "Sam Lachow",
-                    "track_uri": "spotify:track:2hIWQKrt2360ogH8P5nFY1",
-                    "track_name": "Action Figures (feat. Gifted Gab & Mario Sweet)"
-                },
-                {
-                    "artist_name": "Aer",
-                    "track_uri": "spotify:track:5DWKyUTsHsM5HYu1vdmIKP",
-                    "track_name": "Spades, Clubs, & Diamonds"
-                },
-                {
-                    "artist_name": "Shwayze",
-                    "track_uri": "spotify:track:7hlxGq53n9pJ7ESJzOO9ft",
-                    "track_name": "Summer Ink (feat. Wildcard)"
-                },
-                {
-                    "artist_name": "Skizzy Mars",
-                    "track_uri": "spotify:track:30pDjS9dWjzGHDWaps25p5",
-                    "track_name": "Give Up On Me"
-                },
-                {
-                    "artist_name": "Rudimental",
-                    "track_uri": "spotify:track:57497lKWyS9l3YUEGtWpkS",
-                    "track_name": "Feel The Love - feat. Childish Gambino [VIP Mix]"
-                },
-                {
-                    "artist_name": "Sol",
-                    "track_uri": "spotify:track:7eDrxsh5PQnsqiVNZxN9Z6",
-                    "track_name": "2020"
-                },
-                {
-                    "artist_name": "Sam Lachow",
-                    "track_uri": "spotify:track:5b4EsCOKojUO2m0WlBDSfh",
-                    "track_name": "Gary Payton (feat. B Skeez & Skylar Swenson)"
-                },
-                {
-                    "artist_name": "Sam Lachow",
-                    "track_uri": "spotify:track:5qEHjK6akXhtW9lUs4o51e",
-                    "track_name": "23rd Avenue (feat. Gifted Gab, B Skeez, Wilson Luxurious, Sky Blaow & Riley Mulherkar)"
-                },
-                {
-                    "artist_name": "Hippie Sabotage",
-                    "track_uri": "spotify:track:7MiZjKawmXTsTNePyTfPyL",
-                    "track_name": "Devil Eyes"
-                },
-                {
-                    "artist_name": "Flatbush Zombies",
-                    "track_uri": "spotify:track:0f1odHdnTJyxrLI4nWfSs6",
-                    "track_name": "Fly Away"
-                },
-                {
-                    "artist_name": "Hippie Sabotage",
-                    "track_uri": "spotify:track:6ZT3coOj97F6CVvruPtnox",
-                    "track_name": "Your Soul"
-                },
-                {
-                    "artist_name": "Nico & Vinz",
-                    "track_uri": "spotify:track:3icbmPGKTsKAa0IinkizCM",
-                    "track_name": "That's How You Know (feat. Kid Ink & Bebe Rexha)"
-                },
-                {
-                    "artist_name": "Rob $tone",
-                    "track_uri": "spotify:track:5uDASfU19gDxSjW8cnCaBp",
-                    "track_name": "Chill Bill"
-                },
-                {
-                    "artist_name": "Rihanna",
-                    "track_uri": "spotify:track:1Tt4sE4pXi57mTD1GCzsqm",
-                    "track_name": "Needed Me"
-                },
-                {
-                    "artist_name": "DRAM",
-                    "track_uri": "spotify:track:7yyRTcZmCiyzzJlNzGC9Ol",
-                    "track_name": "Broccoli (feat. Lil Yachty)"
-                },
-                {
-                    "artist_name": "Galantis",
-                    "track_uri": "spotify:track:6M6Tk58pQvABy6ru66dY3d",
-                    "track_name": "No Money"
-                },
-                {
-                    "artist_name": "Galantis",
-                    "track_uri": "spotify:track:46lFttIf5hnUZMGvjK0Wxo",
-                    "track_name": "Runaway (U & I)"
-                },
-                {
-                    "artist_name": "Joey Bada$$",
-                    "track_uri": "spotify:track:4ntsD33Pgsgk8rUyZLLiUV",
-                    "track_name": "DEVASTATED"
-                },
-                {
-                    "artist_name": "Krept & Konan",
-                    "track_uri": "spotify:track:0kR5FxHR2JrEDPzLxuSLwS",
-                    "track_name": "So Easy"
-                },
-                {
-                    "artist_name": "DNCE",
-                    "track_uri": "spotify:track:0CNjoQozZP0mB9rKVdrKGx",
-                    "track_name": "Toothbrush"
-                },
-                {
-                    "artist_name": "Childish Gambino",
-                    "track_uri": "spotify:track:0uMUvbkTdjBNZ5UuHZ5PIj",
-                    "track_name": "IV. sweatpants"
-                },
-                {
-                    "artist_name": "Childish Gambino",
-                    "track_uri": "spotify:track:4zGvb8hxGLB2jEPRFiRRqw",
-                    "track_name": "Bonfire"
-                },
-                {
-                    "artist_name": "Childish Gambino",
-                    "track_uri": "spotify:track:7wwifjNAb172PtDpKK3CoR",
-                    "track_name": "V. 3005"
-                },
-                {
-                    "artist_name": "Action Bronson",
-                    "track_uri": "spotify:track:7gDwRzJhLs0fFHaGtMDJVM",
-                    "track_name": "Baby Blue (feat. Chance the Rapper)"
-                },
-                {
-                    "artist_name": "Rae Sremmurd",
-                    "track_uri": "spotify:track:2IGr3q6ljcpLvHDFLtI0yW",
-                    "track_name": "Look Alive"
-                },
-                {
-                    "artist_name": "Childish Gambino",
-                    "track_uri": "spotify:track:6olUplztLFFfU7fMYmFXOP",
-                    "track_name": "Sober"
-                },
-                {
-                    "artist_name": "Amin\u00e9",
-                    "track_uri": "spotify:track:5hTpBe8h35rJ67eAWHQsJx",
-                    "track_name": "Caroline"
-                },
-                {
-                    "artist_name": "Childish Gambino",
-                    "track_uri": "spotify:track:3z1eL3iolJSdiYEEodX1k0",
-                    "track_name": "Kids"
-                },
-                {
-                    "artist_name": "Kendrick Lamar",
-                    "track_uri": "spotify:track:3iVcZ5G6tvkXZkZKlMpIUs",
-                    "track_name": "Alright"
-                },
-                {
-                    "artist_name": "J Balvin",
-                    "track_uri": "spotify:track:2rb5MvYT7ZIxbKW5hfcHx8",
-                    "track_name": "Mi Gente"
-                }
-            ],
-            "num_edits": 20,
-            "duration_ms": 14307947,
-            "num_artists": 52
-        },
-        {
             "name": "The Neighbourhood",
-            "pid": 724,
+            "pid": 539,
             "num_tracks": 59,
             "num_followers": 16,
             "tracks": [
@@ -5229,7 +4547,7 @@
         },
         {
             "name": "Summer 2014",
-            "pid": 725,
+            "pid": 540,
             "num_tracks": 79,
             "num_followers": 16,
             "tracks": [

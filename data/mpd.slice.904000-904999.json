@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "FEB 17",
-            "pid": 2428,
+            "pid": 1844,
             "num_tracks": 16,
             "num_followers": 448,
             "tracks": [
@@ -99,7 +99,7 @@
         },
         {
             "name": "Spanish Hits",
-            "pid": 2429,
+            "pid": 1845,
             "num_tracks": 137,
             "num_followers": 17,
             "tracks": [
@@ -795,7 +795,7 @@
         },
         {
             "name": "Jose Gonzalez",
-            "pid": 2430,
+            "pid": 1846,
             "num_tracks": 69,
             "num_followers": 568,
             "tracks": [
@@ -1150,485 +1150,8 @@
             "num_artists": 3
         },
         {
-            "name": "Quickstep",
-            "pid": 2431,
-            "num_tracks": 93,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Miike Snow",
-                    "track_uri": "spotify:track:4MBTPJod6j1k2mPbPaPFfH",
-                    "track_name": "The Heart Of Me"
-                },
-                {
-                    "artist_name": "New 101 Strings Orchestra",
-                    "track_uri": "spotify:track:4otejip0OfZTVOZx5BI1EP",
-                    "track_name": "Sing, Sing, Sing"
-                },
-                {
-                    "artist_name": "New 101 Strings Orchestra",
-                    "track_uri": "spotify:track:0j4iTZrhIhzDru3lRBsNwO",
-                    "track_name": "Route 66"
-                },
-                {
-                    "artist_name": "Still a Light above",
-                    "track_uri": "spotify:track:00mSPlLEb1rbnT3cldx6gs",
-                    "track_name": "Stayin' Alive"
-                },
-                {
-                    "artist_name": "Magic Wind Singers",
-                    "track_uri": "spotify:track:2p61EG6Z30NEJnqh985ST7",
-                    "track_name": "I Still Haven't Found What I'm Looking for"
-                },
-                {
-                    "artist_name": "Rihanna",
-                    "track_uri": "spotify:track:3U3Ff8ZvL6oEu1r98gCCWW",
-                    "track_name": "Pon de Replay"
-                },
-                {
-                    "artist_name": "KT Tunstall",
-                    "track_uri": "spotify:track:0UACObCoT1QlNDYroo7EJC",
-                    "track_name": "Suddenly I See"
-                },
-                {
-                    "artist_name": "ABBA",
-                    "track_uri": "spotify:track:01iyCAUm8EvOFqVWYJ3dVX",
-                    "track_name": "Dancing Queen"
-                },
-                {
-                    "artist_name": "Fall Out Boy",
-                    "track_uri": "spotify:track:5HDU7GEOPcsic0kHXbkzZE",
-                    "track_name": "I Wan'na Be Like You (The Monkey Song) - From \"The Jungle Book\""
-                },
-                {
-                    "artist_name": "Tori Kelly",
-                    "track_uri": "spotify:track:34fkQYZUIXOsI2xNxEZbTO",
-                    "track_name": "Nobody Love"
-                },
-                {
-                    "artist_name": "Scott Bradlee's Postmodern Jukebox",
-                    "track_uri": "spotify:track:2KjEdPcKXwIXok7Qg4bV6G",
-                    "track_name": "Love Yourself"
-                },
-                {
-                    "artist_name": "Scott Bradlee's Postmodern Jukebox",
-                    "track_uri": "spotify:track:2YKgWU36F5NbyjDQGb006t",
-                    "track_name": "Focus"
-                },
-                {
-                    "artist_name": "Scott Bradlee's Postmodern Jukebox",
-                    "track_uri": "spotify:track:3uTPss4Va6f6bdUGT6m3gj",
-                    "track_name": "Umbrella"
-                },
-                {
-                    "artist_name": "Scott Bradlee's Postmodern Jukebox",
-                    "track_uri": "spotify:track:54B5QqBgdsJUnI9wMuBoNR",
-                    "track_name": "Lean On"
-                },
-                {
-                    "artist_name": "Scott Bradlee's Postmodern Jukebox",
-                    "track_uri": "spotify:track:7m6PZcNfj38RTieThQwoTs",
-                    "track_name": "Such Great Heights"
-                },
-                {
-                    "artist_name": "Scott Bradlee's Postmodern Jukebox",
-                    "track_uri": "spotify:track:4RYQQajHToempAp8DhWasp",
-                    "track_name": "I\u2019m Not The Only One"
-                },
-                {
-                    "artist_name": "Scott Bradlee's Postmodern Jukebox",
-                    "track_uri": "spotify:track:1HYhzhTl5ySbZns4CgTCsB",
-                    "track_name": "The Heart Wants What It Wants"
-                },
-                {
-                    "artist_name": "Scott Bradlee's Postmodern Jukebox",
-                    "track_uri": "spotify:track:0VWRgm5lbsotF9PN8wv8sg",
-                    "track_name": "Fancy"
-                },
-                {
-                    "artist_name": "Scott Bradlee's Postmodern Jukebox",
-                    "track_uri": "spotify:track:0nFDdkZsoSRT2xYwqbnaum",
-                    "track_name": "Thrift Shop"
-                },
-                {
-                    "artist_name": "Ed Sheeran",
-                    "track_uri": "spotify:track:4RnCPWlBsY7oUDdyruod7Y",
-                    "track_name": "Drunk"
-                },
-                {
-                    "artist_name": "Ed Sheeran",
-                    "track_uri": "spotify:track:0obzwoGjXdORtAwYWZ9s53",
-                    "track_name": "Grade 8"
-                },
-                {
-                    "artist_name": "Ed Sheeran",
-                    "track_uri": "spotify:track:5KL4iZkCTZyXl7KnHgfVDj",
-                    "track_name": "You Need Me, I Don't Need You"
-                },
-                {
-                    "artist_name": "G\u00fcnter Noris",
-                    "track_uri": "spotify:track:4BbKTLy5SgasYYcFLeSAXg",
-                    "track_name": "Hot Quickstep"
-                },
-                {
-                    "artist_name": "Muse",
-                    "track_uri": "spotify:track:1tjHKKI0r82IB5KL29whHs",
-                    "track_name": "Panic Station"
-                },
-                {
-                    "artist_name": "George Ezra",
-                    "track_uri": "spotify:track:2Zgnaip1c876zmBhz9HifI",
-                    "track_name": "Blame It on Me"
-                },
-                {
-                    "artist_name": "Alice Francis",
-                    "track_uri": "spotify:track:417vyDRUnWzLONiRoWHPjZ",
-                    "track_name": "St. James Ballroom"
-                },
-                {
-                    "artist_name": "Alice Francis",
-                    "track_uri": "spotify:track:5bbv84iRTSdv2zHeBtnABJ",
-                    "track_name": "Kiss My Ass"
-                },
-                {
-                    "artist_name": "Cissie Redgwick",
-                    "track_uri": "spotify:track:46ctr8cJAnaTK5hkbgrkKR",
-                    "track_name": "Gimme That Swing! - Vintage Mix"
-                },
-                {
-                    "artist_name": "Lillian Boutt\u00e9",
-                    "track_uri": "spotify:track:1YILtstc1zBaY7HqN1i1G8",
-                    "track_name": "Hold On"
-                },
-                {
-                    "artist_name": "Tony Bennett",
-                    "track_uri": "spotify:track:0iOIyNObRzyhi2yqGl3Lrq",
-                    "track_name": "Goody Goody"
-                },
-                {
-                    "artist_name": "Brian Booth",
-                    "track_uri": "spotify:track:5IDCskLZWwo2NGcUdRTVqk",
-                    "track_name": "Swing Uptown"
-                },
-                {
-                    "artist_name": "Nobuo Uematsu",
-                    "track_uri": "spotify:track:0wOWcBh8Amxo88jkNBKtnK",
-                    "track_name": "Swing de Chocobo (Final Fantasy Series)"
-                },
-                {
-                    "artist_name": "KT Tunstall",
-                    "track_uri": "spotify:track:6An1g0uI2RJNHkqy7vCckx",
-                    "track_name": "Black Horse and the Cherry Tree - Radio Version"
-                },
-                {
-                    "artist_name": "Lady Linn And Her Magnificent Seven",
-                    "track_uri": "spotify:track:4TZd90XhCoIvuUIRjd2DLq",
-                    "track_name": "Cry Baby"
-                },
-                {
-                    "artist_name": "Caro Emerald",
-                    "track_uri": "spotify:track:5HFns0jW3EIRqa8jSQqESn",
-                    "track_name": "That Man"
-                },
-                {
-                    "artist_name": "Ricki-Lee",
-                    "track_uri": "spotify:track:262gSLgPEBJvowplt7WavQ",
-                    "track_name": "Can'T Touch It"
-                },
-                {
-                    "artist_name": "Nadeah",
-                    "track_uri": "spotify:track:1DOWCHy44W66sey5b4cMUu",
-                    "track_name": "Odile (radio edit)"
-                },
-                {
-                    "artist_name": "Robbie Williams",
-                    "track_uri": "spotify:track:6ADMrK9fvGxS3r0j9mcozt",
-                    "track_name": "Soda Pop"
-                },
-                {
-                    "artist_name": "Tape Five",
-                    "track_uri": "spotify:track:2NFmz0aRiKdYzbQ9Y3d7Wg",
-                    "track_name": "A Cool Cat In Town"
-                },
-                {
-                    "artist_name": "Allen Stone",
-                    "track_uri": "spotify:track:2ooXGdovxcLaC127TGj7XN",
-                    "track_name": "Sleep"
-                },
-                {
-                    "artist_name": "Geszti P\u00e9ter \u00e9s a Gringo Szt\u00e1r",
-                    "track_uri": "spotify:track:0FgUuy6ppRzBnxRJcZKKKG",
-                    "track_name": "Csak A Csajod Legyen Magyar!"
-                },
-                {
-                    "artist_name": "Kelly Joyce",
-                    "track_uri": "spotify:track:31LDfs1qsiWG4YDDZDc1N3",
-                    "track_name": "Rendez- Vous"
-                },
-                {
-                    "artist_name": "Bette Midler",
-                    "track_uri": "spotify:track:3slrGw4YPaXHASqyTWD87a",
-                    "track_name": "Billy-A-Dick"
-                },
-                {
-                    "artist_name": "The Puppini Sisters",
-                    "track_uri": "spotify:track:7KE6QLwz4zZvQWJUykc2cO",
-                    "track_name": "Bei Mir Bist Du Sch\u00f6n"
-                },
-                {
-                    "artist_name": "Toby Lightman",
-                    "track_uri": "spotify:track:4BebtRl7A4hdPwNmx6BE21",
-                    "track_name": "Let Go"
-                },
-                {
-                    "artist_name": "Tape Five",
-                    "track_uri": "spotify:track:7heufJQR2yXPu8ySVIRl7n",
-                    "track_name": "Pantaloons"
-                },
-                {
-                    "artist_name": "OutKast",
-                    "track_uri": "spotify:track:0S9xsXyJUk0MlUjWdFyKDm",
-                    "track_name": "Call The Law - Main Version - Explicit"
-                },
-                {
-                    "artist_name": "Swing Republic",
-                    "track_uri": "spotify:track:41ffyplw5DfCGFds6KmGez",
-                    "track_name": "Crazy in Love - Radio Edit"
-                },
-                {
-                    "artist_name": "Fickle Friends",
-                    "track_uri": "spotify:track:3bhhM8sG53lsPYRpakieZB",
-                    "track_name": "Swim"
-                },
-                {
-                    "artist_name": "Cooper",
-                    "track_uri": "spotify:track:2pyiavOMxy2oSNrQ5V0xZq",
-                    "track_name": "This Year"
-                },
-                {
-                    "artist_name": "Ryn Weaver",
-                    "track_uri": "spotify:track:31c1V9xUONZYk78NE4Id8D",
-                    "track_name": "Pierre"
-                },
-                {
-                    "artist_name": "Oh, Hush!",
-                    "track_uri": "spotify:track:1mlWSPw2Zuk8CHOf6W34Sp",
-                    "track_name": "Happy Place (feat. Hanna Ashbrook)"
-                },
-                {
-                    "artist_name": "The Cocktails",
-                    "track_uri": "spotify:track:3tWp93Y61r4j6ASXbJVUL9",
-                    "track_name": "Shark in the Water"
-                },
-                {
-                    "artist_name": "OneRepublic",
-                    "track_uri": "spotify:track:46jLy47W8rkf8rEX04gMKB",
-                    "track_name": "Wherever I Go"
-                },
-                {
-                    "artist_name": "X Ambassadors",
-                    "track_uri": "spotify:track:5SSr61qhwOcC1elvF0eB3C",
-                    "track_name": "Superpower"
-                },
-                {
-                    "artist_name": "My Chemical Romance",
-                    "track_uri": "spotify:track:7j2Bmzpnf6RwEWEQ2sv8Ho",
-                    "track_name": "House of Wolves"
-                },
-                {
-                    "artist_name": "Michael Kiwanuka",
-                    "track_uri": "spotify:track:6halTMaQ0c9rUw2uT2F4s1",
-                    "track_name": "Black Man In A White World"
-                },
-                {
-                    "artist_name": "Sia",
-                    "track_uri": "spotify:track:4E3afPSY5fUEelQS9ppL0e",
-                    "track_name": "Alive"
-                },
-                {
-                    "artist_name": "Sia",
-                    "track_uri": "spotify:track:5B5sLwwW45tLXW2CYzK8QC",
-                    "track_name": "Sweet Design"
-                },
-                {
-                    "artist_name": "Pentatonix",
-                    "track_uri": "spotify:track:6v08G3CGcoyiODIWZoOxR4",
-                    "track_name": "Na Na Na"
-                },
-                {
-                    "artist_name": "Pentatonix",
-                    "track_uri": "spotify:track:6sIqfpYT76jKQuDvBpzEKw",
-                    "track_name": "First Things First"
-                },
-                {
-                    "artist_name": "Scott Bradlee's Postmodern Jukebox",
-                    "track_uri": "spotify:track:2jt8tEFZ4qZJ1ax3b0Io5f",
-                    "track_name": "MMMbop"
-                },
-                {
-                    "artist_name": "Scott Bradlee's Postmodern Jukebox",
-                    "track_uri": "spotify:track:3vgNCEMlzT7LgIynmVZvDC",
-                    "track_name": "Can't Stop The Feeling"
-                },
-                {
-                    "artist_name": "Scott Bradlee's Postmodern Jukebox",
-                    "track_uri": "spotify:track:32qKAvGaw8s8UM5pcJMF9X",
-                    "track_name": "Hollaback Girl"
-                },
-                {
-                    "artist_name": "Eminem",
-                    "track_uri": "spotify:track:3yfqSUWxFvZELEM4PmlwIR",
-                    "track_name": "The Real Slim Shady"
-                },
-                {
-                    "artist_name": "Descendents",
-                    "track_uri": "spotify:track:0IuIa71dOb2C3uDoQEKuyB",
-                    "track_name": "'Merican"
-                },
-                {
-                    "artist_name": "NEEDTOBREATHE",
-                    "track_uri": "spotify:track:7aag0fFgE9K1Gj8lJwQaGI",
-                    "track_name": "HAPPINESS"
-                },
-                {
-                    "artist_name": "Pvris",
-                    "track_uri": "spotify:track:4xJWfVNC52PSK5ObyOKQsw",
-                    "track_name": "You and I"
-                },
-                {
-                    "artist_name": "Shaggy",
-                    "track_uri": "spotify:track:5w4UqCwwoLro163poYfjnl",
-                    "track_name": "That Love"
-                },
-                {
-                    "artist_name": "Meghan Trainor",
-                    "track_uri": "spotify:track:1BHfxwjNbzbQFphMCpxiRq",
-                    "track_name": "Woman Up"
-                },
-                {
-                    "artist_name": "Us The Duo",
-                    "track_uri": "spotify:track:4AgHpe2V8ysmdcKw1Q9KNm",
-                    "track_name": "Goodbye Forever"
-                },
-                {
-                    "artist_name": "Gin Wigmore",
-                    "track_uri": "spotify:track:7KNIZlX0pBSBBrkI4d8AHB",
-                    "track_name": "Man Like That"
-                },
-                {
-                    "artist_name": "Nick Grant",
-                    "track_uri": "spotify:track:5vkrlGw17u5nI3adDozJrb",
-                    "track_name": "Get Up"
-                },
-                {
-                    "artist_name": "Vance Joy",
-                    "track_uri": "spotify:track:7yq4Qj7cqayVTp3FF9CWbm",
-                    "track_name": "Riptide"
-                },
-                {
-                    "artist_name": "Andy Grammer",
-                    "track_uri": "spotify:track:07HeFSqsEGq4eWyerDrW1a",
-                    "track_name": "Back Home"
-                },
-                {
-                    "artist_name": "Ballroom Orchestra and Singers",
-                    "track_uri": "spotify:track:6pnC0vSs7aXjdzWSPM4Tr9",
-                    "track_name": "No Me Voy Sin Bailar ((Quick Step / 50 Bpm))"
-                },
-                {
-                    "artist_name": "DJ Maksy",
-                    "track_uri": "spotify:track:0Gl2mU0S0YvPYZhs8Pi3by",
-                    "track_name": "Mr. Pinstripe - Quickstep / 51 BPM"
-                },
-                {
-                    "artist_name": "Tony Evans & His Orchestra",
-                    "track_uri": "spotify:track:6qkj8LeMY3WuDGBh0RlQBK",
-                    "track_name": "Danke Schoen - Quickstep"
-                },
-                {
-                    "artist_name": "Christina Aguilera",
-                    "track_uri": "spotify:track:5bOK6xHzguDQLX6aoJXVPG",
-                    "track_name": "Show Me How You Burlesque (Burlesque) - Original Motion Picture Soundtrack"
-                },
-                {
-                    "artist_name": "Caro Emerald",
-                    "track_uri": "spotify:track:5HFns0jW3EIRqa8jSQqESn",
-                    "track_name": "That Man"
-                },
-                {
-                    "artist_name": "Copacabana (Original London Cast)",
-                    "track_uri": "spotify:track:0PNalSzmpd3Hgt28iW6hVT",
-                    "track_name": "Dancin' Fool"
-                },
-                {
-                    "artist_name": "C.C. Productions",
-                    "track_uri": "spotify:track:6CqR4kUwJySVaQPLP49E1V",
-                    "track_name": "You're the One that I Want"
-                },
-                {
-                    "artist_name": "The Brian Setzer Orchestra",
-                    "track_uri": "spotify:track:7FuRjlwyTY9uTAUgGpZtJU",
-                    "track_name": "Jump Jive An' Wail"
-                },
-                {
-                    "artist_name": "Lou Bega",
-                    "track_uri": "spotify:track:5KXc6fAoOpQpvNidbgShvF",
-                    "track_name": "Boyfriend"
-                },
-                {
-                    "artist_name": "Gia Farrell",
-                    "track_uri": "spotify:track:1qUaoh5GvkRPYTdASkvf2b",
-                    "track_name": "Hit Me Up"
-                },
-                {
-                    "artist_name": "Tony Evans and His Orchestra",
-                    "track_uri": "spotify:track:6P7gfdSn7hJtNtGObHpsLM",
-                    "track_name": "This Could Be the Start of Something Big - Quickstep"
-                },
-                {
-                    "artist_name": "Tony Evans and His Orchestra",
-                    "track_uri": "spotify:track:4f8VtrNmpghHZCG1Lg8icq",
-                    "track_name": "Cheek to Cheek - Quickstep"
-                },
-                {
-                    "artist_name": "Tony Evans and His Orchestra",
-                    "track_uri": "spotify:track:6YX61ix3od9ap8790HsZEM",
-                    "track_name": "Funny Face - Quickstep"
-                },
-                {
-                    "artist_name": "Tanz Orchester Klaus Hallen",
-                    "track_uri": "spotify:track:7yVSrneSq0PpEd5MD8OolV",
-                    "track_name": "Star Wars Cantina Band - (Quick Step / 52 BPM)"
-                },
-                {
-                    "artist_name": "Jesse Ruben",
-                    "track_uri": "spotify:track:7zkwXsURruAALF6b4d3AbP",
-                    "track_name": "First Day of Summer"
-                },
-                {
-                    "artist_name": "Janet Devlin",
-                    "track_uri": "spotify:track:540HWXAtHhtBqpfCRC7f5G",
-                    "track_name": "Creatures Of The Night"
-                },
-                {
-                    "artist_name": "Janet Devlin",
-                    "track_uri": "spotify:track:5jJEaIaWS1SVGyHBhozaPB",
-                    "track_name": "Wonderful"
-                },
-                {
-                    "artist_name": "Tape Five",
-                    "track_uri": "spotify:track:50MLsFw9SO2DnZ0Xn8mE50",
-                    "track_name": "Swing Punk"
-                }
-            ],
-            "num_edits": 31,
-            "duration_ms": 18244694,
-            "num_artists": 69,
-            "description": "98-106 bpm, last transferred 1&#x2F;7&#x2F;2016"
-        },
-        {
             "name": "#bastille",
-            "pid": 2432,
+            "pid": 1847,
             "num_tracks": 27,
             "num_followers": 39,
             "tracks": [
@@ -1775,7 +1298,7 @@
         },
         {
             "name": "Screamo",
-            "pid": 2433,
+            "pid": 1848,
             "num_tracks": 67,
             "num_followers": 15,
             "tracks": [
@@ -2121,7 +1644,7 @@
         },
         {
             "name": "Halloween",
-            "pid": 2434,
+            "pid": 1849,
             "num_tracks": 37,
             "num_followers": 49,
             "tracks": [
@@ -2317,7 +1840,7 @@
         },
         {
             "name": "Current Favs",
-            "pid": 2435,
+            "pid": 1850,
             "num_tracks": 250,
             "num_followers": 12,
             "tracks": [
@@ -3578,7 +3101,7 @@
         },
         {
             "name": "Chill Rap",
-            "pid": 2436,
+            "pid": 1851,
             "num_tracks": 41,
             "num_followers": 12,
             "tracks": [

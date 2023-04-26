@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "At Work",
-            "pid": 1891,
+            "pid": 1443,
             "num_tracks": 20,
             "num_followers": 656,
             "tracks": [
@@ -118,7 +118,7 @@
         },
         {
             "name": "Puerto Rico",
-            "pid": 1892,
+            "pid": 1444,
             "num_tracks": 67,
             "num_followers": 13,
             "tracks": [
@@ -463,215 +463,8 @@
             "num_artists": 46
         },
         {
-            "name": "Stay With Me",
-            "pid": 1893,
-            "num_tracks": 14,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Sam Smith",
-                    "track_uri": "spotify:track:5Db9VIdDsN5yu3Eu7CT0i4",
-                    "track_name": "Stay With Me"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:6cT5orvyKqwghJp6KB9vG0",
-                    "track_name": "Furthest Thing"
-                },
-                {
-                    "artist_name": "The Weeknd",
-                    "track_uri": "spotify:track:6u0dQik0aif7FQlrhycG1L",
-                    "track_name": "The Morning"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:3ptQ2qKjiGOIW1USCFXVtT",
-                    "track_name": "Own It"
-                },
-                {
-                    "artist_name": "John Newman",
-                    "track_uri": "spotify:track:5jcmqSlstS6wmcEYDrzdJX",
-                    "track_name": "Out Of My Head"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:2cx10hB95ygrUp2RsZW7Oh",
-                    "track_name": "Connect"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:1y9g5UW31xBqvOi10tcXGX",
-                    "track_name": "305 To My City"
-                },
-                {
-                    "artist_name": "John Newman",
-                    "track_uri": "spotify:track:5VSCgNlSmTV2Yq5lB40Eaw",
-                    "track_name": "Love Me Again"
-                },
-                {
-                    "artist_name": "Dustin Lynch",
-                    "track_uri": "spotify:track:5ksoJlQJtduEkwQTo7UN7X",
-                    "track_name": "Cowboys and Angels"
-                },
-                {
-                    "artist_name": "Zac Brown Band",
-                    "track_uri": "spotify:track:1M2l9ReoabUnvl6Y8jLUe7",
-                    "track_name": "Colder Weather"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:5CDy1I6rSt6vXdqIb87A6f",
-                    "track_name": "Come Thru"
-                },
-                {
-                    "artist_name": "Passenger",
-                    "track_uri": "spotify:track:2jyjhRf6DVbMPU5zxagN2h",
-                    "track_name": "Let Her Go"
-                },
-                {
-                    "artist_name": "The Weeknd",
-                    "track_uri": "spotify:track:0ei3uNcwJOiUocuks1vWcb",
-                    "track_name": "Pretty"
-                },
-                {
-                    "artist_name": "The Weeknd",
-                    "track_uri": "spotify:track:6u0dQik0aif7FQlrhycG1L",
-                    "track_name": "The Morning"
-                }
-            ],
-            "num_edits": 6,
-            "duration_ms": 3706003,
-            "num_artists": 7
-        },
-        {
-            "name": "December 2015",
-            "pid": 1894,
-            "num_tracks": 23,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Colonel Loud",
-                    "track_uri": "spotify:track:7gUJOQJyOKNfV6pOMYTvPq",
-                    "track_name": "California"
-                },
-                {
-                    "artist_name": "Imagine Dragons",
-                    "track_uri": "spotify:track:0z8yrlXSjnI29Rv30RssNI",
-                    "track_name": "Shots - Broiler Remix"
-                },
-                {
-                    "artist_name": "machineheart",
-                    "track_uri": "spotify:track:3zqBPZwEAWD4Sro3eM2Bjq",
-                    "track_name": "Watercolors"
-                },
-                {
-                    "artist_name": "Bishop Briggs",
-                    "track_uri": "spotify:track:0XyeD5XgusMHQlEVlUfxSn",
-                    "track_name": "Wild Horses"
-                },
-                {
-                    "artist_name": "Nickel Creek",
-                    "track_uri": "spotify:track:6kuqHs2ijp5D8tj0XokQQo",
-                    "track_name": "Destination"
-                },
-                {
-                    "artist_name": "Gin Wigmore",
-                    "track_uri": "spotify:track:0yyFzMfZvHdM1RAwMArUuz",
-                    "track_name": "Written In The Water"
-                },
-                {
-                    "artist_name": "The Avalanches",
-                    "track_uri": "spotify:track:0E2UdlzNQP9I70MYumYlFo",
-                    "track_name": "Frontier Psychiatrist"
-                },
-                {
-                    "artist_name": "Claude Debussy",
-                    "track_uri": "spotify:track:3um21hykMT60xtkw5KsPFl",
-                    "track_name": "2 Arabesques: Arabesque No. 1"
-                },
-                {
-                    "artist_name": "Ellie Goulding",
-                    "track_uri": "spotify:track:5a7NdkF09AfD0H607eiOkX",
-                    "track_name": "On My Mind"
-                },
-                {
-                    "artist_name": "Vince Guaraldi Trio",
-                    "track_uri": "spotify:track:34rzJNfTd5e9s3TICFMPD0",
-                    "track_name": "O Tannenbaum"
-                },
-                {
-                    "artist_name": "Vince Guaraldi Trio",
-                    "track_uri": "spotify:track:0MmNrhvLcoWjo7AOr0vgka",
-                    "track_name": "Linus And Lucy"
-                },
-                {
-                    "artist_name": "Vince Guaraldi Trio",
-                    "track_uri": "spotify:track:299lFlaAsNQdgbIZNPmIA0",
-                    "track_name": "Christmas Time Is Here - Vocal"
-                },
-                {
-                    "artist_name": "Leona Lewis",
-                    "track_uri": "spotify:track:5LCMAJymyKheiV27LRACD8",
-                    "track_name": "Ave Maria"
-                },
-                {
-                    "artist_name": "Glenn Miller and his Orchestra, Glenn Miller, Ray Eberle",
-                    "track_uri": "spotify:track:2UJYLLf7R6IPqDpm0kPRBy",
-                    "track_name": "When The Swallows Come Back To Capistrano"
-                },
-                {
-                    "artist_name": "Gente De Zona",
-                    "track_uri": "spotify:track:7Fl3wSxRqBljyQH8dJSz9c",
-                    "track_name": "Traidora"
-                },
-                {
-                    "artist_name": "Cali Y El Dandee",
-                    "track_uri": "spotify:track:3GpvoKKWZyTwgbLEM9RmWM",
-                    "track_name": "Por Fin Te Encontr\u00e9"
-                },
-                {
-                    "artist_name": "CHVRCHES",
-                    "track_uri": "spotify:track:2gNl0X09EFvqTurPXIhQsI",
-                    "track_name": "Make Them Gold"
-                },
-                {
-                    "artist_name": "Ellie Goulding",
-                    "track_uri": "spotify:track:0PaemlGLiH2O6nAxRCzmee",
-                    "track_name": "Don't Need Nobody"
-                },
-                {
-                    "artist_name": "Miguel",
-                    "track_uri": "spotify:track:60kqoWSXSbiDJaDxgi8GG1",
-                    "track_name": "Coffee (F***ing)"
-                },
-                {
-                    "artist_name": "Pentatonix",
-                    "track_uri": "spotify:track:0qEFmBL2k8pb2OWgW490X8",
-                    "track_name": "White Winter Hymnal"
-                },
-                {
-                    "artist_name": "Pyotr Ilyich Tchaikovsky",
-                    "track_uri": "spotify:track:7FJvIEwZ0euCr67yihS2aW",
-                    "track_name": "The Nutcracker, Op.71, TH.14 / Act 1: No. 2 March"
-                },
-                {
-                    "artist_name": "James Blake",
-                    "track_uri": "spotify:track:03CLsFk6JSz301bKuukPSD",
-                    "track_name": "Retrograde"
-                },
-                {
-                    "artist_name": "Vulfpeck",
-                    "track_uri": "spotify:track:39rHfrVqCX6A55GF7uOZSC",
-                    "track_name": "1612"
-                }
-            ],
-            "num_edits": 10,
-            "duration_ms": 5012825,
-            "num_artists": 20
-        },
-        {
             "name": "Chillhop",
-            "pid": 1895,
+            "pid": 1445,
             "num_tracks": 86,
             "num_followers": 108,
             "tracks": [

@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "choonz",
-            "pid": 748,
+            "pid": 554,
             "num_tracks": 20,
             "num_followers": 166,
             "tracks": [
@@ -118,7 +118,7 @@
         },
         {
             "name": "Comfortably Numb",
-            "pid": 749,
+            "pid": 555,
             "num_tracks": 198,
             "num_followers": 35,
             "tracks": [
@@ -1119,7 +1119,7 @@
         },
         {
             "name": "trill",
-            "pid": 750,
+            "pid": 556,
             "num_tracks": 192,
             "num_followers": 12,
             "tracks": [
@@ -2090,7 +2090,7 @@
         },
         {
             "name": "M5",
-            "pid": 751,
+            "pid": 557,
             "num_tracks": 97,
             "num_followers": 19,
             "tracks": [
@@ -2586,7 +2586,7 @@
         },
         {
             "name": "Formal ",
-            "pid": 752,
+            "pid": 558,
             "num_tracks": 93,
             "num_followers": 15,
             "tracks": [
@@ -3059,217 +3059,6 @@
             "num_edits": 11,
             "duration_ms": 23028491,
             "num_artists": 85
-        },
-        {
-            "name": "Chill Rap",
-            "pid": 753,
-            "num_tracks": 40,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "T.I.",
-                    "track_uri": "spotify:track:6XAA7T9VHcqKQSzjmXAJ8o",
-                    "track_name": "That's All She Wrote (feat. Eminem)"
-                },
-                {
-                    "artist_name": "OutKast",
-                    "track_uri": "spotify:track:4GdB5M7GbwLZLouktYocFC",
-                    "track_name": "SpottieOttieDopaliscious"
-                },
-                {
-                    "artist_name": "50 Cent",
-                    "track_uri": "spotify:track:41bIQPBE1lFN0mmw6Lmssz",
-                    "track_name": "21 Questions"
-                },
-                {
-                    "artist_name": "The Notorious B.I.G.",
-                    "track_uri": "spotify:track:5ByAIlEEnxYdvpnezg7HTX",
-                    "track_name": "Juicy"
-                },
-                {
-                    "artist_name": "Devin The Dude",
-                    "track_uri": "spotify:track:4aPTrOPzmdOF2Qmhhcr07p",
-                    "track_name": "Doobie Ashtray"
-                },
-                {
-                    "artist_name": "JAY Z",
-                    "track_uri": "spotify:track:1Nso7C8d7pW3SRM7AI0FyV",
-                    "track_name": "Song Cry"
-                },
-                {
-                    "artist_name": "50 Cent",
-                    "track_uri": "spotify:track:6m3blCKBMVimP5y8bTndD5",
-                    "track_name": "Outlaw"
-                },
-                {
-                    "artist_name": "Wu-Tang Clan",
-                    "track_uri": "spotify:track:5XLC8xoqyua4U7wJiZAWik",
-                    "track_name": "Method Man"
-                },
-                {
-                    "artist_name": "Yelawolf",
-                    "track_uri": "spotify:track:5siN7pZMRXaTQD61g1F3qD",
-                    "track_name": "Trunk Muzik"
-                },
-                {
-                    "artist_name": "Ice Cube",
-                    "track_uri": "spotify:track:2qOm7ukLyHUXWyR4ZWLwxA",
-                    "track_name": "It Was A Good Day"
-                },
-                {
-                    "artist_name": "ScHoolboy Q",
-                    "track_uri": "spotify:track:2kfpH2OAAdpk5J3JaraAIh",
-                    "track_name": "Hands On The Wheel"
-                },
-                {
-                    "artist_name": "Mobb Deep",
-                    "track_uri": "spotify:track:1U5qqEm2St0V1TfCYvmdu4",
-                    "track_name": "Thug Muzik"
-                },
-                {
-                    "artist_name": "J. Cole",
-                    "track_uri": "spotify:track:6FedhFiHb0KxTvOD1qEX8L",
-                    "track_name": "In the Morning"
-                },
-                {
-                    "artist_name": "Wale",
-                    "track_uri": "spotify:track:5tZmLjU4vhPlJb12IweZuB",
-                    "track_name": "Ambition - feat. Meek Mill & Rick Ross"
-                },
-                {
-                    "artist_name": "Mos Def",
-                    "track_uri": "spotify:track:1eUaQAvs2zcbxR4HRJxoBK",
-                    "track_name": "Oh No"
-                },
-                {
-                    "artist_name": "Eminem",
-                    "track_uri": "spotify:track:7n8UWYTawkrcC1KBsY5XRc",
-                    "track_name": "Beautiful"
-                },
-                {
-                    "artist_name": "Black Star",
-                    "track_uri": "spotify:track:4C7Ss9bTPOWJMh3rarF1mN",
-                    "track_name": "Definition"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:7udsBKuqnJ5csWTAkR0vEI",
-                    "track_name": "We'll Be Fine"
-                },
-                {
-                    "artist_name": "Kendrick Lamar",
-                    "track_uri": "spotify:track:6REbwUNlppTfcnV4d4ZoZi",
-                    "track_name": "Swimming Pools (Drank)"
-                },
-                {
-                    "artist_name": "Kendrick Lamar",
-                    "track_uri": "spotify:track:4Pwjz3DfvfQWV0rO2V8jyh",
-                    "track_name": "Bitch, Don\u2019t Kill My Vibe"
-                },
-                {
-                    "artist_name": "Jurassic 5",
-                    "track_uri": "spotify:track:29SQc0rWYpWyMWy5juXx04",
-                    "track_name": "What's Golden"
-                },
-                {
-                    "artist_name": "Hi NRG Fitness",
-                    "track_uri": "spotify:track:1tJEA92YiuaY930fdE5low",
-                    "track_name": "Let Me Blow Your Mind"
-                },
-                {
-                    "artist_name": "Tyler, The Creator",
-                    "track_uri": "spotify:track:4OKXvqtfwlvY2fYJ2lzHPH",
-                    "track_name": "Yonkers"
-                },
-                {
-                    "artist_name": "A Tribe Called Quest",
-                    "track_uri": "spotify:track:0eEXcw3JLVXcRxYrVYMy68",
-                    "track_name": "Electric Relaxation"
-                },
-                {
-                    "artist_name": "Arrested Development",
-                    "track_uri": "spotify:track:5DOYik1z3Of1wAFfY3dYbC",
-                    "track_name": "Mr Wendal"
-                },
-                {
-                    "artist_name": "Ms. Lauryn Hill",
-                    "track_uri": "spotify:track:6otqZiIqqzzzggZdd1rKgO",
-                    "track_name": "Doo Wop (That Thing)"
-                },
-                {
-                    "artist_name": "Cypress Hill",
-                    "track_uri": "spotify:track:1oTHteQbmJw15rPxPVXUTv",
-                    "track_name": "Insane in the Brain"
-                },
-                {
-                    "artist_name": "Warren G",
-                    "track_uri": "spotify:track:7nYvUtkQMx1v80S2FH2s9J",
-                    "track_name": "Regulate"
-                },
-                {
-                    "artist_name": "Afroman",
-                    "track_uri": "spotify:track:28IvFkxf9TBHdCIe3n1JWm",
-                    "track_name": "Because I Got High - Extended Version"
-                },
-                {
-                    "artist_name": "Blackstreet",
-                    "track_uri": "spotify:track:6KoaqyDrVtZmlWET7Nf9Ez",
-                    "track_name": "No Diggity"
-                },
-                {
-                    "artist_name": "Fugees",
-                    "track_uri": "spotify:track:4LOoPg7TavHtNmCTOfd9XQ",
-                    "track_name": "Ready or Not"
-                },
-                {
-                    "artist_name": "Big K.R.I.T.",
-                    "track_uri": "spotify:track:6VhrSXr6bwaHKAq07Z5CXO",
-                    "track_name": "Soul Food"
-                },
-                {
-                    "artist_name": "Cam\u2019ron",
-                    "track_uri": "spotify:track:3lwrebzX6n6v4zP5DOqBKc",
-                    "track_name": "Hey Ma"
-                },
-                {
-                    "artist_name": "Method Man",
-                    "track_uri": "spotify:track:2Lj1BSSrmaFPH2aEPCKyth",
-                    "track_name": "Say"
-                },
-                {
-                    "artist_name": "Shwayze",
-                    "track_uri": "spotify:track:3wQaW4rEZe7AaDrlrX4eDy",
-                    "track_name": "Buzzin'"
-                },
-                {
-                    "artist_name": "De La Soul",
-                    "track_uri": "spotify:track:33WFmAHYYxJg2GuhlkmCiT",
-                    "track_name": "The Grind Date"
-                },
-                {
-                    "artist_name": "Wu-Tang Clan",
-                    "track_uri": "spotify:track:3fQzTeYA61gdP4XN9vK7rb",
-                    "track_name": "Slow Blues - Instrumental"
-                },
-                {
-                    "artist_name": "Cypress Hill",
-                    "track_uri": "spotify:track:7aAZOl8GHF6ge391oY0Kmy",
-                    "track_name": "When the Sh-- Goes Down"
-                },
-                {
-                    "artist_name": "Busta Rhymes",
-                    "track_uri": "spotify:track:0YImOCkIJ2PWhCXaURCZnY",
-                    "track_name": "I Know What You Want"
-                },
-                {
-                    "artist_name": "A Tribe Called Quest",
-                    "track_uri": "spotify:track:7t83uuT0cZpQ7M6q9ymtv8",
-                    "track_name": "Bonita Applebum - includes 'Can I Kick It' Intro"
-                }
-            ],
-            "num_edits": 22,
-            "duration_ms": 10355955,
-            "num_artists": 35
         }
     ]
 }

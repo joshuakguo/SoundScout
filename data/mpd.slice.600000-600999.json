@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "trapp",
-            "pid": 3438,
+            "pid": 2637,
             "num_tracks": 25,
             "num_followers": 45,
             "tracks": [
@@ -143,7 +143,7 @@
         },
         {
             "name": "Praise Songs",
-            "pid": 3439,
+            "pid": 2638,
             "num_tracks": 71,
             "num_followers": 17,
             "tracks": [
@@ -509,7 +509,7 @@
         },
         {
             "name": "Shower",
-            "pid": 3440,
+            "pid": 2639,
             "num_tracks": 62,
             "num_followers": 17,
             "tracks": [
@@ -830,7 +830,7 @@
         },
         {
             "name": "Prom",
-            "pid": 3441,
+            "pid": 2640,
             "num_tracks": 160,
             "num_followers": 12,
             "tracks": [
@@ -1641,7 +1641,7 @@
         },
         {
             "name": "underground!",
-            "pid": 3442,
+            "pid": 2641,
             "num_tracks": 134,
             "num_followers": 20,
             "tracks": [
@@ -2322,472 +2322,8 @@
             "description": "Un poquito de pa&#x27; los tiempos de Yankee con bigote, Voltio conoc\u00eda a Karell, Hector era El Bambino y Tito los bendecia. #ElQueSabeSabe"
         },
         {
-            "name": "PRIDE",
-            "pid": 3443,
-            "num_tracks": 78,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "A Great Big World",
-                    "track_uri": "spotify:track:1KIP5vXGQ58K0At66KZFU3",
-                    "track_name": "Everyone Is Gay"
-                },
-                {
-                    "artist_name": "Hayley Kiyoko",
-                    "track_uri": "spotify:track:3dNjUFt6EFU4Gq6Q5vfJqf",
-                    "track_name": "Girls Like Girls"
-                },
-                {
-                    "artist_name": "cupcakKe",
-                    "track_uri": "spotify:track:0lsw4q8Jei7gEoV7kFe3DS",
-                    "track_name": "Lgbt"
-                },
-                {
-                    "artist_name": "American Authors",
-                    "track_uri": "spotify:track:1aGECHpgySxBAcLBBMyxlC",
-                    "track_name": "Pride"
-                },
-                {
-                    "artist_name": "Franz Ferdinand",
-                    "track_uri": "spotify:track:4I8ATtKjqwp7o3O2AzAmKr",
-                    "track_name": "Michael"
-                },
-                {
-                    "artist_name": "Owl City",
-                    "track_uri": "spotify:track:7eYCwwABFO4lXV93PwpLWK",
-                    "track_name": "Beautiful Times"
-                },
-                {
-                    "artist_name": "Zedd",
-                    "track_uri": "spotify:track:6XDkCAv65eIZTfTwh0XHU6",
-                    "track_name": "Daisy"
-                },
-                {
-                    "artist_name": "Owl City",
-                    "track_uri": "spotify:track:61M3DuWap0Y0RcFmWcrcQP",
-                    "track_name": "Embers"
-                },
-                {
-                    "artist_name": "Halsey",
-                    "track_uri": "spotify:track:6Xs7OKt6i0Ddq8B4M5Dgvr",
-                    "track_name": "New Americana"
-                },
-                {
-                    "artist_name": "Troye Sivan",
-                    "track_uri": "spotify:track:1cOyWWUr3oXJIxY0AjJEx9",
-                    "track_name": "YOUTH"
-                },
-                {
-                    "artist_name": "Gia",
-                    "track_uri": "spotify:track:6Xaf3HcFJhY0P2KjRDEKgs",
-                    "track_name": "Only a Girl"
-                },
-                {
-                    "artist_name": "Coldplay",
-                    "track_uri": "spotify:track:4giCxIFPZNQIP4bIZM4sqH",
-                    "track_name": "Army Of One"
-                },
-                {
-                    "artist_name": "Hozier",
-                    "track_uri": "spotify:track:0IqKeD8ZSP72KbGYyzEcAs",
-                    "track_name": "Take Me To Church"
-                },
-                {
-                    "artist_name": "Coldplay",
-                    "track_uri": "spotify:track:1lxzBK93CioCcSndzuTGyn",
-                    "track_name": "Us Against the World"
-                },
-                {
-                    "artist_name": "Twenty One Pilots",
-                    "track_uri": "spotify:track:6i0V12jOa3mr6uu4WYhUBr",
-                    "track_name": "Heathens"
-                },
-                {
-                    "artist_name": "The Cab",
-                    "track_uri": "spotify:track:49rpdsNYJirTTf6p6mMvag",
-                    "track_name": "Angel With A Shotgun"
-                },
-                {
-                    "artist_name": "Mary Lambert",
-                    "track_uri": "spotify:track:4Yb6G9OWgGBmfOpxcFxp6P",
-                    "track_name": "She Keeps Me Warm"
-                },
-                {
-                    "artist_name": "Panic! At The Disco",
-                    "track_uri": "spotify:track:2wEjPgOCEczmjlvq60LyQi",
-                    "track_name": "Girls/Girls/Boys"
-                },
-                {
-                    "artist_name": "Macklemore & Ryan Lewis",
-                    "track_uri": "spotify:track:01uqI4H13Gsd8Lyl1EYd8H",
-                    "track_name": "Same Love - feat. Mary Lambert"
-                },
-                {
-                    "artist_name": "Diana Ross",
-                    "track_uri": "spotify:track:0ew27xRdxSexrWbODuLfeE",
-                    "track_name": "I'm Coming Out"
-                },
-                {
-                    "artist_name": "Jessie J",
-                    "track_uri": "spotify:track:2ZeqHRsu81p7xNsW24qTyt",
-                    "track_name": "Do It Like A Dude"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:4YZbVct8l9MnAVIROnLQdx",
-                    "track_name": "Forrest Gump"
-                },
-                {
-                    "artist_name": "Beatrice Eli",
-                    "track_uri": "spotify:track:0MxBQqV3C815arNjQneuPp",
-                    "track_name": "Girls"
-                },
-                {
-                    "artist_name": "Katy Perry",
-                    "track_uri": "spotify:track:25ZttbpeUKDOm3aghD2oBJ",
-                    "track_name": "I Kissed a Girl"
-                },
-                {
-                    "artist_name": "Metro Station",
-                    "track_uri": "spotify:track:2OsKN9Oy9Lt1xfxgH97Vaj",
-                    "track_name": "She Likes Girls"
-                },
-                {
-                    "artist_name": "Icona Pop",
-                    "track_uri": "spotify:track:6JqRzMVuX8sO5huQpG1vbi",
-                    "track_name": "Girlfriend"
-                },
-                {
-                    "artist_name": "Mary Lambert",
-                    "track_uri": "spotify:track:3V3iy4K6paycRmTyrjQVwi",
-                    "track_name": "Secrets"
-                },
-                {
-                    "artist_name": "Hayley Kiyoko",
-                    "track_uri": "spotify:track:4fwFP5AWlh3zTZQOdbMlMi",
-                    "track_name": "Gravel To Tempo"
-                },
-                {
-                    "artist_name": "Lights",
-                    "track_uri": "spotify:track:36UAUMxK3zVcm8o9uLIvbN",
-                    "track_name": "Banner"
-                },
-                {
-                    "artist_name": "Demi Lovato",
-                    "track_uri": "spotify:track:73Qlt0XuhuYzEigjitm2ze",
-                    "track_name": "Cool for the Summer"
-                },
-                {
-                    "artist_name": "Tegan and Sara",
-                    "track_uri": "spotify:track:0euRZeEKvdbptPpebwDtLc",
-                    "track_name": "Boyfriend"
-                },
-                {
-                    "artist_name": "Hayley Kiyoko",
-                    "track_uri": "spotify:track:6Ps1yvmZR3vfgNDNp9Ymn2",
-                    "track_name": "Girls Like Girls - Jenaux Remix"
-                },
-                {
-                    "artist_name": "Studio Killers",
-                    "track_uri": "spotify:track:7lgA34nFXxjqQgyLkPUcLv",
-                    "track_name": "Jenny"
-                },
-                {
-                    "artist_name": "Zolita",
-                    "track_uri": "spotify:track:5YoBOfD0OlfkDnpWh3l6VD",
-                    "track_name": "Explosion"
-                },
-                {
-                    "artist_name": "Hayley Kiyoko",
-                    "track_uri": "spotify:track:55kn1i0n1mUWiEB6LZrTYe",
-                    "track_name": "Pretty Girl"
-                },
-                {
-                    "artist_name": "Hayley Kiyoko",
-                    "track_uri": "spotify:track:7GHSSr69BQ0NwSbpfTjjSm",
-                    "track_name": "Ease My Mind"
-                },
-                {
-                    "artist_name": "Zolita",
-                    "track_uri": "spotify:track:3gNyOIjOkBQAtq2pSHvzRW",
-                    "track_name": "Holy"
-                },
-                {
-                    "artist_name": "Switchfoot",
-                    "track_uri": "spotify:track:4rxm1FHvVNwlKXkSNcP8BH",
-                    "track_name": "Dark Horses"
-                },
-                {
-                    "artist_name": "Garfunkel and Oates",
-                    "track_uri": "spotify:track:33ndXKe2AuH7cnsHSjrBv1",
-                    "track_name": "Rainbow Connections"
-                },
-                {
-                    "artist_name": "Troye Sivan",
-                    "track_uri": "spotify:track:5VrgqxF4HM4NgCboCTbMnL",
-                    "track_name": "HEAVEN"
-                },
-                {
-                    "artist_name": "Ingrid Michaelson",
-                    "track_uri": "spotify:track:6zYqyOJuyXDOvWJwKkZ8tg",
-                    "track_name": "You and I"
-                },
-                {
-                    "artist_name": "Jasmine Thompson",
-                    "track_uri": "spotify:track:4vHUtw7dbHNuYMUTIBwRZI",
-                    "track_name": "Hey There Delilah"
-                },
-                {
-                    "artist_name": "PWR BTTM",
-                    "track_uri": "spotify:track:6shhReGKYdzCXtXxCIc1dF",
-                    "track_name": "I Wanna Boi"
-                },
-                {
-                    "artist_name": "The Internet",
-                    "track_uri": "spotify:track:3PFaFVWq5wucLu6s4baj9D",
-                    "track_name": "Girl"
-                },
-                {
-                    "artist_name": "dodie",
-                    "track_uri": "spotify:track:3uYxmgnOA9lJYAsHyEbbWA",
-                    "track_name": "Intertwined"
-                },
-                {
-                    "artist_name": "The Blow",
-                    "track_uri": "spotify:track:2nyuP0aVQ4mdGM5VE7AbsN",
-                    "track_name": "\"Come On Petunia\""
-                },
-                {
-                    "artist_name": "Syd",
-                    "track_uri": "spotify:track:0IaiJbZebXLqfetAkMEZzU",
-                    "track_name": "Body"
-                },
-                {
-                    "artist_name": "Lady Gaga",
-                    "track_uri": "spotify:track:0mby3QJBZ5k4XDuds8dDyE",
-                    "track_name": "Venus"
-                },
-                {
-                    "artist_name": "Lady Gaga",
-                    "track_uri": "spotify:track:209NkbzmsUa9pAobU7xGyf",
-                    "track_name": "Born This Way"
-                },
-                {
-                    "artist_name": "Lowell",
-                    "track_uri": "spotify:track:4jJnzQaeAEOOCrRHW4FT2v",
-                    "track_name": "LGBT"
-                },
-                {
-                    "artist_name": "Kadie Elder",
-                    "track_uri": "spotify:track:72ey4Cr2eXXwH9IMlhzuCV",
-                    "track_name": "First Time He Kissed a Boy"
-                },
-                {
-                    "artist_name": "Benny",
-                    "track_uri": "spotify:track:0ODyahnUlK9G5bT4dA5NCI",
-                    "track_name": "Little Game"
-                },
-                {
-                    "artist_name": "New Politics",
-                    "track_uri": "spotify:track:1Nh3lQFZsnyCmFPCK93avB",
-                    "track_name": "Girl Crush"
-                },
-                {
-                    "artist_name": "Sarah McLachlan",
-                    "track_uri": "spotify:track:699vChUaGvvlGuwpItAIVY",
-                    "track_name": "When She Loved Me"
-                },
-                {
-                    "artist_name": "Little Mix",
-                    "track_uri": "spotify:track:2BnjU9TqIovk0IQ7jJaA4z",
-                    "track_name": "Secret Love Song, Pt. II"
-                },
-                {
-                    "artist_name": "Swirlies",
-                    "track_uri": "spotify:track:738TbvFzrI2w1dd1j092wm",
-                    "track_name": "Two Girls Kissing"
-                },
-                {
-                    "artist_name": "Elektra",
-                    "track_uri": "spotify:track:7xXZ0SmSvLXi8v24lvy2Ys",
-                    "track_name": "I Don\u00b4t Do Boys"
-                },
-                {
-                    "artist_name": "Schmekel",
-                    "track_uri": "spotify:track:2gRsjMS35bDf7BME8S5EyY",
-                    "track_name": "Genderqueer Love Song"
-                },
-                {
-                    "artist_name": "Boyinaband",
-                    "track_uri": "spotify:track:0j3ZLRvMewKbFupgldgNo3",
-                    "track_name": "Spectrum (feat. Cryaotic & Minx)"
-                },
-                {
-                    "artist_name": "Marcela Mangabeira",
-                    "track_uri": "spotify:track:2fBdcYHJY5LZVJftOGRIye",
-                    "track_name": "Every Thing She Does Is Magic"
-                },
-                {
-                    "artist_name": "Sleeping At Last",
-                    "track_uri": "spotify:track:3cBtANnJGopPaRMXCl3mV7",
-                    "track_name": "Every Little Thing She Does Is Magic"
-                },
-                {
-                    "artist_name": "Lorde",
-                    "track_uri": "spotify:track:0or0gNaKAXYYCsOrpvRzAu",
-                    "track_name": "Liability"
-                },
-                {
-                    "artist_name": "Grimes",
-                    "track_uri": "spotify:track:17ls9oJLz3FuQV0a2XTTj7",
-                    "track_name": "Artangels"
-                },
-                {
-                    "artist_name": "Spin Doctors",
-                    "track_uri": "spotify:track:0cuq829zRNq4AEdmDJA4aw",
-                    "track_name": "Two Princes"
-                },
-                {
-                    "artist_name": "The Butchies",
-                    "track_uri": "spotify:track:4GP9tCJKmYD8maZqiFNdzp",
-                    "track_name": "She's so Lovely"
-                },
-                {
-                    "artist_name": "Au Revoir Simone",
-                    "track_uri": "spotify:track:7bWGTF2LnCgs381qONt21L",
-                    "track_name": "Crazy"
-                },
-                {
-                    "artist_name": "Pansy Division",
-                    "track_uri": "spotify:track:7Gjze5dPQjujzoHGOQReWT",
-                    "track_name": "Fem in a Black Leather Jacket"
-                },
-                {
-                    "artist_name": "Childbirth",
-                    "track_uri": "spotify:track:5gxTAugcoXkbN3taPi4db0",
-                    "track_name": "Since When Are You Gay?"
-                },
-                {
-                    "artist_name": "Halsey",
-                    "track_uri": "spotify:track:7y9iMe8SOB6z3NoHE2OfXl",
-                    "track_name": "Bad At Love"
-                },
-                {
-                    "artist_name": "Halsey",
-                    "track_uri": "spotify:track:11EDhDAVDtGPoSar6ootYA",
-                    "track_name": "Strangers"
-                },
-                {
-                    "artist_name": "Icona Pop",
-                    "track_uri": "spotify:track:0vbGtjxIN6Baztc9geaAEG",
-                    "track_name": "GIRLS GIRLS"
-                },
-                {
-                    "artist_name": "The Blow",
-                    "track_uri": "spotify:track:3vkeJjYpljt7BVQ9l43mUV",
-                    "track_name": "Like Girls"
-                },
-                {
-                    "artist_name": "The Butchies",
-                    "track_uri": "spotify:track:1vOLAEUHw9CSQODh0QzSMF",
-                    "track_name": "The Galaxy Is Gay"
-                },
-                {
-                    "artist_name": "Against Me!",
-                    "track_uri": "spotify:track:2oy7KwEfhcX4cse87H2ndu",
-                    "track_name": "True Trans Soul Rebel"
-                },
-                {
-                    "artist_name": "Antony and the Johnsons",
-                    "track_uri": "spotify:track:6DgWQLA1LPz5HI94PtBG6X",
-                    "track_name": "For Today I Am A Boy"
-                },
-                {
-                    "artist_name": "Ezra Furman",
-                    "track_uri": "spotify:track:6uURqlQlz0JRx41lPhyYcU",
-                    "track_name": "Body Was Made"
-                },
-                {
-                    "artist_name": "Grimes",
-                    "track_uri": "spotify:track:53qe0ASgMg8L6VaM7fljqF",
-                    "track_name": "Venus Fly"
-                },
-                {
-                    "artist_name": "Blind Fury",
-                    "track_uri": "spotify:track:09YXtRJuqm9H6cH7PhIls0",
-                    "track_name": "I Want Her (feat. Georgia Harris)"
-                }
-            ],
-            "num_edits": 40,
-            "duration_ms": 16443350,
-            "num_artists": 62,
-            "description": "LGBT jams, pride anthems, same-sex love songs, stories of self-discovery. The queerest songs around."
-        },
-        {
-            "name": "october",
-            "pid": 3444,
-            "num_tracks": 10,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "BADTALKERS",
-                    "track_uri": "spotify:track:18pUeF8WwByv1j9nI3U2Rc",
-                    "track_name": "Dark Halls"
-                },
-                {
-                    "artist_name": "Kesha",
-                    "track_uri": "spotify:track:1nxufatvWIGPPBtPACXzu8",
-                    "track_name": "Let 'Em Talk"
-                },
-                {
-                    "artist_name": "Sabrina Carpenter",
-                    "track_uri": "spotify:track:0QTOY1FBKwC7jA33N8cLSi",
-                    "track_name": "Feels Like Loneliness"
-                },
-                {
-                    "artist_name": "Harry Styles",
-                    "track_uri": "spotify:track:33bURv895AN4FkBvgFo2dx",
-                    "track_name": "Woman"
-                },
-                {
-                    "artist_name": "DNCE",
-                    "track_uri": "spotify:track:0w2AqrJ9afRXiTgfgW4tLd",
-                    "track_name": "Kissing Strangers"
-                },
-                {
-                    "artist_name": "WALK THE MOON",
-                    "track_uri": "spotify:track:0iQ77tSa7ncj7zBPtVx6cU",
-                    "track_name": "One Foot"
-                },
-                {
-                    "artist_name": "Lorde",
-                    "track_uri": "spotify:track:2rE9TX3VQ0WNt7kziFhKep",
-                    "track_name": "Homemade Dynamite - REMIX"
-                },
-                {
-                    "artist_name": "Oh Wonder",
-                    "track_uri": "spotify:track:77EipMYqP1rGvotKd6i5E3",
-                    "track_name": "The Rain"
-                },
-                {
-                    "artist_name": "The Killers",
-                    "track_uri": "spotify:track:3vYJ7Fbjr9LG4DVPgw6Z16",
-                    "track_name": "Tyson vs Douglas"
-                },
-                {
-                    "artist_name": "Grouplove",
-                    "track_uri": "spotify:track:70QCJwpiTcvN8t7scWHjZh",
-                    "track_name": "Remember That Night"
-                }
-            ],
-            "num_edits": 9,
-            "duration_ms": 2165460,
-            "num_artists": 10,
-            "description": "dancing with our shoes off"
-        },
-        {
             "name": "feels",
-            "pid": 3445,
+            "pid": 2642,
             "num_tracks": 135,
             "num_followers": 16,
             "tracks": [
@@ -3473,7 +3009,7 @@
         },
         {
             "name": "Productivity",
-            "pid": 3446,
+            "pid": 2643,
             "num_tracks": 71,
             "num_followers": 25,
             "tracks": [
@@ -3839,7 +3375,7 @@
         },
         {
             "name": "All Time Favorites",
-            "pid": 3447,
+            "pid": 2644,
             "num_tracks": 190,
             "num_followers": 13,
             "tracks": [

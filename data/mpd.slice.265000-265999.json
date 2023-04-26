@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Spanish Worship",
-            "pid": 1808,
+            "pid": 1378,
             "num_tracks": 155,
             "num_followers": 17,
             "tracks": [
@@ -792,329 +792,8 @@
             "num_artists": 31
         },
         {
-            "name": "It's Lit",
-            "pid": 1809,
-            "num_tracks": 62,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Kodak Black",
-                    "track_uri": "spotify:track:34oWbFBfGEElvgO0a5c9V4",
-                    "track_name": "No Flockin"
-                },
-                {
-                    "artist_name": "Kodak Black",
-                    "track_uri": "spotify:track:5v7kaZNsnyByrSJOfO8gKq",
-                    "track_name": "Skrt"
-                },
-                {
-                    "artist_name": "MadeinTYO",
-                    "track_uri": "spotify:track:7zBPzAjKAqQpcv8F8GCq5s",
-                    "track_name": "Uber Everywhere"
-                },
-                {
-                    "artist_name": "Chief Keef",
-                    "track_uri": "spotify:track:4IowQDUOzUvNtp72HMDcKO",
-                    "track_name": "Love Sosa"
-                },
-                {
-                    "artist_name": "Meek Mill",
-                    "track_uri": "spotify:track:42zd6DYQ4o4SECmTITrM1U",
-                    "track_name": "Dreams and Nightmares"
-                },
-                {
-                    "artist_name": "A Boogie Wit da Hoodie",
-                    "track_uri": "spotify:track:5uZm7EFtP5aoTJvx5gv9Xf",
-                    "track_name": "Jungle"
-                },
-                {
-                    "artist_name": "Don Mega",
-                    "track_uri": "spotify:track:0KihYwaais2OchdhJ8Vaks",
-                    "track_name": "FuckWitMeYouKnowIGotIt"
-                },
-                {
-                    "artist_name": "Gucci Mane",
-                    "track_uri": "spotify:track:5tFep7dXGd7vEJ668wTPux",
-                    "track_name": "Both (feat. Drake)"
-                },
-                {
-                    "artist_name": "Kodak Black",
-                    "track_uri": "spotify:track:6canmpFnLHVUzvVWAodifz",
-                    "track_name": "There He Go"
-                },
-                {
-                    "artist_name": "Migos",
-                    "track_uri": "spotify:track:6p8NuHm8uCGnn2Dtbtf7zE",
-                    "track_name": "Slippery (feat. Gucci Mane)"
-                },
-                {
-                    "artist_name": "Kodak Black",
-                    "track_uri": "spotify:track:4Q3N4Ct4zCuIHuZ65E3BD4",
-                    "track_name": "Tunnel Vision"
-                },
-                {
-                    "artist_name": "Tee Grizzley",
-                    "track_uri": "spotify:track:3muBQDekYAg7jm6hDu6R0Z",
-                    "track_name": "First Day Out"
-                },
-                {
-                    "artist_name": "DJ Esco",
-                    "track_uri": "spotify:track:5oyUurs28XRagLa8lgm6V3",
-                    "track_name": "Too Much Sauce"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert",
-                    "track_uri": "spotify:track:4IWGnyOHDrVZEtPWfs4s7q",
-                    "track_name": "Do What I Want"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert",
-                    "track_uri": "spotify:track:7GX5flRQZVHRAGd6B4TmDO",
-                    "track_name": "XO TOUR Llif3"
-                },
-                {
-                    "artist_name": "A Boogie Wit da Hoodie",
-                    "track_uri": "spotify:track:1f5cbQtDrykjarZVrShaDI",
-                    "track_name": "Drowning (feat. Kodak Black)"
-                },
-                {
-                    "artist_name": "Tee Grizzley",
-                    "track_uri": "spotify:track:2NyrXRn4tancYPW6JwtTl2",
-                    "track_name": "From The D To The A (feat. Lil Yachty)"
-                },
-                {
-                    "artist_name": "Smokepurpp",
-                    "track_uri": "spotify:track:7MCs283jdifycrZoMPPynX",
-                    "track_name": "Glock In My Benz"
-                },
-                {
-                    "artist_name": "Travis Scott",
-                    "track_uri": "spotify:track:1yxgsra98r3qAtxqiGZPiX",
-                    "track_name": "Butterfly Effect"
-                },
-                {
-                    "artist_name": "Lil Pump",
-                    "track_uri": "spotify:track:4N1N6Ibcrube1V7Ktge0ab",
-                    "track_name": "D Rose"
-                },
-                {
-                    "artist_name": "Young Thug",
-                    "track_uri": "spotify:track:2BAmF6QyK5IYEOp1TFmt0u",
-                    "track_name": "Feel It"
-                },
-                {
-                    "artist_name": "21 Savage",
-                    "track_uri": "spotify:track:1vc2YF7ZvUtwr45HNpdGch",
-                    "track_name": "Numb"
-                },
-                {
-                    "artist_name": "21 Savage",
-                    "track_uri": "spotify:track:2fQrGHiQOvpL9UgPvtYy6G",
-                    "track_name": "Bank Account"
-                },
-                {
-                    "artist_name": "Meek Mill",
-                    "track_uri": "spotify:track:2C4XQsZFeze4yMatFzY9M2",
-                    "track_name": "Never Lose (feat. Lihtz Kamraz)"
-                },
-                {
-                    "artist_name": "Meek Mill",
-                    "track_uri": "spotify:track:2sBHQfX9QxJwGcdutAj6Pj",
-                    "track_name": "Wins & Losses"
-                },
-                {
-                    "artist_name": "Meek Mill",
-                    "track_uri": "spotify:track:7dK9JJXrbDFc29n23BqUso",
-                    "track_name": "Fall Thru"
-                },
-                {
-                    "artist_name": "Meek Mill",
-                    "track_uri": "spotify:track:7sLDnUauivS2vN6Z9EfUJT",
-                    "track_name": "1942 Flows"
-                },
-                {
-                    "artist_name": "22 Savage",
-                    "track_uri": "spotify:track:0UioblV1x795s55Ur58c6c",
-                    "track_name": "The Race"
-                },
-                {
-                    "artist_name": "Kodak Black",
-                    "track_uri": "spotify:track:40oKW22ZNNkEdZLJTScaQI",
-                    "track_name": "Roll In Peace (feat. XXXTENTACION)"
-                },
-                {
-                    "artist_name": "Meek Mill",
-                    "track_uri": "spotify:track:7mlkO7fkD1tJrxoqOMGzqF",
-                    "track_name": "We Ball (feat. Young Thug)"
-                },
-                {
-                    "artist_name": "Murda Beatz",
-                    "track_uri": "spotify:track:552xKZMnxzHxlsKrnKtf30",
-                    "track_name": "Growth"
-                },
-                {
-                    "artist_name": "Gucci Mane",
-                    "track_uri": "spotify:track:1XRgIKC5TPwo7nWGyKqgG0",
-                    "track_name": "I Get The Bag (feat. Migos)"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert",
-                    "track_uri": "spotify:track:2ZdCrBA52bb4pIG3tOOZiQ",
-                    "track_name": "Dark Queen"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert",
-                    "track_uri": "spotify:track:5tRmoZRoupvMYPV1oezFrH",
-                    "track_name": "X"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert",
-                    "track_uri": "spotify:track:1uL78kFWxhz3umTMWJu8n5",
-                    "track_name": "Sauce It Up"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert",
-                    "track_uri": "spotify:track:5Y3Tj0wJhKAaPbwWxXxZGS",
-                    "track_name": "Feelings Mutual"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert",
-                    "track_uri": "spotify:track:1MJErNPIQUoEMu4YUUmecm",
-                    "track_name": "Neon Guts (feat. Pharrell Williams)"
-                },
-                {
-                    "artist_name": "YoungBoy Never Broke Again",
-                    "track_uri": "spotify:track:6xL9MJ2yt39HPPZPyGkRy8",
-                    "track_name": "Untouchable"
-                },
-                {
-                    "artist_name": "G Herbo",
-                    "track_uri": "spotify:track:3dixqholn3UPyI5nSxkJ9G",
-                    "track_name": "I Like"
-                },
-                {
-                    "artist_name": "Lil Pump",
-                    "track_uri": "spotify:track:43ZyHQITOjhciSUUNPVRHc",
-                    "track_name": "Gucci Gang"
-                },
-                {
-                    "artist_name": "A Boogie Wit da Hoodie",
-                    "track_uri": "spotify:track:1AH60dMaEfNjzDoUIFwIQi",
-                    "track_name": "Beast Mode (feat. PnB Rock & YoungBoy Never Broke Again)"
-                },
-                {
-                    "artist_name": "Trippie Redd",
-                    "track_uri": "spotify:track:3vWxQ6wOfMr8zH1u7pVFI6",
-                    "track_name": "Bust Down"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert",
-                    "track_uri": "spotify:track:65kp3OFn7JXbCvkm3m2Ui2",
-                    "track_name": "Two\u00ae"
-                },
-                {
-                    "artist_name": "50 Cent",
-                    "track_uri": "spotify:track:7iL6o9tox1zgHpKUfh9vuC",
-                    "track_name": "In Da Club"
-                },
-                {
-                    "artist_name": "Bobby Shmurda",
-                    "track_uri": "spotify:track:6j8lAie0mdUNreql5d5Ejz",
-                    "track_name": "Bobby Bitch"
-                },
-                {
-                    "artist_name": "MadeinTYO",
-                    "track_uri": "spotify:track:26bagHWcawT0HA0TkUbG2a",
-                    "track_name": "Too Quick"
-                },
-                {
-                    "artist_name": "A Boogie Wit da Hoodie",
-                    "track_uri": "spotify:track:2vaMWMPMgsWX4fwJiKmdWm",
-                    "track_name": "Undefeated (feat. 21 Savage)"
-                },
-                {
-                    "artist_name": "A Boogie Wit da Hoodie",
-                    "track_uri": "spotify:track:3AMnOVxEHUgVrythGgqPhI",
-                    "track_name": "Say A'"
-                },
-                {
-                    "artist_name": "A Boogie Wit da Hoodie",
-                    "track_uri": "spotify:track:6KdA9pz4KS4avq0CUqblAV",
-                    "track_name": "If I Gotta Go"
-                },
-                {
-                    "artist_name": "A Boogie Wit da Hoodie",
-                    "track_uri": "spotify:track:2BJpuAoDeQ1QuPvnryfAWK",
-                    "track_name": "No Promises"
-                },
-                {
-                    "artist_name": "SahBabii",
-                    "track_uri": "spotify:track:1L0M8Uj3aI6IQQNi6Nghvn",
-                    "track_name": "Pull Up Wit Ah Stick (feat. Loso Loaded)"
-                },
-                {
-                    "artist_name": "Trippie Redd",
-                    "track_uri": "spotify:track:5SCiKTGKH0fIgqQzpBvL69",
-                    "track_name": "Love Scars Pt. 2 / Rack City"
-                },
-                {
-                    "artist_name": "Lil Pump",
-                    "track_uri": "spotify:track:2GS2KrTRKQKeK4zYW4k9V2",
-                    "track_name": "Whitney (feat. Chief Keef)"
-                },
-                {
-                    "artist_name": "Lil Pump",
-                    "track_uri": "spotify:track:1fEl5TPKRJAsuP6TqZ23hB",
-                    "track_name": "D Rose"
-                },
-                {
-                    "artist_name": "Dame D.O.L.L.A",
-                    "track_uri": "spotify:track:6Jz6C4VVi7hmQeC4rDt3A2",
-                    "track_name": "Run It Up"
-                },
-                {
-                    "artist_name": "Dame D.O.L.L.A",
-                    "track_uri": "spotify:track:1JT8hFl6eP4Q2mX5U1jYwQ",
-                    "track_name": "Loyal to the Soil (feat. Lil Wayne)"
-                },
-                {
-                    "artist_name": "22 Savage",
-                    "track_uri": "spotify:track:0RSRGCmRBSsLA7TW1GdgIN",
-                    "track_name": "My Choppa"
-                },
-                {
-                    "artist_name": "Post Malone",
-                    "track_uri": "spotify:track:7wGoVu4Dady5GV0Sv4UIsx",
-                    "track_name": "rockstar"
-                },
-                {
-                    "artist_name": "Future",
-                    "track_uri": "spotify:track:7r6LNJT2LqpLpEyZQJPygt",
-                    "track_name": "Patek Water"
-                },
-                {
-                    "artist_name": "Future",
-                    "track_uri": "spotify:track:06Gyf2pFDVmN5K8XAawG96",
-                    "track_name": "No Cap"
-                },
-                {
-                    "artist_name": "A Boogie Wit da Hoodie",
-                    "track_uri": "spotify:track:2WfY2W1dGfBa6oAFQyGrI5",
-                    "track_name": "Fucking & Kissing (feat. Chris Brown)"
-                },
-                {
-                    "artist_name": "Offset",
-                    "track_uri": "spotify:track:7LAhKXDNWwq3CmnFP3UIOP",
-                    "track_name": "Nightmare"
-                }
-            ],
-            "num_edits": 45,
-            "duration_ms": 12464460,
-            "num_artists": 28
-        },
-        {
             "name": "TBT",
-            "pid": 1810,
+            "pid": 1379,
             "num_tracks": 201,
             "num_followers": 16,
             "tracks": [
@@ -2130,7 +1809,7 @@
         },
         {
             "name": "ultimate party playlist",
-            "pid": 1811,
+            "pid": 1380,
             "num_tracks": 65,
             "num_followers": 22,
             "tracks": [
@@ -2466,7 +2145,7 @@
         },
         {
             "name": "Alternate",
-            "pid": 1812,
+            "pid": 1381,
             "num_tracks": 107,
             "num_followers": 18,
             "tracks": [
@@ -3012,7 +2691,7 @@
         },
         {
             "name": "christan",
-            "pid": 1813,
+            "pid": 1382,
             "num_tracks": 90,
             "num_followers": 16,
             "tracks": [
@@ -3473,7 +3152,7 @@
         },
         {
             "name": "classics",
-            "pid": 1814,
+            "pid": 1383,
             "num_tracks": 59,
             "num_followers": 12,
             "tracks": [
@@ -3780,7 +3459,7 @@
         },
         {
             "name": "current favs",
-            "pid": 1815,
+            "pid": 1384,
             "num_tracks": 8,
             "num_followers": 12,
             "tracks": [

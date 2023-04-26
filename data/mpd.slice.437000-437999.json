@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Spring '16",
-            "pid": 6866,
+            "pid": 5205,
             "num_tracks": 59,
             "num_followers": 21,
             "tracks": [
@@ -313,7 +313,7 @@
         },
         {
             "name": "Neosoul",
-            "pid": 6867,
+            "pid": 5206,
             "num_tracks": 144,
             "num_followers": 206,
             "tracks": [
@@ -1044,7 +1044,7 @@
         },
         {
             "name": "JUNE",
-            "pid": 6868,
+            "pid": 5207,
             "num_tracks": 15,
             "num_followers": 282,
             "tracks": [
@@ -1130,7 +1130,7 @@
         },
         {
             "name": "Ariel camacho",
-            "pid": 6869,
+            "pid": 5208,
             "num_tracks": 118,
             "num_followers": 70,
             "tracks": [
@@ -1728,237 +1728,6 @@
             "num_edits": 12,
             "duration_ms": 22338809,
             "num_artists": 20
-        },
-        {
-            "name": "road trip",
-            "pid": 6870,
-            "num_tracks": 44,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Indigo Girls",
-                    "track_uri": "spotify:track:62ohCBnhU0wjaBqUHkNNoM",
-                    "track_name": "Least Complicated"
-                },
-                {
-                    "artist_name": "Tracy Chapman",
-                    "track_uri": "spotify:track:2M9ro2krNb7nr7HSprkEgo",
-                    "track_name": "Fast Car"
-                },
-                {
-                    "artist_name": "DNA",
-                    "track_uri": "spotify:track:6HS5QOvhd4w3XqJMDaEWcv",
-                    "track_name": "Tom's Diner - 7\" Version"
-                },
-                {
-                    "artist_name": "Melissa Etheridge",
-                    "track_uri": "spotify:track:4LmlGaGTEbTGE5VngAbpA3",
-                    "track_name": "Come To My Window"
-                },
-                {
-                    "artist_name": "10,000 Maniacs",
-                    "track_uri": "spotify:track:786h4kDeZiX5nYvOwA3wtE",
-                    "track_name": "These Are Days"
-                },
-                {
-                    "artist_name": "Edie Brickell & New Bohemians",
-                    "track_uri": "spotify:track:4ZjPRJrTe7mbuKGHZlQFgi",
-                    "track_name": "Circle"
-                },
-                {
-                    "artist_name": "Lisa Loeb & Nine Stories",
-                    "track_uri": "spotify:track:4ARhdB2FzpXcko8T03YVen",
-                    "track_name": "Stay"
-                },
-                {
-                    "artist_name": "Dave Matthews Band",
-                    "track_uri": "spotify:track:2FfZg072w8RoxlMOR7M4CT",
-                    "track_name": "Ants Marching"
-                },
-                {
-                    "artist_name": "Deep Blue Something",
-                    "track_uri": "spotify:track:3GpdNg7Krt9vjc6tgDoKe1",
-                    "track_name": "Breakfast At Tiffany's"
-                },
-                {
-                    "artist_name": "The Cranberries",
-                    "track_uri": "spotify:track:0md12GKBGH8ZuLG2fTfGUz",
-                    "track_name": "Dreams"
-                },
-                {
-                    "artist_name": "The Verve Pipe",
-                    "track_uri": "spotify:track:3rfDfPjgHDQ1BUaSHr9xoI",
-                    "track_name": "The Freshmen"
-                },
-                {
-                    "artist_name": "Eagle-Eye Cherry",
-                    "track_uri": "spotify:track:2hdhm6piUJnmKXmEmskXCg",
-                    "track_name": "Save Tonight"
-                },
-                {
-                    "artist_name": "Gin Blossoms",
-                    "track_uri": "spotify:track:6rqkwoZu5oX5hugeyiJCM8",
-                    "track_name": "Follow You Down"
-                },
-                {
-                    "artist_name": "The Wallflowers",
-                    "track_uri": "spotify:track:0z1b34WikhOH9ZxU8QDWcv",
-                    "track_name": "One Headlight"
-                },
-                {
-                    "artist_name": "Tori Amos",
-                    "track_uri": "spotify:track:1300POeOaj8qho30FRHjgf",
-                    "track_name": "Cornflake Girl"
-                },
-                {
-                    "artist_name": "Wilson Phillips",
-                    "track_uri": "spotify:track:1gLesvBM5Q9pjGitHWJEM4",
-                    "track_name": "Hold On (Single Edit) [2000 - Remaster]"
-                },
-                {
-                    "artist_name": "Ani DiFranco",
-                    "track_uri": "spotify:track:4FJsFAdLFGqrmuM74CIzhs",
-                    "track_name": "Both Hands"
-                },
-                {
-                    "artist_name": "Duran Duran",
-                    "track_uri": "spotify:track:0wokCRaKD0zPNhMRXAgVsr",
-                    "track_name": "Ordinary World"
-                },
-                {
-                    "artist_name": "Tracy Chapman",
-                    "track_uri": "spotify:track:0YMFcrMtBowDdD5bPz0cgy",
-                    "track_name": "Talkin' Bout A Revolution"
-                },
-                {
-                    "artist_name": "Indigo Girls",
-                    "track_uri": "spotify:track:5kfq8LQa2BgSz6WGlZJySk",
-                    "track_name": "Closer to fine"
-                },
-                {
-                    "artist_name": "Sarah McLachlan",
-                    "track_uri": "spotify:track:08rfYKtzAJ7sysYRIukOrS",
-                    "track_name": "Ice Cream"
-                },
-                {
-                    "artist_name": "Luscious Jackson",
-                    "track_uri": "spotify:track:01xc137FiktE9epZBB9RMh",
-                    "track_name": "Why Do I Lie?"
-                },
-                {
-                    "artist_name": "Counting Crows",
-                    "track_uri": "spotify:track:3GwIz1pLK6M2M0qp032McP",
-                    "track_name": "Anna Begins"
-                },
-                {
-                    "artist_name": "Melissa Etheridge",
-                    "track_uri": "spotify:track:7Kww7gB9DMJKXfWDe2QulK",
-                    "track_name": "I Will Never Be The Same"
-                },
-                {
-                    "artist_name": "Tracy Chapman",
-                    "track_uri": "spotify:track:2DjWsDGgL1xNbhnr7f6t5F",
-                    "track_name": "Baby Can I Hold You"
-                },
-                {
-                    "artist_name": "Counting Crows",
-                    "track_uri": "spotify:track:5Dca0ubiXuNWTM6HSIynT7",
-                    "track_name": "Sullivan Street"
-                },
-                {
-                    "artist_name": "Indigo Girls",
-                    "track_uri": "spotify:track:1Q0DVZhtZJZs9t45b8zNSD",
-                    "track_name": "Galileo"
-                },
-                {
-                    "artist_name": "Indigo Girls",
-                    "track_uri": "spotify:track:4peEqwtnP8CoTZRFkDUqnC",
-                    "track_name": "Power Of Two"
-                },
-                {
-                    "artist_name": "Sophie B. Hawkins",
-                    "track_uri": "spotify:track:6S8ZXzeXsfCj8qi9179McI",
-                    "track_name": "As I Lay Me Down"
-                },
-                {
-                    "artist_name": "Natalie Imbruglia",
-                    "track_uri": "spotify:track:1Jaah2tmN9Hv81A87KZ1MU",
-                    "track_name": "Torn"
-                },
-                {
-                    "artist_name": "4 Non Blondes",
-                    "track_uri": "spotify:track:7f0jXNMu2xjQUtmKMuWhGA",
-                    "track_name": "What's Up?"
-                },
-                {
-                    "artist_name": "The Goo Goo Dolls",
-                    "track_uri": "spotify:track:6Qyc6fS4DsZjB2mRW9DsQs",
-                    "track_name": "Iris"
-                },
-                {
-                    "artist_name": "Shawn Mullins",
-                    "track_uri": "spotify:track:5sMUwUR3JI2woCOrNbizUt",
-                    "track_name": "Lullaby"
-                },
-                {
-                    "artist_name": "Fastball",
-                    "track_uri": "spotify:track:5tOjRq5shlEdm15nmJBq7Z",
-                    "track_name": "Out Of My Head"
-                },
-                {
-                    "artist_name": "Collective Soul",
-                    "track_uri": "spotify:track:794pcMq18sBEsmwjRq0aOI",
-                    "track_name": "The World I Know"
-                },
-                {
-                    "artist_name": "The Cranberries",
-                    "track_uri": "spotify:track:1aLNpg2kKvUncflV8xE5AA",
-                    "track_name": "Linger"
-                },
-                {
-                    "artist_name": "Dispatch",
-                    "track_uri": "spotify:track:6n6EXIwLtNwe4u4CFzENYm",
-                    "track_name": "The General"
-                },
-                {
-                    "artist_name": "O.A.R.",
-                    "track_uri": "spotify:track:74HX1HcsR135apNYpHUUZj",
-                    "track_name": "That Was A Crazy Game Of Poker"
-                },
-                {
-                    "artist_name": "Dispatch",
-                    "track_uri": "spotify:track:1qmFsdNHa7QB1PRbSkkI0r",
-                    "track_name": "Out Loud (Live)"
-                },
-                {
-                    "artist_name": "Train",
-                    "track_uri": "spotify:track:4ocbH5ZJqajZIpUrqRUoue",
-                    "track_name": "Meet Virginia"
-                },
-                {
-                    "artist_name": "Deana Carter",
-                    "track_uri": "spotify:track:4fOFOwrAHA9PdhOL7lciok",
-                    "track_name": "We Danced Anyway"
-                },
-                {
-                    "artist_name": "Sarah McLachlan",
-                    "track_uri": "spotify:track:3Ys5jPrtSwGZUAw9B5mJar",
-                    "track_name": "Adia"
-                },
-                {
-                    "artist_name": "Sarah McLachlan",
-                    "track_uri": "spotify:track:17dJKYDOzbmb30cLXgrWiP",
-                    "track_name": "I Will Remember You - Live"
-                },
-                {
-                    "artist_name": "Joshua Kadison",
-                    "track_uri": "spotify:track:4n8iSiSWRdaSeSpJMbdk9O",
-                    "track_name": "Jessie"
-                }
-            ],
-            "num_edits": 16,
-            "duration_ms": 11334113,
-            "num_artists": 33
         }
     ]
 }

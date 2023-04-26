@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "new",
-            "pid": 3956,
+            "pid": 3022,
             "num_tracks": 108,
             "num_followers": 12,
             "tracks": [
@@ -558,7 +558,7 @@
         },
         {
             "name": "July",
-            "pid": 3957,
+            "pid": 3023,
             "num_tracks": 35,
             "num_followers": 203,
             "tracks": [
@@ -744,7 +744,7 @@
         },
         {
             "name": "country christmas",
-            "pid": 3958,
+            "pid": 3024,
             "num_tracks": 96,
             "num_followers": 12,
             "tracks": [
@@ -1234,224 +1234,8 @@
             "num_artists": 32
         },
         {
-            "name": "Sunday Morning",
-            "pid": 3959,
-            "num_tracks": 41,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Hillsong United",
-                    "track_uri": "spotify:track:04HRnf4z0ZXVLFHGInF4bY",
-                    "track_name": "Relentless - Live/Acoustic Version"
-                },
-                {
-                    "artist_name": "Hillsong United",
-                    "track_uri": "spotify:track:7nK3zF0CJiBWhUI89pvaxL",
-                    "track_name": "Scandal Of Grace - Live/Acoustic Version"
-                },
-                {
-                    "artist_name": "Hillsong United",
-                    "track_uri": "spotify:track:58FzruYGlx4sL3FWFWK4EB",
-                    "track_name": "Touch The Sky - Live"
-                },
-                {
-                    "artist_name": "Matt Redman",
-                    "track_uri": "spotify:track:5vag2tDlVeyoQ34ry9WSbZ",
-                    "track_name": "Unbroken Praise - Live"
-                },
-                {
-                    "artist_name": "Chris Tomlin",
-                    "track_uri": "spotify:track:1CvoOXxJqC2VHwgjZxjGX5",
-                    "track_name": "Good Good Father"
-                },
-                {
-                    "artist_name": "Chris Tomlin",
-                    "track_uri": "spotify:track:4HnbSlpOft2KHemDU1x3Vt",
-                    "track_name": "Awake My Soul - with Lecrae"
-                },
-                {
-                    "artist_name": "David Crowder Band",
-                    "track_uri": "spotify:track:3daAYqNEt5hzPtHycscQoM",
-                    "track_name": "After All (Holy)"
-                },
-                {
-                    "artist_name": "David Crowder Band",
-                    "track_uri": "spotify:track:2iFqa5oxkAE3eJor4tVE8v",
-                    "track_name": "O Praise Him (All This For A King)"
-                },
-                {
-                    "artist_name": "Shawn McDonald",
-                    "track_uri": "spotify:track:107Cy53x9K5kxwm0rAqROm",
-                    "track_name": "Gravity"
-                },
-                {
-                    "artist_name": "Shawn McDonald",
-                    "track_uri": "spotify:track:6cvr8YiEj2mp6uUhdZEo9g",
-                    "track_name": "Take My Hand"
-                },
-                {
-                    "artist_name": "Hillsong Young & Free",
-                    "track_uri": "spotify:track:1tQgIhXsFAlhNfQmUT2R3M",
-                    "track_name": "When The Fight Calls - Live"
-                },
-                {
-                    "artist_name": "Hillsong Young & Free",
-                    "track_uri": "spotify:track:4ZdG8OyIV7WfjBReUNLQl0",
-                    "track_name": "This Is Living - Acoustic"
-                },
-                {
-                    "artist_name": "Melissa Helser",
-                    "track_uri": "spotify:track:63SF10lPoWA71bDYYzxfUs",
-                    "track_name": "No Longer Slaves (Live)"
-                },
-                {
-                    "artist_name": "Elevation Worship",
-                    "track_uri": "spotify:track:0Iahiy5y1VEmuwTFb65tG8",
-                    "track_name": "Give Me Faith"
-                },
-                {
-                    "artist_name": "Matthew West",
-                    "track_uri": "spotify:track:3wF0rpX1njF2FLFGc45rxV",
-                    "track_name": "Grace Wins"
-                },
-                {
-                    "artist_name": "Urban Rescue",
-                    "track_uri": "spotify:track:4et0lr8S5MRD1SfXJmhp8J",
-                    "track_name": "His Name"
-                },
-                {
-                    "artist_name": "Hillsong United",
-                    "track_uri": "spotify:track:3EVY5Vm5vjPpUjRQEcpsPE",
-                    "track_name": "Prince Of Peace - Live"
-                },
-                {
-                    "artist_name": "Lauren Daigle",
-                    "track_uri": "spotify:track:4908mwb34dqgcaxHeFjitw",
-                    "track_name": "Trust In You"
-                },
-                {
-                    "artist_name": "Robbie Seay Band",
-                    "track_uri": "spotify:track:0rTEyyukYixwwuBd422fp4",
-                    "track_name": "Better Days"
-                },
-                {
-                    "artist_name": "Shawn McDonald",
-                    "track_uri": "spotify:track:5dauZHVLFMM67B6B48Httg",
-                    "track_name": "The Space Between Us"
-                },
-                {
-                    "artist_name": "Rend Collective",
-                    "track_uri": "spotify:track:5or2hHXDa6Y5gYYRWFUQCy",
-                    "track_name": "One And Only"
-                },
-                {
-                    "artist_name": "Lauren Daigle",
-                    "track_uri": "spotify:track:34ydYmNJfJ6oDlmExxTj6H",
-                    "track_name": "Salt & Light"
-                },
-                {
-                    "artist_name": "Hillsong Young & Free",
-                    "track_uri": "spotify:track:6FMmIOX474X8H6uhuC23FK",
-                    "track_name": "Falling Into You - Acoustic"
-                },
-                {
-                    "artist_name": "Hillsong Young & Free",
-                    "track_uri": "spotify:track:57RGS3IgN1IfODTIoSzeGk",
-                    "track_name": "Only Wanna Sing - Acoustic"
-                },
-                {
-                    "artist_name": "Hillsong Young & Free",
-                    "track_uri": "spotify:track:0BDcsMSWzDbkLw11PRQtsw",
-                    "track_name": "When The Fight Calls - Acoustic"
-                },
-                {
-                    "artist_name": "Hillsong Young & Free",
-                    "track_uri": "spotify:track:7DLr9pzW7QYWhb1vmwvrWy",
-                    "track_name": "Never Alone - Acoustic"
-                },
-                {
-                    "artist_name": "Hillsong Young & Free",
-                    "track_uri": "spotify:track:0tAnUFQmyLVNIzd2KFe00Q",
-                    "track_name": "In Your Eyes - Acoustic"
-                },
-                {
-                    "artist_name": "Hillsong Young & Free",
-                    "track_uri": "spotify:track:48LiTfePc5B8FfxzOqTqAC",
-                    "track_name": "I Love You Lord / Passion - Acoustic"
-                },
-                {
-                    "artist_name": "Hillsong Young & Free",
-                    "track_uri": "spotify:track:6Yo9PmImHSe2pIAyEtoSyM",
-                    "track_name": "Real Love - Acoustic"
-                },
-                {
-                    "artist_name": "Hillsong Young & Free",
-                    "track_uri": "spotify:track:4zk2kRyFAlu0dRmzONOCl4",
-                    "track_name": "Where You Are - Acoustic"
-                },
-                {
-                    "artist_name": "Hillsong Young & Free",
-                    "track_uri": "spotify:track:6v3PrrpKQaXfQior1K7Zi2",
-                    "track_name": "Real Love - Live"
-                },
-                {
-                    "artist_name": "Hillsong Young & Free",
-                    "track_uri": "spotify:track:0bLS5ST1rp2BcnSgBhSX7z",
-                    "track_name": "Falling Into You - Studio Version"
-                },
-                {
-                    "artist_name": "Elevation Worship",
-                    "track_uri": "spotify:track:1lEk3U3MzbDeL5MNHkE9JU",
-                    "track_name": "O Come to the Altar"
-                },
-                {
-                    "artist_name": "Lauren Daigle",
-                    "track_uri": "spotify:track:1dVWjFxNtwdWf3IftD4fCH",
-                    "track_name": "Almost Human - from the Original Motion Picture Soundtrack Blade Runner 2049"
-                },
-                {
-                    "artist_name": "Zach Williams",
-                    "track_uri": "spotify:track:4F7GcPH79KzsQfNphjtkGx",
-                    "track_name": "Old Church Choir"
-                },
-                {
-                    "artist_name": "for KING & COUNTRY",
-                    "track_uri": "spotify:track:0tXaXcuDbaX0Jhzns45Gx5",
-                    "track_name": "Amazing Grace"
-                },
-                {
-                    "artist_name": "Elevation Worship",
-                    "track_uri": "spotify:track:3iOpiHDobxZO7S4p9Y2Fgu",
-                    "track_name": "Do It Again"
-                },
-                {
-                    "artist_name": "The Belonging Co",
-                    "track_uri": "spotify:track:6zvSkAEtFZIJD7kVeo5by4",
-                    "track_name": "Peace Be Still (feat. Lauren Daigle)"
-                },
-                {
-                    "artist_name": "Hillsong United",
-                    "track_uri": "spotify:track:1ed3wNCecRIp6SugyR0w2J",
-                    "track_name": "So Will I (100 Billion X)"
-                },
-                {
-                    "artist_name": "Matthew West",
-                    "track_uri": "spotify:track:6mfsv5sfrV5MK9OV8id6Rp",
-                    "track_name": "Broken Things"
-                },
-                {
-                    "artist_name": "Rend Collective",
-                    "track_uri": "spotify:track:32f24TdkpHx8L0EZX2HbP4",
-                    "track_name": "Rescuer (Good News)"
-                }
-            ],
-            "num_edits": 4,
-            "duration_ms": 11251995,
-            "num_artists": 16
-        },
-        {
             "name": "game day",
-            "pid": 3960,
+            "pid": 3025,
             "num_tracks": 146,
             "num_followers": 13,
             "tracks": [
@@ -2192,7 +1976,7 @@
         },
         {
             "name": "soft rap",
-            "pid": 3961,
+            "pid": 3026,
             "num_tracks": 132,
             "num_followers": 24,
             "tracks": [
@@ -2863,7 +2647,7 @@
         },
         {
             "name": "Feelings",
-            "pid": 3962,
+            "pid": 3027,
             "num_tracks": 180,
             "num_followers": 23,
             "tracks": [
@@ -3774,7 +3558,7 @@
         },
         {
             "name": "YG",
-            "pid": 3963,
+            "pid": 3028,
             "num_tracks": 85,
             "num_followers": 20,
             "tracks": [

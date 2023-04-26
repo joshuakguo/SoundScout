@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Steely Dan",
-            "pid": 1343,
+            "pid": 1016,
             "num_tracks": 173,
             "num_followers": 344,
             "tracks": [
@@ -883,7 +883,7 @@
         },
         {
             "name": "HOCO",
-            "pid": 1344,
+            "pid": 1017,
             "num_tracks": 148,
             "num_followers": 12,
             "tracks": [
@@ -1634,7 +1634,7 @@
         },
         {
             "name": "Feel Good Oldies",
-            "pid": 1345,
+            "pid": 1018,
             "num_tracks": 132,
             "num_followers": 44,
             "tracks": [
@@ -2306,7 +2306,7 @@
         },
         {
             "name": "shoot",
-            "pid": 1346,
+            "pid": 1019,
             "num_tracks": 75,
             "num_followers": 24,
             "tracks": [
@@ -2692,7 +2692,7 @@
         },
         {
             "name": "slytherin",
-            "pid": 1347,
+            "pid": 1020,
             "num_tracks": 38,
             "num_followers": 42,
             "tracks": [
@@ -2893,7 +2893,7 @@
         },
         {
             "name": "Classic Rock",
-            "pid": 1348,
+            "pid": 1021,
             "num_tracks": 13,
             "num_followers": 17,
             "tracks": [
@@ -2968,64 +2968,8 @@
             "num_artists": 12
         },
         {
-            "name": "hey",
-            "pid": 1349,
-            "num_tracks": 9,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Who Is Fancy",
-                    "track_uri": "spotify:track:6K5xY7EabiBLjd2HuBQIak",
-                    "track_name": "Goodbye"
-                },
-                {
-                    "artist_name": "Michael Bubl\u00e9",
-                    "track_uri": "spotify:track:4T6HLdP6OcAtqC6tGnQelG",
-                    "track_name": "Everything"
-                },
-                {
-                    "artist_name": "Michael Bubl\u00e9",
-                    "track_uri": "spotify:track:6vhYDNMZgffPwcdXdvMqCS",
-                    "track_name": "Lost"
-                },
-                {
-                    "artist_name": "Trey Songz",
-                    "track_uri": "spotify:track:3eqT34f3rxmm4dR7madDIM",
-                    "track_name": "Touchin, Lovin (feat. Nicki Minaj)"
-                },
-                {
-                    "artist_name": "Jack & Jack",
-                    "track_uri": "spotify:track:7w4uYVoc4m6RNlTLBiwmWR",
-                    "track_name": "California"
-                },
-                {
-                    "artist_name": "August Alsina",
-                    "track_uri": "spotify:track:7ewfvLrlI0VNht4vEnoTMh",
-                    "track_name": "No Love"
-                },
-                {
-                    "artist_name": "The Knocks",
-                    "track_uri": "spotify:track:6Mx7qe3gspQ8OKV3ULfiA0",
-                    "track_name": "HEAT (feat. Sam Nelson Harris)"
-                },
-                {
-                    "artist_name": "Mike Perry",
-                    "track_uri": "spotify:track:3qaYuV5XZAwiOvGE91HhwS",
-                    "track_name": "Inside the Lines"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:4ckuS4Nj4FZ7i3Def3Br8W",
-                    "track_name": "Sneakin\u2019"
-                }
-            ],
-            "num_edits": 2,
-            "duration_ms": 2021585,
-            "num_artists": 8
-        },
-        {
             "name": "Mellow",
-            "pid": 1350,
+            "pid": 1022,
             "num_tracks": 108,
             "num_followers": 42,
             "tracks": [
@@ -3576,7 +3520,7 @@
         },
         {
             "name": "World",
-            "pid": 1351,
+            "pid": 1023,
             "num_tracks": 221,
             "num_followers": 15,
             "tracks": [
@@ -4692,7 +4636,7 @@
         },
         {
             "name": "dope songs",
-            "pid": 1352,
+            "pid": 1024,
             "num_tracks": 5,
             "num_followers": 34,
             "tracks": [
@@ -4728,7 +4672,7 @@
         },
         {
             "name": "Jesus!",
-            "pid": 1353,
+            "pid": 1025,
             "num_tracks": 232,
             "num_followers": 25,
             "tracks": [

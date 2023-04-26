@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "writing",
-            "pid": 2419,
+            "pid": 1836,
             "num_tracks": 116,
             "num_followers": 17,
             "tracks": [
@@ -598,7 +598,7 @@
         },
         {
             "name": "jams",
-            "pid": 2420,
+            "pid": 1837,
             "num_tracks": 155,
             "num_followers": 13,
             "tracks": [
@@ -1384,7 +1384,7 @@
         },
         {
             "name": "Happiness",
-            "pid": 2421,
+            "pid": 1838,
             "num_tracks": 57,
             "num_followers": 38,
             "tracks": [
@@ -1679,269 +1679,8 @@
             "num_artists": 45
         },
         {
-            "name": "Hymn For The Weekend",
-            "pid": 2422,
-            "num_tracks": 50,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Taylor Swift",
-                    "track_uri": "spotify:track:0z9UVN8VBHJ9HdfYsOuuNf",
-                    "track_name": "Safe & Sound - from The Hunger Games Soundtrack"
-                },
-                {
-                    "artist_name": "Galantis",
-                    "track_uri": "spotify:track:46lFttIf5hnUZMGvjK0Wxo",
-                    "track_name": "Runaway (U & I)"
-                },
-                {
-                    "artist_name": "Ed Sheeran",
-                    "track_uri": "spotify:track:6gTJaPuj8DT8RjuDJyBgzP",
-                    "track_name": "Don't"
-                },
-                {
-                    "artist_name": "Jason Mraz",
-                    "track_uri": "spotify:track:3S0OXQeoh0w6AY8WQVckRW",
-                    "track_name": "I'm Yours"
-                },
-                {
-                    "artist_name": "Rixton",
-                    "track_uri": "spotify:track:2s5B2qJSK8kbFyFRiRq06b",
-                    "track_name": "Hotel Ceiling"
-                },
-                {
-                    "artist_name": "Lana Del Rey",
-                    "track_uri": "spotify:track:6ayKgleoMF26lvU1Z7wVm7",
-                    "track_name": "Cruel World"
-                },
-                {
-                    "artist_name": "James Arthur",
-                    "track_uri": "spotify:track:3VXY8vQ3NJZ76iLtAg51QR",
-                    "track_name": "Certain Things"
-                },
-                {
-                    "artist_name": "Troye Sivan",
-                    "track_uri": "spotify:track:0M4tj5zmIrL4JpJUcE8D1F",
-                    "track_name": "EASE"
-                },
-                {
-                    "artist_name": "Jason Mraz",
-                    "track_uri": "spotify:track:53QF56cjZA9RTuuMZDrSA6",
-                    "track_name": "I Won't Give Up"
-                },
-                {
-                    "artist_name": "Ansel Elgort",
-                    "track_uri": "spotify:track:6He0K0vTMdPdbweh18nnrB",
-                    "track_name": "Home Alone"
-                },
-                {
-                    "artist_name": "Rixton",
-                    "track_uri": "spotify:track:0cz7M4ekhYl63PTSNLyX3L",
-                    "track_name": "Appreciated"
-                },
-                {
-                    "artist_name": "X Ambassadors",
-                    "track_uri": "spotify:track:7lGKEWMXVWWTt3X71Bv44I",
-                    "track_name": "Unsteady"
-                },
-                {
-                    "artist_name": "Twenty One Pilots",
-                    "track_uri": "spotify:track:6i0V12jOa3mr6uu4WYhUBr",
-                    "track_name": "Heathens"
-                },
-                {
-                    "artist_name": "Grace",
-                    "track_uri": "spotify:track:6KI1ZpZWYAJLvmVhCJz65G",
-                    "track_name": "You Don't Own Me"
-                },
-                {
-                    "artist_name": "Twenty One Pilots",
-                    "track_uri": "spotify:track:1pKmfhwbZvsyYUP2eOGdw5",
-                    "track_name": "Screen"
-                },
-                {
-                    "artist_name": "My Chemical Romance",
-                    "track_uri": "spotify:track:2kMjk14RmYyYhhSbipoa9U",
-                    "track_name": "The Sharpest Lives"
-                },
-                {
-                    "artist_name": "Arctic Monkeys",
-                    "track_uri": "spotify:track:3rq5w4bQGigXOfdN30ATJt",
-                    "track_name": "Do I Wanna Know?"
-                },
-                {
-                    "artist_name": "The Brobecks",
-                    "track_uri": "spotify:track:2ACs0dJwkSsvNZvEbvFurK",
-                    "track_name": "Better Than Me"
-                },
-                {
-                    "artist_name": "Melanie Martinez",
-                    "track_uri": "spotify:track:5nHTLEJ10zaqdnKqLriah4",
-                    "track_name": "Carousel"
-                },
-                {
-                    "artist_name": "Melanie Martinez",
-                    "track_uri": "spotify:track:6wNeKPXF0RDKyvfKfri5hf",
-                    "track_name": "Dollhouse"
-                },
-                {
-                    "artist_name": "Coldplay",
-                    "track_uri": "spotify:track:3RiPr603aXAoi4GHyXx0uy",
-                    "track_name": "Hymn For The Weekend"
-                },
-                {
-                    "artist_name": "Tom Odell",
-                    "track_uri": "spotify:track:4JBNKQg27FoumUSo96r2pk",
-                    "track_name": "Magnetised"
-                },
-                {
-                    "artist_name": "Young the Giant",
-                    "track_uri": "spotify:track:6L3VWDPDTQkQFkqvmpAUMU",
-                    "track_name": "Something To Believe In"
-                },
-                {
-                    "artist_name": "Melanie Martinez",
-                    "track_uri": "spotify:track:3EGW6TGGbdk6Ys1Y3HU3lj",
-                    "track_name": "Training Wheels"
-                },
-                {
-                    "artist_name": "Melanie Martinez",
-                    "track_uri": "spotify:track:1taY3X7Ifq1989d6eI3raI",
-                    "track_name": "Gingerbread Man"
-                },
-                {
-                    "artist_name": "Melanie Martinez",
-                    "track_uri": "spotify:track:2e4jB31WcGsxKL1ByqdZCq",
-                    "track_name": "Sippy Cup"
-                },
-                {
-                    "artist_name": "Melanie Martinez",
-                    "track_uri": "spotify:track:4DpNNXFMMxQEKl7r0ykkWA",
-                    "track_name": "Play Date"
-                },
-                {
-                    "artist_name": "Melanie Martinez",
-                    "track_uri": "spotify:track:052vSBPxqdmYRDlkSPiavc",
-                    "track_name": "Cry Baby"
-                },
-                {
-                    "artist_name": "The Brobecks",
-                    "track_uri": "spotify:track:2vd4ULh4EXAeIyOoe9JZ30",
-                    "track_name": "Small Cuts"
-                },
-                {
-                    "artist_name": "Arctic Monkeys",
-                    "track_uri": "spotify:track:5dKf0sdBYTZoWaRvux9WHE",
-                    "track_name": "Stop The World I Wanna Get Off With You"
-                },
-                {
-                    "artist_name": "Conor Maynard",
-                    "track_uri": "spotify:track:4kad7RSRCt8ttCkIjEmErs",
-                    "track_name": "Royalty"
-                },
-                {
-                    "artist_name": "The Icarus Account",
-                    "track_uri": "spotify:track:3BXErKHaGALZhSjwnyxMaB",
-                    "track_name": "Favorite Girl"
-                },
-                {
-                    "artist_name": "Melanie Martinez",
-                    "track_uri": "spotify:track:3K1tdhoeE6koNnWgAxEK9Y",
-                    "track_name": "Mrs. Potato Head"
-                },
-                {
-                    "artist_name": "Melanie Martinez",
-                    "track_uri": "spotify:track:2L3VnHkRi6ElZL2bqu1nBs",
-                    "track_name": "Dead To Me"
-                },
-                {
-                    "artist_name": "Melanie Martinez",
-                    "track_uri": "spotify:track:3fo6DYGktjENCiagUeU9yH",
-                    "track_name": "Pity Party"
-                },
-                {
-                    "artist_name": "Twenty One Pilots",
-                    "track_uri": "spotify:track:4Oyl6oYSNeeZZP0OAxPVaU",
-                    "track_name": "Message Man"
-                },
-                {
-                    "artist_name": "Conor Maynard",
-                    "track_uri": "spotify:track:4kad7RSRCt8ttCkIjEmErs",
-                    "track_name": "Royalty"
-                },
-                {
-                    "artist_name": "The Brobecks",
-                    "track_uri": "spotify:track:0ELhySM15LSATfgtovVXoE",
-                    "track_name": "Le Velo Pour Deux"
-                },
-                {
-                    "artist_name": "Vitas",
-                    "track_uri": "spotify:track:7J9mBHG4J2eIfDAv5BehKA",
-                    "track_name": "7, the element"
-                },
-                {
-                    "artist_name": "Jason Derulo",
-                    "track_uri": "spotify:track:67T6l4q3zVjC5nZZPXByU8",
-                    "track_name": "Whatcha Say"
-                },
-                {
-                    "artist_name": "Arctic Monkeys",
-                    "track_uri": "spotify:track:1LSwssG5oIAMXYcvpOoPLC",
-                    "track_name": "Too Much To Ask"
-                },
-                {
-                    "artist_name": "Owl City",
-                    "track_uri": "spotify:track:1mr3616BzLdhXfJmLmRsO8",
-                    "track_name": "Fireflies"
-                },
-                {
-                    "artist_name": "Charlie Puth",
-                    "track_uri": "spotify:track:68EMU2RD1ECNeOeJ5qAXCV",
-                    "track_name": "We Don't Talk Anymore (feat. Selena Gomez)"
-                },
-                {
-                    "artist_name": "The Brobecks",
-                    "track_uri": "spotify:track:6COAJpQ2HEZqiBpvYUOZp0",
-                    "track_name": "All Of The Drugs"
-                },
-                {
-                    "artist_name": "Coldplay",
-                    "track_uri": "spotify:track:7LVHVU3tWfcxj5aiPFEW4Q",
-                    "track_name": "Fix You"
-                },
-                {
-                    "artist_name": "Coldplay",
-                    "track_uri": "spotify:track:6lpWMtQoGqQyEZuyIwhbkO",
-                    "track_name": "Every Teardrop Is a Waterfall"
-                },
-                {
-                    "artist_name": "Christina Perri",
-                    "track_uri": "spotify:track:6lanRgr6wXibZr8KgzXxBl",
-                    "track_name": "A Thousand Years"
-                },
-                {
-                    "artist_name": "Ruth",
-                    "track_uri": "spotify:track:3J3pTvZjZHMJ4LVWQQUwVn",
-                    "track_name": "Rosa Dear"
-                },
-                {
-                    "artist_name": "Ruth",
-                    "track_uri": "spotify:track:3J3pTvZjZHMJ4LVWQQUwVn",
-                    "track_name": "Rosa Dear"
-                },
-                {
-                    "artist_name": "Jaymes Young",
-                    "track_uri": "spotify:track:4JuJZzGcswQszYiKJSnC6i",
-                    "track_name": "I'll Be Good"
-                }
-            ],
-            "num_edits": 31,
-            "duration_ms": 11375058,
-            "num_artists": 28
-        },
-        {
             "name": "90's kid",
-            "pid": 2423,
+            "pid": 1839,
             "num_tracks": 86,
             "num_followers": 5822,
             "tracks": [
@@ -2382,7 +2121,7 @@
         },
         {
             "name": "Party Party",
-            "pid": 2424,
+            "pid": 1840,
             "num_tracks": 88,
             "num_followers": 12,
             "tracks": [
@@ -2833,7 +2572,7 @@
         },
         {
             "name": "FALL",
-            "pid": 2425,
+            "pid": 1841,
             "num_tracks": 22,
             "num_followers": 17,
             "tracks": [
@@ -2954,7 +2693,7 @@
         },
         {
             "name": "wooo",
-            "pid": 2426,
+            "pid": 1842,
             "num_tracks": 91,
             "num_followers": 18,
             "tracks": [
@@ -3421,7 +3160,7 @@
         },
         {
             "name": "Americana",
-            "pid": 2427,
+            "pid": 1843,
             "num_tracks": 106,
             "num_followers": 14,
             "tracks": [

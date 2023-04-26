@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Motorcycle",
-            "pid": 6286,
+            "pid": 4774,
             "num_tracks": 179,
             "num_followers": 12,
             "tracks": [
@@ -913,7 +913,7 @@
         },
         {
             "name": "Hallelujah",
-            "pid": 6287,
+            "pid": 4775,
             "num_tracks": 47,
             "num_followers": 2016,
             "tracks": [
@@ -1159,7 +1159,7 @@
         },
         {
             "name": "Classic",
-            "pid": 6288,
+            "pid": 4776,
             "num_tracks": 50,
             "num_followers": 12,
             "tracks": [
@@ -1420,7 +1420,7 @@
         },
         {
             "name": "Deep house",
-            "pid": 6289,
+            "pid": 4777,
             "num_tracks": 21,
             "num_followers": 34,
             "tracks": [
@@ -1536,7 +1536,7 @@
         },
         {
             "name": "STREAM",
-            "pid": 6290,
+            "pid": 4778,
             "num_tracks": 168,
             "num_followers": 16,
             "tracks": [
@@ -2387,7 +2387,7 @@
         },
         {
             "name": "rise",
-            "pid": 6291,
+            "pid": 4779,
             "num_tracks": 11,
             "num_followers": 444,
             "tracks": [
@@ -2453,380 +2453,8 @@
             "description": "its 5:30am and the sun is starting to chase away the dark. youre lying on the back of a turquoise truck with a bottle of peach snapple next to you, eyes pointed towards the sky. dizzy, and the soft colors of the clouds are blurring together."
         },
         {
-            "name": "lovely",
-            "pid": 6292,
-            "num_tracks": 72,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "The Inlaws",
-                    "track_uri": "spotify:track:3qwYgraJLBSn3ssnWl5DRa",
-                    "track_name": "Future"
-                },
-                {
-                    "artist_name": "James Arthur",
-                    "track_uri": "spotify:track:5uCax9HTNlzGybIStD3vDh",
-                    "track_name": "Say You Won't Let Go"
-                },
-                {
-                    "artist_name": "Johnnyswim",
-                    "track_uri": "spotify:track:5xib5nIQYzY44lMPpteECQ",
-                    "track_name": "Falling For Me"
-                },
-                {
-                    "artist_name": "Vance Joy",
-                    "track_uri": "spotify:track:1ueeLdAauagzEJ9coJQMYt",
-                    "track_name": "Straight Into Your Arms"
-                },
-                {
-                    "artist_name": "Brandi Carlile",
-                    "track_uri": "spotify:track:1hJUpeiV62qRGWWNzSCOIV",
-                    "track_name": "I Belong to You"
-                },
-                {
-                    "artist_name": "Sugar & The Hi Lows",
-                    "track_uri": "spotify:track:2AIgaszMm1fKZ97Prgzmv4",
-                    "track_name": "I've Got You Covered"
-                },
-                {
-                    "artist_name": "Ingrid Michaelson",
-                    "track_uri": "spotify:track:1aQjpy1uVpOJOKH47y0j0G",
-                    "track_name": "Over You"
-                },
-                {
-                    "artist_name": "Us The Duo",
-                    "track_uri": "spotify:track:1ZWFt1f25IDDHsyx2rlcSV",
-                    "track_name": "Make You Mine"
-                },
-                {
-                    "artist_name": "Us The Duo",
-                    "track_uri": "spotify:track:6e7NAuf6hFujkhyGC8eCIg",
-                    "track_name": "I Will Wait For You"
-                },
-                {
-                    "artist_name": "Us The Duo",
-                    "track_uri": "spotify:track:51mwvxRXUktJYBXqq9uXuo",
-                    "track_name": "Missin' You Like Crazy"
-                },
-                {
-                    "artist_name": "Lewis Watson",
-                    "track_uri": "spotify:track:3vIIzUU52AKFA19yHA8TCz",
-                    "track_name": "droplets (feat. gabrielle aplin)"
-                },
-                {
-                    "artist_name": "The Well Pennies",
-                    "track_uri": "spotify:track:1KKQhs9mOom0xH48ef9rcy",
-                    "track_name": "All My Loving"
-                },
-                {
-                    "artist_name": "Johnnyswim",
-                    "track_uri": "spotify:track:6SU4bifjXJwueCHG8maEXz",
-                    "track_name": "Annie"
-                },
-                {
-                    "artist_name": "Edward Sharpe & The Magnetic Zeros",
-                    "track_uri": "spotify:track:7w5cxTEzp1rfV3KCy0Bd5N",
-                    "track_name": "Home"
-                },
-                {
-                    "artist_name": "Wild Child",
-                    "track_uri": "spotify:track:0alXWwTcr1reJRYkhjauN1",
-                    "track_name": "Pillow Talk"
-                },
-                {
-                    "artist_name": "Jillian Edwards",
-                    "track_uri": "spotify:track:4acawNq2klm5bWyRiVOmzz",
-                    "track_name": "Gotta Have You"
-                },
-                {
-                    "artist_name": "Lewis Watson",
-                    "track_uri": "spotify:track:2JulIfUpaAfpiJgWDH2cL0",
-                    "track_name": "halo"
-                },
-                {
-                    "artist_name": "Drew Holcomb & The Neighbors",
-                    "track_uri": "spotify:track:3bBj6ii741ENHGwJ0rOsV1",
-                    "track_name": "What Would I Do Without You"
-                },
-                {
-                    "artist_name": "Julia Stone",
-                    "track_uri": "spotify:track:2BqVMDn09CDUcLJ3WMfnTJ",
-                    "track_name": "You're The One That I Want"
-                },
-                {
-                    "artist_name": "Brandi Carlile",
-                    "track_uri": "spotify:track:4elFwESsK6fhXiD0DprppB",
-                    "track_name": "Wherever is Your Heart"
-                },
-                {
-                    "artist_name": "Clean Bandit",
-                    "track_uri": "spotify:track:5HuqzFfq2ulY1iBAW5CxLe",
-                    "track_name": "Rather Be (feat. Jess Glynne)"
-                },
-                {
-                    "artist_name": "Jeremy Passion",
-                    "track_uri": "spotify:track:5nJzWhlrBfn3cfDLlaAgAO",
-                    "track_name": "Lemonade - Ukulele Version"
-                },
-                {
-                    "artist_name": "Us The Duo",
-                    "track_uri": "spotify:track:0GnGS3Hqq7eg2sjMPwHl1F",
-                    "track_name": "Shake It Off"
-                },
-                {
-                    "artist_name": "Harp + Arrows",
-                    "track_uri": "spotify:track:0w5G9lrSC1Zo0n2ETH4Phd",
-                    "track_name": "I Do (feat. Sam Pinkerton)"
-                },
-                {
-                    "artist_name": "Ed Sheeran",
-                    "track_uri": "spotify:track:6vSwxzO2Qf4BinHSXRwZJe",
-                    "track_name": "Tenerife Sea"
-                },
-                {
-                    "artist_name": "Ben Rector",
-                    "track_uri": "spotify:track:0bJBEgt9oa0aCQuzvtEFVu",
-                    "track_name": "When I'm With You"
-                },
-                {
-                    "artist_name": "Ben Rector",
-                    "track_uri": "spotify:track:5C2Vas6jEIarFNVhNHuTGB",
-                    "track_name": "I Like You"
-                },
-                {
-                    "artist_name": "Steffany Gretzinger",
-                    "track_uri": "spotify:track:2oq908qDmARqhOlqVvEUbJ",
-                    "track_name": "We Dance (Live)"
-                },
-                {
-                    "artist_name": "Megan Davies",
-                    "track_uri": "spotify:track:29Ns3avs48iQhNQgrHMEkm",
-                    "track_name": "See You Again, Love Me Like You Do, Sugar (Acoustic Mashup)"
-                },
-                {
-                    "artist_name": "Penny and Sparrow",
-                    "track_uri": "spotify:track:0U6OjUJc1gJrCQSwyNcdyn",
-                    "track_name": "Creature"
-                },
-                {
-                    "artist_name": "Megan Davies",
-                    "track_uri": "spotify:track:6zCSdx7QNFmKfnXOReHci3",
-                    "track_name": "Chains, Drag Me Down (Acoustic Mashup)"
-                },
-                {
-                    "artist_name": "Plug In Stereo",
-                    "track_uri": "spotify:track:5eue4RoH3PG3k9qWdTwjL8",
-                    "track_name": "Oh Darling - feat. Cady Groves"
-                },
-                {
-                    "artist_name": "Typhoon",
-                    "track_uri": "spotify:track:1NtwN6OMEg1VwPmIH8JOEN",
-                    "track_name": "Thinking About You"
-                },
-                {
-                    "artist_name": "Bill Withers",
-                    "track_uri": "spotify:track:1k1Bqnv2R0uJXQN4u6LKYt",
-                    "track_name": "Ain't No Sunshine"
-                },
-                {
-                    "artist_name": "Penny and Sparrow",
-                    "track_uri": "spotify:track:3RqJuWenHnO7fdhh4pN1jX",
-                    "track_name": "Just and Just As"
-                },
-                {
-                    "artist_name": "Amy Winehouse",
-                    "track_uri": "spotify:track:6nLvaCZFR1wEzW3sIKpsnr",
-                    "track_name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007"
-                },
-                {
-                    "artist_name": "Sleeping At Last",
-                    "track_uri": "spotify:track:6RqEGiKjOqFTge6YrCKcqX",
-                    "track_name": "As Long as You Love Me"
-                },
-                {
-                    "artist_name": "Wet",
-                    "track_uri": "spotify:track:6a5xI87SEuxoeX6riFYEjM",
-                    "track_name": "It's All in Vain"
-                },
-                {
-                    "artist_name": "Ziggy Alberts",
-                    "track_uri": "spotify:track:6HQOdicRpXiqLbOMQl8kWg",
-                    "track_name": "Days in the Sun"
-                },
-                {
-                    "artist_name": "Nick Cave & The Bad Seeds",
-                    "track_uri": "spotify:track:407ltk0BtcZI8kgu0HH4Yj",
-                    "track_name": "Into My Arms - 2011 Remastered Version"
-                },
-                {
-                    "artist_name": "Tatiana Manaois",
-                    "track_uri": "spotify:track:1pvGWSvIXr8PTk8nC4SnXK",
-                    "track_name": "Helplessly"
-                },
-                {
-                    "artist_name": "Leon Bridges",
-                    "track_uri": "spotify:track:5EA06TsQmqmQXZiEhr1AaM",
-                    "track_name": "Coming Home"
-                },
-                {
-                    "artist_name": "Duncan Fellows",
-                    "track_uri": "spotify:track:3pf5BhbXqFS49JMFNiMnYx",
-                    "track_name": "Stolen Black Cars"
-                },
-                {
-                    "artist_name": "Jon Bryant",
-                    "track_uri": "spotify:track:3rQqqQef0tVevvbJwgtEM4",
-                    "track_name": "Wilderness"
-                },
-                {
-                    "artist_name": "Jesse & Joy",
-                    "track_uri": "spotify:track:3KnE5rmZU64g7WRWveWpa9",
-                    "track_name": "Mi Sol"
-                },
-                {
-                    "artist_name": "Johnnyswim",
-                    "track_uri": "spotify:track:6aejzg9o3tdtBGbevQpIFl",
-                    "track_name": "Summertime Romance"
-                },
-                {
-                    "artist_name": "Natalie Cole",
-                    "track_uri": "spotify:track:0PDCewmZCp0P5s00bptcdd",
-                    "track_name": "This Will Be (An Everlasting Love)"
-                },
-                {
-                    "artist_name": "Johnnyswim",
-                    "track_uri": "spotify:track:1boVuGLEzuT7lcDsYc9ofP",
-                    "track_name": "Take The World - Live"
-                },
-                {
-                    "artist_name": "Vance Joy",
-                    "track_uri": "spotify:track:6Fha6tXHkL3r9m9nNqQG8p",
-                    "track_name": "Georgia"
-                },
-                {
-                    "artist_name": "Daniela Andrade",
-                    "track_uri": "spotify:track:6m0qBDIhzICOwWMPZdgyVK",
-                    "track_name": "Crazy in Love"
-                },
-                {
-                    "artist_name": "Alicia Keys",
-                    "track_uri": "spotify:track:7HyJ5OOVMNfvn01xtJfpz6",
-                    "track_name": "If I Ain't Got You - Piano & Vocal Version"
-                },
-                {
-                    "artist_name": "Johnnyswim",
-                    "track_uri": "spotify:track:6qONjN95Wk5zsOs7pY2Kq3",
-                    "track_name": "Touching Heaven"
-                },
-                {
-                    "artist_name": "Johnnyswim",
-                    "track_uri": "spotify:track:4ihyZPJ4Jk08TztFJMiwpC",
-                    "track_name": "In My Arms"
-                },
-                {
-                    "artist_name": "Johnnyswim",
-                    "track_uri": "spotify:track:6byf97wn23Q0Zt9FM3Ihmh",
-                    "track_name": "Rescue You"
-                },
-                {
-                    "artist_name": "John Mayer",
-                    "track_uri": "spotify:track:0oiCeOPwm4zhwfyIpAE37y",
-                    "track_name": "Love on the Weekend"
-                },
-                {
-                    "artist_name": "The Lumineers",
-                    "track_uri": "spotify:track:6ZYS6QQxTLsQ6IFXdVx1r4",
-                    "track_name": "Ophelia"
-                },
-                {
-                    "artist_name": "Tori Kelly",
-                    "track_uri": "spotify:track:3vOmmLuvEUgGaVuRsCs2QF",
-                    "track_name": "I Was Made For Loving You"
-                },
-                {
-                    "artist_name": "Us The Duo",
-                    "track_uri": "spotify:track:6KzL8s8GdRbd5Mal8yLz6R",
-                    "track_name": "Better Together"
-                },
-                {
-                    "artist_name": "Alicia Keys",
-                    "track_uri": "spotify:track:3XVBdLihbNbxUwZosxcGuJ",
-                    "track_name": "If I Ain't Got You"
-                },
-                {
-                    "artist_name": "Ariana Grande",
-                    "track_uri": "spotify:track:442j8VxaB60dWf9cBFuX5w",
-                    "track_name": "Almost Is Never Enough"
-                },
-                {
-                    "artist_name": "Justin Bieber",
-                    "track_uri": "spotify:track:4HZujMI13c3T4oaYyqyjcE",
-                    "track_name": "Home To Mama"
-                },
-                {
-                    "artist_name": "Ellie Goulding",
-                    "track_uri": "spotify:track:16LF7mkv3ErykrMBNEyRRt",
-                    "track_name": "Still Falling For You - Live"
-                },
-                {
-                    "artist_name": "Johnnyswim",
-                    "track_uri": "spotify:track:7qLJmyRxLZCf1ifZlJ2gMZ",
-                    "track_name": "Over"
-                },
-                {
-                    "artist_name": "Annalise Emerick",
-                    "track_uri": "spotify:track:54JIefsw6gjuWiENx5SfXp",
-                    "track_name": "The Sun and the Moon"
-                },
-                {
-                    "artist_name": "James Arthur",
-                    "track_uri": "spotify:track:0VhgEqMTNZwYL1ARDLLNCX",
-                    "track_name": "Can I Be Him"
-                },
-                {
-                    "artist_name": "Ella Henderson",
-                    "track_uri": "spotify:track:0Mq0reDcNpgmQkjHfzpJrp",
-                    "track_name": "Yours"
-                },
-                {
-                    "artist_name": "Ryan O'Shaughnessy",
-                    "track_uri": "spotify:track:006AVH7fq061voGXkUiII4",
-                    "track_name": "Fingertips"
-                },
-                {
-                    "artist_name": "Kaleo",
-                    "track_uri": "spotify:track:1dX6oGAG5PaexuPj29PsYd",
-                    "track_name": "I Can't Go On Without You"
-                },
-                {
-                    "artist_name": "Danny Ocean",
-                    "track_uri": "spotify:track:6De0lHrwBfPfrhorm9q1Xl",
-                    "track_name": "Me Reh\u00faso"
-                },
-                {
-                    "artist_name": "One Direction",
-                    "track_uri": "spotify:track:5CRVwXGikmqzoRO6q7FeAg",
-                    "track_name": "If I Could Fly"
-                },
-                {
-                    "artist_name": "James Bay",
-                    "track_uri": "spotify:track:4WUipVjYtYBlxjMDTjySrG",
-                    "track_name": "If I Ain\u2019t Got You - Live From Spotify London/2015"
-                },
-                {
-                    "artist_name": "Nashville Cast",
-                    "track_uri": "spotify:track:37Azvau0wN3ihy77eJsLo8",
-                    "track_name": "Sanctuary"
-                }
-            ],
-            "num_edits": 56,
-            "duration_ms": 16540472,
-            "num_artists": 53,
-            "description": "all my fav love songs"
-        },
-        {
             "name": "airplane",
-            "pid": 6293,
+            "pid": 4780,
             "num_tracks": 59,
             "num_followers": 17,
             "tracks": [

@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Broadway",
-            "pid": 4885,
+            "pid": 3721,
             "num_tracks": 100,
             "num_followers": 22,
             "tracks": [
@@ -518,7 +518,7 @@
         },
         {
             "name": "Breaking Bad",
-            "pid": 4886,
+            "pid": 3722,
             "num_tracks": 106,
             "num_followers": 53519,
             "tracks": [
@@ -1060,7 +1060,7 @@
         },
         {
             "name": "Diego",
-            "pid": 4887,
+            "pid": 3723,
             "num_tracks": 113,
             "num_followers": 12,
             "tracks": [
@@ -1636,7 +1636,7 @@
         },
         {
             "name": "Van",
-            "pid": 4888,
+            "pid": 3724,
             "num_tracks": 182,
             "num_followers": 18,
             "tracks": [
@@ -2556,84 +2556,8 @@
             "num_artists": 121
         },
         {
-            "name": "summer",
-            "pid": 4889,
-            "num_tracks": 13,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Juana Molina",
-                    "track_uri": "spotify:track:3GF296GutmG0rY6hx31XTY",
-                    "track_name": "La Verdad"
-                },
-                {
-                    "artist_name": "Loudon Wainwright III",
-                    "track_uri": "spotify:track:6scUEism6pBnY0IXYr8fw3",
-                    "track_name": "The Swimming Song"
-                },
-                {
-                    "artist_name": "Joni Mitchell",
-                    "track_uri": "spotify:track:5eM6Rrk8rwLpUhrh7Kk5R1",
-                    "track_name": "California"
-                },
-                {
-                    "artist_name": "Patty Griffin",
-                    "track_uri": "spotify:track:0KZnv0J5dxDJaKvm3aiUEZ",
-                    "track_name": "One Big Love"
-                },
-                {
-                    "artist_name": "Alela Diane",
-                    "track_uri": "spotify:track:4uMX5bq4SBDGHIthxR0r8J",
-                    "track_name": "Dry Grass & Shadows"
-                },
-                {
-                    "artist_name": "Au Revoir Simone",
-                    "track_uri": "spotify:track:6lavZAQxGwFSWBSsEnlO0c",
-                    "track_name": "Through The Backyards"
-                },
-                {
-                    "artist_name": "Jo\u00e3o Gilberto",
-                    "track_uri": "spotify:track:40Rl0YWBMWjgljrxlaOyKS",
-                    "track_name": "Wave - Live"
-                },
-                {
-                    "artist_name": "Jerry Garcia",
-                    "track_uri": "spotify:track:1gCE4LxErCB25MSERdLCZX",
-                    "track_name": "Shady Grove"
-                },
-                {
-                    "artist_name": "Toumani Diabat\u00e9",
-                    "track_uri": "spotify:track:7a37qKKyo2ZrtuBxeaIMvw",
-                    "track_name": "Queen Bee"
-                },
-                {
-                    "artist_name": "Yeasayer",
-                    "track_uri": "spotify:track:76JiqapIERQn7FVnKqlu5o",
-                    "track_name": "Wait For The Summer"
-                },
-                {
-                    "artist_name": "Feist",
-                    "track_uri": "spotify:track:7xIKTVLyzyIp8KfK7pc4jt",
-                    "track_name": "Cicadas And Gulls"
-                },
-                {
-                    "artist_name": "Haruna Samake Trio",
-                    "track_uri": "spotify:track:0wFKMeeHjaIJfHyvjn9P7q",
-                    "track_name": "Throw Down Your Heart"
-                },
-                {
-                    "artist_name": "Beirut",
-                    "track_uri": "spotify:track:4H16UevCLGiD0AugCDgjk5",
-                    "track_name": "Carousels"
-                }
-            ],
-            "num_edits": 3,
-            "duration_ms": 3362085,
-            "num_artists": 13
-        },
-        {
             "name": "Asdfghjkl",
-            "pid": 4890,
+            "pid": 3725,
             "num_tracks": 190,
             "num_followers": 32,
             "tracks": [
@@ -3594,7 +3518,7 @@
         },
         {
             "name": "Moody",
-            "pid": 4891,
+            "pid": 3726,
             "num_tracks": 90,
             "num_followers": 14,
             "tracks": [

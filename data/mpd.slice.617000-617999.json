@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Country 2.0",
-            "pid": 4089,
+            "pid": 3120,
             "num_tracks": 15,
             "num_followers": 13,
             "tracks": [
@@ -93,7 +93,7 @@
         },
         {
             "name": "3005",
-            "pid": 4090,
+            "pid": 3121,
             "num_tracks": 138,
             "num_followers": 24,
             "tracks": [
@@ -794,7 +794,7 @@
         },
         {
             "name": "jelly ",
-            "pid": 4091,
+            "pid": 3122,
             "num_tracks": 53,
             "num_followers": 20,
             "tracks": [
@@ -1069,294 +1069,8 @@
             "num_artists": 27
         },
         {
-            "name": "vibes..",
-            "pid": 4092,
-            "num_tracks": 55,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "SZA",
-                    "track_uri": "spotify:track:5wTVNpi5WDByxBgKgUE6MU",
-                    "track_name": "Supermodel"
-                },
-                {
-                    "artist_name": "SZA",
-                    "track_uri": "spotify:track:0q75NwOoFiARAVp4EXU4Bs",
-                    "track_name": "Love Galore"
-                },
-                {
-                    "artist_name": "SZA",
-                    "track_uri": "spotify:track:593W4qZOwwdqF6YnimJjL6",
-                    "track_name": "Doves In The Wind"
-                },
-                {
-                    "artist_name": "SZA",
-                    "track_uri": "spotify:track:06u5LrUpbosQlQ1QJFhPpG",
-                    "track_name": "Drew Barrymore"
-                },
-                {
-                    "artist_name": "SZA",
-                    "track_uri": "spotify:track:5yvhdo8FXbBsIllxv2Rr94",
-                    "track_name": "Prom"
-                },
-                {
-                    "artist_name": "SZA",
-                    "track_uri": "spotify:track:6gU9OKjOE7ghfEd55oRO57",
-                    "track_name": "The Weekend"
-                },
-                {
-                    "artist_name": "SZA",
-                    "track_uri": "spotify:track:6Vmow8PuUaU7W1T2WWLZk2",
-                    "track_name": "Go Gina"
-                },
-                {
-                    "artist_name": "SZA",
-                    "track_uri": "spotify:track:19woxaSpjOefa2JnAOoqW5",
-                    "track_name": "Garden (Say It Like Dat)"
-                },
-                {
-                    "artist_name": "SZA",
-                    "track_uri": "spotify:track:2fXwCWkh6YG5zU1IyvQrbs",
-                    "track_name": "Broken Clocks"
-                },
-                {
-                    "artist_name": "SZA",
-                    "track_uri": "spotify:track:0336UwEBwBBao8uWCuugYr",
-                    "track_name": "Anything"
-                },
-                {
-                    "artist_name": "SZA",
-                    "track_uri": "spotify:track:3LcoHjgdNl4xtWVaJGSA1p",
-                    "track_name": "Wavy (Interlude)"
-                },
-                {
-                    "artist_name": "SZA",
-                    "track_uri": "spotify:track:5fQBa4wkmq28xpSLOQ202K",
-                    "track_name": "Normal Girl"
-                },
-                {
-                    "artist_name": "SZA",
-                    "track_uri": "spotify:track:1IgePMOW0qEe1AViWgkal9",
-                    "track_name": "Pretty Little Birds"
-                },
-                {
-                    "artist_name": "SZA",
-                    "track_uri": "spotify:track:4h6ViRoztTBpWcJ1zFT9Zg",
-                    "track_name": "20 Something"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:19YKaevk2bce4odJkP5L22",
-                    "track_name": "Nikes"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:2ZWlPOoWh0626oTaHrnl2a",
-                    "track_name": "Ivy"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:3xKsf9qdS1CyvXSMEid6g8",
-                    "track_name": "Pink + White"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:1IdZvb2XK8NmsovQlV6CPn",
-                    "track_name": "Be Yourself"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:35xSkNIXi504fcEwz9USRB",
-                    "track_name": "Solo"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:4xR3MAscflQ262kMeiKshQ",
-                    "track_name": "Skyline To"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:5GUYJTQap5F3RDQiCOJhrS",
-                    "track_name": "Self Control"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:2JUqYobT8NvARdPmc4ES2x",
-                    "track_name": "Good Guy"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:7eqoqGkKwgOaWNNHx90uEZ",
-                    "track_name": "Nights"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:2qtoRFCOEL1gRn5q9DJC7F",
-                    "track_name": "Solo (Reprise)"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:17yrCsl1Ai6CZLBmGj6d6p",
-                    "track_name": "Pretty Sweet"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:73D5hBkiVZkopZrmBZTBWf",
-                    "track_name": "Facebook Story"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:1VZLEW5ZfcAbKZ94XQiSZF",
-                    "track_name": "Close To You"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:2LMkwUfqC6S6s6qDVlEuzV",
-                    "track_name": "White Ferrari"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:1BViPjTT585XAhkUUrkts0",
-                    "track_name": "Seigfried"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:34xTFwjPQ1dC6uJmleno7x",
-                    "track_name": "Godspeed"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:5k8LB57xOq8UUNVaKWSqrf",
-                    "track_name": "Futura Free"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:688iitLNSV6Iik1QESqvth",
-                    "track_name": "Rise"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:7zbX1txfcs42K2PlhFJNNE",
-                    "track_name": "Weary"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:4cvepMgER4YAbkGne2kQ6G",
-                    "track_name": "Interlude: The Glory is in You"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:48EjSdYh8wz2gBxxqzrsLe",
-                    "track_name": "Cranes in the Sky"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:3VVEUP5550SmFMQkjIlZ7f",
-                    "track_name": "Interlude: Dad Was Mad"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:22DHmfJa31hKpc2Lg0gVBV",
-                    "track_name": "Mad"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:4A3evD9w8QYhXBxqcj16ys",
-                    "track_name": "Don't You Wait"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:698avDwvnCZ69jYz3zlzoX",
-                    "track_name": "Interlude: Tina Taught Me"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:2TyCAfhwu5tRqFW8VnGMIL",
-                    "track_name": "Don't Touch My Hair"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:7tlAWur1RNnqWbuoL5qWqG",
-                    "track_name": "Interlude: This Moment"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:08MbvwVOZdMNESjkoVdXxE",
-                    "track_name": "Where Do We Go"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:3gCralqpe9SKfGH3yoYtWE",
-                    "track_name": "Interlude: For Us By Us"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:2aR6SYRJxy2QsBxA459ATF",
-                    "track_name": "F.U.B.U."
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:6pRo1ryP9N8aFCe1YpWQLj",
-                    "track_name": "Borderline (An Ode to Self Care)"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:1X2GmcZ5NIKnEyDdSzzJ4q",
-                    "track_name": "Interlude: I Got So Much Magic, You Can Have It"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:5lMugQF80AuN6uukFJLT58",
-                    "track_name": "Junie"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:3u8BTavdqT8zZVt5qFDZQo",
-                    "track_name": "Interlude: No Limits"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:41TLFoAklLMcJPlhtGC9kr",
-                    "track_name": "Don't Wish Me Well"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:1BvomQcVidSDKCndZdBEv3",
-                    "track_name": "Interlude: Pedestals"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:6gO8khQWeJcV7U0Kzo6Ynk",
-                    "track_name": "Scales"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:2KdT8BSu7sViL2G5vQiWB6",
-                    "track_name": "Closing: The Chosen Ones"
-                },
-                {
-                    "artist_name": "Daniel Caesar",
-                    "track_uri": "spotify:track:7zFXmv6vqI4qOt4yGf3jYZ",
-                    "track_name": "Get You (feat. Kali Uchis)"
-                },
-                {
-                    "artist_name": "Kehlani",
-                    "track_uri": "spotify:track:0wrEpbtamvQTLIjDFkVQSl",
-                    "track_name": "Everything Is Yours"
-                },
-                {
-                    "artist_name": "21 Savage",
-                    "track_uri": "spotify:track:55GLc4nywcX4aIlOcx1u06",
-                    "track_name": "FaceTime"
-                }
-            ],
-            "num_edits": 4,
-            "duration_ms": 10396855,
-            "num_artists": 6
-        },
-        {
             "name": "Fall 2016",
-            "pid": 4093,
+            "pid": 3123,
             "num_tracks": 53,
             "num_followers": 148,
             "tracks": [
@@ -1632,7 +1346,7 @@
         },
         {
             "name": "BACK TO THE 80s ",
-            "pid": 4094,
+            "pid": 3124,
             "num_tracks": 23,
             "num_followers": 12,
             "tracks": [

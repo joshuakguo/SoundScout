@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "ovoxo",
-            "pid": 5517,
+            "pid": 4192,
             "num_tracks": 92,
             "num_followers": 13,
             "tracks": [
@@ -478,7 +478,7 @@
         },
         {
             "name": "Peter Pan",
-            "pid": 5518,
+            "pid": 4193,
             "num_tracks": 22,
             "num_followers": 35,
             "tracks": [
@@ -596,72 +596,6 @@
             "num_edits": 2,
             "duration_ms": 3214605,
             "num_artists": 8
-        },
-        {
-            "name": "Litt",
-            "pid": 5519,
-            "num_tracks": 11,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Amin\u00e9",
-                    "track_uri": "spotify:track:5hTpBe8h35rJ67eAWHQsJx",
-                    "track_name": "Caroline"
-                },
-                {
-                    "artist_name": "Kodak Black",
-                    "track_uri": "spotify:track:1WIZiOuNO3woKfdlSK2gNn",
-                    "track_name": "Transportin'"
-                },
-                {
-                    "artist_name": "Lil Pump",
-                    "track_uri": "spotify:track:1rsAFUCa6BVMgRQ3FCQQsi",
-                    "track_name": "Boss"
-                },
-                {
-                    "artist_name": "Post Malone",
-                    "track_uri": "spotify:track:1ysAvOdJgUjc6CqOQxepaz",
-                    "track_name": "Money Made Me Do It"
-                },
-                {
-                    "artist_name": "Post Malone",
-                    "track_uri": "spotify:track:7wGoVu4Dady5GV0Sv4UIsx",
-                    "track_name": "rockstar"
-                },
-                {
-                    "artist_name": "Travis Scott",
-                    "track_uri": "spotify:track:1yxgsra98r3qAtxqiGZPiX",
-                    "track_name": "Butterfly Effect"
-                },
-                {
-                    "artist_name": "Amin\u00e9",
-                    "track_uri": "spotify:track:4HW5kSQ8M2IQWZhSxERvla",
-                    "track_name": "Spice Girl"
-                },
-                {
-                    "artist_name": "A Boogie Wit da Hoodie",
-                    "track_uri": "spotify:track:1f5cbQtDrykjarZVrShaDI",
-                    "track_name": "Drowning (feat. Kodak Black)"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert",
-                    "track_uri": "spotify:track:2eAZfqOm4EnOF9VvN50Tyc",
-                    "track_name": "The Way Life Goes (feat. Oh Wonder)"
-                },
-                {
-                    "artist_name": "A$AP Ferg",
-                    "track_uri": "spotify:track:4dVpf9jZjcORqGTLUaeYj9",
-                    "track_name": "Plain Jane"
-                },
-                {
-                    "artist_name": "NAV",
-                    "track_uri": "spotify:track:05nbZ1xxVNwUTcGwLbp7CN",
-                    "track_name": "Myself"
-                }
-            ],
-            "num_edits": 11,
-            "duration_ms": 2123562,
-            "num_artists": 9
         }
     ]
 }

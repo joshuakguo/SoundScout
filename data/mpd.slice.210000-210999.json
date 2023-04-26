@@ -6,359 +6,8 @@
     },
     "playlists": [
         {
-            "name": "Day drinking",
-            "pid": 3552,
-            "num_tracks": 68,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Nirvana",
-                    "track_uri": "spotify:track:3sYWyVGfPuit80szWXhrRA",
-                    "track_name": "Come As You Are"
-                },
-                {
-                    "artist_name": "Blues Traveler",
-                    "track_uri": "spotify:track:500Tkm3vJmVtdUwdCVxCTb",
-                    "track_name": "Run-Around"
-                },
-                {
-                    "artist_name": "Sublime",
-                    "track_uri": "spotify:track:2Z2vOukzwOgqR4dkymRSWd",
-                    "track_name": "Santeria"
-                },
-                {
-                    "artist_name": "Simon & Garfunkel",
-                    "track_uri": "spotify:track:0iOZM63lendWRTTeKhZBSC",
-                    "track_name": "Mrs. Robinson"
-                },
-                {
-                    "artist_name": "Pearl Jam",
-                    "track_uri": "spotify:track:3bE5slaVEfaDreqARl6k4M",
-                    "track_name": "Yellow Ledbetter"
-                },
-                {
-                    "artist_name": "Lazlo Bane",
-                    "track_uri": "spotify:track:19nAFg6Mb6jXN3yxPC2sSk",
-                    "track_name": "Superman"
-                },
-                {
-                    "artist_name": "Beck",
-                    "track_uri": "spotify:track:2oxWmwLmnVkBujTbllajwo",
-                    "track_name": "Loser"
-                },
-                {
-                    "artist_name": "Weezer",
-                    "track_uri": "spotify:track:4YPhn26bIFm2KUkL1VLzQG",
-                    "track_name": "Say It Ain't So"
-                },
-                {
-                    "artist_name": "Sublime",
-                    "track_uri": "spotify:track:5nkYHBWXu7KCgcdwP6jcB1",
-                    "track_name": "What I Got"
-                },
-                {
-                    "artist_name": "Sublime",
-                    "track_uri": "spotify:track:0Ylaocf86J0PZAhjAP8wzl",
-                    "track_name": "Doin' Time"
-                },
-                {
-                    "artist_name": "Blues Traveler",
-                    "track_uri": "spotify:track:1HpBm13TNcyMW3PoUrlZPv",
-                    "track_name": "But Anyway"
-                },
-                {
-                    "artist_name": "R.E.M.",
-                    "track_uri": "spotify:track:7sNhXWrg9eW3qRqeuePaIC",
-                    "track_name": "Orange Crush - Remastered"
-                },
-                {
-                    "artist_name": "Citizen King",
-                    "track_uri": "spotify:track:460Wn6Dq2uMviG5nPXtPnb",
-                    "track_name": "Better Days (And The Bottom Drops Out)"
-                },
-                {
-                    "artist_name": "Grateful Dead",
-                    "track_uri": "spotify:track:0mJQlCl9YgxW7kyeltNiVk",
-                    "track_name": "Touch Of Grey"
-                },
-                {
-                    "artist_name": "Barenaked Ladies",
-                    "track_uri": "spotify:track:0KeDuUqEX3P0cKzRD5pEom",
-                    "track_name": "If I Had $1,000,000"
-                },
-                {
-                    "artist_name": "Crosby, Stills & Nash",
-                    "track_uri": "spotify:track:5AoZknxgY6F25gAcVahO41",
-                    "track_name": "Southern Cross - Remastered"
-                },
-                {
-                    "artist_name": "JJ Grey & Mofro",
-                    "track_uri": "spotify:track:47fWuJTa17GfYrvG1fU8dr",
-                    "track_name": "Orange Blossoms"
-                },
-                {
-                    "artist_name": "Crosby, Stills & Nash",
-                    "track_uri": "spotify:track:2PuUFT13yCzUOZun94WOXv",
-                    "track_name": "Suite: Judy Blue Eyes - Remastered"
-                },
-                {
-                    "artist_name": "Everclear",
-                    "track_uri": "spotify:track:2hx4ptqsE8dboLH3NCLmaN",
-                    "track_name": "Father Of Mine"
-                },
-                {
-                    "artist_name": "Shawn Mullins",
-                    "track_uri": "spotify:track:5sMUwUR3JI2woCOrNbizUt",
-                    "track_name": "Lullaby"
-                },
-                {
-                    "artist_name": "Barenaked Ladies",
-                    "track_uri": "spotify:track:3dnY1Rl8JnjP1ZDFGrDzfh",
-                    "track_name": "It's All Been Done"
-                },
-                {
-                    "artist_name": "Smash Mouth",
-                    "track_uri": "spotify:track:0EQknhinIfbJ12hwMGjOY5",
-                    "track_name": "Walkin' On The Sun"
-                },
-                {
-                    "artist_name": "Elton John",
-                    "track_uri": "spotify:track:39vhxfS20BvWseZh9ldlJO",
-                    "track_name": "I Guess That's Why They Call It The Blues"
-                },
-                {
-                    "artist_name": "Elton John",
-                    "track_uri": "spotify:track:6YFbJW9ieQHClBf9nFnAd2",
-                    "track_name": "Don't Let The Sun Go Down On Me"
-                },
-                {
-                    "artist_name": "Billy Joel",
-                    "track_uri": "spotify:track:4ZoBC5MhSEzuknIgAkBaoT",
-                    "track_name": "My Life"
-                },
-                {
-                    "artist_name": "Billy Joel",
-                    "track_uri": "spotify:track:16GUMo6u3D2qo9a19AkYct",
-                    "track_name": "Movin' Out (Anthony's Song)"
-                },
-                {
-                    "artist_name": "Bob Marley & The Wailers",
-                    "track_uri": "spotify:track:2mKsPUojh602HvSeNt04CB",
-                    "track_name": "No Woman, No Cry - Live At The Lyceum, London/1975"
-                },
-                {
-                    "artist_name": "Bob Marley & The Wailers",
-                    "track_uri": "spotify:track:4efoEY8iDBzUqitjmNDhpN",
-                    "track_name": "Three Little Birds"
-                },
-                {
-                    "artist_name": "Bob Marley & The Wailers",
-                    "track_uri": "spotify:track:1QQfbfMfyzNZhT5fg3RpuS",
-                    "track_name": "Buffalo Soldier"
-                },
-                {
-                    "artist_name": "Bob Marley & The Wailers",
-                    "track_uri": "spotify:track:1EPVhySScieqRoYWj8pIEN",
-                    "track_name": "Stir It Up - Original Album Version"
-                },
-                {
-                    "artist_name": "Bob Marley & The Wailers",
-                    "track_uri": "spotify:track:2jvoqPDIsm5rHRLgxstX15",
-                    "track_name": "Waiting In Vain"
-                },
-                {
-                    "artist_name": "Bob Marley & The Wailers",
-                    "track_uri": "spotify:track:21dOjdraFZffs2lnQObaiZ",
-                    "track_name": "Redemption Song"
-                },
-                {
-                    "artist_name": "Bob Marley & The Wailers",
-                    "track_uri": "spotify:track:6gOirCUz62z0mFhCJ6P5KC",
-                    "track_name": "Jamming"
-                },
-                {
-                    "artist_name": "Elton John",
-                    "track_uri": "spotify:track:1hmQoWN65CaBbgW305UrcW",
-                    "track_name": "Spirit In The Sky"
-                },
-                {
-                    "artist_name": "Squeeze",
-                    "track_uri": "spotify:track:5r2z0FHOoFI06GZEVGDjzM",
-                    "track_name": "Tempted"
-                },
-                {
-                    "artist_name": "Crosby, Stills & Nash",
-                    "track_uri": "spotify:track:6lPbvFOOpN4pltOqJp7ddN",
-                    "track_name": "Marrakesh Express"
-                },
-                {
-                    "artist_name": "Wings",
-                    "track_uri": "spotify:track:2r7ThFDfXjyBNqWiIfjLiU",
-                    "track_name": "Venus And Mars - Remastered"
-                },
-                {
-                    "artist_name": "The Beach Boys",
-                    "track_uri": "spotify:track:5t9KYe0Fhd5cW6UYT4qP8f",
-                    "track_name": "Good Vibrations"
-                },
-                {
-                    "artist_name": "The Who",
-                    "track_uri": "spotify:track:7meE2e53huXYetLJQItGIv",
-                    "track_name": "Going Mobile - Original Album Version"
-                },
-                {
-                    "artist_name": "Jackson Browne",
-                    "track_uri": "spotify:track:3QcuZo6WLcFkqqLmDs0d95",
-                    "track_name": "Doctor My Eyes"
-                },
-                {
-                    "artist_name": "Tom Petty and the Heartbreakers",
-                    "track_uri": "spotify:track:504p9uFAXn2dDW73kvtg8M",
-                    "track_name": "Learning To Fly - Live"
-                },
-                {
-                    "artist_name": "Paul McCartney",
-                    "track_uri": "spotify:track:1iK6sGba8xUNzj3bKbblcn",
-                    "track_name": "Bluebird - 2013 Remaster"
-                },
-                {
-                    "artist_name": "Liz Phair",
-                    "track_uri": "spotify:track:4z4PB23xYTg1oANmyZovsw",
-                    "track_name": "Why Can't I?"
-                },
-                {
-                    "artist_name": "Slightly Stoopid",
-                    "track_uri": "spotify:track:3Zjdqz7eOox8XU0zTCPL4P",
-                    "track_name": "Collie Man"
-                },
-                {
-                    "artist_name": "Tom Petty and the Heartbreakers",
-                    "track_uri": "spotify:track:7MRyJPksH3G2cXHN8UKYzP",
-                    "track_name": "American Girl"
-                },
-                {
-                    "artist_name": "Tom Petty and the Heartbreakers",
-                    "track_uri": "spotify:track:5xS9hkTGfxqXyxX6wWWTt4",
-                    "track_name": "Mary Jane's Last Dance"
-                },
-                {
-                    "artist_name": "Tom Petty",
-                    "track_uri": "spotify:track:7MooGz4ZPE4bNxjFegR6Jx",
-                    "track_name": "You Don't Know How It Feels"
-                },
-                {
-                    "artist_name": "Grateful Dead",
-                    "track_uri": "spotify:track:7x2xjJV3YAPeLQJ7u3Kjet",
-                    "track_name": "Box Of Rain"
-                },
-                {
-                    "artist_name": "Canned Heat",
-                    "track_uri": "spotify:track:57460SJgSpCXaRJ9YIYHxy",
-                    "track_name": "Going Up The Country"
-                },
-                {
-                    "artist_name": "Crosby, Stills, Nash & Young",
-                    "track_uri": "spotify:track:4bjvLvKovcWqZwDbXT5QQX",
-                    "track_name": "Carry On"
-                },
-                {
-                    "artist_name": "Crosby, Stills, Nash & Young",
-                    "track_uri": "spotify:track:2hitsKa8SthKhRJBXUHbIv",
-                    "track_name": "Our House"
-                },
-                {
-                    "artist_name": "Van Morrison",
-                    "track_uri": "spotify:track:3n5iUh2Z6P7cnWins22W0F",
-                    "track_name": "And It Stoned Me"
-                },
-                {
-                    "artist_name": "Van Morrison",
-                    "track_uri": "spotify:track:1US01PIcb3RFVrcN8mO8CS",
-                    "track_name": "Caravan"
-                },
-                {
-                    "artist_name": "Van Morrison",
-                    "track_uri": "spotify:track:0eti3iRdEgUxwcIcN2N9DY",
-                    "track_name": "Domino"
-                },
-                {
-                    "artist_name": "Frankie Valli & The Four Seasons",
-                    "track_uri": "spotify:track:1hQFF33xi8ruavZNyovtUN",
-                    "track_name": "December, 1963 (Oh What A Night!)"
-                },
-                {
-                    "artist_name": "The Velvet Underground",
-                    "track_uri": "spotify:track:4NfpR10Ss0oaAUOuze2LSI",
-                    "track_name": "Sweet Jane - Early Version"
-                },
-                {
-                    "artist_name": "Counting Crows",
-                    "track_uri": "spotify:track:0LWINYMC4s8QTdDSb1B3Q3",
-                    "track_name": "Hanginaround"
-                },
-                {
-                    "artist_name": "Tom Petty",
-                    "track_uri": "spotify:track:6fKYUIurKDNTHz7bEOaOj6",
-                    "track_name": "Zombie Zoo"
-                },
-                {
-                    "artist_name": "Tom Petty and the Heartbreakers",
-                    "track_uri": "spotify:track:75p96jAR4DDOxywAbmSiKH",
-                    "track_name": "Even the Losers"
-                },
-                {
-                    "artist_name": "Tom Petty and the Heartbreakers",
-                    "track_uri": "spotify:track:3BSoskNONnjn05yRO2tYFX",
-                    "track_name": "Don't Come Around Here No More"
-                },
-                {
-                    "artist_name": "Tom Petty and the Heartbreakers",
-                    "track_uri": "spotify:track:5kdd1nzimLc5Rtad4TUbvG",
-                    "track_name": "Don't Do Me Like That - Live At Hammersmith Odeon, London, England/1980"
-                },
-                {
-                    "artist_name": "Wyclef Jean",
-                    "track_uri": "spotify:track:3vuFnHizWGTSsKpmJp0BWe",
-                    "track_name": "Something About Mary"
-                },
-                {
-                    "artist_name": "Van Morrison",
-                    "track_uri": "spotify:track:06QWhq7xeSK2Ays5jHlaLV",
-                    "track_name": "Tupelo Honey"
-                },
-                {
-                    "artist_name": "Blues Image",
-                    "track_uri": "spotify:track:4l45EmsqvyyjDJk7usdAz0",
-                    "track_name": "Ride Captain Ride - Re-Recorded / Remastered"
-                },
-                {
-                    "artist_name": "Lana Del Rey",
-                    "track_uri": "spotify:track:3taCbWWTilb7eNMsAzOBq4",
-                    "track_name": "Radio"
-                },
-                {
-                    "artist_name": "The Clash",
-                    "track_uri": "spotify:track:6ITuEsxEy2qPhqMowdDAeI",
-                    "track_name": "Train in Vain - Remastered"
-                },
-                {
-                    "artist_name": "Wiz Khalifa",
-                    "track_uri": "spotify:track:0wVAhoXZM7tl1pnLaupf1F",
-                    "track_name": "Paperbond"
-                },
-                {
-                    "artist_name": "Matchbox Twenty",
-                    "track_uri": "spotify:track:2sxEZAXXUG0eTFZpsCDKR6",
-                    "track_name": "3 am - Remastered Version"
-                }
-            ],
-            "num_edits": 14,
-            "duration_ms": 16860405,
-            "num_artists": 42
-        },
-        {
             "name": "Fall Playlist",
-            "pid": 3553,
+            "pid": 2722,
             "num_tracks": 11,
             "num_followers": 69,
             "tracks": [
@@ -424,7 +73,7 @@
         },
         {
             "name": "snowboarding",
-            "pid": 3554,
+            "pid": 2723,
             "num_tracks": 67,
             "num_followers": 13,
             "tracks": [
@@ -770,7 +419,7 @@
         },
         {
             "name": "90's alternative ",
-            "pid": 3555,
+            "pid": 2724,
             "num_tracks": 119,
             "num_followers": 14,
             "tracks": [
@@ -1376,7 +1025,7 @@
         },
         {
             "name": "Playa",
-            "pid": 3556,
+            "pid": 2725,
             "num_tracks": 44,
             "num_followers": 15,
             "tracks": [
@@ -1607,7 +1256,7 @@
         },
         {
             "name": "easy going",
-            "pid": 3557,
+            "pid": 2726,
             "num_tracks": 77,
             "num_followers": 90,
             "tracks": [

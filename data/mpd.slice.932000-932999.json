@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Stuff",
-            "pid": 5406,
+            "pid": 4107,
             "num_tracks": 15,
             "num_followers": 26,
             "tracks": [
@@ -93,7 +93,7 @@
         },
         {
             "name": "Female artists.",
-            "pid": 5407,
+            "pid": 4108,
             "num_tracks": 226,
             "num_followers": 18,
             "tracks": [
@@ -1234,7 +1234,7 @@
         },
         {
             "name": "$uicideboy$",
-            "pid": 5408,
+            "pid": 4109,
             "num_tracks": 65,
             "num_followers": 58,
             "tracks": [
@@ -1570,7 +1570,7 @@
         },
         {
             "name": "Teen Angst",
-            "pid": 5409,
+            "pid": 4110,
             "num_tracks": 112,
             "num_followers": 12,
             "tracks": [
@@ -2140,204 +2140,8 @@
             "num_artists": 42
         },
         {
-            "name": "Ros",
-            "pid": 5410,
-            "num_tracks": 37,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Russell Watson",
-                    "track_uri": "spotify:track:1EZz9LPmu3dM1wWj17nhmJ",
-                    "track_name": "Where My Heart Will Take Me (Theme From \"Enterprise\")"
-                },
-                {
-                    "artist_name": "Youth Lagoon",
-                    "track_uri": "spotify:track:3WtB2who5tPeyzpe2rAoPk",
-                    "track_name": "17"
-                },
-                {
-                    "artist_name": "The Head and the Heart",
-                    "track_uri": "spotify:track:7jOXGeS0v0rdFssNy7Mxkn",
-                    "track_name": "Lost In My Mind"
-                },
-                {
-                    "artist_name": "Eddie Vedder",
-                    "track_uri": "spotify:track:6gYhwQ4mKirCbLFE1eYKhu",
-                    "track_name": "Hard Sun"
-                },
-                {
-                    "artist_name": "Robbie Robertson",
-                    "track_uri": "spotify:track:3B7Ls05la3sGj1ql53lP8t",
-                    "track_name": "Broken Arrow"
-                },
-                {
-                    "artist_name": "Arcade Fire",
-                    "track_uri": "spotify:track:6Hmj7SrLRbreLVfVS7mV1S",
-                    "track_name": "Wake Up"
-                },
-                {
-                    "artist_name": "Vampire Weekend",
-                    "track_uri": "spotify:track:1ESlvmyeER7ebaKTsXE78c",
-                    "track_name": "Step"
-                },
-                {
-                    "artist_name": "Bastille",
-                    "track_uri": "spotify:track:67wABU4SjBlnDHB0KiU3HL",
-                    "track_name": "Flaws"
-                },
-                {
-                    "artist_name": "John Williams",
-                    "track_uri": "spotify:track:0o9AEYW61Jb0dwmHlVhXk5",
-                    "track_name": "Main Title and The Attack on the Jakku Village"
-                },
-                {
-                    "artist_name": "Logic",
-                    "track_uri": "spotify:track:2M5ndhTi0zOIymTD4Ff1T8",
-                    "track_name": "Contact"
-                },
-                {
-                    "artist_name": "Eminem",
-                    "track_uri": "spotify:track:4hEl2wrneFEJbJ6SDYWd2f",
-                    "track_name": "Not Afraid"
-                },
-                {
-                    "artist_name": "U2",
-                    "track_uri": "spotify:track:22tceep2vzeOKKX1jIjiLi",
-                    "track_name": "I Still Haven't Found What I'm Looking For"
-                },
-                {
-                    "artist_name": "Bradley Joseph",
-                    "track_uri": "spotify:track:5gnGpdW3PB1IWk3wlQ2beO",
-                    "track_name": "Amazing Grace"
-                },
-                {
-                    "artist_name": "U2",
-                    "track_uri": "spotify:track:1pcQcQTueIAmkm1MZhsQh3",
-                    "track_name": "Pride (In The Name Of Love) - Live - Rattle & Hum Version"
-                },
-                {
-                    "artist_name": "Feint",
-                    "track_uri": "spotify:track:5qsKdwDWbhNTygUO4mGpix",
-                    "track_name": "We Won't Be Alone (feat. Laura Brehm)"
-                },
-                {
-                    "artist_name": "Sara Bareilles",
-                    "track_uri": "spotify:track:6Uy6K3KdmUdAfelUp0SeXn",
-                    "track_name": "Brave"
-                },
-                {
-                    "artist_name": "Kanye West",
-                    "track_uri": "spotify:track:6xTHfOkgqjaIOKEWxYwsAu",
-                    "track_name": "Heard 'Em Say"
-                },
-                {
-                    "artist_name": "Kanye West",
-                    "track_uri": "spotify:track:1eQBEelI2NCy7AUTerX0KS",
-                    "track_name": "Ultralight Beam"
-                },
-                {
-                    "artist_name": "Darius Rucker",
-                    "track_uri": "spotify:track:5AITuS8QzCZ9d7kdEXCJkd",
-                    "track_name": "This"
-                },
-                {
-                    "artist_name": "Jess Glynne",
-                    "track_uri": "spotify:track:58jx3tTuDuzHysC77c0AQd",
-                    "track_name": "Hold My Hand"
-                },
-                {
-                    "artist_name": "U2",
-                    "track_uri": "spotify:track:0gzqZ9d1jIKo9psEIthwXe",
-                    "track_name": "Beautiful Day"
-                },
-                {
-                    "artist_name": "Foo Fighters",
-                    "track_uri": "spotify:track:5UWwZ5lm5PKu6eKsHAGxOk",
-                    "track_name": "Everlong"
-                },
-                {
-                    "artist_name": "James Bay",
-                    "track_uri": "spotify:track:7tmtOEDxPN7CWaQWBsG1DY",
-                    "track_name": "Hold Back The River"
-                },
-                {
-                    "artist_name": "Modest Mouse",
-                    "track_uri": "spotify:track:3b00LSFIRqnHvkoDEs5fkg",
-                    "track_name": "Float On"
-                },
-                {
-                    "artist_name": "Cast Of Rent",
-                    "track_uri": "spotify:track:3SnXIPWciHwAS04oKdPC0l",
-                    "track_name": "Seasons Of Love - From The Motion Picture RENT"
-                },
-                {
-                    "artist_name": "The Head and the Heart",
-                    "track_uri": "spotify:track:1t2tKmSYA61IA7scT1yoIn",
-                    "track_name": "Rivers And Roads"
-                },
-                {
-                    "artist_name": "Peter Cincotti",
-                    "track_uri": "spotify:track:7bWMeIjbl0X7vRNQ5lc3mE",
-                    "track_name": "Forever And Always"
-                },
-                {
-                    "artist_name": "The Goo Goo Dolls",
-                    "track_uri": "spotify:track:2hiB8QxWic092OablwpoVC",
-                    "track_name": "Better Days"
-                },
-                {
-                    "artist_name": "Alison Krauss",
-                    "track_uri": "spotify:track:3KNnyBCjInhKXHIfW5Byhg",
-                    "track_name": "Down To The River To Pray"
-                },
-                {
-                    "artist_name": "Bill Withers",
-                    "track_uri": "spotify:track:3M8FzayQWtkvOhqMn2V4T2",
-                    "track_name": "Lean on Me"
-                },
-                {
-                    "artist_name": "Ben E. King",
-                    "track_uri": "spotify:track:3SdTKo2uVsxFblQjpScoHy",
-                    "track_name": "Stand By Me"
-                },
-                {
-                    "artist_name": "Marvin Gaye",
-                    "track_uri": "spotify:track:2H3ZUSE54pST4ubRd5FzFR",
-                    "track_name": "Ain't No Mountain High Enough"
-                },
-                {
-                    "artist_name": "Marvin Gaye",
-                    "track_uri": "spotify:track:4UpUrrq8XmES44YAjlcUuP",
-                    "track_name": "God Is Love"
-                },
-                {
-                    "artist_name": "Marvin Gaye",
-                    "track_uri": "spotify:track:5NsWakKHyPAKSlLEtgHQZb",
-                    "track_name": "Wholy Holy"
-                },
-                {
-                    "artist_name": "Queen Latifah",
-                    "track_uri": "spotify:track:6B0EPJzgKjBnBUhAvjBX2y",
-                    "track_name": "Oh Happy Day"
-                },
-                {
-                    "artist_name": "Jeff Buckley",
-                    "track_uri": "spotify:track:74X1epeRufHckhuX1KFD04",
-                    "track_name": "Hallelujah"
-                },
-                {
-                    "artist_name": "Rachel Platten",
-                    "track_uri": "spotify:track:3kSXn1osC89W8JcPLozTzs",
-                    "track_name": "Stand By You"
-                }
-            ],
-            "num_edits": 9,
-            "duration_ms": 9096986,
-            "num_artists": 31
-        },
-        {
             "name": "Wicked",
-            "pid": 5411,
+            "pid": 4111,
             "num_tracks": 218,
             "num_followers": 13,
             "tracks": [

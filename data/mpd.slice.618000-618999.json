@@ -6,239 +6,8 @@
     },
     "playlists": [
         {
-            "name": "Lady Jams",
-            "pid": 1361,
-            "num_tracks": 44,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Miley Cyrus",
-                    "track_uri": "spotify:track:2vwlzO0Qp8kfEtzTsCXfyE",
-                    "track_name": "Wrecking Ball"
-                },
-                {
-                    "artist_name": "One Direction",
-                    "track_uri": "spotify:track:3SPDQfj2UfWq6A2NllZnzn",
-                    "track_name": "What Makes You Beautiful"
-                },
-                {
-                    "artist_name": "One Direction",
-                    "track_uri": "spotify:track:6aGjEZ7kq3YXgD0EDt80O5",
-                    "track_name": "Live While We're Young"
-                },
-                {
-                    "artist_name": "One Direction",
-                    "track_uri": "spotify:track:7kSLdGdXLey7pzLsWpdg1h",
-                    "track_name": "Little Things"
-                },
-                {
-                    "artist_name": "Maroon 5",
-                    "track_uri": "spotify:track:4llK75pXNWZz6KAho2Gp16",
-                    "track_name": "She Will Be Loved - Radio Mix"
-                },
-                {
-                    "artist_name": "Maroon 5",
-                    "track_uri": "spotify:track:6KBYk8OFtod7brGuZ3Y67q",
-                    "track_name": "Misery"
-                },
-                {
-                    "artist_name": "The Script",
-                    "track_uri": "spotify:track:1a1i2IwXnUN0PjllVEhA4B",
-                    "track_name": "Breakeven"
-                },
-                {
-                    "artist_name": "The Fray",
-                    "track_uri": "spotify:track:57uX2vR9j9DNiANDYfXw1i",
-                    "track_name": "Never Say Never"
-                },
-                {
-                    "artist_name": "Demi Lovato",
-                    "track_uri": "spotify:track:4B3RmT3cGvh8By3WY9pbIx",
-                    "track_name": "Skyscraper"
-                },
-                {
-                    "artist_name": "The Fray",
-                    "track_uri": "spotify:track:5fVZC9GiM4e8vu99W0Xf6J",
-                    "track_name": "How to Save a Life"
-                },
-                {
-                    "artist_name": "Fergie",
-                    "track_uri": "spotify:track:3Q4WeJmzxuDpzMu9QjQqbM",
-                    "track_name": "Big Girls Don't Cry (Personal)"
-                },
-                {
-                    "artist_name": "Rihanna",
-                    "track_uri": "spotify:track:7ySUcLPVX7KudhnmNcgY2D",
-                    "track_name": "S&M"
-                },
-                {
-                    "artist_name": "Katy Perry",
-                    "track_uri": "spotify:track:3bDGwl0X3EjQmIyFD1uif5",
-                    "track_name": "Roar"
-                },
-                {
-                    "artist_name": "Fifth Harmony",
-                    "track_uri": "spotify:track:08GujSR7BcjakZUzX0R0nl",
-                    "track_name": "Miss Movin' On"
-                },
-                {
-                    "artist_name": "Fergie",
-                    "track_uri": "spotify:track:4KTtYhxFtFL7mBwnjkKfLm",
-                    "track_name": "Glamorous"
-                },
-                {
-                    "artist_name": "Fergie",
-                    "track_uri": "spotify:track:7jRoWfRlLnGYEIEn4t4kbq",
-                    "track_name": "London Bridge"
-                },
-                {
-                    "artist_name": "Taylor Swift",
-                    "track_uri": "spotify:track:2ULNeSomDxVNmdDy8VxEBU",
-                    "track_name": "22"
-                },
-                {
-                    "artist_name": "Taylor Swift",
-                    "track_uri": "spotify:track:0cITLOYn1Sv4q27zZPqlNK",
-                    "track_name": "Red"
-                },
-                {
-                    "artist_name": "The Fray",
-                    "track_uri": "spotify:track:4IoYz8XqqdowINzfRrFnhi",
-                    "track_name": "You Found Me"
-                },
-                {
-                    "artist_name": "Justin Bieber",
-                    "track_uri": "spotify:track:07dYGGSrzPeg6a3KZjWX65",
-                    "track_name": "Boyfriend"
-                },
-                {
-                    "artist_name": "Justin Bieber",
-                    "track_uri": "spotify:track:6eDApnV9Jdb1nYahOlbbUh",
-                    "track_name": "One Time"
-                },
-                {
-                    "artist_name": "Justin Bieber",
-                    "track_uri": "spotify:track:0KTsmr6JOuhxZuiXUha1xC",
-                    "track_name": "Beauty And A Beat"
-                },
-                {
-                    "artist_name": "Sam Smith",
-                    "track_uri": "spotify:track:0fioLzGM8ngbD1w6fMmm45",
-                    "track_name": "I'm Not The Only One"
-                },
-                {
-                    "artist_name": "Bay Cherish",
-                    "track_uri": "spotify:track:4iHUlpygISpxWU7fknsseZ",
-                    "track_name": "People Fall in Love in Mysterious Ways"
-                },
-                {
-                    "artist_name": "Jonas Brothers",
-                    "track_uri": "spotify:track:7yMnml7zdYl5LlDFZPm5Hd",
-                    "track_name": "Burnin' Up"
-                },
-                {
-                    "artist_name": "One Direction",
-                    "track_uri": "spotify:track:5T7ZFtCcOgkpjxcuaeZbw0",
-                    "track_name": "Best Song Ever"
-                },
-                {
-                    "artist_name": "The Script",
-                    "track_uri": "spotify:track:49kjlZP49LMD1MrrcvXDET",
-                    "track_name": "For the First Time"
-                },
-                {
-                    "artist_name": "Maroon 5",
-                    "track_uri": "spotify:track:5qII2n90lVdPDcgXEEVHNy",
-                    "track_name": "Sunday Morning"
-                },
-                {
-                    "artist_name": "Miley Cyrus",
-                    "track_uri": "spotify:track:2y4lAQpi5VTNLu2ldeTdUH",
-                    "track_name": "We Can't Stop"
-                },
-                {
-                    "artist_name": "Icona Pop",
-                    "track_uri": "spotify:track:00fNdIFKoMxxt8Hnm2kAKL",
-                    "track_name": "All Night"
-                },
-                {
-                    "artist_name": "Leona Lewis",
-                    "track_uri": "spotify:track:7wZUrN8oemZfsEd1CGkbXE",
-                    "track_name": "Bleeding Love"
-                },
-                {
-                    "artist_name": "One Direction",
-                    "track_uri": "spotify:track:0AkQbXGN4KG34TS7xLrM68",
-                    "track_name": "Kiss You"
-                },
-                {
-                    "artist_name": "Alicia Keys",
-                    "track_uri": "spotify:track:3XVBdLihbNbxUwZosxcGuJ",
-                    "track_name": "If I Ain't Got You"
-                },
-                {
-                    "artist_name": "Alicia Keys",
-                    "track_uri": "spotify:track:0JEqGkvUiMTQmFY6sgL9kg",
-                    "track_name": "No One"
-                },
-                {
-                    "artist_name": "Britney Spears",
-                    "track_uri": "spotify:track:6I9VzXrHxO9rA9A5euc8Ak",
-                    "track_name": "Toxic"
-                },
-                {
-                    "artist_name": "Avril Lavigne",
-                    "track_uri": "spotify:track:0OJXdyyVL8K6aovPgfqCcN",
-                    "track_name": "Girlfriend (German Version - Explicit) - German Version - Explicit"
-                },
-                {
-                    "artist_name": "Demi Lovato",
-                    "track_uri": "spotify:track:1V6gIisPpYqgFeWbMLI0bA",
-                    "track_name": "Heart Attack"
-                },
-                {
-                    "artist_name": "Selena Gomez",
-                    "track_uri": "spotify:track:5U2m76qAMdr3gXI0g6ptlG",
-                    "track_name": "Come & Get It"
-                },
-                {
-                    "artist_name": "Miley Cyrus",
-                    "track_uri": "spotify:track:5x5JM1BSB6vollcIzDocqT",
-                    "track_name": "The Climb"
-                },
-                {
-                    "artist_name": "Train",
-                    "track_uri": "spotify:track:2hKdd3qO7cWr2Jo0Bcs0MA",
-                    "track_name": "Drops of Jupiter"
-                },
-                {
-                    "artist_name": "Taylor Swift",
-                    "track_uri": "spotify:track:4pJi1rVt9GNegU9kywjg4z",
-                    "track_name": "Teardrops on My Guitar - Pop Version"
-                },
-                {
-                    "artist_name": "Justin Bieber",
-                    "track_uri": "spotify:track:69bp2EbF7Q2rqc5N3ylezZ",
-                    "track_name": "Sorry"
-                },
-                {
-                    "artist_name": "The Neighbourhood",
-                    "track_uri": "spotify:track:2QjOHCTQ1Jl3zawyYOpxh6",
-                    "track_name": "Sweater Weather"
-                },
-                {
-                    "artist_name": "Jonas Brothers",
-                    "track_uri": "spotify:track:1TfAhjzRBWzYZ8IdUV3igl",
-                    "track_name": "Year 3000"
-                }
-            ],
-            "num_edits": 18,
-            "duration_ms": 9959671,
-            "num_artists": 23
-        },
-        {
             "name": "Novelas",
-            "pid": 1362,
+            "pid": 1031,
             "num_tracks": 45,
             "num_followers": 29,
             "tracks": [
@@ -474,7 +243,7 @@
         },
         {
             "name": "Glow",
-            "pid": 1363,
+            "pid": 1032,
             "num_tracks": 8,
             "num_followers": 41,
             "tracks": [
@@ -525,7 +294,7 @@
         },
         {
             "name": "Stoner music",
-            "pid": 1364,
+            "pid": 1033,
             "num_tracks": 101,
             "num_followers": 12,
             "tracks": [
@@ -1041,7 +810,7 @@
         },
         {
             "name": "Luther Vandross",
-            "pid": 1365,
+            "pid": 1034,
             "num_tracks": 163,
             "num_followers": 36,
             "tracks": [
@@ -1867,7 +1636,7 @@
         },
         {
             "name": "boom",
-            "pid": 1366,
+            "pid": 1035,
             "num_tracks": 188,
             "num_followers": 17,
             "tracks": [

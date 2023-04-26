@@ -6,139 +6,8 @@
     },
     "playlists": [
         {
-            "name": "Espa\u00f1ol",
-            "pid": 4459,
-            "num_tracks": 24,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Marc Anthony",
-                    "track_uri": "spotify:track:3QHMxEOAGD51PDlbFPHLyJ",
-                    "track_name": "Vivir Mi Vida"
-                },
-                {
-                    "artist_name": "Enrique Iglesias",
-                    "track_uri": "spotify:track:32lm3769IRfcnrQV11LO4E",
-                    "track_name": "Bailando - Spanish Version"
-                },
-                {
-                    "artist_name": "Party Kids Band",
-                    "track_uri": "spotify:track:3XHbB3jOfQKnwXO63MsyKm",
-                    "track_name": "Tengo la Camisa Negra"
-                },
-                {
-                    "artist_name": "Gente De Zona",
-                    "track_uri": "spotify:track:0OMRAvrtLWE2TvcXorRiB9",
-                    "track_name": "La Gozadera"
-                },
-                {
-                    "artist_name": "Coti",
-                    "track_uri": "spotify:track:5QhOF5HXgZ0OFUZSE5kEv1",
-                    "track_name": "Nada Fue Un Error"
-                },
-                {
-                    "artist_name": "Juan Gabriel",
-                    "track_uri": "spotify:track:0t99cqXRyfZvD81SLM8fvy",
-                    "track_name": "No Tengo Dinero"
-                },
-                {
-                    "artist_name": "Carlos Vives",
-                    "track_uri": "spotify:track:0sXvAOmXgjR2QUqLK1MltU",
-                    "track_name": "La Bicicleta"
-                },
-                {
-                    "artist_name": "Shakira",
-                    "track_uri": "spotify:track:1bP3m6PbyzsEu4rq2BxONs",
-                    "track_name": "Estou Aqu\u00ed (Estoy Aqu\u00ed)"
-                },
-                {
-                    "artist_name": "Nicky Jam",
-                    "track_uri": "spotify:track:5Fim1gaXBgsiFfsQAfQSDS",
-                    "track_name": "Hasta el Amanecer"
-                },
-                {
-                    "artist_name": "Enrique Iglesias",
-                    "track_uri": "spotify:track:6yjsa6c8nSGQqXF12vFSpp",
-                    "track_name": "Loco"
-                },
-                {
-                    "artist_name": "Prince Royce",
-                    "track_uri": "spotify:track:6zR3aAwQ7cn2U7F1sBtdj1",
-                    "track_name": "Moneda"
-                },
-                {
-                    "artist_name": "Lucenzo",
-                    "track_uri": "spotify:track:6ZVegummYvkbBaEshdZMCP",
-                    "track_name": "Dan\u00e7ar Kuduro"
-                },
-                {
-                    "artist_name": "Nicky Jam",
-                    "track_uri": "spotify:track:7qCAVkHWZkF44OzOUKf8Cr",
-                    "track_name": "El Perd\u00f3n"
-                },
-                {
-                    "artist_name": "Dani Mart\u00edn",
-                    "track_uri": "spotify:track:1ag8UWY4Gc2mj4rR5ItXnd",
-                    "track_name": "Los Charcos"
-                },
-                {
-                    "artist_name": "Luis Miguel",
-                    "track_uri": "spotify:track:1lKI9y1DL6QnYTZguVmACX",
-                    "track_name": "La Media Vuelta"
-                },
-                {
-                    "artist_name": "Juanes",
-                    "track_uri": "spotify:track:7HJKzIgaNgDgo3p3a2ToR6",
-                    "track_name": "A Dios Le Pido"
-                },
-                {
-                    "artist_name": "Gloria Estefan",
-                    "track_uri": "spotify:track:3JmmaIlJ2xKlI60gqSQVE9",
-                    "track_name": "Mi Tierra"
-                },
-                {
-                    "artist_name": "Luis Fonsi",
-                    "track_uri": "spotify:track:4aWmUDTfIPGksMNLV2rQP2",
-                    "track_name": "Despacito (Featuring Daddy Yankee)"
-                },
-                {
-                    "artist_name": "Juanes",
-                    "track_uri": "spotify:track:6is48lQXsZ6hn87nrYANI3",
-                    "track_name": "Juntos - From \"McFarland, USA\"/Soundtrack Version"
-                },
-                {
-                    "artist_name": "Fonseca",
-                    "track_uri": "spotify:track:3YiF4GqPHrifMDhn7mUnD1",
-                    "track_name": "Arroyito"
-                },
-                {
-                    "artist_name": "Alvaro Soler",
-                    "track_uri": "spotify:track:2mjqNvy3WT62V1mVZjK1nQ",
-                    "track_name": "El Mismo Sol"
-                },
-                {
-                    "artist_name": "Shakira",
-                    "track_uri": "spotify:track:4qknM1pQz53QOyfDVTjcM9",
-                    "track_name": "Me Enamor\u00e9"
-                },
-                {
-                    "artist_name": "Carlos Vives",
-                    "track_uri": "spotify:track:0JcNysfWVWaMS7R6vzGB2k",
-                    "track_name": "Robarte un Beso"
-                },
-                {
-                    "artist_name": "Chayanne",
-                    "track_uri": "spotify:track:7lOzUJzsELALh5FQsPKTEn",
-                    "track_name": "Humanos a Marte"
-                }
-            ],
-            "num_edits": 17,
-            "duration_ms": 5164067,
-            "num_artists": 19
-        },
-        {
             "name": "Starboy",
-            "pid": 4460,
+            "pid": 3393,
             "num_tracks": 99,
             "num_followers": 13,
             "tracks": [
@@ -644,7 +513,7 @@
         },
         {
             "name": "guilty pleasures",
-            "pid": 4461,
+            "pid": 3394,
             "num_tracks": 208,
             "num_followers": 63,
             "tracks": [
@@ -1695,7 +1564,7 @@
         },
         {
             "name": "Adventure Time",
-            "pid": 4462,
+            "pid": 3395,
             "num_tracks": 92,
             "num_followers": 23,
             "tracks": [

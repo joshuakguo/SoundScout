@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Repeat",
-            "pid": 4277,
+            "pid": 3262,
             "num_tracks": 5,
             "num_followers": 314,
             "tracks": [
@@ -44,7 +44,7 @@
         },
         {
             "name": "spanish",
-            "pid": 4278,
+            "pid": 3263,
             "num_tracks": 101,
             "num_followers": 12,
             "tracks": [
@@ -559,284 +559,8 @@
             "num_artists": 28
         },
         {
-            "name": "Camp Songs",
-            "pid": 4279,
-            "num_tracks": 53,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Joni Mitchell",
-                    "track_uri": "spotify:track:6UkMcAA19lTdjs22jtB7o2",
-                    "track_name": "Big Yellow Taxi"
-                },
-                {
-                    "artist_name": "Joni Mitchell",
-                    "track_uri": "spotify:track:6MYDgkfu34kRRIdMfleVCV",
-                    "track_name": "The Circle Game"
-                },
-                {
-                    "artist_name": "Loggins & Messina",
-                    "track_uri": "spotify:track:5gYZiARZL3Lm4k8VPfo4q7",
-                    "track_name": "House at Pooh Corner"
-                },
-                {
-                    "artist_name": "Graham BLVD",
-                    "track_uri": "spotify:track:6o5SncMgUGVY4aGLrkMqtN",
-                    "track_name": "One Tin Soldier (The Legend Of Billy Jack)"
-                },
-                {
-                    "artist_name": "Peter, Paul and Mary",
-                    "track_uri": "spotify:track:6ZSTinOwx5dKFYc6iYyGDn",
-                    "track_name": "Leaving On A Jet Plane"
-                },
-                {
-                    "artist_name": "Peter, Paul and Mary",
-                    "track_uri": "spotify:track:3hqsBLMAqJqrhr434Z7WlA",
-                    "track_name": "Puff, The Magic Dragon"
-                },
-                {
-                    "artist_name": "James Taylor",
-                    "track_uri": "spotify:track:69l8nFPu0LWmnoJX7YSVYc",
-                    "track_name": "You've Got A Friend"
-                },
-                {
-                    "artist_name": "Kol B'Seder",
-                    "track_uri": "spotify:track:0rrhjYmeGaYbpE4jktt0I9",
-                    "track_name": "Shalom Rav"
-                },
-                {
-                    "artist_name": "Debbie Friedman",
-                    "track_uri": "spotify:track:5bfhYu5B3OR0GCTBJbKWIo",
-                    "track_name": "Not By Might, Not By Power"
-                },
-                {
-                    "artist_name": "Debbie Friedman",
-                    "track_uri": "spotify:track:6Yb8CY68noui6WDo9c9ijm",
-                    "track_name": "Sing Unto God"
-                },
-                {
-                    "artist_name": "Karen Mitzo Hilderbrand",
-                    "track_uri": "spotify:track:0fnj9tpidNKVHZYWmv63eY",
-                    "track_name": "Rise and Shine"
-                },
-                {
-                    "artist_name": "Harry Chapin",
-                    "track_uri": "spotify:track:2obblQ6tcePeOEVJV6nEGD",
-                    "track_name": "Cat's In The Cradle"
-                },
-                {
-                    "artist_name": "The Kingston Trio",
-                    "track_uri": "spotify:track:7czDlyNEoVpFzh8A4bNSdS",
-                    "track_name": "M.T.A."
-                },
-                {
-                    "artist_name": "Joan Baez",
-                    "track_uri": "spotify:track:49uBVeaM3ixGD8VIeqh9KI",
-                    "track_name": "Donna Donna"
-                },
-                {
-                    "artist_name": "Neil Young",
-                    "track_uri": "spotify:track:5tU8FtXsIi3hlXQVyYTC7P",
-                    "track_name": "Sugar Mountain - Live - Canterbury House 1968"
-                },
-                {
-                    "artist_name": "Neil Young",
-                    "track_uri": "spotify:track:5k5CTkuBUeBPeHv7m007N5",
-                    "track_name": "Comes a Time"
-                },
-                {
-                    "artist_name": "Neil Young",
-                    "track_uri": "spotify:track:6geu2q04nElk0lLv5YwU9M",
-                    "track_name": "Cowgirl In the Sand - Remastered Album Version"
-                },
-                {
-                    "artist_name": "Neil Young",
-                    "track_uri": "spotify:track:4RIp4UTguC0F6TRV7xfKjv",
-                    "track_name": "Old Man"
-                },
-                {
-                    "artist_name": "Buffalo Springfield",
-                    "track_uri": "spotify:track:0ipGD86bKFARjKvVnOu6QW",
-                    "track_name": "I Am A Child"
-                },
-                {
-                    "artist_name": "Crosby, Stills, Nash & Young",
-                    "track_uri": "spotify:track:29HaKOpeLSYvqdFyEQSRdj",
-                    "track_name": "Teach Your Children"
-                },
-                {
-                    "artist_name": "Crosby, Stills, Nash & Young",
-                    "track_uri": "spotify:track:2hitsKa8SthKhRJBXUHbIv",
-                    "track_name": "Our House"
-                },
-                {
-                    "artist_name": "Crosby, Stills & Nash",
-                    "track_uri": "spotify:track:6kXGGyEPSRS1g9Ltm70jo9",
-                    "track_name": "Love the One You're With"
-                },
-                {
-                    "artist_name": "Grateful Dead",
-                    "track_uri": "spotify:track:5ZLzl6T8JwqMTMdoE0nCbU",
-                    "track_name": "Friend Of The Devil - Remastered Version"
-                },
-                {
-                    "artist_name": "Bob Dylan",
-                    "track_uri": "spotify:track:18GiV1BaXzPVYpp9rmOg0E",
-                    "track_name": "Blowin' In the Wind"
-                },
-                {
-                    "artist_name": "Yusuf / Cat Stevens",
-                    "track_uri": "spotify:track:1ppuHX1oVMku5LTL0swNZP",
-                    "track_name": "Peace Train"
-                },
-                {
-                    "artist_name": "Yusuf / Cat Stevens",
-                    "track_uri": "spotify:track:7KfwFXww7DkAfJhJTLCiF1",
-                    "track_name": "Moonshadow"
-                },
-                {
-                    "artist_name": "The New Seekers",
-                    "track_uri": "spotify:track:2bPcvz0qVLImBAQQwJCEKb",
-                    "track_name": "Free To Be...You And Me"
-                },
-                {
-                    "artist_name": "k.d. lang",
-                    "track_uri": "spotify:track:5S0pF13mOsTnYweFwFy4D0",
-                    "track_name": "Hallelujah - Remastered"
-                },
-                {
-                    "artist_name": "James Taylor",
-                    "track_uri": "spotify:track:3LcYYV9ozePfgYYmXv0P3r",
-                    "track_name": "Fire And Rain"
-                },
-                {
-                    "artist_name": "Don McLean",
-                    "track_uri": "spotify:track:1fDsrQ23eTAVFElUMaf38X",
-                    "track_name": "American Pie"
-                },
-                {
-                    "artist_name": "Dean Friedman",
-                    "track_uri": "spotify:track:2j78lPDRu9HcN3X817CmR2",
-                    "track_name": "Ariel"
-                },
-                {
-                    "artist_name": "Van Morrison",
-                    "track_uri": "spotify:track:3yrSvpt2l1xhsV9Em88Pul",
-                    "track_name": "Brown Eyed Girl"
-                },
-                {
-                    "artist_name": "John Lennon",
-                    "track_uri": "spotify:track:7pKfPomDEeI4TPT6EOYjn9",
-                    "track_name": "Imagine - 2010 - Remaster"
-                },
-                {
-                    "artist_name": "The Day Trippers",
-                    "track_uri": "spotify:track:1kq8IbqbYBwyIiT5DoqkJf",
-                    "track_name": "Here Comes The Sun"
-                },
-                {
-                    "artist_name": "Johnny Nash",
-                    "track_uri": "spotify:track:0DcrhZ12WcCqruCs8ibXSf",
-                    "track_name": "I Can See Clearly Now - Edit"
-                },
-                {
-                    "artist_name": "Dan Fogelberg",
-                    "track_uri": "spotify:track:3O4s2m47MFhnGqmpkjoKYk",
-                    "track_name": "Leader of the Band"
-                },
-                {
-                    "artist_name": "Dan Fogelberg",
-                    "track_uri": "spotify:track:3dwSjp4LuPQfQeO0UZLsfB",
-                    "track_name": "Part of the Plan"
-                },
-                {
-                    "artist_name": "The Monkees",
-                    "track_uri": "spotify:track:3G7tRC24Uh09Hmp1KZ7LQ2",
-                    "track_name": "I'm a Believer"
-                },
-                {
-                    "artist_name": "Twist and Shout",
-                    "track_uri": "spotify:track:2Zpknp13AcrHdcMvD40GNd",
-                    "track_name": "Here Comes The Sun"
-                },
-                {
-                    "artist_name": "Twist and Shout",
-                    "track_uri": "spotify:track:18cTc6QTRq29HOb2WCnkzy",
-                    "track_name": "Hey Jude"
-                },
-                {
-                    "artist_name": "Twist and Shout",
-                    "track_uri": "spotify:track:3aOh1upVj0aGwnZbJdvtkc",
-                    "track_name": "Let It Be"
-                },
-                {
-                    "artist_name": "Twist and Shout",
-                    "track_uri": "spotify:track:2za92DtWsDonZasSNz5paG",
-                    "track_name": "The Long And Winding Road"
-                },
-                {
-                    "artist_name": "Twist and Shout",
-                    "track_uri": "spotify:track:6bgS89vk8nMI7sdBdNxDGh",
-                    "track_name": "Imagine"
-                },
-                {
-                    "artist_name": "Twist and Shout",
-                    "track_uri": "spotify:track:66OlpjBH7aluy0MiGQ0iT3",
-                    "track_name": "Penny Lane"
-                },
-                {
-                    "artist_name": "Neil Young",
-                    "track_uri": "spotify:track:2anPa0qaFG1Nf0swkpfOQd",
-                    "track_name": "After The Gold Rush - Remastered"
-                },
-                {
-                    "artist_name": "Yusuf / Cat Stevens",
-                    "track_uri": "spotify:track:269OfNY9Je1QWaDnu31KKp",
-                    "track_name": "Wild World"
-                },
-                {
-                    "artist_name": "Yusuf / Cat Stevens",
-                    "track_uri": "spotify:track:2tbdjsdJ9xtyunKnZBkGxF",
-                    "track_name": "Father And Son"
-                },
-                {
-                    "artist_name": "Peter, Paul and Mary",
-                    "track_uri": "spotify:track:6f4TUUHjfRjYkyrM5KSoJ4",
-                    "track_name": "If I Had A Hammer"
-                },
-                {
-                    "artist_name": "Peter, Paul and Mary",
-                    "track_uri": "spotify:track:1WMMzf0o1gD5dyyYhJ46fO",
-                    "track_name": "Where Have All The Flowers Gone"
-                },
-                {
-                    "artist_name": "Joe Cocker",
-                    "track_uri": "spotify:track:4pU7ed71DOZozQrBQzqkdw",
-                    "track_name": "With A Little Help From My Friends"
-                },
-                {
-                    "artist_name": "Sam Cooke",
-                    "track_uri": "spotify:track:27K3ZDS5B4fwjhwyihrdzC",
-                    "track_name": "(What A) Wonderful World - Remastered"
-                },
-                {
-                    "artist_name": "Re Beatles",
-                    "track_uri": "spotify:track:1CeBW4HkFrElxa8eU7UkA2",
-                    "track_name": "Yellow Submarine"
-                },
-                {
-                    "artist_name": "Debbie Friedman",
-                    "track_uri": "spotify:track:5bfhYu5B3OR0GCTBJbKWIo",
-                    "track_name": "Not By Might, Not By Power"
-                }
-            ],
-            "num_edits": 8,
-            "duration_ms": 11463297,
-            "num_artists": 32
-        },
-        {
             "name": "Industrial",
-            "pid": 4280,
+            "pid": 3264,
             "num_tracks": 18,
             "num_followers": 180,
             "tracks": [
@@ -937,7 +661,7 @@
         },
         {
             "name": "Lovely Day",
-            "pid": 4281,
+            "pid": 3265,
             "num_tracks": 20,
             "num_followers": 36,
             "tracks": [

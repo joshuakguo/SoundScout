@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "My Music",
-            "pid": 2733,
+            "pid": 2080,
             "num_tracks": 176,
             "num_followers": 13,
             "tracks": [
@@ -898,7 +898,7 @@
         },
         {
             "name": "Biggie",
-            "pid": 2734,
+            "pid": 2081,
             "num_tracks": 17,
             "num_followers": 176,
             "tracks": [
@@ -994,7 +994,7 @@
         },
         {
             "name": "Feels",
-            "pid": 2735,
+            "pid": 2082,
             "num_tracks": 39,
             "num_followers": 12,
             "tracks": [
@@ -1200,7 +1200,7 @@
         },
         {
             "name": "basketball",
-            "pid": 2736,
+            "pid": 2083,
             "num_tracks": 84,
             "num_followers": 12,
             "tracks": [
@@ -1630,279 +1630,8 @@
             "num_artists": 51
         },
         {
-            "name": "Cumbias",
-            "pid": 2737,
-            "num_tracks": 52,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Grupo Kual? Dinastia Pedraza",
-                    "track_uri": "spotify:track:1Kyf1BnSiMf2M4X8CFYyga",
-                    "track_name": "Rumba Cha Cha Cha"
-                },
-                {
-                    "artist_name": "Grupo Kual? Dinastia Pedraza",
-                    "track_uri": "spotify:track:74oqoWFdNyKKjILbNrUHpk",
-                    "track_name": "Cumbia Y Ron"
-                },
-                {
-                    "artist_name": "Los Socios Del Ritmo",
-                    "track_uri": "spotify:track:7d00W7wOsi1V9nKxcedEi7",
-                    "track_name": "Llorar"
-                },
-                {
-                    "artist_name": "Los Socios Del Ritmo",
-                    "track_uri": "spotify:track:6GJz7leBCMmrSCqCflNazj",
-                    "track_name": "Felicidad"
-                },
-                {
-                    "artist_name": "Los Socios Del Ritmo",
-                    "track_uri": "spotify:track:6ombj3rIuIjCMIEpAXaNMi",
-                    "track_name": "Amor de Internet"
-                },
-                {
-                    "artist_name": "Rayito Colombiano",
-                    "track_uri": "spotify:track:1zVDbrBG7zCd6AXGLmbGj4",
-                    "track_name": "Muchachita Consentida"
-                },
-                {
-                    "artist_name": "Rayito Colombiano",
-                    "track_uri": "spotify:track:3sxYWCxHH0TcbPcEd6Ie0N",
-                    "track_name": "Besar Tu Piel"
-                },
-                {
-                    "artist_name": "Rayito Colombiano",
-                    "track_uri": "spotify:track:0GCM7zzCulIbsU07Tt8trk",
-                    "track_name": "Al Despertar"
-                },
-                {
-                    "artist_name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-                    "track_uri": "spotify:track:1Lp14SCjlGEvGSC4uDwrpD",
-                    "track_name": "La Peinada (La Peinadita)"
-                },
-                {
-                    "artist_name": "Los Angeles Azules",
-                    "track_uri": "spotify:track:5hrxAFrYbNTLjAYSrmbpgr",
-                    "track_name": "El List\u00f3n De Tu Pelo"
-                },
-                {
-                    "artist_name": "Los Angeles Azules",
-                    "track_uri": "spotify:track:51dNexiESqcJLsGLrmg1Nv",
-                    "track_name": "C\u00f3mo Te Voy A Olvidar"
-                },
-                {
-                    "artist_name": "Los Angeles Azules",
-                    "track_uri": "spotify:track:7EZWSz1IvboLZAZ4eY8UUF",
-                    "track_name": "17 A\u00f1os"
-                },
-                {
-                    "artist_name": "Los Angeles Azules",
-                    "track_uri": "spotify:track:2SNP0sm56HwUvZh7bL66pi",
-                    "track_name": "Entrega De Amor"
-                },
-                {
-                    "artist_name": "Los Angeles Azules",
-                    "track_uri": "spotify:track:5T01Xvq4sH0rakGkI1T5O5",
-                    "track_name": "Mi Ni\u00f1a Mujer"
-                },
-                {
-                    "artist_name": "Los Angeles Azules",
-                    "track_uri": "spotify:track:5T01Xvq4sH0rakGkI1T5O5",
-                    "track_name": "Mi Ni\u00f1a Mujer"
-                },
-                {
-                    "artist_name": "Los Angeles Azules",
-                    "track_uri": "spotify:track:5zOWyxUVE0i9Ziwm6cE7aF",
-                    "track_name": "20 Rosas"
-                },
-                {
-                    "artist_name": "Los Angeles De Charly",
-                    "track_uri": "spotify:track:6iPDBwtiOZGlfQt9HD0jAG",
-                    "track_name": "Un Sue\u00f1o"
-                },
-                {
-                    "artist_name": "Los Angeles De Charly",
-                    "track_uri": "spotify:track:77OrXA8n0USqp0IlxgIBkp",
-                    "track_name": "Me Volv\u00ed A Acordar De Ti"
-                },
-                {
-                    "artist_name": "Los Angeles De Charly",
-                    "track_uri": "spotify:track:1rYr4ETg31yyac7VTRv7BK",
-                    "track_name": "Me Vas A Recordar"
-                },
-                {
-                    "artist_name": "Los Angeles De Charly",
-                    "track_uri": "spotify:track:2GjokMnSVdkNXzuk6uL090",
-                    "track_name": "Dulce Mujercita"
-                },
-                {
-                    "artist_name": "Los Angeles De Charly",
-                    "track_uri": "spotify:track:28zc1uMDhwSrZ9XPdsXm3j",
-                    "track_name": "Mentiras"
-                },
-                {
-                    "artist_name": "La Sonora Dinamita",
-                    "track_uri": "spotify:track:5VUR4MhJWAbp2ZHtSDvwJ7",
-                    "track_name": "Se Me Perdio La Cadenita"
-                },
-                {
-                    "artist_name": "La Sonora Dinamita",
-                    "track_uri": "spotify:track:2VOUgbwKTMtmrfWLYFutUS",
-                    "track_name": "Capullo y Sorullo"
-                },
-                {
-                    "artist_name": "La Sonora Dinamita",
-                    "track_uri": "spotify:track:5BLrN6hNbk2svdXov96dev",
-                    "track_name": "Mil Horas"
-                },
-                {
-                    "artist_name": "La Sonora Dinamita",
-                    "track_uri": "spotify:track:4Y2oUgKIeCRkN93TUzFljq",
-                    "track_name": "Que Nadie Sepa Mi Sufrir"
-                },
-                {
-                    "artist_name": "La Sonora Dinamita",
-                    "track_uri": "spotify:track:261NrVA4sW75Ea3Gi2oVMF",
-                    "track_name": "Mi Cucu"
-                },
-                {
-                    "artist_name": "La Sonora Dinamita",
-                    "track_uri": "spotify:track:0ZIrHtdiq8xSRTRJyoLTaR",
-                    "track_name": "Oye"
-                },
-                {
-                    "artist_name": "La Sonora Dinamita",
-                    "track_uri": "spotify:track:2BH6KnSpbMUmdFfZ0IAMG4",
-                    "track_name": "Escandalo"
-                },
-                {
-                    "artist_name": "La Sonora Dinamita",
-                    "track_uri": "spotify:track:7yzQLmr8SfeaCx4S0oqkVS",
-                    "track_name": "El Viejo del Sombrer\u00f3n"
-                },
-                {
-                    "artist_name": "La Sonora Dinamita",
-                    "track_uri": "spotify:track:70igJzeDw3W6sIhozp1Tbf",
-                    "track_name": "Oye Mi Lola"
-                },
-                {
-                    "artist_name": "La Sonora Dinamita",
-                    "track_uri": "spotify:track:0LEOOyGJ8V8Fn0XrjdsgaU",
-                    "track_name": "El Baile de la Vela"
-                },
-                {
-                    "artist_name": "Grupo Dinamita",
-                    "track_uri": "spotify:track:1pPFXZs6UdecIhHEzOVl8s",
-                    "track_name": "Macumba"
-                },
-                {
-                    "artist_name": "Dinamita Bailable",
-                    "track_uri": "spotify:track:70ApQL9nhy06yAtcXdYquA",
-                    "track_name": "Mi Cucu"
-                },
-                {
-                    "artist_name": "Celso Pi\u00f1a",
-                    "track_uri": "spotify:track:2zLAt29wECG0jLaXYvsjfc",
-                    "track_name": "Cumbia Sampuesana"
-                },
-                {
-                    "artist_name": "Celso Pi\u00f1a",
-                    "track_uri": "spotify:track:1rhGnJVYQqZVSkHt9IJYKj",
-                    "track_name": "Cumbia Campanera"
-                },
-                {
-                    "artist_name": "Celso Pi\u00f1a",
-                    "track_uri": "spotify:track:24Mw5GalgGlJuTI5AYIIyK",
-                    "track_name": "cumbia sobre el rio (suena) - A dueto con Pato Machete"
-                },
-                {
-                    "artist_name": "Celso Pi\u00f1a",
-                    "track_uri": "spotify:track:5Kmum9VV3ymzfzfyrdcOos",
-                    "track_name": "Los caminos de la vida"
-                },
-                {
-                    "artist_name": "Dinamitando Dinamita",
-                    "track_uri": "spotify:track:6ywOC89c3o8HKZNAsHD69E",
-                    "track_name": "Que Bello"
-                },
-                {
-                    "artist_name": "Dinamitando La Cumbia",
-                    "track_uri": "spotify:track:6V8uceIZ9Uuq22zkPVYf3O",
-                    "track_name": "Que Nadie Sepa Mi Sufrir"
-                },
-                {
-                    "artist_name": "Aniceto Molina Y La Luz Roja De San Marcos",
-                    "track_uri": "spotify:track:12FKWiKrykyQlYzmSeWt9C",
-                    "track_name": "El Ano Viejo"
-                },
-                {
-                    "artist_name": "Aniceto Molina Y La Luz Roja De San Marcos",
-                    "track_uri": "spotify:track:0HwlxSs5mE9BQisZHxEzZD",
-                    "track_name": "La Cumbia Sampuesana"
-                },
-                {
-                    "artist_name": "Anibal Velasquez",
-                    "track_uri": "spotify:track:0Qh2aKlIYug0RHlMiPwQaf",
-                    "track_name": "La Pollera Colora"
-                },
-                {
-                    "artist_name": "Sonora Tropicana",
-                    "track_uri": "spotify:track:3bukaSKEeFiyYx9JfgiqYf",
-                    "track_name": "El Hombre Que Yo Amo"
-                },
-                {
-                    "artist_name": "Sonora Tropicana",
-                    "track_uri": "spotify:track:0OX9zznd0ksR8iFyPN2N6U",
-                    "track_name": "El Gran Varon"
-                },
-                {
-                    "artist_name": "Los Bravos",
-                    "track_uri": "spotify:track:36RPdNwexrxM07pEhAsesi",
-                    "track_name": "Traicionera"
-                },
-                {
-                    "artist_name": "Sonora Tropicana",
-                    "track_uri": "spotify:track:6GVGvvWwJy5L2MbeVi6tmB",
-                    "track_name": "Quien Como Tu"
-                },
-                {
-                    "artist_name": "Sonora Tropicana",
-                    "track_uri": "spotify:track:1spPz4Qn667icdrAk3ER0E",
-                    "track_name": "Hacer El Amor Con Otro"
-                },
-                {
-                    "artist_name": "Sonora Tropicana",
-                    "track_uri": "spotify:track:3JDSMWc5n4HESerXvkA7CN",
-                    "track_name": "Tatuajes"
-                },
-                {
-                    "artist_name": "Ramon Ayala",
-                    "track_uri": "spotify:track:18tYmjjB2bHWEzxOCAOzZ3",
-                    "track_name": "Cumbias Mix"
-                },
-                {
-                    "artist_name": "Ramon Ayala",
-                    "track_uri": "spotify:track:1rxxxfUeYYAGMTBUxIJbIv",
-                    "track_name": "Rancheras Mix"
-                },
-                {
-                    "artist_name": "Ramon Ayala",
-                    "track_uri": "spotify:track:18tYmjjB2bHWEzxOCAOzZ3",
-                    "track_name": "Cumbias Mix"
-                },
-                {
-                    "artist_name": "Ramon Ayala",
-                    "track_uri": "spotify:track:5RhVYgw0fUOuys5tE8X96Z",
-                    "track_name": "Valseadas Mix"
-                }
-            ],
-            "num_edits": 2,
-            "duration_ms": 13835901,
-            "num_artists": 17
-        },
-        {
             "name": "\ud83d\udd25Lit\ud83d\udd25",
-            "pid": 2738,
+            "pid": 2084,
             "num_tracks": 113,
             "num_followers": 16,
             "tracks": [

@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "sexy music.",
-            "pid": 1213,
+            "pid": 917,
             "num_tracks": 100,
             "num_followers": 34,
             "tracks": [
@@ -518,7 +518,7 @@
         },
         {
             "name": "Groovin",
-            "pid": 1214,
+            "pid": 918,
             "num_tracks": 91,
             "num_followers": 12,
             "tracks": [
@@ -984,7 +984,7 @@
         },
         {
             "name": "Best Of 2017",
-            "pid": 1215,
+            "pid": 919,
             "num_tracks": 84,
             "num_followers": 13,
             "tracks": [
@@ -1414,69 +1414,8 @@
             "num_artists": 75
         },
         {
-            "name": "Divergent",
-            "pid": 1216,
-            "num_tracks": 10,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Shiny Toy Guns",
-                    "track_uri": "spotify:track:3TF13mY2MbrpTPdHV79Av3",
-                    "track_name": "Starts With One"
-                },
-                {
-                    "artist_name": "Flyleaf",
-                    "track_uri": "spotify:track:6UzcSGKd0MdkFypocPlA2i",
-                    "track_name": "Chasm"
-                },
-                {
-                    "artist_name": "Foo Fighters",
-                    "track_uri": "spotify:track:4P4s2KHOw0uISbLI3zkHtD",
-                    "track_name": "Come Alive"
-                },
-                {
-                    "artist_name": "Flyleaf",
-                    "track_uri": "spotify:track:3GcPcqfYH7f6W62olVCAG3",
-                    "track_name": "Again"
-                },
-                {
-                    "artist_name": "Metric",
-                    "track_uri": "spotify:track:0cahtHEywK64NSWqm2SDTi",
-                    "track_name": "Help I'm Alive"
-                },
-                {
-                    "artist_name": "The Showdown",
-                    "track_uri": "spotify:track:2hvBqhQZJy3kiNzwV2uPXj",
-                    "track_name": "We Die Young"
-                },
-                {
-                    "artist_name": "Imogen Heap",
-                    "track_uri": "spotify:track:4l4cIoNlIRHMdSql0b0wWw",
-                    "track_name": "Canvas"
-                },
-                {
-                    "artist_name": "Placebo",
-                    "track_uri": "spotify:track:6RHHbAbyIcPpvS1dP3KUGq",
-                    "track_name": "Running Up That Hill"
-                },
-                {
-                    "artist_name": "Evanescence",
-                    "track_uri": "spotify:track:0ZlvlTissHq3kkbXNNvYOf",
-                    "track_name": "Sweet Sacrifice"
-                },
-                {
-                    "artist_name": "Flyleaf",
-                    "track_uri": "spotify:track:6AOXmG58J4Df33nn8T52eE",
-                    "track_name": "Arise"
-                }
-            ],
-            "num_edits": 2,
-            "duration_ms": 2475850,
-            "num_artists": 8
-        },
-        {
             "name": "Summer '17",
-            "pid": 1217,
+            "pid": 920,
             "num_tracks": 70,
             "num_followers": 15,
             "tracks": [

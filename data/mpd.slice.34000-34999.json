@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Autumn",
-            "pid": 1816,
+            "pid": 1385,
             "num_tracks": 138,
             "num_followers": 18,
             "tracks": [
@@ -707,104 +707,8 @@
             "num_artists": 82
         },
         {
-            "name": "Brasil",
-            "pid": 1817,
-            "num_tracks": 17,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Fred Astaire",
-                    "track_uri": "spotify:track:0Vy3qOeNN8oVpjSx5iCLte",
-                    "track_name": "Flying Down To Rio"
-                },
-                {
-                    "artist_name": "Gonzaguinha",
-                    "track_uri": "spotify:track:4pIljErIWwLqBXbKSZHX2i",
-                    "track_name": "Tanacara"
-                },
-                {
-                    "artist_name": "Caetano Veloso",
-                    "track_uri": "spotify:track:1kQoWGnB64fQcjg8TOHT8g",
-                    "track_name": "Um Canto De Afoxe Para O Bloco Do Ile"
-                },
-                {
-                    "artist_name": "Trio Mocoto",
-                    "track_uri": "spotify:track:4z1hWthUnxIvopQP7K6TVy",
-                    "track_name": "Beleza! Beleza!! Beleza!!!"
-                },
-                {
-                    "artist_name": "Erasmo Carlos",
-                    "track_uri": "spotify:track:1p3CQevtzOviUZmmsdvsv0",
-                    "track_name": "Mane Joao"
-                },
-                {
-                    "artist_name": "Suba",
-                    "track_uri": "spotify:track:5erRcAnbrT8JmPzq6C5PGf",
-                    "track_name": "Voce Gosta"
-                },
-                {
-                    "artist_name": "Gato Barbieri",
-                    "track_uri": "spotify:track:61LAn6BFI9TkpeND1S8969",
-                    "track_name": "Nunca Mas"
-                },
-                {
-                    "artist_name": "Kevin Johansen",
-                    "track_uri": "spotify:track:6gPSeEP6d98MiIfHVWFie6",
-                    "track_name": "Puerto Madero"
-                },
-                {
-                    "artist_name": "Luiz Bonf\u00e1",
-                    "track_uri": "spotify:track:2fQbtkh0GJLHbOCdbdb5Lm",
-                    "track_name": "Manh\u00e3 de Carnaval"
-                },
-                {
-                    "artist_name": "Jo\u00e3o Gilberto",
-                    "track_uri": "spotify:track:1JsG1CawyxZpHLVFSHqxQr",
-                    "track_name": "Desafinado"
-                },
-                {
-                    "artist_name": "Geoff & Maria Muldaur",
-                    "track_uri": "spotify:track:1HDLnDrZSxZ2Rb1yq9nZKK",
-                    "track_name": "Brazil"
-                },
-                {
-                    "artist_name": "Tim Maia",
-                    "track_uri": "spotify:track:420zub6oHvl246UpV2gN7H",
-                    "track_name": "Que Beleza"
-                },
-                {
-                    "artist_name": "Olodum Mirim",
-                    "track_uri": "spotify:track:2xi7EC2krz5NDaeQ3WhyO2",
-                    "track_name": "Olodum, A Banda do Pel\u00f4"
-                },
-                {
-                    "artist_name": "Paul Simon",
-                    "track_uri": "spotify:track:3rbhipSZ0E0mUfyZjiRjXJ",
-                    "track_name": "The Coast"
-                },
-                {
-                    "artist_name": "Carlinhos Brown",
-                    "track_uri": "spotify:track:06toQrbZM1dukrAUOOijHy",
-                    "track_name": "Soy Loco Por Ti, Am\u00e9rica"
-                },
-                {
-                    "artist_name": "Crystal Waters",
-                    "track_uri": "spotify:track:6gYDLymRFcb4igueKJ5Xqq",
-                    "track_name": "The Boy From Ipanema"
-                },
-                {
-                    "artist_name": "Gotan Project",
-                    "track_uri": "spotify:track:6FWh7IIp6yGRHCdZkFzvwN",
-                    "track_name": "Last tango in Paris"
-                }
-            ],
-            "num_edits": 2,
-            "duration_ms": 4077658,
-            "num_artists": 17
-        },
-        {
             "name": "Aphex Twin",
-            "pid": 1818,
+            "pid": 1386,
             "num_tracks": 222,
             "num_followers": 38,
             "tracks": [
@@ -1925,7 +1829,7 @@
         },
         {
             "name": "Playlist",
-            "pid": 1819,
+            "pid": 1387,
             "num_tracks": 163,
             "num_followers": 44,
             "tracks": [
@@ -2751,7 +2655,7 @@
         },
         {
             "name": "Warped Tour",
-            "pid": 1820,
+            "pid": 1388,
             "num_tracks": 62,
             "num_followers": 40,
             "tracks": [
@@ -3072,7 +2976,7 @@
         },
         {
             "name": "Bailongo",
-            "pid": 1821,
+            "pid": 1389,
             "num_tracks": 114,
             "num_followers": 12,
             "tracks": [
@@ -3653,7 +3557,7 @@
         },
         {
             "name": "Sex",
-            "pid": 1822,
+            "pid": 1390,
             "num_tracks": 129,
             "num_followers": 15,
             "tracks": [

@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Summer Playlist",
-            "pid": 5211,
+            "pid": 3955,
             "num_tracks": 34,
             "num_followers": 378,
             "tracks": [
@@ -188,7 +188,7 @@
         },
         {
             "name": "Deep Focus",
-            "pid": 5212,
+            "pid": 3956,
             "num_tracks": 134,
             "num_followers": 16,
             "tracks": [
@@ -868,394 +868,8 @@
             "num_artists": 78
         },
         {
-            "name": "Good Vibes",
-            "pid": 5213,
-            "num_tracks": 75,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Toploader",
-                    "track_uri": "spotify:track:3Fzlg5r1IjhLk2qRw667od",
-                    "track_name": "Dancing in the Moonlight"
-                },
-                {
-                    "artist_name": "Earth, Wind & Fire",
-                    "track_uri": "spotify:track:1mqlc0vEP9mU1kZgTi6LIQ",
-                    "track_name": "September"
-                },
-                {
-                    "artist_name": "Daryl Hall & John Oates",
-                    "track_uri": "spotify:track:4o6BgsqLIBViaGVbx5rbRk",
-                    "track_name": "You Make My Dreams - Remastered"
-                },
-                {
-                    "artist_name": "Chiddy Bang",
-                    "track_uri": "spotify:track:5su7v8UotZpvE5YXEsiNS5",
-                    "track_name": "Ray Charles"
-                },
-                {
-                    "artist_name": "Chiddy Bang",
-                    "track_uri": "spotify:track:4ITmmRIktaZYSuIkhuiC6U",
-                    "track_name": "Talking to Myself"
-                },
-                {
-                    "artist_name": "Chiddy Bang",
-                    "track_uri": "spotify:track:22wKQbMH8n7wZfso2VcLJL",
-                    "track_name": "Opposite Of Adults"
-                },
-                {
-                    "artist_name": "Justin Timberlake",
-                    "track_uri": "spotify:track:1AWQoqb9bSvzTjaLralEkT",
-                    "track_name": "Rock Your Body"
-                },
-                {
-                    "artist_name": "Madden",
-                    "track_uri": "spotify:track:3T8j0WDSw7G98rNLAe2M2X",
-                    "track_name": "Golden Light (feat. 6AM)"
-                },
-                {
-                    "artist_name": "Avicii",
-                    "track_uri": "spotify:track:6xNSaBtoPKlPhXsNT7ZwLd",
-                    "track_name": "The Nights - Felix Jaehn Remix"
-                },
-                {
-                    "artist_name": "Louis The Child",
-                    "track_uri": "spotify:track:24IBj0Hadb7cFWYB2lZdyz",
-                    "track_name": "It's Strange - Bee's Knees Remix"
-                },
-                {
-                    "artist_name": "Chance The Rapper",
-                    "track_uri": "spotify:track:0jx8zY5JQsS4YEQcfkoc5C",
-                    "track_name": "Angels (feat. Saba)"
-                },
-                {
-                    "artist_name": "Donnie Trumpet & The Social Experiment",
-                    "track_uri": "spotify:track:6fTdcGsjxlAD9PSkoPaLMX",
-                    "track_name": "Sunday Candy"
-                },
-                {
-                    "artist_name": "Kanye West",
-                    "track_uri": "spotify:track:6mxyfdyF4LD7PctU3UNyjF",
-                    "track_name": "Touch The Sky"
-                },
-                {
-                    "artist_name": "Kanye West",
-                    "track_uri": "spotify:track:1fLdeDTrJWNkwOeFyAVLvF",
-                    "track_name": "Good Life"
-                },
-                {
-                    "artist_name": "Kanye West",
-                    "track_uri": "spotify:track:5XJJdNPkwmbUwE79gv0NxK",
-                    "track_name": "Gold Digger"
-                },
-                {
-                    "artist_name": "Sammy Adams",
-                    "track_uri": "spotify:track:2KQGs6oyLQwfqSZ5Zs0eje",
-                    "track_name": "Driving Me Crazy"
-                },
-                {
-                    "artist_name": "Lil Yachty",
-                    "track_uri": "spotify:track:5kTcn6soPpikfUs81EprLj",
-                    "track_name": "Good Day"
-                },
-                {
-                    "artist_name": "Marky Mark And The Funky Bunch",
-                    "track_uri": "spotify:track:5hWdgGVcfTeLPAiHM6EZG9",
-                    "track_name": "Good Vibrations"
-                },
-                {
-                    "artist_name": "The Black Eyed Peas",
-                    "track_uri": "spotify:track:70cTMpcgWMcR18t9MRJFjB",
-                    "track_name": "I Gotta Feeling"
-                },
-                {
-                    "artist_name": "Wham!",
-                    "track_uri": "spotify:track:0ikz6tENMONtK6qGkOrU3c",
-                    "track_name": "Wake Me up Before You Go-Go"
-                },
-                {
-                    "artist_name": "OutKast",
-                    "track_uri": "spotify:track:2PpruBYCo4H7WOBJ7Q2EwM",
-                    "track_name": "Hey Ya! - Radio Mix / Club Mix"
-                },
-                {
-                    "artist_name": "Swedish House Mafia",
-                    "track_uri": "spotify:track:2V65y3PX4DkRhy1djlxd9p",
-                    "track_name": "Don't You Worry Child (Radio Edit) [feat. John Martin]"
-                },
-                {
-                    "artist_name": "Bruno Mars",
-                    "track_uri": "spotify:track:6b8Be6ljOzmkOmFslEb23P",
-                    "track_name": "24K Magic"
-                },
-                {
-                    "artist_name": "The Jackson 5",
-                    "track_uri": "spotify:track:3b0EOvScbZUc0qJx0E1L2z",
-                    "track_name": "I Want You Back"
-                },
-                {
-                    "artist_name": "Marvin Gaye",
-                    "track_uri": "spotify:track:2H3ZUSE54pST4ubRd5FzFR",
-                    "track_name": "Ain't No Mountain High Enough"
-                },
-                {
-                    "artist_name": "Queen",
-                    "track_uri": "spotify:track:5T8EDUDqKcs6OSOwEsfqG7",
-                    "track_name": "Don't Stop Me Now - Remastered"
-                },
-                {
-                    "artist_name": "The Jackson 5",
-                    "track_uri": "spotify:track:6cb0HzFQPN4BGADOmSzPCw",
-                    "track_name": "ABC"
-                },
-                {
-                    "artist_name": "Lou Bega",
-                    "track_uri": "spotify:track:3vJG33adGD5Z39Gb6Cnevi",
-                    "track_name": "Mambo No. 5 (A Little Bit of...)"
-                },
-                {
-                    "artist_name": "Shaggy",
-                    "track_uri": "spotify:track:1lzr43nnXAijIGYnCT8M8H",
-                    "track_name": "It Wasn't Me"
-                },
-                {
-                    "artist_name": "Matt and Kim",
-                    "track_uri": "spotify:track:57i3M29DWoo7RDk0Tf0LZG",
-                    "track_name": "Daylight"
-                },
-                {
-                    "artist_name": "Biz Markie",
-                    "track_uri": "spotify:track:1MQCTOWVfy4PcuBXkBsHVB",
-                    "track_name": "Just A Friend"
-                },
-                {
-                    "artist_name": "Usher",
-                    "track_uri": "spotify:track:0XUfyU2QviPAs6bxSpXYG4",
-                    "track_name": "Yeah!"
-                },
-                {
-                    "artist_name": "Chiddy Bang",
-                    "track_uri": "spotify:track:0O986IRZ2rL3qGH5QiD4ZO",
-                    "track_name": "Mind Your Manners (feat. Icona Pop)"
-                },
-                {
-                    "artist_name": "Nelly",
-                    "track_uri": "spotify:track:06iMqWThw4w8fTFyccvOwr",
-                    "track_name": "Ride Wit Me"
-                },
-                {
-                    "artist_name": "Nelly",
-                    "track_uri": "spotify:track:2Lg4kvhOrPhpGEZmSe7VAN",
-                    "track_name": "Country Grammar (Hot Shit)"
-                },
-                {
-                    "artist_name": "Will Smith",
-                    "track_uri": "spotify:track:6e8Ou0wiqAzIpWb2eSxll8",
-                    "track_name": "Miami"
-                },
-                {
-                    "artist_name": "Will Smith",
-                    "track_uri": "spotify:track:0weAUscowxeqDtpCgtbpgp",
-                    "track_name": "Gettin' Jiggy Wit It"
-                },
-                {
-                    "artist_name": "Shaggy",
-                    "track_uri": "spotify:track:6dViIgkYIRccNImPln58rS",
-                    "track_name": "Angel"
-                },
-                {
-                    "artist_name": "Cam\u2019ron",
-                    "track_uri": "spotify:track:3lwrebzX6n6v4zP5DOqBKc",
-                    "track_name": "Hey Ma"
-                },
-                {
-                    "artist_name": "Mac Miller",
-                    "track_uri": "spotify:track:1mZkvT6wvQGmrW6gHuwOVs",
-                    "track_name": "Party On Fifth Ave."
-                },
-                {
-                    "artist_name": "Ti\u00ebsto",
-                    "track_uri": "spotify:track:2CAK2t1reUgPK6OMgAMURB",
-                    "track_name": "Wasted"
-                },
-                {
-                    "artist_name": "JAY Z",
-                    "track_uri": "spotify:track:4h5KBcltGefua73AUPYps7",
-                    "track_name": "Izzo (H.O.V.A.)"
-                },
-                {
-                    "artist_name": "N.W.A.",
-                    "track_uri": "spotify:track:52IuMfbQa9aqRPz2oYPAI8",
-                    "track_name": "Express Yourself"
-                },
-                {
-                    "artist_name": "Rupert Holmes",
-                    "track_uri": "spotify:track:5IMtdHjJ1OtkxbGe4zfUxQ",
-                    "track_name": "Escape (The Pina Colada Song)"
-                },
-                {
-                    "artist_name": "Pellican Child",
-                    "track_uri": "spotify:track:7xZlxQGgb0rBOPLJkviPCq",
-                    "track_name": "Turn Me Down"
-                },
-                {
-                    "artist_name": "Ja Rule",
-                    "track_uri": "spotify:track:5dL5jv5GSCRoDhTtnY8maL",
-                    "track_name": "Mesmerize"
-                },
-                {
-                    "artist_name": "Cam\u2019ron",
-                    "track_uri": "spotify:track:4gdQ8QShlC3toP9Mkc8DwB",
-                    "track_name": "Oh Boy"
-                },
-                {
-                    "artist_name": "Beyonc\u00e9",
-                    "track_uri": "spotify:track:1z6WtY7X4HQJvzxC4UgkSf",
-                    "track_name": "Love On Top"
-                },
-                {
-                    "artist_name": "Dexys Midnight Runners",
-                    "track_uri": "spotify:track:3xKsPtA5XG91Zlh0SyycmM",
-                    "track_name": "Come On Eileen"
-                },
-                {
-                    "artist_name": "Electric Light Orchestra",
-                    "track_uri": "spotify:track:2RlgNHKcydI9sayD2Df2xp",
-                    "track_name": "Mr. Blue Sky"
-                },
-                {
-                    "artist_name": "Madeon",
-                    "track_uri": "spotify:track:1l0xt0rcF2n1263yMGfYD3",
-                    "track_name": "Pay No Mind - Lemaitre Remix"
-                },
-                {
-                    "artist_name": "Alex Newell",
-                    "track_uri": "spotify:track:4iCKHGl4ij4YMwFrUZLGEQ",
-                    "track_name": "Kill The Lights (with Nile Rodgers) - Audien Remix"
-                },
-                {
-                    "artist_name": "Van Morrison",
-                    "track_uri": "spotify:track:3yrSvpt2l1xhsV9Em88Pul",
-                    "track_name": "Brown Eyed Girl"
-                },
-                {
-                    "artist_name": "DRAM",
-                    "track_uri": "spotify:track:6GG2tkV9PRYGN5rniXPFXZ",
-                    "track_name": "Cash Machine"
-                },
-                {
-                    "artist_name": "Snakehips",
-                    "track_uri": "spotify:track:6TaqooOXAEcijL6G1AWS2K",
-                    "track_name": "All My Friends"
-                },
-                {
-                    "artist_name": "Zedd",
-                    "track_uri": "spotify:track:0NWQTyapmz4GuDTSN9xTB7",
-                    "track_name": "Candyman"
-                },
-                {
-                    "artist_name": "Elton John",
-                    "track_uri": "spotify:track:5nPdMALTEd7HOjn16oNf2X",
-                    "track_name": "Don't Go Breaking My Heart"
-                },
-                {
-                    "artist_name": "Classified",
-                    "track_uri": "spotify:track:72LnEym5I31FJO82slwXY3",
-                    "track_name": "Higher"
-                },
-                {
-                    "artist_name": "B.o.B",
-                    "track_uri": "spotify:track:6cbVp9abjjESjHgqjM1bWm",
-                    "track_name": "Roll Up (feat. Marko Penn)"
-                },
-                {
-                    "artist_name": "Kanye West",
-                    "track_uri": "spotify:track:3nAq2hCr1oWsIU54tS98pL",
-                    "track_name": "Waves"
-                },
-                {
-                    "artist_name": "DRAM",
-                    "track_uri": "spotify:track:7yyRTcZmCiyzzJlNzGC9Ol",
-                    "track_name": "Broccoli (feat. Lil Yachty)"
-                },
-                {
-                    "artist_name": "Dirty Heads",
-                    "track_uri": "spotify:track:2IkTZYsdDBNYoxaFGb8m5l",
-                    "track_name": "That's All I Need"
-                },
-                {
-                    "artist_name": "Quinn XCII",
-                    "track_uri": "spotify:track:4gHSezW5CHZCvjAUjF2pd5",
-                    "track_name": "Another Day in Paradise"
-                },
-                {
-                    "artist_name": "Tayyib Ali",
-                    "track_uri": "spotify:track:04TfSQMv5y5lVyCEdEaMHY",
-                    "track_name": "Do It (High School Dropout)"
-                },
-                {
-                    "artist_name": "Childish Gambino",
-                    "track_uri": "spotify:track:6olUplztLFFfU7fMYmFXOP",
-                    "track_name": "Sober"
-                },
-                {
-                    "artist_name": "AJR",
-                    "track_uri": "spotify:track:3vUWfyxomUtf3KRHK6OHsT",
-                    "track_name": "I'm Not Famous"
-                },
-                {
-                    "artist_name": "AJR",
-                    "track_uri": "spotify:track:3E2Zh20GDCR9B1EYjfXWyv",
-                    "track_name": "Weak"
-                },
-                {
-                    "artist_name": "Talib Kweli",
-                    "track_uri": "spotify:track:1PtNQHHt2VhD8mptZCyOzi",
-                    "track_name": "Midnight Hour - feat. Estelle"
-                },
-                {
-                    "artist_name": "DJ Khaled",
-                    "track_uri": "spotify:track:3DXncPQOG4VBw3QHh3S817",
-                    "track_name": "I'm the One"
-                },
-                {
-                    "artist_name": "Hanson",
-                    "track_uri": "spotify:track:2HNZxbvFvasRtlOJ9M6DgR",
-                    "track_name": "MMMBop - Single Version"
-                },
-                {
-                    "artist_name": "Village People",
-                    "track_uri": "spotify:track:4YOJFyjqh8eAcbKFfv88mV",
-                    "track_name": "Y.M.C.A."
-                },
-                {
-                    "artist_name": "DJ Khaled",
-                    "track_uri": "spotify:track:4vv1KjUzPwrtDbozizSfQc",
-                    "track_name": "Don't Quit"
-                },
-                {
-                    "artist_name": "Your Favorite Down South Supplier",
-                    "track_uri": "spotify:track:3QWVgNhFjmTbbs1nkvgkvD",
-                    "track_name": "Get Low"
-                },
-                {
-                    "artist_name": "Cupid",
-                    "track_uri": "spotify:track:07Tx168RSsUS1HqkDIOZbH",
-                    "track_name": "Cupid Shuffle"
-                },
-                {
-                    "artist_name": "Jason Derulo",
-                    "track_uri": "spotify:track:6jizk5lOUnfpaZXYMdfeC6",
-                    "track_name": "Trumpets"
-                }
-            ],
-            "num_edits": 20,
-            "duration_ms": 16878823,
-            "num_artists": 61
-        },
-        {
             "name": "homework ",
-            "pid": 5214,
+            "pid": 3957,
             "num_tracks": 59,
             "num_followers": 251,
             "tracks": [
@@ -1561,7 +1175,7 @@
         },
         {
             "name": "May 2017",
-            "pid": 5215,
+            "pid": 3958,
             "num_tracks": 28,
             "num_followers": 105,
             "tracks": [
@@ -1712,7 +1326,7 @@
         },
         {
             "name": "Back To School",
-            "pid": 5216,
+            "pid": 3959,
             "num_tracks": 75,
             "num_followers": 90,
             "tracks": [
@@ -2098,7 +1712,7 @@
         },
         {
             "name": "Workout",
-            "pid": 5217,
+            "pid": 3960,
             "num_tracks": 179,
             "num_followers": 13,
             "tracks": [
@@ -3004,7 +2618,7 @@
         },
         {
             "name": "Sia",
-            "pid": 5218,
+            "pid": 3961,
             "num_tracks": 211,
             "num_followers": 1247,
             "tracks": [

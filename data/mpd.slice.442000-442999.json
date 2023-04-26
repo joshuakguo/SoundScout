@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Halloweekend",
-            "pid": 1533,
+            "pid": 1170,
             "num_tracks": 62,
             "num_followers": 412,
             "tracks": [
@@ -327,344 +327,8 @@
             "num_artists": 56
         },
         {
-            "name": "best of 2016",
-            "pid": 1534,
-            "num_tracks": 65,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Bon Iver",
-                    "track_uri": "spotify:track:4VZM71F8XAoLRuNyNLxwWS",
-                    "track_name": "29 #Strafford APTS"
-                },
-                {
-                    "artist_name": "Big Thief",
-                    "track_uri": "spotify:track:0HKqMkx5WZAGJlB5gzJcMi",
-                    "track_name": "Masterpiece"
-                },
-                {
-                    "artist_name": "Kanye West",
-                    "track_uri": "spotify:track:1eQBEelI2NCy7AUTerX0KS",
-                    "track_name": "Ultralight Beam"
-                },
-                {
-                    "artist_name": "M83",
-                    "track_uri": "spotify:track:5UTYauvrY1STheLx0ZXRQg",
-                    "track_name": "Sunday Night 1987"
-                },
-                {
-                    "artist_name": "Car Seat Headrest",
-                    "track_uri": "spotify:track:1YDusPefmnJBkm9Kjn7dqY",
-                    "track_name": "(Joe Gets Kicked Out of School for Using) Drugs With Friends (But Says This Isn't a Problem)"
-                },
-                {
-                    "artist_name": "Whitney",
-                    "track_uri": "spotify:track:1CLmFKW99S8eJrebO3GB04",
-                    "track_name": "No Woman"
-                },
-                {
-                    "artist_name": "Bon Iver",
-                    "track_uri": "spotify:track:5oK98mpTJSU0iqLHN1hZ3y",
-                    "track_name": "22 (OVER S\u221e\u221eN)"
-                },
-                {
-                    "artist_name": "Soccer Mommy",
-                    "track_uri": "spotify:track:0xC7epACVQS66MSSEE8wZf",
-                    "track_name": "Henry"
-                },
-                {
-                    "artist_name": "Frankie Cosmos",
-                    "track_uri": "spotify:track:6iQsa6hwVFlLUnNvSCFrql",
-                    "track_name": "On the Lips"
-                },
-                {
-                    "artist_name": "Maggie Rogers",
-                    "track_uri": "spotify:track:4DyfJFTQb27adTDdhFeSgD",
-                    "track_name": "Alaska"
-                },
-                {
-                    "artist_name": "The Lumineers",
-                    "track_uri": "spotify:track:6ZYS6QQxTLsQ6IFXdVx1r4",
-                    "track_name": "Ophelia"
-                },
-                {
-                    "artist_name": "Chance The Rapper",
-                    "track_uri": "spotify:track:2fl0B0OaXjWbjHCQFx2O8W",
-                    "track_name": "Summer Friends (feat. Jeremih & Francis & The Lights)"
-                },
-                {
-                    "artist_name": "Car Seat Headrest",
-                    "track_uri": "spotify:track:1EALzILzmIPtRIvYyo6Lwm",
-                    "track_name": "Fill in the Blank"
-                },
-                {
-                    "artist_name": "Radiohead",
-                    "track_uri": "spotify:track:3pcCifdPTc2BbqmWpEhtUd",
-                    "track_name": "Burn the Witch"
-                },
-                {
-                    "artist_name": "The Lumineers",
-                    "track_uri": "spotify:track:5nzvgcE7FuekoQTR6WRs18",
-                    "track_name": "Angela"
-                },
-                {
-                    "artist_name": "The Avett Brothers",
-                    "track_uri": "spotify:track:1nMlHxWuPc5P9Y5nGvenlj",
-                    "track_name": "I Wish I Was"
-                },
-                {
-                    "artist_name": "Mothers",
-                    "track_uri": "spotify:track:0LcvJYoMGlCziNEflghEVl",
-                    "track_name": "Too Small For Eyes"
-                },
-                {
-                    "artist_name": "The 1975",
-                    "track_uri": "spotify:track:316r1KLN0bcmpr7TZcMCXT",
-                    "track_name": "The Sound"
-                },
-                {
-                    "artist_name": "Band of Horses",
-                    "track_uri": "spotify:track:76zfLGLDB6P5Dkog0jkdME",
-                    "track_name": "Solemn Oath"
-                },
-                {
-                    "artist_name": "Lucius",
-                    "track_uri": "spotify:track:1Dc5Vut7kudjcJc2nuBLR7",
-                    "track_name": "Madness"
-                },
-                {
-                    "artist_name": "The Lagoons",
-                    "track_uri": "spotify:track:35QAUfIbfIXT3p3cWhaKxZ",
-                    "track_name": "California"
-                },
-                {
-                    "artist_name": "Sing Street",
-                    "track_uri": "spotify:track:44TV58bBAJnBO9keXGFUJM",
-                    "track_name": "Up"
-                },
-                {
-                    "artist_name": "Amin\u00e9",
-                    "track_uri": "spotify:track:5hTpBe8h35rJ67eAWHQsJx",
-                    "track_name": "Caroline"
-                },
-                {
-                    "artist_name": "Martin Garrix",
-                    "track_uri": "spotify:track:04DwTuZ2VBdJCCC5TROn7L",
-                    "track_name": "In the Name of Love"
-                },
-                {
-                    "artist_name": "Whitney",
-                    "track_uri": "spotify:track:1oy0UIGzuqIPBkOsjojeJ1",
-                    "track_name": "Golden Days"
-                },
-                {
-                    "artist_name": "M83",
-                    "track_uri": "spotify:track:5xLI7kN25nQGZADi7uIBBI",
-                    "track_name": "Solitude"
-                },
-                {
-                    "artist_name": "Julien Baker",
-                    "track_uri": "spotify:track:7GPV9WeBaA83BdwCXsEvlC",
-                    "track_name": "Everybody Does"
-                },
-                {
-                    "artist_name": "Bill Baird",
-                    "track_uri": "spotify:track:59BWUf4bIU7yl4IeUkRx4d",
-                    "track_name": "Goodbye Vibrations"
-                },
-                {
-                    "artist_name": "Conor Oberst",
-                    "track_uri": "spotify:track:6bgjcVqaUmnalHy0C8txLv",
-                    "track_name": "Barbary Coast (Later)"
-                },
-                {
-                    "artist_name": "Hooton Tennis Club",
-                    "track_uri": "spotify:track:4X6zSkcbHZSs49N2JAoWIP",
-                    "track_name": "Katy-Anne Bellis"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:35xSkNIXi504fcEwz9USRB",
-                    "track_name": "Solo"
-                },
-                {
-                    "artist_name": "Car Seat Headrest",
-                    "track_uri": "spotify:track:31lriV5x4w2lPBAcIi4mOC",
-                    "track_name": "Drunk Drivers/Killer Whales (Single Version)"
-                },
-                {
-                    "artist_name": "Pinegrove",
-                    "track_uri": "spotify:track:4qku0LL7dN67zppzvxkBha",
-                    "track_name": "Size of the Moon"
-                },
-                {
-                    "artist_name": "Pinegrove",
-                    "track_uri": "spotify:track:66q3yNMEO2tOsiFny1IPQW",
-                    "track_name": "Old Friends"
-                },
-                {
-                    "artist_name": "Parquet Courts",
-                    "track_uri": "spotify:track:0bZDQlvx2oS1NiUZZ1aXGu",
-                    "track_name": "Dust"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:2LMkwUfqC6S6s6qDVlEuzV",
-                    "track_name": "White Ferrari"
-                },
-                {
-                    "artist_name": "Frankie Cosmos",
-                    "track_uri": "spotify:track:6L5ks2ivQVCLnI4JmIr9NT",
-                    "track_name": "Outside with the Cuties"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:48EjSdYh8wz2gBxxqzrsLe",
-                    "track_name": "Cranes in the Sky"
-                },
-                {
-                    "artist_name": "Mitski",
-                    "track_uri": "spotify:track:7CfwMm7x2HLQ1bllMosD9k",
-                    "track_name": "Your Best American Girl"
-                },
-                {
-                    "artist_name": "Mitski",
-                    "track_uri": "spotify:track:2YOmqCt2HNAvGIRoq1SyoQ",
-                    "track_name": "Fireworks"
-                },
-                {
-                    "artist_name": "Snail Mail",
-                    "track_uri": "spotify:track:7h9Bx7Y0NuP71mMI4FLqlA",
-                    "track_name": "Thinning"
-                },
-                {
-                    "artist_name": "Bon Iver",
-                    "track_uri": "spotify:track:7BdtdBfrIufJOOCdA0CeJC",
-                    "track_name": "00000 Million"
-                },
-                {
-                    "artist_name": "M\u00f8me",
-                    "track_uri": "spotify:track:6HViP4DVYa8gQtxLndmhwu",
-                    "track_name": "Aloha"
-                },
-                {
-                    "artist_name": "The 1975",
-                    "track_uri": "spotify:track:035QPHPAcqApSGMMcogT45",
-                    "track_name": "A Change Of Heart"
-                },
-                {
-                    "artist_name": "The Chainsmokers",
-                    "track_uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw",
-                    "track_name": "Closer"
-                },
-                {
-                    "artist_name": "Laura Gibson",
-                    "track_uri": "spotify:track:2A52mu31JRit9sncF5aPpB",
-                    "track_name": "Damn Sure"
-                },
-                {
-                    "artist_name": "Car Seat Headrest",
-                    "track_uri": "spotify:track:5xy3350chgFfFcdTET4xz3",
-                    "track_name": "Destroyed By Hippie Powers"
-                },
-                {
-                    "artist_name": "Car Seat Headrest",
-                    "track_uri": "spotify:track:2os0aK782bakCPmjow0SU0",
-                    "track_name": "Drunk Drivers/Killer Whales"
-                },
-                {
-                    "artist_name": "Car Seat Headrest",
-                    "track_uri": "spotify:track:2os0aK782bakCPmjow0SU0",
-                    "track_name": "Drunk Drivers/Killer Whales"
-                },
-                {
-                    "artist_name": "Car Seat Headrest",
-                    "track_uri": "spotify:track:1EALzILzmIPtRIvYyo6Lwm",
-                    "track_name": "Fill in the Blank"
-                },
-                {
-                    "artist_name": "The Avett Brothers",
-                    "track_uri": "spotify:track:2LQU29VADA1zHr0BNABLXc",
-                    "track_name": "Fisher Road To Hollywood"
-                },
-                {
-                    "artist_name": "M83",
-                    "track_uri": "spotify:track:3c5twTqyeRYC9WMBubbo8N",
-                    "track_name": "For The Kids (feat. Susanne Sundf\u00f8r)"
-                },
-                {
-                    "artist_name": "The Lumineers",
-                    "track_uri": "spotify:track:31WmWfbS1Ksyl110PaTF8r",
-                    "track_name": "Gale Song"
-                },
-                {
-                    "artist_name": "Ty Segall",
-                    "track_uri": "spotify:track:5vEE1d5gkv3pgfZyppLeX8",
-                    "track_name": "Girlfriend"
-                },
-                {
-                    "artist_name": "The Lumineers",
-                    "track_uri": "spotify:track:7iLRo8YaNjWQ3GFoIiiMqO",
-                    "track_name": "Gun Song"
-                },
-                {
-                    "artist_name": "Angel Olsen",
-                    "track_uri": "spotify:track:6VF5xT5lR24b76KGg4vikC",
-                    "track_name": "Heart Shaped Face"
-                },
-                {
-                    "artist_name": "LVL UP",
-                    "track_uri": "spotify:track:3yfamqupOFOUZdHetr0i3h",
-                    "track_name": "Hidden Driver"
-                },
-                {
-                    "artist_name": "Grouplove",
-                    "track_uri": "spotify:track:6FWpBU2X52Xx060s3EHlUm",
-                    "track_name": "Hollywood"
-                },
-                {
-                    "artist_name": "Car Seat Headrest",
-                    "track_uri": "spotify:track:1YDusPefmnJBkm9Kjn7dqY",
-                    "track_name": "(Joe Gets Kicked Out of School for Using) Drugs With Friends (But Says This Isn't a Problem)"
-                },
-                {
-                    "artist_name": "Big Thief",
-                    "track_uri": "spotify:track:5cic8eTn6twPA0ArO8zcjR",
-                    "track_name": "Masterpiece - (solo)"
-                },
-                {
-                    "artist_name": "The Lumineers",
-                    "track_uri": "spotify:track:6ZYS6QQxTLsQ6IFXdVx1r4",
-                    "track_name": "Ophelia"
-                },
-                {
-                    "artist_name": "Carly Rae Jepsen",
-                    "track_uri": "spotify:track:03dTMO4H8B2OSv5FmXtpON",
-                    "track_name": "Run Away With Me"
-                },
-                {
-                    "artist_name": "Foy Vance",
-                    "track_uri": "spotify:track:70rOXPlQGVjEkboInw5EBk",
-                    "track_name": "She Burns"
-                },
-                {
-                    "artist_name": "The Strumbellas",
-                    "track_uri": "spotify:track:2H6dHxAxGq5oQ9EiinNpXT",
-                    "track_name": "Spirits"
-                },
-                {
-                    "artist_name": "Star Parks",
-                    "track_uri": "spotify:track:5LH5ySx9Lv7CQtUgE3ttxv",
-                    "track_name": "Theoretical Girls"
-                }
-            ],
-            "num_edits": 6,
-            "duration_ms": 15522026,
-            "num_artists": 42
-        },
-        {
             "name": "winter '16",
-            "pid": 1535,
+            "pid": 1171,
             "num_tracks": 53,
             "num_followers": 12,
             "tracks": [
@@ -940,7 +604,7 @@
         },
         {
             "name": "skrt",
-            "pid": 1536,
+            "pid": 1172,
             "num_tracks": 122,
             "num_followers": 17,
             "tracks": [
@@ -1562,7 +1226,7 @@
         },
         {
             "name": "Travel Songs",
-            "pid": 1537,
+            "pid": 1173,
             "num_tracks": 193,
             "num_followers": 43,
             "tracks": [
@@ -2538,7 +2202,7 @@
         },
         {
             "name": "y2k",
-            "pid": 1538,
+            "pid": 1174,
             "num_tracks": 128,
             "num_followers": 20,
             "tracks": [
@@ -3189,7 +2853,7 @@
         },
         {
             "name": "Summer",
-            "pid": 1539,
+            "pid": 1175,
             "num_tracks": 108,
             "num_followers": 28,
             "tracks": [
@@ -3740,7 +3404,7 @@
         },
         {
             "name": "Sleep*",
-            "pid": 1540,
+            "pid": 1176,
             "num_tracks": 61,
             "num_followers": 17,
             "tracks": [
@@ -4056,7 +3720,7 @@
         },
         {
             "name": "1980",
-            "pid": 1541,
+            "pid": 1177,
             "num_tracks": 60,
             "num_followers": 36,
             "tracks": [

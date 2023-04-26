@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Relax and Chill",
-            "pid": 6841,
+            "pid": 5187,
             "num_tracks": 177,
             "num_followers": 12,
             "tracks": [
@@ -903,7 +903,7 @@
         },
         {
             "name": "Beyonce",
-            "pid": 6842,
+            "pid": 5188,
             "num_tracks": 19,
             "num_followers": 40,
             "tracks": [
@@ -1009,7 +1009,7 @@
         },
         {
             "name": "\ud83d\ude4f\ud83c\udffd",
-            "pid": 6843,
+            "pid": 5189,
             "num_tracks": 167,
             "num_followers": 86,
             "tracks": [
@@ -1855,7 +1855,7 @@
         },
         {
             "name": "This is Halloween",
-            "pid": 6844,
+            "pid": 5190,
             "num_tracks": 78,
             "num_followers": 12,
             "tracks": [
@@ -2256,7 +2256,7 @@
         },
         {
             "name": "Fall 17",
-            "pid": 6845,
+            "pid": 5191,
             "num_tracks": 17,
             "num_followers": 339,
             "tracks": [
@@ -2353,7 +2353,7 @@
         },
         {
             "name": "july '16",
-            "pid": 6846,
+            "pid": 5192,
             "num_tracks": 100,
             "num_followers": 25,
             "tracks": [
@@ -2863,214 +2863,8 @@
             "num_artists": 87
         },
         {
-            "name": "arabic ",
-            "pid": 6847,
-            "num_tracks": 39,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Nancy Ajram",
-                    "track_uri": "spotify:track:5Cy3UL0eJbCX5tdHy0TlbC",
-                    "track_name": "Ya Tabtab Wa Dallaa"
-                },
-                {
-                    "artist_name": "DJ Black Wolf",
-                    "track_uri": "spotify:track:1cC1HRodQFKKlW6FRGcAsW",
-                    "track_name": "Tbe Alzbdah"
-                },
-                {
-                    "artist_name": "DJ Black Wolf",
-                    "track_uri": "spotify:track:0aGbVXLSCpXhaX3DlIigum",
-                    "track_name": "F9lah - Fesaas"
-                },
-                {
-                    "artist_name": "Carole Samaha",
-                    "track_uri": "spotify:track:4D6uzUhLlUgftxH9eYQppE",
-                    "track_name": "Jeet - Majnouni"
-                },
-                {
-                    "artist_name": "Khaled",
-                    "track_uri": "spotify:track:6rfKtMnWCmZnRQuyGe5KM2",
-                    "track_name": "C\u2019est la vie"
-                },
-                {
-                    "artist_name": "Tamer Hosny",
-                    "track_uri": "spotify:track:1Z3yucY2fubam5ky68WOHC",
-                    "track_name": "\u062a\u0627\u0645\u0631 \u062d\u0633\u0646\u064a \u0633\u064a \u0627\u0644\u0633\u064a\u062f Si El Sayed"
-                },
-                {
-                    "artist_name": "Tamer Hosny",
-                    "track_uri": "spotify:track:4vw09tHb8qUwfG0lngPue1",
-                    "track_name": "Bahebek Bkol Al Lahagat"
-                },
-                {
-                    "artist_name": "Saif Amer",
-                    "track_uri": "spotify:track:4DncFwFG5qPOpG91Lv1DLQ",
-                    "track_name": "Mawjou' Qalby"
-                },
-                {
-                    "artist_name": "Farfashah",
-                    "track_uri": "spotify:track:0muEIPYvO7oTzrjNmRrlwi",
-                    "track_name": "Jino Notto"
-                },
-                {
-                    "artist_name": "Melhem Zein",
-                    "track_uri": "spotify:track:5GnrQX4ixGzpUFS2QbtyRo",
-                    "track_name": "Ma Aad Badiyak"
-                },
-                {
-                    "artist_name": "Dj Black Sugar",
-                    "track_uri": "spotify:track:02rAGLtevPpVzDAfA0xchb",
-                    "track_name": "Boshra 5er"
-                },
-                {
-                    "artist_name": "Dj Black Sugar",
-                    "track_uri": "spotify:track:1mPO5EULe22uqf1DSp8dQu",
-                    "track_name": "Enty"
-                },
-                {
-                    "artist_name": "Hamid El Shaery Group",
-                    "track_uri": "spotify:track:2HgOl5Ze3SX41zbYUiLjtH",
-                    "track_name": "El Attaba Gazaz"
-                },
-                {
-                    "artist_name": "Abdel Fattah El Gereny",
-                    "track_uri": "spotify:track:2sj2DQDP0KJ3grDCY5VoX0",
-                    "track_name": "Abu Khad Ennaby"
-                },
-                {
-                    "artist_name": "Seneen",
-                    "track_uri": "spotify:track:2x2RWpMNqqxmxRF4CjXovM",
-                    "track_name": "Hawadeet we Hakawy"
-                },
-                {
-                    "artist_name": "Seham Omar",
-                    "track_uri": "spotify:track:54cFA432yaTKWzm1uRCQr4",
-                    "track_name": "Agbany Sarahetk"
-                },
-                {
-                    "artist_name": "Ali Al Deek",
-                    "track_uri": "spotify:track:6ZZgTLoxjzy6r7Bdo1VCuG",
-                    "track_name": "Kel Marah Melhem Zein \u0645\u0644\u062d\u0645 \u0632\u064a\u0646 \u0643\u0644 \u0645\u0631\u0629"
-                },
-                {
-                    "artist_name": "Najwa Karam",
-                    "track_uri": "spotify:track:6q20OD7qI68txdhBwzDudI",
-                    "track_name": "Mafi Noum"
-                },
-                {
-                    "artist_name": "Nancy Ajram",
-                    "track_uri": "spotify:track:2n45sK6aEas1Wwnt4Obj7z",
-                    "track_name": "Ah W Noss"
-                },
-                {
-                    "artist_name": "Fares Karam",
-                    "track_uri": "spotify:track:2J7afiYe4Ha6Qi0v6VhGFt",
-                    "track_name": "El Gherbi"
-                },
-                {
-                    "artist_name": "Mohammad Assaf",
-                    "track_uri": "spotify:track:2LeJfk8rMODnQJEh51Wfq1",
-                    "track_name": "Ala el Koufiea"
-                },
-                {
-                    "artist_name": "Fares Karam",
-                    "track_uri": "spotify:track:1NGMjnb2901DwTNvAT8QlM",
-                    "track_name": "Ritanee"
-                },
-                {
-                    "artist_name": "Nancy Ajram",
-                    "track_uri": "spotify:track:5Cy3UL0eJbCX5tdHy0TlbC",
-                    "track_name": "Ya Tabtab Wa Dallaa"
-                },
-                {
-                    "artist_name": "Hassan Abou Seoud",
-                    "track_uri": "spotify:track:375TR2xdJLLeXkzceGzfq4",
-                    "track_name": "Shik Shak Shok"
-                },
-                {
-                    "artist_name": "Hakim",
-                    "track_uri": "spotify:track:5KxzGtFbY6pMPq0YI14xrD",
-                    "track_name": "Ah Ya Albi"
-                },
-                {
-                    "artist_name": "Hakim",
-                    "track_uri": "spotify:track:0BK789XeLNeAAkfiabJMTr",
-                    "track_name": "El Salam"
-                },
-                {
-                    "artist_name": "Hakim",
-                    "track_uri": "spotify:track:70aXZ0YMmAJUeFRLd1iF3e",
-                    "track_name": "Yaho"
-                },
-                {
-                    "artist_name": "Saad Lamjarred",
-                    "track_uri": "spotify:track:0mXN7Y2JEp0diamyLO91MN",
-                    "track_name": "Saad Lamjarred Mal Hbibi Malou"
-                },
-                {
-                    "artist_name": "Elissa",
-                    "track_uri": "spotify:track:6UtGp0U6jhYdHfc83DSoiy",
-                    "track_name": "\u0633\u0647\u0631\u0646\u0627 \u064a\u0627 \u0644\u064a\u0644"
-                },
-                {
-                    "artist_name": "Mohammad Assaf",
-                    "track_uri": "spotify:track:5Pn31ZVgrp95UDTEYcKR6K",
-                    "track_name": "Dammi Falastini"
-                },
-                {
-                    "artist_name": "Mohamed Alsalim",
-                    "track_uri": "spotify:track:3RxZyIbIIHfmgUbYwfswb3",
-                    "track_name": "Naam Enta"
-                },
-                {
-                    "artist_name": "Mohammad Al Salem",
-                    "track_uri": "spotify:track:6qtcxi341BYK6dY9323doY",
-                    "track_name": "Moza Masrya"
-                },
-                {
-                    "artist_name": "Tarkan",
-                    "track_uri": "spotify:track:1F6PZ7sCS60SOOa4lORP5K",
-                    "track_name": "Simarik - Radio Edit"
-                },
-                {
-                    "artist_name": "Saad Lamjarred",
-                    "track_uri": "spotify:track:2qpEVPJbw8yyJEUDUz8w0x",
-                    "track_name": "Enti baghia wahed"
-                },
-                {
-                    "artist_name": "Diana Haddad",
-                    "track_uri": "spotify:track:2dstoi2TRNwDPB6V41NhC7",
-                    "track_name": "Azab El Hawa"
-                },
-                {
-                    "artist_name": "Era Istrefi",
-                    "track_uri": "spotify:track:79Nnbjlw4ulw59lkHUZm9N",
-                    "track_name": "Bonbon"
-                },
-                {
-                    "artist_name": "Saad Lamjarred",
-                    "track_uri": "spotify:track:3gOi8JeC2ngkjRKPKIFM6b",
-                    "track_name": "Ghaltana"
-                },
-                {
-                    "artist_name": "Fares Karam",
-                    "track_uri": "spotify:track:7a8fjXmOgj9hYb9H2883uO",
-                    "track_name": "El Tannoura"
-                },
-                {
-                    "artist_name": "Wafik Habib",
-                    "track_uri": "spotify:track:7N1wn6Axm5YN4uq7VJgl7e",
-                    "track_name": "Habbat Al Toot"
-                }
-            ],
-            "num_edits": 3,
-            "duration_ms": 9703359,
-            "num_artists": 27
-        },
-        {
             "name": "Christmas 2013",
-            "pid": 6848,
+            "pid": 5193,
             "num_tracks": 28,
             "num_followers": 13,
             "tracks": [
@@ -3221,7 +3015,7 @@
         },
         {
             "name": "#tbt",
-            "pid": 6849,
+            "pid": 5194,
             "num_tracks": 183,
             "num_followers": 20,
             "tracks": [
@@ -4147,7 +3941,7 @@
         },
         {
             "name": "april '17",
-            "pid": 6850,
+            "pid": 5195,
             "num_tracks": 40,
             "num_followers": 1995,
             "tracks": [

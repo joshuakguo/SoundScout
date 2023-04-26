@@ -6,120 +6,8 @@
     },
     "playlists": [
         {
-            "name": "fall 2017",
-            "pid": 5362,
-            "num_tracks": 20,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Lorde",
-                    "track_uri": "spotify:track:2rE9TX3VQ0WNt7kziFhKep",
-                    "track_name": "Homemade Dynamite - REMIX"
-                },
-                {
-                    "artist_name": "Khalid",
-                    "track_uri": "spotify:track:1Ob94QesoxHSBrypyBbdfd",
-                    "track_name": "Shot Down"
-                },
-                {
-                    "artist_name": "Clean Bandit",
-                    "track_uri": "spotify:track:2xmrfQpmS2iJExTlklLoAL",
-                    "track_name": "I Miss You (feat. Julia Michaels)"
-                },
-                {
-                    "artist_name": "ZAYN",
-                    "track_uri": "spotify:track:1j4kHkkpqZRBwE0A4CN4Yv",
-                    "track_name": "Dusk Till Dawn - Radio Edit"
-                },
-                {
-                    "artist_name": "Chance The Rapper",
-                    "track_uri": "spotify:track:3ZLyt2ndLFBh148XRYjYYZ",
-                    "track_name": "All We Got (feat. Kanye West & Chicago Children's Choir)"
-                },
-                {
-                    "artist_name": "Sam Smith",
-                    "track_uri": "spotify:track:7DsX5K72fewVGb47qj7Tbg",
-                    "track_name": "Pray"
-                },
-                {
-                    "artist_name": "Kanye West",
-                    "track_uri": "spotify:track:2nBI3iWLhupR7LyAJ5GGkE",
-                    "track_name": "Champions"
-                },
-                {
-                    "artist_name": "Lil Dicky",
-                    "track_uri": "spotify:track:0NBiC3zLXoBQXBjsbnbwJq",
-                    "track_name": "Molly (feat. Brendon Urie of Panic at the Disco)"
-                },
-                {
-                    "artist_name": "Post Malone",
-                    "track_uri": "spotify:track:7wGoVu4Dady5GV0Sv4UIsx",
-                    "track_name": "rockstar"
-                },
-                {
-                    "artist_name": "Dua Lipa",
-                    "track_uri": "spotify:track:2ekn2ttSfGqwhhate0LSR0",
-                    "track_name": "New Rules"
-                },
-                {
-                    "artist_name": "Kygo",
-                    "track_uri": "spotify:track:1Bxzw8ag71snOU9IbhXVD6",
-                    "track_name": "Kids in Love"
-                },
-                {
-                    "artist_name": "Lil Yachty",
-                    "track_uri": "spotify:track:4CwumbYOUtgSylJnSrZ7oY",
-                    "track_name": "Forever Young"
-                },
-                {
-                    "artist_name": "Sam Smith",
-                    "track_uri": "spotify:track:1mXVgsBdtIVeCLJnSnmtdV",
-                    "track_name": "Too Good At Goodbyes"
-                },
-                {
-                    "artist_name": "Kesha",
-                    "track_uri": "spotify:track:0jdny0dhgjUwoIp5GkqEaA",
-                    "track_name": "Praying"
-                },
-                {
-                    "artist_name": "NF",
-                    "track_uri": "spotify:track:6mrKP2jyIQmM0rw6fQryjr",
-                    "track_name": "Let You Down"
-                },
-                {
-                    "artist_name": "Pham",
-                    "track_uri": "spotify:track:3gZUflBBfgS3QiTSTg0hk0",
-                    "track_name": "Movements"
-                },
-                {
-                    "artist_name": "Post Malone",
-                    "track_uri": "spotify:track:35r28RDot7nPE7y9K9H7l0",
-                    "track_name": "Feeling Whitney"
-                },
-                {
-                    "artist_name": "Khalid",
-                    "track_uri": "spotify:track:39KG4kom3enSx4GTThuDGt",
-                    "track_name": "Coaster"
-                },
-                {
-                    "artist_name": "Marc E. Bassy",
-                    "track_uri": "spotify:track:54Yappwod1fELR5zb2gDBn",
-                    "track_name": "Morning"
-                },
-                {
-                    "artist_name": "Miguel",
-                    "track_uri": "spotify:track:1DRW9bQzt2SE8f7H4KJZyL",
-                    "track_name": "Sky Walker"
-                }
-            ],
-            "num_edits": 14,
-            "duration_ms": 4512954,
-            "num_artists": 17,
-            "description": "seasonal favorites...."
-        },
-        {
             "name": "forever alone",
-            "pid": 5363,
+            "pid": 4071,
             "num_tracks": 183,
             "num_followers": 52,
             "tracks": [
@@ -1045,7 +933,7 @@
         },
         {
             "name": "coachella 2017",
-            "pid": 5364,
+            "pid": 4072,
             "num_tracks": 198,
             "num_followers": 19,
             "tracks": [
@@ -2046,7 +1934,7 @@
         },
         {
             "name": "magic.",
-            "pid": 5365,
+            "pid": 4073,
             "num_tracks": 117,
             "num_followers": 16,
             "tracks": [
@@ -2642,7 +2530,7 @@
         },
         {
             "name": "MORE",
-            "pid": 5366,
+            "pid": 4074,
             "num_tracks": 18,
             "num_followers": 78,
             "tracks": [
@@ -2743,7 +2631,7 @@
         },
         {
             "name": "Metalcore",
-            "pid": 5367,
+            "pid": 4075,
             "num_tracks": 105,
             "num_followers": 24,
             "tracks": [
@@ -3279,7 +3167,7 @@
         },
         {
             "name": "2017",
-            "pid": 5368,
+            "pid": 4076,
             "num_tracks": 34,
             "num_followers": 29,
             "tracks": [
@@ -3460,7 +3348,7 @@
         },
         {
             "name": "Party",
-            "pid": 5369,
+            "pid": 4077,
             "num_tracks": 149,
             "num_followers": 16,
             "tracks": [
@@ -4216,7 +4104,7 @@
         },
         {
             "name": "sertanejo universitario",
-            "pid": 5370,
+            "pid": 4078,
             "num_tracks": 121,
             "num_followers": 13,
             "tracks": [

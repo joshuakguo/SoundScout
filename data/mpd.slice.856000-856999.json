@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Good Friday",
-            "pid": 2560,
+            "pid": 1945,
             "num_tracks": 12,
             "num_followers": 26,
             "tracks": [
@@ -79,7 +79,7 @@
         },
         {
             "name": "NICE SONGS",
-            "pid": 2561,
+            "pid": 1946,
             "num_tracks": 201,
             "num_followers": 13,
             "tracks": [
@@ -1095,7 +1095,7 @@
         },
         {
             "name": "top 100",
-            "pid": 2562,
+            "pid": 1947,
             "num_tracks": 121,
             "num_followers": 16,
             "tracks": [
@@ -1711,7 +1711,7 @@
         },
         {
             "name": "90s country",
-            "pid": 2563,
+            "pid": 1948,
             "num_tracks": 142,
             "num_followers": 29,
             "tracks": [
@@ -2432,7 +2432,7 @@
         },
         {
             "name": "tRAP",
-            "pid": 2564,
+            "pid": 1949,
             "num_tracks": 104,
             "num_followers": 13,
             "tracks": [
@@ -2963,7 +2963,7 @@
         },
         {
             "name": "oldies",
-            "pid": 2565,
+            "pid": 1950,
             "num_tracks": 149,
             "num_followers": 12,
             "tracks": [
@@ -3719,7 +3719,7 @@
         },
         {
             "name": "Best of Christmas",
-            "pid": 2566,
+            "pid": 1951,
             "num_tracks": 18,
             "num_followers": 34,
             "tracks": [
@@ -3821,7 +3821,7 @@
         },
         {
             "name": "Latin Mix",
-            "pid": 2567,
+            "pid": 1952,
             "num_tracks": 171,
             "num_followers": 67,
             "tracks": [
@@ -4687,7 +4687,7 @@
         },
         {
             "name": "Good songs ",
-            "pid": 2568,
+            "pid": 1953,
             "num_tracks": 19,
             "num_followers": 24,
             "tracks": [
@@ -4790,387 +4790,6 @@
             "num_edits": 8,
             "duration_ms": 3947123,
             "num_artists": 13
-        },
-        {
-            "name": "video games",
-            "pid": 2569,
-            "num_tracks": 74,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:0Ua9pAOerzlOZMu1GipoSB",
-                    "track_name": "Chrono Trigger Theme"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:6CgJ7BfOxYPyk7amBAfAvV",
-                    "track_name": "Wind Scene (Yearnings of the Wind)"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:62BWp3yFWBwtp7MJ81Zw1C",
-                    "track_name": "Corridors of Time"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:7Lo7FAVSHVh1cNdjoVFp4Q",
-                    "track_name": "Schala's Theme"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:1oduUX6om33DQwptY7VByo",
-                    "track_name": "Frog's Theme"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:3tK5Woz6nzMFciYuDdh2Wx",
-                    "track_name": "Ocarina of Time Title Theme"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:20RFWELkSg3f5dEwHCMJjf",
-                    "track_name": "Hyrule Field"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:6r1ZB9z0NfpeGn4lXVKClY",
-                    "track_name": "Kokiri Forest"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:3tn0Ipfqw3VNcWHLSIvDYR",
-                    "track_name": "Epona's Song / Lonlon Ranch"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:4PhvLjPZP3aingNcGfKQvc",
-                    "track_name": "Kaepora Gaebora"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:6E0n3kPo6qapeN9ox4cUrq",
-                    "track_name": "Cosmo Canyon"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:4sS7DTeA06XzAFS5a2SrJQ",
-                    "track_name": "Shinra Inc."
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:5IBM18ta1jsQSi5UF42PWc",
-                    "track_name": "Final Fantasy VII Main Theme"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:0lfz2vze26DgzXP0QAV6wu",
-                    "track_name": "Mega Man X Theme"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:4P3wlMB9VqrLfHGiDpdAUH",
-                    "track_name": "Mega Man X Opening Stage"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:0UO1X3frFCGvagLjwdorUv",
-                    "track_name": "Donkey Kong Country Theme"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:3sHAtMCvXmK6Htiv2zC1Yz",
-                    "track_name": "Cave Dweller Concert"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:5k3c3ptrjpTRj8Z151ihj4",
-                    "track_name": "Gang-Plank Galleon"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:6AoxQjmdA3Ztf982qFAylM",
-                    "track_name": "Mine Cart Madness"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:54uRme0z9huJCTPbLITLoq",
-                    "track_name": "Simian Segue"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:086ESPtMNwPfXnoEAMKHc5",
-                    "track_name": "DK Island Swing"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:38RYe3OEsCT2UkeAbMhyLJ",
-                    "track_name": "Delfino Square"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:6eXvdlmQBniotm6GpZyzzS",
-                    "track_name": "N64 Moo Moo Farm"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:6q8BBG62lyoFCgf2mRTdr8",
-                    "track_name": "Rainbow Road"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:208JWphReGZC5tGDZoMXbr",
-                    "track_name": "Bowser's Castle (Nintendo Wii Version)"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:3T9y6xNEmN2eAKtklDlIvy",
-                    "track_name": "Mario Circuit & Figure 8 Circuit"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:0SsCEgOEofUxYDCP150u7l",
-                    "track_name": "DK Summit & DK's Snowboard Cross"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:3Mn6Pp7Cy0D38hTpa30VRX",
-                    "track_name": "Pokemon Gold And Silver Intro Theme"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:0PFvJKwVDAu9q5NzIR1dE5",
-                    "track_name": "Faron Woods"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:3o4dYMdyCeMkEVo7RhtRaA",
-                    "track_name": "Hyrule Field Theme"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:0yTvo8ARkdWMHNQab4Gpp9",
-                    "track_name": "Kakariko Village"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:5ZDoR3Gx6IhtVDBe5eR1jp",
-                    "track_name": "Gerudo Desert"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:6IDicRFFt9HqfVQdDBC9Wn",
-                    "track_name": "The Final Battle"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:3m5Qzzd0tRR8GSPwuD5tsR",
-                    "track_name": "Outskirts of Time"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:6lpseXCNw8xRqXuALTJ89V",
-                    "track_name": "Title Theme (from \"Mega Man 3\")"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:3XMNe9a7osUxwpvi0DSYYv",
-                    "track_name": "Snake Man"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:0EcpU2wM7MWKFGvKAFdgXZ",
-                    "track_name": "Gerudo Valley"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:5FtLWf7LcXjIzVn4k2O4Ko",
-                    "track_name": "K. Rool Returns (Donkey Kong Country 2 Title Theme)"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:5Zs7GtTuOmsvNhejxznHMF",
-                    "track_name": "Emerald Hill Zone"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:3dnu39YATxl4kvzasqPQpd",
-                    "track_name": "Chemical Plant Zone"
-                },
-                {
-                    "artist_name": "George Shaw",
-                    "track_uri": "spotify:track:0Mt22nIy6CvlhCajaKP8RJ",
-                    "track_name": "X-MEN Cartoon Theme for Orchestra"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:2AfyY8Hj5Z9psjoTHtSUvG",
-                    "track_name": "Battle"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:0nu1bieBga8LIsPeuk0WmK",
-                    "track_name": "The Decisive Battle"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:6VMYZbbe5zeqcpTDs7foe5",
-                    "track_name": "Terra's Theme"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:01KhuD2VJqjUCV6s3ZktkA",
-                    "track_name": "Lost Woods"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:55tLPBoZ5xr2M4uYqL9f2w",
-                    "track_name": "Storm Eagle Stage"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:5X3DLrVOfOaGn7z57uS2Yc",
-                    "track_name": "Bike Chase"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:4YgdFe3M47sj0ysVQhOF75",
-                    "track_name": "Secret of the Forest"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:2hJYJGuwf6D1TeE1oiV8MX",
-                    "track_name": "Fight On"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:0dxRYLxix0lyI3PO0SoVaP",
-                    "track_name": "Spider Dance"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:7dybQQftjYFXYX17PYxMhq",
-                    "track_name": "Megalovania"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:1sURqVTnRiSjLEoYa7mulo",
-                    "track_name": "Hopes And Dreams"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:0Lkxwofc1HpaeDD6BAq4eS",
-                    "track_name": "Once Upon A Time"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:4Ypa5IUwzC6Kf7ARlJFhnc",
-                    "track_name": "Bonetrousle"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:7dfTBLnXo6Ot7Xjzyr6HQn",
-                    "track_name": "Asgore"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:1aTOQUBJZ3Vxfa10PBzDqS",
-                    "track_name": "Undertale"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:3YTFa23wopfNzYsvWyPtSO",
-                    "track_name": "Death By Glamour"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:50OIECmxZg032rlBKZ9qAY",
-                    "track_name": "Battle Against A True Hero"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:2WZFFloDrNWJfBNUj9oKmt",
-                    "track_name": "Ghost Fight"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:7ICrjahoogP3UKryGU2NGj",
-                    "track_name": "Spear Of Justice"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:2tS1kH0rtJlQ6PpbNyEW7P",
-                    "track_name": "Strike the Earth: Plains of Passage (From \"Shovel Knight\")"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:5XcY5kMhY4W1gQhFXMZmvv",
-                    "track_name": "Breath of the Wild theme"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:0bmbzLum4lNoBeFPokmCnd",
-                    "track_name": "Zora's Domain (Night)"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:2T2ezLvCc0Evds8ZbwgdQB",
-                    "track_name": "Talus Battle"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:3lWw7T5VCSqHmEGrpexsNY",
-                    "track_name": "Riding (Day)"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:5WERcFOI92OBXZyGgHrhgx",
-                    "track_name": "Rito Village (Night)"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:61fPwMbPmeDolBTAGdhJH2",
-                    "track_name": "Gerudo Town (Day)"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:3eHB9exyCNjS0Fyvy8WCtU",
-                    "track_name": "Kass's Theme"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:4r0yWQVqf2oupVu0eMl3bx",
-                    "track_name": "The Temple of Time"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:4DdPlhr1Vwwx5k3toLXd70",
-                    "track_name": "Stables"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:4WfNn4z2GNyOODmB2EB9fk",
-                    "track_name": "Field (Day)"
-                },
-                {
-                    "artist_name": "brentalfloss",
-                    "track_uri": "spotify:track:0o5DapuLiQOiwAGS7T9PYf",
-                    "track_name": "Super Mario Sunshine Delfino Plaza (Instrumental Arrangement)"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:2UgPL9fkm1xTT660iX7F0R",
-                    "track_name": "Super Mario World Theme"
-                },
-                {
-                    "artist_name": "The Greatest Bits",
-                    "track_uri": "spotify:track:5oAIaxMODkv7NBDoZYso2X",
-                    "track_name": "Yoshi's Island (from \"Super Mario World\")"
-                }
-            ],
-            "num_edits": 10,
-            "duration_ms": 12451746,
-            "num_artists": 3
         }
     ]
 }

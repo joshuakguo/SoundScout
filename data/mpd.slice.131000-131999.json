@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "spanish",
-            "pid": 6508,
+            "pid": 4941,
             "num_tracks": 42,
             "num_followers": 18,
             "tracks": [
@@ -228,7 +228,7 @@
         },
         {
             "name": "Charlie",
-            "pid": 6509,
+            "pid": 4942,
             "num_tracks": 20,
             "num_followers": 47,
             "tracks": [
@@ -339,7 +339,7 @@
         },
         {
             "name": "Running",
-            "pid": 6510,
+            "pid": 4943,
             "num_tracks": 20,
             "num_followers": 18,
             "tracks": [
@@ -449,214 +449,8 @@
             "num_artists": 18
         },
         {
-            "name": "Chill Electronic",
-            "pid": 6511,
-            "num_tracks": 39,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Calvin Harris",
-                    "track_uri": "spotify:track:6x2xqg5fQNu9dNCXu83ezE",
-                    "track_name": "Acceptable in the 80's"
-                },
-                {
-                    "artist_name": "The Chemical Brothers",
-                    "track_uri": "spotify:track:4bz7uB4edifWKJXSDxwHcs",
-                    "track_name": "Galvanize"
-                },
-                {
-                    "artist_name": "LCD Soundsystem",
-                    "track_uri": "spotify:track:2cmRpmO04TLaKPzmAzySYZ",
-                    "track_name": "Dance Yrself Clean"
-                },
-                {
-                    "artist_name": "Transglobal Underground",
-                    "track_uri": "spotify:track:0yOkjMOg4lKTQWoUncrOCY",
-                    "track_name": "Khalghi Stomp"
-                },
-                {
-                    "artist_name": "RJD2",
-                    "track_uri": "spotify:track:5Nn2Dj7OQsGL6pgQ9iIzPp",
-                    "track_name": "Ghostwriter"
-                },
-                {
-                    "artist_name": "RJD2",
-                    "track_uri": "spotify:track:2pgLioI9B9TtkxCig0ceRU",
-                    "track_name": "De L'Alouette"
-                },
-                {
-                    "artist_name": "M83",
-                    "track_uri": "spotify:track:1eyzqe2QqGZUmfcPZtrIyt",
-                    "track_name": "Midnight City"
-                },
-                {
-                    "artist_name": "M83",
-                    "track_uri": "spotify:track:44jJCNW8frQLEWpYuAQz47",
-                    "track_name": "We Own The Sky"
-                },
-                {
-                    "artist_name": "Zero 7",
-                    "track_uri": "spotify:track:57kozn0j4DL3toKrqKQY0U",
-                    "track_name": "In The Waiting Line"
-                },
-                {
-                    "artist_name": "Massive Attack",
-                    "track_uri": "spotify:track:67Hna13dNDkZvBpTXRIaOJ",
-                    "track_name": "Teardrop"
-                },
-                {
-                    "artist_name": "Electric Youth",
-                    "track_uri": "spotify:track:6co9C65L6XRT6VEwOTLchH",
-                    "track_name": "A Real Hero"
-                },
-                {
-                    "artist_name": "Purity Ring",
-                    "track_uri": "spotify:track:5KeyVNymqfqac1wLDseK8v",
-                    "track_name": "Fineshrine"
-                },
-                {
-                    "artist_name": "LCD Soundsystem",
-                    "track_uri": "spotify:track:2073QOEC8rBtSyTsRyaWiP",
-                    "track_name": "I Can Change"
-                },
-                {
-                    "artist_name": "Kavinsky",
-                    "track_uri": "spotify:track:0U0ldCRmgCqhVvD6ksG63j",
-                    "track_name": "Nightcall"
-                },
-                {
-                    "artist_name": "Kavinsky",
-                    "track_uri": "spotify:track:5GDzL9A3IihC8zm00RlH6Q",
-                    "track_name": "Pacific Coast Highway"
-                },
-                {
-                    "artist_name": "Hot Chip",
-                    "track_uri": "spotify:track:3RCj5fG55qjtmnEML1gpnA",
-                    "track_name": "Over And Over"
-                },
-                {
-                    "artist_name": "Hot Chip",
-                    "track_uri": "spotify:track:0yQA1ujGy7IsGLhEOVystE",
-                    "track_name": "These Chains"
-                },
-                {
-                    "artist_name": "Little People",
-                    "track_uri": "spotify:track:4IUgpL0CgSiloUOHzgd6Qe",
-                    "track_name": "Start Shootin'"
-                },
-                {
-                    "artist_name": "Grimes",
-                    "track_uri": "spotify:track:4sCYKMatyhazyy6r2N7Hp2",
-                    "track_name": "Genesis"
-                },
-                {
-                    "artist_name": "Bonobo",
-                    "track_uri": "spotify:track:5jdEBt26wjmM7EP8V7jwjP",
-                    "track_name": "Kiara"
-                },
-                {
-                    "artist_name": "R\u00f6yksopp",
-                    "track_uri": "spotify:track:4WHg1INcwBlr7f66iaQueT",
-                    "track_name": "Running to The Sea"
-                },
-                {
-                    "artist_name": "Thievery Corporation",
-                    "track_uri": "spotify:track:488E8BWYDCDrL6vunOAzPy",
-                    "track_name": "Lebanese Blonde"
-                },
-                {
-                    "artist_name": "Django Django",
-                    "track_uri": "spotify:track:5OPlYmWLWxNpQmteTvp4G8",
-                    "track_name": "Default"
-                },
-                {
-                    "artist_name": "Daft Punk",
-                    "track_uri": "spotify:track:2Foc5Q5nqNiosCNqttzHof",
-                    "track_name": "Get Lucky - Radio Edit"
-                },
-                {
-                    "artist_name": "Charli XCX",
-                    "track_uri": "spotify:track:1D77DlGAE1HWBHyXQBCpgT",
-                    "track_name": "Nuclear Seasons"
-                },
-                {
-                    "artist_name": "Chromeo",
-                    "track_uri": "spotify:track:1aOjOCvMgHzR9PnecvSr5K",
-                    "track_name": "Bonafied Lovin"
-                },
-                {
-                    "artist_name": "Disclosure",
-                    "track_uri": "spotify:track:72QXfZlRMU65Ywuaq803Xv",
-                    "track_name": "Control"
-                },
-                {
-                    "artist_name": "Flume",
-                    "track_uri": "spotify:track:5qmtkyOgqA2HhjWRHj5Gez",
-                    "track_name": "Insane"
-                },
-                {
-                    "artist_name": "Giselle",
-                    "track_uri": "spotify:track:49qmdPALsDMBHR1MfqIfOy",
-                    "track_name": "Crave You (feat. Giselle)"
-                },
-                {
-                    "artist_name": "Lilly Wood and The Prick",
-                    "track_uri": "spotify:track:4fST5rqz2g3pxTuHmKVSjR",
-                    "track_name": "Prayer In C - Robin Schulz Remix"
-                },
-                {
-                    "artist_name": "R\u00f6yksopp",
-                    "track_uri": "spotify:track:5TN2RrcjAJ3zz5gMNDRK3K",
-                    "track_name": "Monument"
-                },
-                {
-                    "artist_name": "FC Kahuna",
-                    "track_uri": "spotify:track:58eKLwmiYrJAqNlv96pwlP",
-                    "track_name": "Hayling (feat. Hafdis Huld)"
-                },
-                {
-                    "artist_name": "Emancipator",
-                    "track_uri": "spotify:track:4qCYYhzI5bCz7JxV7VD4HH",
-                    "track_name": "Anthem"
-                },
-                {
-                    "artist_name": "Calvin Harris",
-                    "track_uri": "spotify:track:6GvXJZ8EQuUWzthpPFLr6f",
-                    "track_name": "Slow Acid"
-                },
-                {
-                    "artist_name": "Flight Facilities",
-                    "track_uri": "spotify:track:4H4KkHfXJs3cQEnbNW3bVS",
-                    "track_name": "Clair de Lune"
-                },
-                {
-                    "artist_name": "DJ Snake",
-                    "track_uri": "spotify:track:1sNSG13fsK6KPKKNIQXXrh",
-                    "track_name": "You Know You Like It"
-                },
-                {
-                    "artist_name": "Ratatat",
-                    "track_uri": "spotify:track:2bJLZKRRn3is41EJQwdosE",
-                    "track_name": "Cream on Chrome"
-                },
-                {
-                    "artist_name": "Aphex Twin",
-                    "track_uri": "spotify:track:2MZSXhq4XDJWu6coGoXX1V",
-                    "track_name": "Avril 14th"
-                },
-                {
-                    "artist_name": "Tycho",
-                    "track_uri": "spotify:track:2qC1sUo8xxRRqYsaYEdDuZ",
-                    "track_name": "Awake"
-                }
-            ],
-            "num_edits": 31,
-            "duration_ms": 11443775,
-            "num_artists": 32
-        },
-        {
             "name": "good songs ",
-            "pid": 6512,
+            "pid": 4944,
             "num_tracks": 81,
             "num_followers": 16,
             "tracks": [
@@ -1072,7 +866,7 @@
         },
         {
             "name": "Montana",
-            "pid": 6513,
+            "pid": 4945,
             "num_tracks": 152,
             "num_followers": 14,
             "tracks": [
@@ -1840,197 +1634,6 @@
             "num_edits": 93,
             "duration_ms": 36724600,
             "num_artists": 94
-        },
-        {
-            "name": "og",
-            "pid": 6514,
-            "num_tracks": 36,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "MF DOOM",
-                    "track_uri": "spotify:track:70We9AqHenA4jcmXmKzJnZ",
-                    "track_name": "Doomsday"
-                },
-                {
-                    "artist_name": "Mobb Deep",
-                    "track_uri": "spotify:track:33ZXjLCpiINn8eQIDYEPTD",
-                    "track_name": "Shook Ones, Pt. II"
-                },
-                {
-                    "artist_name": "The Notorious B.I.G.",
-                    "track_uri": "spotify:track:5ByAIlEEnxYdvpnezg7HTX",
-                    "track_name": "Juicy"
-                },
-                {
-                    "artist_name": "2Pac",
-                    "track_uri": "spotify:track:3ssX20QT5c3nA9wk78V1LQ",
-                    "track_name": "Ambitionz Az A Ridah"
-                },
-                {
-                    "artist_name": "A$AP Rocky",
-                    "track_uri": "spotify:track:4X5f3vT8MRuXF68pfjNte5",
-                    "track_name": "F**kin' Problems"
-                },
-                {
-                    "artist_name": "Wu-Tang Clan",
-                    "track_uri": "spotify:track:119c93MHjrDLJTApCVGpvx",
-                    "track_name": "C.R.E.A.M."
-                },
-                {
-                    "artist_name": "Nas",
-                    "track_uri": "spotify:track:6Sx4sIggsnKOe9NPf7i2Zt",
-                    "track_name": "Hip Hop Is Dead"
-                },
-                {
-                    "artist_name": "Dr. Dre",
-                    "track_uri": "spotify:track:6ltPEsP4edATzvinHOzvk2",
-                    "track_name": "Still D.R.E."
-                },
-                {
-                    "artist_name": "Ice Cube",
-                    "track_uri": "spotify:track:5oc70i45QAxUeE9mj5dAsB",
-                    "track_name": "Ghetto Vet - 2007 Digital Remaster"
-                },
-                {
-                    "artist_name": "Warren G",
-                    "track_uri": "spotify:track:7nYvUtkQMx1v80S2FH2s9J",
-                    "track_name": "Regulate"
-                },
-                {
-                    "artist_name": "Talib Kweli",
-                    "track_uri": "spotify:track:26xtHEq40YTfjAij523Ml6",
-                    "track_name": "Ms. Hill"
-                },
-                {
-                    "artist_name": "Ice Cube",
-                    "track_uri": "spotify:track:2qOm7ukLyHUXWyR4ZWLwxA",
-                    "track_name": "It Was A Good Day"
-                },
-                {
-                    "artist_name": "Talib Kweli",
-                    "track_uri": "spotify:track:3WeLxo3f1T6pjfj8Fexz9D",
-                    "track_name": "Push Thru - feat. Curren$y, Kendrick Lamar & Glen Reynolds"
-                },
-                {
-                    "artist_name": "Kembe X",
-                    "track_uri": "spotify:track:1jvCyrSKUYINeTWwzOnuni",
-                    "track_name": "X"
-                },
-                {
-                    "artist_name": "Gang Starr",
-                    "track_uri": "spotify:track:30oTS7bm0aH3p7lqjEIu8q",
-                    "track_name": "Full Clip"
-                },
-                {
-                    "artist_name": "Big L",
-                    "track_uri": "spotify:track:6JI5wNWYdBw68GZjOMmgK5",
-                    "track_name": "Put It On"
-                },
-                {
-                    "artist_name": "Big L",
-                    "track_uri": "spotify:track:71qTrOPHOj1KDEy0IG2Zjg",
-                    "track_name": "Deadly Combination (feat. 2Pac)"
-                },
-                {
-                    "artist_name": "Nas",
-                    "track_uri": "spotify:track:1AHfovSnGPVYKaahRtA0U6",
-                    "track_name": "The Message"
-                },
-                {
-                    "artist_name": "Nas",
-                    "track_uri": "spotify:track:1NRjLmipYrv39gWoqCl2w2",
-                    "track_name": "Hero"
-                },
-                {
-                    "artist_name": "Kris Kross",
-                    "track_uri": "spotify:track:27AHAtAirQapVldIm4c9ZX",
-                    "track_name": "Jump"
-                },
-                {
-                    "artist_name": "Big Daddy Kane",
-                    "track_uri": "spotify:track:0dNiLb9FEHrRK7VFDJctiR",
-                    "track_name": "Ain't No Half-Steppin'"
-                },
-                {
-                    "artist_name": "Rakim",
-                    "track_uri": "spotify:track:3ePJkJdZMGp9ahaNmaRM7O",
-                    "track_name": "Guess Who's Back"
-                },
-                {
-                    "artist_name": "Eric B. & Rakim",
-                    "track_uri": "spotify:track:0KFk2QVKWnZFRfVdKzbuX6",
-                    "track_name": "Follow The Leader"
-                },
-                {
-                    "artist_name": "Eric B. & Rakim",
-                    "track_uri": "spotify:track:48ZUwXrEOhaXLCxvmRYhZv",
-                    "track_name": "Don't Sweat The Technique"
-                },
-                {
-                    "artist_name": "Nas",
-                    "track_uri": "spotify:track:3gY6tiCNsuVi6s8kPV6aQg",
-                    "track_name": "Nas Is Like"
-                },
-                {
-                    "artist_name": "Nas",
-                    "track_uri": "spotify:track:1B5BfvGVQ5fPtDN2K8tUdy",
-                    "track_name": "Memory Lane (Sittin' in da Park)"
-                },
-                {
-                    "artist_name": "Capone-N-Noreaga",
-                    "track_uri": "spotify:track:0N4fNFFYFRGbdEFs8iI3pl",
-                    "track_name": "Invincible"
-                },
-                {
-                    "artist_name": "Big L",
-                    "track_uri": "spotify:track:19qL3ckzkAxI6La4yrk7Ak",
-                    "track_name": "Platinum Plus (feat. Big Daddy Kane)"
-                },
-                {
-                    "artist_name": "Jedi Mind Tricks",
-                    "track_uri": "spotify:track:0qw4HLV9qhjtImWR7oxZAO",
-                    "track_name": "I Against I"
-                },
-                {
-                    "artist_name": "Snoop Dogg",
-                    "track_uri": "spotify:track:0WKYRFtH6KKbaNWjsxqm70",
-                    "track_name": "Gin And Juice (feat. Dat Nigga Daz)"
-                },
-                {
-                    "artist_name": "Snoop Dogg",
-                    "track_uri": "spotify:track:2wzMOVWqLMBNx7wVvJ7tt0",
-                    "track_name": "Murder Was The Case (Death After Visualizing Eternity) (feat. Dat Nigga Daz)"
-                },
-                {
-                    "artist_name": "Wu-Tang Clan",
-                    "track_uri": "spotify:track:6UmUu7pYUJmjFLz7rN9gj5",
-                    "track_name": "Rivers of Blood"
-                },
-                {
-                    "artist_name": "50 Cent",
-                    "track_uri": "spotify:track:2I9foKseoFQh07p6sD2voE",
-                    "track_name": "Many Men (Wish Death)"
-                },
-                {
-                    "artist_name": "50 Cent",
-                    "track_uri": "spotify:track:4qRdQm8EzQlkx7WmTKpI4R",
-                    "track_name": "Heat"
-                },
-                {
-                    "artist_name": "Pusha T",
-                    "track_uri": "spotify:track:5c7yH6ivcTqyHcMkHWTiFY",
-                    "track_name": "Nosetalgia"
-                },
-                {
-                    "artist_name": "50 Cent",
-                    "track_uri": "spotify:track:3ORfa5ilEthp2U0TRcv7kv",
-                    "track_name": "Patiently Waiting"
-                }
-            ],
-            "num_edits": 3,
-            "duration_ms": 8972982,
-            "num_artists": 23
         }
     ]
 }

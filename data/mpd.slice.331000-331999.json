@@ -6,199 +6,8 @@
     },
     "playlists": [
         {
-            "name": "Dancing in the Kitchen",
-            "pid": 6851,
-            "num_tracks": 36,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Olly Murs",
-                    "track_uri": "spotify:track:6Rxnq6T6b89rgQaDmzBF0l",
-                    "track_name": "Dance with Me Tonight"
-                },
-                {
-                    "artist_name": "Ben Rector",
-                    "track_uri": "spotify:track:0bJBEgt9oa0aCQuzvtEFVu",
-                    "track_name": "When I'm With You"
-                },
-                {
-                    "artist_name": "Otis Redding",
-                    "track_uri": "spotify:track:36AlMHDBFwSsD3FQOy1R81",
-                    "track_name": "Try A Little Tenderness"
-                },
-                {
-                    "artist_name": "The Pointer Sisters",
-                    "track_uri": "spotify:track:3L9ClO1W5KmebIXTrlKShF",
-                    "track_name": "Jump (For My Love)"
-                },
-                {
-                    "artist_name": "Daryl Hall & John Oates",
-                    "track_uri": "spotify:track:4o6BgsqLIBViaGVbx5rbRk",
-                    "track_name": "You Make My Dreams - Remastered"
-                },
-                {
-                    "artist_name": "Beyonc\u00e9",
-                    "track_uri": "spotify:track:3axkNosdVQLZiq1HakuGhc",
-                    "track_name": "Countdown"
-                },
-                {
-                    "artist_name": "Bonnie Tyler",
-                    "track_uri": "spotify:track:7L2eFj0KFJDmHTPMUL4ZxR",
-                    "track_name": "Holding Out for a Hero"
-                },
-                {
-                    "artist_name": "Michael Jackson",
-                    "track_uri": "spotify:track:5lA3pwMkBdd24StM90QrNR",
-                    "track_name": "P.Y.T. (Pretty Young Thing)"
-                },
-                {
-                    "artist_name": "Whitney Houston",
-                    "track_uri": "spotify:track:2tUBqZG2AbRi7Q0BIrVrEj",
-                    "track_name": "I Wanna Dance with Somebody (Who Loves Me)"
-                },
-                {
-                    "artist_name": "Chris Brown",
-                    "track_uri": "spotify:track:2OVRPlR4BsnwPY7OiIfCQn",
-                    "track_name": "Fine China"
-                },
-                {
-                    "artist_name": "Ellie Goulding",
-                    "track_uri": "spotify:track:2RW9qqrhPwMPHlWx57CalB",
-                    "track_name": "Goodness Gracious"
-                },
-                {
-                    "artist_name": "The 1975",
-                    "track_uri": "spotify:track:5WSdMcWTKRdN1QYVJHJWxz",
-                    "track_name": "Girls"
-                },
-                {
-                    "artist_name": "Karmin",
-                    "track_uri": "spotify:track:6RjW45KHJ6kgI2xQ1aFa52",
-                    "track_name": "Acapella"
-                },
-                {
-                    "artist_name": "MKTO",
-                    "track_uri": "spotify:track:6FE2iI43OZnszFLuLtvvmg",
-                    "track_name": "Classic"
-                },
-                {
-                    "artist_name": "JD McPherson",
-                    "track_uri": "spotify:track:6VqC5gNL532RfgdlGzNAv0",
-                    "track_name": "North Side Gal"
-                },
-                {
-                    "artist_name": "Chuck Berry",
-                    "track_uri": "spotify:track:3BUQFs6aFWh7EFNmI8bfL7",
-                    "track_name": "Johnny B. Goode"
-                },
-                {
-                    "artist_name": "Run\u2013D.M.C.",
-                    "track_uri": "spotify:track:6jBCehpNMkwFVF3dz4nLIW",
-                    "track_name": "It's Tricky"
-                },
-                {
-                    "artist_name": "Deniece Williams",
-                    "track_uri": "spotify:track:0RMo4bixbZYfzuJ4AYBLu9",
-                    "track_name": "Let's Hear It for the Boy"
-                },
-                {
-                    "artist_name": "Kesha",
-                    "track_uri": "spotify:track:5jPyymL6gQyJNMMnMX1IMx",
-                    "track_name": "Die Young"
-                },
-                {
-                    "artist_name": "Pitbull",
-                    "track_uri": "spotify:track:3cHyrEgdyYRjgJKSOiOtcS",
-                    "track_name": "Timber"
-                },
-                {
-                    "artist_name": "Pharrell Williams",
-                    "track_uri": "spotify:track:5b88tNINg4Q4nrRbrCXUmg",
-                    "track_name": "Happy - From \"Despicable Me 2\""
-                },
-                {
-                    "artist_name": "Ellie Goulding",
-                    "track_uri": "spotify:track:4q7I3BQeh7VEy5srEaRoBA",
-                    "track_name": "Hanging On - I See MONSTAS Remix"
-                },
-                {
-                    "artist_name": "Iggy Azalea",
-                    "track_uri": "spotify:track:3W3KtDwAIg3mAruSpnfG3Q",
-                    "track_name": "Fancy"
-                },
-                {
-                    "artist_name": "Disclosure",
-                    "track_uri": "spotify:track:1BltsyC5W3SAABdxyrDXwi",
-                    "track_name": "Latch"
-                },
-                {
-                    "artist_name": "Paul Simon",
-                    "track_uri": "spotify:track:0qxYx4F3vm1AOnfux6dDxP",
-                    "track_name": "You Can Call Me Al"
-                },
-                {
-                    "artist_name": "Toto",
-                    "track_uri": "spotify:track:2374M0fQpWi3dLnB54qaLX",
-                    "track_name": "Africa"
-                },
-                {
-                    "artist_name": "Whitney Houston",
-                    "track_uri": "spotify:track:2tUBqZG2AbRi7Q0BIrVrEj",
-                    "track_name": "I Wanna Dance with Somebody (Who Loves Me)"
-                },
-                {
-                    "artist_name": "Miami Sound Machine",
-                    "track_uri": "spotify:track:3FdHgoJbH3DXNtGLh56pFu",
-                    "track_name": "Conga"
-                },
-                {
-                    "artist_name": "Bonnie Tyler",
-                    "track_uri": "spotify:track:4McRlwqJQIERlJFiJEgbP0",
-                    "track_name": "Total Eclipse of The Heart"
-                },
-                {
-                    "artist_name": "Bonnie Tyler",
-                    "track_uri": "spotify:track:7L2eFj0KFJDmHTPMUL4ZxR",
-                    "track_name": "Holding Out for a Hero"
-                },
-                {
-                    "artist_name": "Michael Jackson",
-                    "track_uri": "spotify:track:7EsjkelQuoUlJXEw7SeVV4",
-                    "track_name": "Black or White"
-                },
-                {
-                    "artist_name": "Michael Jackson",
-                    "track_uri": "spotify:track:46eu3SBuFCXWsPT39Yg3tJ",
-                    "track_name": "Don't Stop 'Til You Get Enough - Single Version"
-                },
-                {
-                    "artist_name": "Michael Jackson",
-                    "track_uri": "spotify:track:0sKlV58cODrjxGFOyf9IXY",
-                    "track_name": "The Way You Make Me Feel - 2012 Remaster"
-                },
-                {
-                    "artist_name": "Eric Prydz",
-                    "track_uri": "spotify:track:6E0dc82Da4W5QWXR8ktoGT",
-                    "track_name": "Call On Me - Radio Edit"
-                },
-                {
-                    "artist_name": "Rihanna",
-                    "track_uri": "spotify:track:30VrBsh1STRBoIrhQOAwzK",
-                    "track_name": "Disturbia"
-                },
-                {
-                    "artist_name": "Belinda Carlisle",
-                    "track_uri": "spotify:track:58mFu3oIpBa0HLNeJIxsw3",
-                    "track_name": "Heaven Is A Place On Earth"
-                }
-            ],
-            "num_edits": 15,
-            "duration_ms": 8664715,
-            "num_artists": 29
-        },
-        {
             "name": "aux",
-            "pid": 6852,
+            "pid": 5196,
             "num_tracks": 91,
             "num_followers": 12,
             "tracks": [
@@ -664,7 +473,7 @@
         },
         {
             "name": "Car",
-            "pid": 6853,
+            "pid": 5197,
             "num_tracks": 54,
             "num_followers": 16,
             "tracks": [
@@ -945,7 +754,7 @@
         },
         {
             "name": "SUMMER 17",
-            "pid": 6854,
+            "pid": 5198,
             "num_tracks": 34,
             "num_followers": 15,
             "tracks": [
@@ -1127,7 +936,7 @@
         },
         {
             "name": "Sex Music",
-            "pid": 6855,
+            "pid": 5199,
             "num_tracks": 38,
             "num_followers": 495,
             "tracks": [
@@ -1328,7 +1137,7 @@
         },
         {
             "name": "#TBT",
-            "pid": 6856,
+            "pid": 5200,
             "num_tracks": 15,
             "num_followers": 13,
             "tracks": [

@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Big Mix",
-            "pid": 6080,
+            "pid": 4611,
             "num_tracks": 214,
             "num_followers": 15,
             "tracks": [
@@ -1087,64 +1087,8 @@
             "num_artists": 187
         },
         {
-            "name": "August 2017",
-            "pid": 6081,
-            "num_tracks": 9,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Giacca & Flores",
-                    "track_uri": "spotify:track:049KaGUjlibRJttF7XVjhF",
-                    "track_name": "Delight - Short Edit"
-                },
-                {
-                    "artist_name": "Croatia Squad",
-                    "track_uri": "spotify:track:5HuHfyvHaDc25PMuCnX228",
-                    "track_name": "The Best"
-                },
-                {
-                    "artist_name": "Toyboy & Robin",
-                    "track_uri": "spotify:track:25Y4mnhdTNpzZLJHEWJxfq",
-                    "track_name": "Can't Love Me (feat. Finnli)"
-                },
-                {
-                    "artist_name": "Brynny",
-                    "track_uri": "spotify:track:62a2ZrEFOn7lsTetPWoUW7",
-                    "track_name": "I Want It All - Radio Edit"
-                },
-                {
-                    "artist_name": "Loote",
-                    "track_uri": "spotify:track:7qs2GAglLWfxEfmO8u2u0A",
-                    "track_name": "High Without Your Love"
-                },
-                {
-                    "artist_name": "Lika Morgan",
-                    "track_uri": "spotify:track:45HJ9im7zP9xUC8HXhA4uw",
-                    "track_name": "Hit Me - Original Mix"
-                },
-                {
-                    "artist_name": "Jonas Blue",
-                    "track_uri": "spotify:track:4YwbUdsB4iQYJPwMp87vVM",
-                    "track_name": "By Your Side - Billon Remix"
-                },
-                {
-                    "artist_name": "Aretha Franklin",
-                    "track_uri": "spotify:track:0KMLdi9DP5zngGhWrLxgPP",
-                    "track_name": "A Deeper Love - Sam Halabi Radio Remix"
-                },
-                {
-                    "artist_name": "James Arthur",
-                    "track_uri": "spotify:track:5uCax9HTNlzGybIStD3vDh",
-                    "track_name": "Say You Won't Let Go"
-                }
-            ],
-            "num_edits": 2,
-            "duration_ms": 2096652,
-            "num_artists": 9
-        },
-        {
             "name": "jamz",
-            "pid": 6082,
+            "pid": 4612,
             "num_tracks": 156,
             "num_followers": 12,
             "tracks": [
@@ -1935,7 +1879,7 @@
         },
         {
             "name": "life is a highway",
-            "pid": 6083,
+            "pid": 4613,
             "num_tracks": 25,
             "num_followers": 21,
             "tracks": [
@@ -2072,7 +2016,7 @@
         },
         {
             "name": "winter",
-            "pid": 6084,
+            "pid": 4614,
             "num_tracks": 45,
             "num_followers": 70,
             "tracks": [
@@ -2308,7 +2252,7 @@
         },
         {
             "name": "Workout playlist  ",
-            "pid": 6085,
+            "pid": 4615,
             "num_tracks": 226,
             "num_followers": 30,
             "tracks": [
@@ -3449,7 +3393,7 @@
         },
         {
             "name": "Fall 17",
-            "pid": 6086,
+            "pid": 4616,
             "num_tracks": 22,
             "num_followers": 14,
             "tracks": [

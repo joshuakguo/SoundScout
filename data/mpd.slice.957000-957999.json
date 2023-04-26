@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Gold Digger",
-            "pid": 2590,
+            "pid": 1969,
             "num_tracks": 102,
             "num_followers": 80,
             "tracks": [
@@ -528,7 +528,7 @@
         },
         {
             "name": "Best of the Best ",
-            "pid": 2591,
+            "pid": 1970,
             "num_tracks": 21,
             "num_followers": 12,
             "tracks": [
@@ -643,54 +643,8 @@
             "num_artists": 10
         },
         {
-            "name": "1973",
-            "pid": 2592,
-            "num_tracks": 7,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Pink Floyd",
-                    "track_uri": "spotify:track:0vFOzaXqZHahrZp6enQwQb",
-                    "track_name": "Money"
-                },
-                {
-                    "artist_name": "Pink Floyd",
-                    "track_uri": "spotify:track:2TjdnqlpwOjhijHCwHCP2d",
-                    "track_name": "The Great Gig in the Sky"
-                },
-                {
-                    "artist_name": "Herbie Hancock",
-                    "track_uri": "spotify:track:2zQl59dZMzwhrmeSBEgiXY",
-                    "track_name": "Watermelon Man"
-                },
-                {
-                    "artist_name": "Billy Joel",
-                    "track_uri": "spotify:track:78WVLOP9pN0G3gRLFy1rAa",
-                    "track_name": "Piano Man"
-                },
-                {
-                    "artist_name": "Marvin Gaye",
-                    "track_uri": "spotify:track:0jHkgTtTaqg5LNCiYDQPUB",
-                    "track_name": "Let's Get It On"
-                },
-                {
-                    "artist_name": "Aerosmith",
-                    "track_uri": "spotify:track:5MxNLUsfh7uzROypsoO5qe",
-                    "track_name": "Dream On"
-                },
-                {
-                    "artist_name": "The Doobie Brothers",
-                    "track_uri": "spotify:track:7cy1bEJV6FCtDaYpsk8aG6",
-                    "track_name": "China Grove"
-                }
-            ],
-            "num_edits": 4,
-            "duration_ms": 2145092,
-            "num_artists": 6
-        },
-        {
             "name": "bday party",
-            "pid": 2593,
+            "pid": 1971,
             "num_tracks": 186,
             "num_followers": 12,
             "tracks": [
@@ -1631,7 +1585,7 @@
         },
         {
             "name": "Rap/Hip-Hop",
-            "pid": 2594,
+            "pid": 1972,
             "num_tracks": 135,
             "num_followers": 23,
             "tracks": [

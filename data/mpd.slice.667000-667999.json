@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Cocktail Hour",
-            "pid": 5506,
+            "pid": 4182,
             "num_tracks": 61,
             "num_followers": 16,
             "tracks": [
@@ -323,7 +323,7 @@
         },
         {
             "name": "80's",
-            "pid": 5507,
+            "pid": 4183,
             "num_tracks": 21,
             "num_followers": 77,
             "tracks": [
@@ -439,7 +439,7 @@
         },
         {
             "name": "Christmas Instrumental",
-            "pid": 5508,
+            "pid": 4184,
             "num_tracks": 227,
             "num_followers": 10911,
             "tracks": [
@@ -1585,7 +1585,7 @@
         },
         {
             "name": "Sinatra",
-            "pid": 5509,
+            "pid": 4185,
             "num_tracks": 21,
             "num_followers": 33,
             "tracks": [
@@ -1702,7 +1702,7 @@
         },
         {
             "name": "Alternative Rock",
-            "pid": 5510,
+            "pid": 4186,
             "num_tracks": 153,
             "num_followers": 16,
             "tracks": [
@@ -2475,288 +2475,6 @@
             "num_edits": 17,
             "duration_ms": 27673973,
             "num_artists": 29
-        },
-        {
-            "name": "spooky",
-            "pid": 5511,
-            "num_tracks": 54,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Passion Pit",
-                    "track_uri": "spotify:track:4prEPl61C8qZpeo3IkYSMl",
-                    "track_name": "Sleepyhead"
-                },
-                {
-                    "artist_name": "MGMT",
-                    "track_uri": "spotify:track:0vaf64cpnqM7COUZZkoBig",
-                    "track_name": "Electric Feel"
-                },
-                {
-                    "artist_name": "Fleetwood Mac",
-                    "track_uri": "spotify:track:19Ym5Sg0YyOCa6ao21bdoG",
-                    "track_name": "Gypsy"
-                },
-                {
-                    "artist_name": "Bassnectar",
-                    "track_uri": "spotify:track:2EQhNdnP2LT96NnkkKkm0N",
-                    "track_name": "Bass Head"
-                },
-                {
-                    "artist_name": "Melanie Martinez",
-                    "track_uri": "spotify:track:5nHTLEJ10zaqdnKqLriah4",
-                    "track_name": "Carousel"
-                },
-                {
-                    "artist_name": "ODESZA",
-                    "track_uri": "spotify:track:0DQEvC22c60Hk0nHTXVRSY",
-                    "track_name": "Bloom"
-                },
-                {
-                    "artist_name": "Flume",
-                    "track_uri": "spotify:track:12REd1n8PeiHHWOh066tpr",
-                    "track_name": "Never Be Like You"
-                },
-                {
-                    "artist_name": "Foster The People",
-                    "track_uri": "spotify:track:7w87IxuO7BDcJ3YUqCyMTT",
-                    "track_name": "Pumped Up Kicks"
-                },
-                {
-                    "artist_name": "A$AP Rocky",
-                    "track_uri": "spotify:track:0O3TAouZE4vL9dM5SyxgvH",
-                    "track_name": "Fashion Killa"
-                },
-                {
-                    "artist_name": "Willow",
-                    "track_uri": "spotify:track:0y60itmpH0aPKsFiGxmtnh",
-                    "track_name": "Wait a Minute!"
-                },
-                {
-                    "artist_name": "Tame Impala",
-                    "track_uri": "spotify:track:4g3Ax56IslQkI6XVfYKVc5",
-                    "track_name": "The Less I Know The Better"
-                },
-                {
-                    "artist_name": "Flume",
-                    "track_uri": "spotify:track:0zG9M0rfjwe9gwsaQXN071",
-                    "track_name": "Ezra"
-                },
-                {
-                    "artist_name": "Fleetwood Mac",
-                    "track_uri": "spotify:track:0ofHAoxe9vBkTCp2UQIavz",
-                    "track_name": "Dreams - 2004 Remastered Edition"
-                },
-                {
-                    "artist_name": "The Weeknd",
-                    "track_uri": "spotify:track:6VwBbL8CzPiC4QV66ay7oR",
-                    "track_name": "Wicked Games"
-                },
-                {
-                    "artist_name": "The xx",
-                    "track_uri": "spotify:track:0bXpmJyHHYPk6QBFj25bYF",
-                    "track_name": "Intro"
-                },
-                {
-                    "artist_name": "The Neighbourhood",
-                    "track_uri": "spotify:track:2QjOHCTQ1Jl3zawyYOpxh6",
-                    "track_name": "Sweater Weather"
-                },
-                {
-                    "artist_name": "MGMT",
-                    "track_uri": "spotify:track:1Zqy9bervYUomy12Pbm3rP",
-                    "track_name": "Time to Pretend"
-                },
-                {
-                    "artist_name": "K.Flay",
-                    "track_uri": "spotify:track:4XBUuCLTGHfg5OvRA1iiTy",
-                    "track_name": "Make Me Fade"
-                },
-                {
-                    "artist_name": "Empire of the Sun",
-                    "track_uri": "spotify:track:3iVAyrTlbWGBq0laeQ18z2",
-                    "track_name": "Walking On A Dream"
-                },
-                {
-                    "artist_name": "alt-J",
-                    "track_uri": "spotify:track:3n69hLUdIsSa1WlRmjMZlW",
-                    "track_name": "Breezeblocks"
-                },
-                {
-                    "artist_name": "MGMT",
-                    "track_uri": "spotify:track:5QldjuXcxplhjjUqLrzl6H",
-                    "track_name": "Kids"
-                },
-                {
-                    "artist_name": "M83",
-                    "track_uri": "spotify:track:1eyzqe2QqGZUmfcPZtrIyt",
-                    "track_name": "Midnight City"
-                },
-                {
-                    "artist_name": "Tame Impala",
-                    "track_uri": "spotify:track:6vTtMyCg96xwpoIBws9K0Q",
-                    "track_name": "Feels Like We Only Go Backwards"
-                },
-                {
-                    "artist_name": "Cage The Elephant",
-                    "track_uri": "spotify:track:4sebUbjqbcgDSwG6PbSGI0",
-                    "track_name": "Come a Little Closer"
-                },
-                {
-                    "artist_name": "Modest Mouse",
-                    "track_uri": "spotify:track:3b00LSFIRqnHvkoDEs5fkg",
-                    "track_name": "Float On"
-                },
-                {
-                    "artist_name": "Foster The People",
-                    "track_uri": "spotify:track:4HRa9ZWcmZ8JD7UySPu0wT",
-                    "track_name": "Don't Stop (Color on the Walls)"
-                },
-                {
-                    "artist_name": "Milky Chance",
-                    "track_uri": "spotify:track:6vECYJHxYmm3Ydt3fF01pE",
-                    "track_name": "Stolen Dance"
-                },
-                {
-                    "artist_name": "STRFKR",
-                    "track_uri": "spotify:track:4j4pPKE3xAblPIbhxScC1j",
-                    "track_name": "Rawnald Gregory Erickson the Second"
-                },
-                {
-                    "artist_name": "Gorillaz",
-                    "track_uri": "spotify:track:0d28khcov6AiegSCpG5TuT",
-                    "track_name": "Feel Good Inc"
-                },
-                {
-                    "artist_name": "Portugal. The Man",
-                    "track_uri": "spotify:track:6QgjcU0zLnzq5OrUoSZ3OK",
-                    "track_name": "Feel It Still"
-                },
-                {
-                    "artist_name": "Milky Chance",
-                    "track_uri": "spotify:track:4F0ptEqZa9ZbTu8t4g5FuR",
-                    "track_name": "Fairytale"
-                },
-                {
-                    "artist_name": "Dr. Dog",
-                    "track_uri": "spotify:track:2vupkXhwL4sNCRgNu72HCZ",
-                    "track_name": "Heart It Races - Dr Dog Version"
-                },
-                {
-                    "artist_name": "Alabama Shakes",
-                    "track_uri": "spotify:track:1gGY6qfslDtJ4OoWQGKtkE",
-                    "track_name": "Hold On"
-                },
-                {
-                    "artist_name": "Angus & Julia Stone",
-                    "track_uri": "spotify:track:2fbXJ0VpxhW7j0qcg1DnoZ",
-                    "track_name": "Big Jet Plane"
-                },
-                {
-                    "artist_name": "Lorde",
-                    "track_uri": "spotify:track:35kahykNu00FPysz3C2euR",
-                    "track_name": "White Teeth Teens"
-                },
-                {
-                    "artist_name": "Flux Pavilion",
-                    "track_uri": "spotify:track:5WSL7UTa38jMWoBzObD4BD",
-                    "track_name": "I Can't Stop"
-                },
-                {
-                    "artist_name": "Billie Eilish",
-                    "track_uri": "spotify:track:6NOq79ynBpBi6BSJMdgReN",
-                    "track_name": "Ocean Eyes - Astronomyy Remix"
-                },
-                {
-                    "artist_name": "Tame Impala",
-                    "track_uri": "spotify:track:2xxlzD6mWSbDHFEt1K41lX",
-                    "track_name": "Mind Mischief - Ducktails Remix"
-                },
-                {
-                    "artist_name": "Milky Chance",
-                    "track_uri": "spotify:track:5mpLcXEsk3jjzLFGuNKk5I",
-                    "track_name": "Flashed Junk Mind"
-                },
-                {
-                    "artist_name": "Passion Pit",
-                    "track_uri": "spotify:track:4Sfa7hdVkqlM8UW5LsSY3F",
-                    "track_name": "Take a Walk"
-                },
-                {
-                    "artist_name": "Glass Animals",
-                    "track_uri": "spotify:track:5b9iBVhfYxDF4JJcHrNIx5",
-                    "track_name": "Gooey"
-                },
-                {
-                    "artist_name": "Lorde",
-                    "track_uri": "spotify:track:51QEyJI5M7uyd8DOh9tqQY",
-                    "track_name": "Buzzcut Season"
-                },
-                {
-                    "artist_name": "Lorde",
-                    "track_uri": "spotify:track:2MvvoeRt8NcOXWESkxWn3g",
-                    "track_name": "Ribs"
-                },
-                {
-                    "artist_name": "alt-J",
-                    "track_uri": "spotify:track:1o22EcqsCANhwYdaNOSdwS",
-                    "track_name": "Tessellate"
-                },
-                {
-                    "artist_name": "Sylvan Esso",
-                    "track_uri": "spotify:track:2Qf9SQ83Gmf9GQSxPjQh1O",
-                    "track_name": "Hey Mami"
-                },
-                {
-                    "artist_name": "Tove Lo",
-                    "track_uri": "spotify:track:62N2JSA0jHmSH7Va9t7hIf",
-                    "track_name": "Habits (Stay High) - Hippie Sabotage Remix"
-                },
-                {
-                    "artist_name": "Lorde",
-                    "track_uri": "spotify:track:2yrJ1jWo3HLksJFUqUsZE4",
-                    "track_name": "The Love Club"
-                },
-                {
-                    "artist_name": "Wankelmut",
-                    "track_uri": "spotify:track:3AUz2xcMnn1CDLDtFRCPeV",
-                    "track_name": "My Head Is A Jungle - Radio Edit (Bonustrack)"
-                },
-                {
-                    "artist_name": "What So Not",
-                    "track_uri": "spotify:track:6zpCJDhdpHPZCcFCJZDqX5",
-                    "track_name": "High You Are"
-                },
-                {
-                    "artist_name": "Fleetwood Mac",
-                    "track_uri": "spotify:track:1FNYYJsaNX0x9azDky286U",
-                    "track_name": "Sara - 2015 Remastered"
-                },
-                {
-                    "artist_name": "Bipolar Sunshine",
-                    "track_uri": "spotify:track:2jlGGSZXifZOrzo2FMlnxz",
-                    "track_name": "Daydreamer - Gryffin Remix"
-                },
-                {
-                    "artist_name": "Jai Wolf",
-                    "track_uri": "spotify:track:1mia2jUSO5ea1Pe7xmsLV0",
-                    "track_name": "Indian Summer"
-                },
-                {
-                    "artist_name": "Hippie Sabotage",
-                    "track_uri": "spotify:track:6ZT3coOj97F6CVvruPtnox",
-                    "track_name": "Your Soul"
-                },
-                {
-                    "artist_name": "Mocki",
-                    "track_uri": "spotify:track:5YdbKvwTk02eOn22jtibho",
-                    "track_name": "Weekend - Jai Wolf Remix"
-                }
-            ],
-            "num_edits": 8,
-            "duration_ms": 13051400,
-            "num_artists": 39,
-            "description": "vibes"
         }
     ]
 }

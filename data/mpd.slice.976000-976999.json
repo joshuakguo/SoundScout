@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "2017!!!",
-            "pid": 510,
+            "pid": 386,
             "num_tracks": 129,
             "num_followers": 35,
             "tracks": [
@@ -663,7 +663,7 @@
         },
         {
             "name": "THE GET DOWN",
-            "pid": 511,
+            "pid": 387,
             "num_tracks": 96,
             "num_followers": 27,
             "tracks": [
@@ -1154,144 +1154,8 @@
             "description": "Compilation of 70&#x27;s soul&#x2F;funk with a lot of tracks used in sampling for some of the most iconic Hip-Hop&#x2F;Rap of the 80&#x27;s &amp; 90&#x27;s."
         },
         {
-            "name": "summer",
-            "pid": 512,
-            "num_tracks": 25,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "SAFIA",
-                    "track_uri": "spotify:track:34wyGSk9mbzpLCZ1szMMfD",
-                    "track_name": "Make Them Wheels Roll"
-                },
-                {
-                    "artist_name": "SAFIA",
-                    "track_uri": "spotify:track:2nwOFUfadMDK4H8kuBYdpa",
-                    "track_name": "Listen to Soul, Listen to Blues"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:1xznGGDReH1oQq0xzbwXa3",
-                    "track_name": "One Dance"
-                },
-                {
-                    "artist_name": "Rihanna",
-                    "track_uri": "spotify:track:6WAxKNbZoGNzQTIvdMqkFs",
-                    "track_name": "Sex With Me"
-                },
-                {
-                    "artist_name": "Aeroplane",
-                    "track_uri": "spotify:track:6w79MKNkJO0UR717WCuqWW",
-                    "track_name": "Without Lies - Breakbot Remix"
-                },
-                {
-                    "artist_name": "Classixx",
-                    "track_uri": "spotify:track:2TFGOJ3Xf6TA5pWMemz9QH",
-                    "track_name": "Whatever I Want (feat. T-Pain)"
-                },
-                {
-                    "artist_name": "Rihanna",
-                    "track_uri": "spotify:track:1Tt4sE4pXi57mTD1GCzsqm",
-                    "track_name": "Needed Me"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:6F609ICg9Spjrw1epsAnpa",
-                    "track_name": "Controlla"
-                },
-                {
-                    "artist_name": "Amy Winehouse",
-                    "track_uri": "spotify:track:1O92Kw6CTPxdp3jzdbUaEN",
-                    "track_name": "Stronger Than Me"
-                },
-                {
-                    "artist_name": "Ta-ku",
-                    "track_uri": "spotify:track:0FmNto7IjAoSztH43VlN8H",
-                    "track_name": "Meet In The Middle"
-                },
-                {
-                    "artist_name": "Gus Dapperton",
-                    "track_uri": "spotify:track:6QHD3WBERQyFqbNHdsRq4j",
-                    "track_name": "Moodna, Once with Grace"
-                },
-                {
-                    "artist_name": "ODESZA",
-                    "track_uri": "spotify:track:6oSUPXy9mecemxpzrwhLaC",
-                    "track_name": "It\u2019s Only (feat. Zyra) - LuQuS Remix"
-                },
-                {
-                    "artist_name": "Kenton Slash Demon",
-                    "track_uri": "spotify:track:42QpjzPG3QCjPRQuNKYpkD",
-                    "track_name": "Peace"
-                },
-                {
-                    "artist_name": "Snakehips",
-                    "track_uri": "spotify:track:6TaqooOXAEcijL6G1AWS2K",
-                    "track_name": "All My Friends"
-                },
-                {
-                    "artist_name": "Shura",
-                    "track_uri": "spotify:track:51KSAFcz2fbf3SiIVSkCj9",
-                    "track_name": "Touch"
-                },
-                {
-                    "artist_name": "Lil' Kleine",
-                    "track_uri": "spotify:track:37NZqOoR0dw71kbDCRnsKc",
-                    "track_name": "Drank & Drugs"
-                },
-                {
-                    "artist_name": "Kazy Lambist",
-                    "track_uri": "spotify:track:1i8S8b09hPcQEpi3U5cuwy",
-                    "track_name": "Headson"
-                },
-                {
-                    "artist_name": "Post Malone",
-                    "track_uri": "spotify:track:5yuShbu70mtHXY0yLzCQLQ",
-                    "track_name": "Go Flex"
-                },
-                {
-                    "artist_name": "Berner",
-                    "track_uri": "spotify:track:6vSmfVyxYCm6D1VVXp2knn",
-                    "track_name": "20 Joints"
-                },
-                {
-                    "artist_name": "ZHU",
-                    "track_uri": "spotify:track:7CNRVEMSXo0fRJwZyM0L2n",
-                    "track_name": "Hometown Girl"
-                },
-                {
-                    "artist_name": "Tinie Tempah",
-                    "track_uri": "spotify:track:5BOZ4skcMubA0R6RD4zf64",
-                    "track_name": "Girls Like (feat. Zara Larsson)"
-                },
-                {
-                    "artist_name": "KINGDM",
-                    "track_uri": "spotify:track:0pKcq6guxdsiICZGZ20YCu",
-                    "track_name": "Can't Get Over You"
-                },
-                {
-                    "artist_name": "Tinie Tempah",
-                    "track_uri": "spotify:track:7DPUbGRbYdFsQSAnHaVTZF",
-                    "track_name": "Not Letting Go (feat. Jess Glynne)"
-                },
-                {
-                    "artist_name": "Tinie Tempah",
-                    "track_uri": "spotify:track:4iWaMqLGAHUb4z9fjbt3j6",
-                    "track_name": "Mamacita (feat. Wizkid)"
-                },
-                {
-                    "artist_name": "L D R U",
-                    "track_uri": "spotify:track:0g1BxXBhdbhImlgjJoIGal",
-                    "track_name": "Keeping Score"
-                }
-            ],
-            "num_edits": 15,
-            "duration_ms": 5239437,
-            "num_artists": 20
-        },
-        {
             "name": "Jazz",
-            "pid": 513,
+            "pid": 388,
             "num_tracks": 8,
             "num_followers": 31,
             "tracks": [
@@ -1341,69 +1205,8 @@
             "num_artists": 7
         },
         {
-            "name": "Dormir",
-            "pid": 514,
-            "num_tracks": 10,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "DJ Antoine",
-                    "track_uri": "spotify:track:2BZyW7X7zW4bvWKc1nMtnZ",
-                    "track_name": "Ma ch\u00e9rie 2k12 - DJ Antoine Vs Mad Mark 2k12 Radio Edit"
-                },
-                {
-                    "artist_name": "Los Fabulosos Cadillacs",
-                    "track_uri": "spotify:track:1orgfjGJoycODSItcGVatE",
-                    "track_name": "Siguiendo La Luna - Remasterizado 2008"
-                },
-                {
-                    "artist_name": "Cultura Prof\u00e9tica",
-                    "track_uri": "spotify:track:1rWksds0t6BM5phg9qeEKv",
-                    "track_name": "Baja la tensi\u00f3n"
-                },
-                {
-                    "artist_name": "Cultura Prof\u00e9tica",
-                    "track_uri": "spotify:track:2jz6smAw1Pzy7Gs5AJACv3",
-                    "track_name": "La complicidad"
-                },
-                {
-                    "artist_name": "Cultura Prof\u00e9tica",
-                    "track_uri": "spotify:track:4sw1IkdB8ptKJLIu92kfUa",
-                    "track_name": "Ritmo Que Pesa"
-                },
-                {
-                    "artist_name": "Cultura Prof\u00e9tica",
-                    "track_uri": "spotify:track:2K2YkSn2utzsRntEClbyB8",
-                    "track_name": "Ilegal"
-                },
-                {
-                    "artist_name": "MAGIC!",
-                    "track_uri": "spotify:track:6RtPijgfPKROxEzTHNRiDp",
-                    "track_name": "Rude"
-                },
-                {
-                    "artist_name": "MAGIC!",
-                    "track_uri": "spotify:track:5xHooj89TQoQHj3dALvSh1",
-                    "track_name": "No Way No"
-                },
-                {
-                    "artist_name": "La Mosca Tse-Tse",
-                    "track_uri": "spotify:track:6Y5k0NupErwLzOQXDxfVFa",
-                    "track_name": "Te Quiero Comer La Boca"
-                },
-                {
-                    "artist_name": "Cultura Prof\u00e9tica",
-                    "track_uri": "spotify:track:371wHShA5ERqTuwuRj8xgG",
-                    "track_name": "Rimas pa' seducir"
-                }
-            ],
-            "num_edits": 4,
-            "duration_ms": 2617050,
-            "num_artists": 5
-        },
-        {
             "name": "Funky",
-            "pid": 515,
+            "pid": 389,
             "num_tracks": 53,
             "num_followers": 13,
             "tracks": [
@@ -1679,7 +1482,7 @@
         },
         {
             "name": "Begin Again - Music From And Inspired By The Original Motion Picture",
-            "pid": 516,
+            "pid": 390,
             "num_tracks": 17,
             "num_followers": 72,
             "tracks": [

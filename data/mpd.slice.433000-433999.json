@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Saturday Mornings",
-            "pid": 2904,
+            "pid": 2211,
             "num_tracks": 74,
             "num_followers": 42,
             "tracks": [
@@ -388,7 +388,7 @@
         },
         {
             "name": "The Amity Affliction",
-            "pid": 2905,
+            "pid": 2212,
             "num_tracks": 115,
             "num_followers": 14,
             "tracks": [
@@ -973,380 +973,8 @@
             "num_artists": 48
         },
         {
-            "name": "Flashback",
-            "pid": 2906,
-            "num_tracks": 72,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Mike Posner",
-                    "track_uri": "spotify:track:2DPYlWl50ydYsnnuryL5aX",
-                    "track_name": "Cooler Than Me"
-                },
-                {
-                    "artist_name": "B.o.B",
-                    "track_uri": "spotify:track:59dLtGBS26x7kc0rHbaPrq",
-                    "track_name": "Nothin' On You (feat. Bruno Mars)"
-                },
-                {
-                    "artist_name": "Maroon 5",
-                    "track_uri": "spotify:track:1XGmzt0PVuFgQYYnV2It7A",
-                    "track_name": "Payphone"
-                },
-                {
-                    "artist_name": "Paramore",
-                    "track_uri": "spotify:track:1j8z4TTjJ1YOdoFEDwJTQa",
-                    "track_name": "Ain't It Fun"
-                },
-                {
-                    "artist_name": "Train",
-                    "track_uri": "spotify:track:6mghCOaaSvrke0z1EUVUIf",
-                    "track_name": "Hey, Soul Sister"
-                },
-                {
-                    "artist_name": "Plain White T's",
-                    "track_uri": "spotify:track:4RCWB3V8V0dignt99LZ8vH",
-                    "track_name": "Hey There Delilah"
-                },
-                {
-                    "artist_name": "T.I.",
-                    "track_uri": "spotify:track:3jlbL2OTD5YmIunYzgQTAN",
-                    "track_name": "Live Your Life (feat. Rihanna)"
-                },
-                {
-                    "artist_name": "Jason Mraz",
-                    "track_uri": "spotify:track:3S0OXQeoh0w6AY8WQVckRW",
-                    "track_name": "I'm Yours"
-                },
-                {
-                    "artist_name": "Colbie Caillat",
-                    "track_uri": "spotify:track:1lkvpmrCaXK8QtliFDcHBO",
-                    "track_name": "Bubbly"
-                },
-                {
-                    "artist_name": "T.I.",
-                    "track_uri": "spotify:track:1IAzD1muglOxOcPbUHs70R",
-                    "track_name": "Whatever You Like"
-                },
-                {
-                    "artist_name": "Jason Derulo",
-                    "track_uri": "spotify:track:6BaxqcoEM9r3LXisTyJjST",
-                    "track_name": "Ridin' Solo"
-                },
-                {
-                    "artist_name": "Akon",
-                    "track_uri": "spotify:track:4rqR0yM2k41leqyErhNzTs",
-                    "track_name": "Beautiful"
-                },
-                {
-                    "artist_name": "Akon",
-                    "track_uri": "spotify:track:1ARJhjuI6TNYZCxYygFQ4F",
-                    "track_name": "Right Now (Na Na Na)"
-                },
-                {
-                    "artist_name": "Chris Brown",
-                    "track_uri": "spotify:track:1CdkNxTlkUWR4ZnXcKES3b",
-                    "track_name": "With You"
-                },
-                {
-                    "artist_name": "Smash Mouth",
-                    "track_uri": "spotify:track:3cfOd4CMv2snFaKAnMdnvK",
-                    "track_name": "All Star"
-                },
-                {
-                    "artist_name": "Kardinal Offishall",
-                    "track_uri": "spotify:track:4JFM7KpVxgPXargA4rzB60",
-                    "track_name": "Dangerous"
-                },
-                {
-                    "artist_name": "Ne-Yo",
-                    "track_uri": "spotify:track:2nbClS09zsIAqNkshg6jnp",
-                    "track_name": "Closer"
-                },
-                {
-                    "artist_name": "Nelly",
-                    "track_uri": "spotify:track:06iMqWThw4w8fTFyccvOwr",
-                    "track_name": "Ride Wit Me"
-                },
-                {
-                    "artist_name": "The Black Eyed Peas",
-                    "track_uri": "spotify:track:0uqPG793dkDDN7sCUJJIVC",
-                    "track_name": "Where Is The Love?"
-                },
-                {
-                    "artist_name": "Bruno Mars",
-                    "track_uri": "spotify:track:4lLtanYk6tkMvooU0tWzG8",
-                    "track_name": "Grenade"
-                },
-                {
-                    "artist_name": "Bruno Mars",
-                    "track_uri": "spotify:track:0B7wvvmu9EISAwZnOpjhNI",
-                    "track_name": "When I Was Your Man"
-                },
-                {
-                    "artist_name": "Bruno Mars",
-                    "track_uri": "spotify:track:7BqBn9nzAq8spo5e7cZ0dJ",
-                    "track_name": "Just the Way You Are"
-                },
-                {
-                    "artist_name": "Nelly",
-                    "track_uri": "spotify:track:4nthV2eZAXnt4yiJMocLkG",
-                    "track_name": "Dilemma"
-                },
-                {
-                    "artist_name": "Sean Kingston",
-                    "track_uri": "spotify:track:1hGy2eLcmC8eKx7qr1tOqx",
-                    "track_name": "Beautiful Girls"
-                },
-                {
-                    "artist_name": "Jeremih",
-                    "track_uri": "spotify:track:4NpDZPwSXmL0cCTaJuVrCw",
-                    "track_name": "Birthday Sex"
-                },
-                {
-                    "artist_name": "Ne-Yo",
-                    "track_uri": "spotify:track:34ceTg8ChN5HjrqiIYCn9Q",
-                    "track_name": "Miss Independent"
-                },
-                {
-                    "artist_name": "Jay Sean",
-                    "track_uri": "spotify:track:6A5NlmBCsCGbJ27jHQgKV5",
-                    "track_name": "Do You Remember"
-                },
-                {
-                    "artist_name": "Jay Sean",
-                    "track_uri": "spotify:track:6cmm1LMvZdB5zsCwX5BjqE",
-                    "track_name": "Down"
-                },
-                {
-                    "artist_name": "Chris Brown",
-                    "track_uri": "spotify:track:7DFnq8FYhHMCylykf6ZCxA",
-                    "track_name": "Yo (Excuse Me Miss)"
-                },
-                {
-                    "artist_name": "Travie McCoy",
-                    "track_uri": "spotify:track:2qPUnoasNe4Ep43emVXEig",
-                    "track_name": "Billionaire (feat. Bruno Mars)"
-                },
-                {
-                    "artist_name": "Lil Wayne",
-                    "track_uri": "spotify:track:4aX4Oycsk1fhHIee1zqsDe",
-                    "track_name": "How To Love"
-                },
-                {
-                    "artist_name": "Bad Meets Evil",
-                    "track_uri": "spotify:track:4BWBbJ9MKpnt30SFYEomzJ",
-                    "track_name": "Lighters"
-                },
-                {
-                    "artist_name": "Gym Class Heroes",
-                    "track_uri": "spotify:track:0qOnSQQF0yzuPWsXrQ9paz",
-                    "track_name": "Stereo Hearts (feat. Adam Levine) - feat. Adam Levine"
-                },
-                {
-                    "artist_name": "Ne-Yo",
-                    "track_uri": "spotify:track:4SRqDmPxYX0pUb5B5ut2Ri",
-                    "track_name": "So Sick"
-                },
-                {
-                    "artist_name": "Ne-Yo",
-                    "track_uri": "spotify:track:34ceTg8ChN5HjrqiIYCn9Q",
-                    "track_name": "Miss Independent"
-                },
-                {
-                    "artist_name": "Kanye West",
-                    "track_uri": "spotify:track:53gcDgFyqqpvCzXWrnFZpH",
-                    "track_name": "Heartless"
-                },
-                {
-                    "artist_name": "The Wanted",
-                    "track_uri": "spotify:track:6nHqns54LRqDNjeqKDF3v8",
-                    "track_name": "Glad You Came"
-                },
-                {
-                    "artist_name": "Bruno Mars",
-                    "track_uri": "spotify:track:386RUes7n1uM1yfzgeUuwp",
-                    "track_name": "The Lazy Song"
-                },
-                {
-                    "artist_name": "Kanye West",
-                    "track_uri": "spotify:track:22L7bfCiAkJo5xGSQgmiIO",
-                    "track_name": "All Of The Lights"
-                },
-                {
-                    "artist_name": "Bruno Mars",
-                    "track_uri": "spotify:track:6SKwQghsR8AISlxhcwyA9R",
-                    "track_name": "Marry You"
-                },
-                {
-                    "artist_name": "Train",
-                    "track_uri": "spotify:track:7zWj09xkFgA9tcV6YhfU6q",
-                    "track_name": "Drive By"
-                },
-                {
-                    "artist_name": "Bruno Mars",
-                    "track_uri": "spotify:track:7l1qvxWjxcKpB9PCtBuTbU",
-                    "track_name": "Count On Me"
-                },
-                {
-                    "artist_name": "Bruno Mars",
-                    "track_uri": "spotify:track:5g7sDjBhZ4I3gcFIpkrLuI",
-                    "track_name": "Locked Out Of Heaven"
-                },
-                {
-                    "artist_name": "Charlie Puth",
-                    "track_uri": "spotify:track:6vSforRhuzsA0D0SO9fG1S",
-                    "track_name": "One Call Away"
-                },
-                {
-                    "artist_name": "Andy Grammer",
-                    "track_uri": "spotify:track:4wTChU0tU44TAMC0xcQizi",
-                    "track_name": "Fine By Me"
-                },
-                {
-                    "artist_name": "Jason Derulo",
-                    "track_uri": "spotify:track:67T6l4q3zVjC5nZZPXByU8",
-                    "track_name": "Whatcha Say"
-                },
-                {
-                    "artist_name": "Usher",
-                    "track_uri": "spotify:track:68vgtRHr7iZHpzGpon6Jlo",
-                    "track_name": "My Boo"
-                },
-                {
-                    "artist_name": "B.o.B",
-                    "track_uri": "spotify:track:6lV2MSQmRIkycDScNtrBXO",
-                    "track_name": "Airplanes (feat. Hayley Williams of Paramore) - Explicit Album Version"
-                },
-                {
-                    "artist_name": "B.o.B",
-                    "track_uri": "spotify:track:2bnDTGikdoO8CwzlAPyBHR",
-                    "track_name": "Airplanes, Part II (feat Eminem & Hayley Williams of Paramore) - Explicit Album Version"
-                },
-                {
-                    "artist_name": "Kanye West",
-                    "track_uri": "spotify:track:5XJJdNPkwmbUwE79gv0NxK",
-                    "track_name": "Gold Digger"
-                },
-                {
-                    "artist_name": "Kanye West",
-                    "track_uri": "spotify:track:6mxyfdyF4LD7PctU3UNyjF",
-                    "track_name": "Touch The Sky"
-                },
-                {
-                    "artist_name": "Kanye West",
-                    "track_uri": "spotify:track:22L7bfCiAkJo5xGSQgmiIO",
-                    "track_name": "All Of The Lights"
-                },
-                {
-                    "artist_name": "R. Kelly",
-                    "track_uri": "spotify:track:5dNfHmqgr128gMY2tc5CeJ",
-                    "track_name": "Ignition - Remix"
-                },
-                {
-                    "artist_name": "Diddy - Dirty Money",
-                    "track_uri": "spotify:track:47hs3xNT3iOGvgmC4eXBAi",
-                    "track_name": "Coming Home"
-                },
-                {
-                    "artist_name": "OutKast",
-                    "track_uri": "spotify:track:2PpruBYCo4H7WOBJ7Q2EwM",
-                    "track_name": "Hey Ya! - Radio Mix / Club Mix"
-                },
-                {
-                    "artist_name": "Bruno Mars",
-                    "track_uri": "spotify:track:4G2Hbfwvn3oH7LxxPXjjGn",
-                    "track_name": "Treasure"
-                },
-                {
-                    "artist_name": "P!nk",
-                    "track_uri": "spotify:track:1mKXFLRA179hdOWQBwUk9e",
-                    "track_name": "Just Give Me a Reason"
-                },
-                {
-                    "artist_name": "Iyaz",
-                    "track_uri": "spotify:track:4E5P1XyAFtrjpiIxkydly4",
-                    "track_name": "Replay"
-                },
-                {
-                    "artist_name": "Jeremy Passion",
-                    "track_uri": "spotify:track:5nJzWhlrBfn3cfDLlaAgAO",
-                    "track_name": "Lemonade - Ukulele Version"
-                },
-                {
-                    "artist_name": "Traphik",
-                    "track_uri": "spotify:track:3i5rabdkw8HrRDdz0EmHrG",
-                    "track_name": "It Feels Good"
-                },
-                {
-                    "artist_name": "The Black Eyed Peas",
-                    "track_uri": "spotify:track:56EOIzK05XoFLajxKbHP2R",
-                    "track_name": "The Apl Song"
-                },
-                {
-                    "artist_name": "Bruno Mars",
-                    "track_uri": "spotify:track:7hCNBVRhHzcsRAv0TQnOzq",
-                    "track_name": "Runaway Baby"
-                },
-                {
-                    "artist_name": "Bruno Mars",
-                    "track_uri": "spotify:track:1ewMCmw7qCb5a9ttqiyemu",
-                    "track_name": "Liquor Store Blues (feat. Damian Marley)"
-                },
-                {
-                    "artist_name": "Bruno Mars",
-                    "track_uri": "spotify:track:0B0tYbVp7pDQAqKDhgMeaL",
-                    "track_name": "Too Good To Say Goodbye"
-                },
-                {
-                    "artist_name": "Bruno Mars",
-                    "track_uri": "spotify:track:7hTINtDW5V8tWMJvi4HH7v",
-                    "track_name": "If I Knew"
-                },
-                {
-                    "artist_name": "Jason Mraz",
-                    "track_uri": "spotify:track:2qLMf6TuEC3ruGJg4SMMN6",
-                    "track_name": "Lucky"
-                },
-                {
-                    "artist_name": "Alicia Keys",
-                    "track_uri": "spotify:track:3XVBdLihbNbxUwZosxcGuJ",
-                    "track_name": "If I Ain't Got You"
-                },
-                {
-                    "artist_name": "Jeremih",
-                    "track_uri": "spotify:track:0wpbHnOW0zVUtV10LSj9c9",
-                    "track_name": "Down On Me"
-                },
-                {
-                    "artist_name": "Shaggy",
-                    "track_uri": "spotify:track:1lzr43nnXAijIGYnCT8M8H",
-                    "track_name": "It Wasn't Me"
-                },
-                {
-                    "artist_name": "Maroon 5",
-                    "track_uri": "spotify:track:5qII2n90lVdPDcgXEEVHNy",
-                    "track_name": "Sunday Morning"
-                },
-                {
-                    "artist_name": "Vance Joy",
-                    "track_uri": "spotify:track:7yq4Qj7cqayVTp3FF9CWbm",
-                    "track_name": "Riptide"
-                },
-                {
-                    "artist_name": "Plain White T's",
-                    "track_uri": "spotify:track:6MDTpYxPFL0wtFd0pjfKws",
-                    "track_name": "Rhythm Of Love"
-                }
-            ],
-            "num_edits": 12,
-            "duration_ms": 16453048,
-            "num_artists": 40,
-            "description": "I named it flashback cause im not basic like all the other guys who call it throwback."
-        },
-        {
             "name": "Chillout",
-            "pid": 2907,
+            "pid": 2213,
             "num_tracks": 53,
             "num_followers": 17,
             "tracks": [
@@ -1622,7 +1250,7 @@
         },
         {
             "name": "ff",
-            "pid": 2908,
+            "pid": 2214,
             "num_tracks": 39,
             "num_followers": 13,
             "tracks": [
@@ -1828,7 +1456,7 @@
         },
         {
             "name": "Water",
-            "pid": 2909,
+            "pid": 2215,
             "num_tracks": 148,
             "num_followers": 15,
             "tracks": [
@@ -2579,7 +2207,7 @@
         },
         {
             "name": "My fave songs",
-            "pid": 2910,
+            "pid": 2216,
             "num_tracks": 11,
             "num_followers": 18,
             "tracks": [

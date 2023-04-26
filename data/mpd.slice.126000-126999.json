@@ -6,505 +6,8 @@
     },
     "playlists": [
         {
-            "name": "Spanish Trap",
-            "pid": 205,
-            "num_tracks": 72,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Farruko",
-                    "track_uri": "spotify:track:7kOnT8JJowZBrtwCE2sHdv",
-                    "track_name": "Diabla"
-                },
-                {
-                    "artist_name": "Farruko",
-                    "track_uri": "spotify:track:2FrnTVSHjgnEylKGdHRUK1",
-                    "track_name": "Diles (feat. Arcangel, Nengo Flow, Dj Luian & Mambo Kings)"
-                },
-                {
-                    "artist_name": "Anuel Aa",
-                    "track_uri": "spotify:track:5q2JbCNi4FcnglgPfxcV65",
-                    "track_name": "Sola (Remix) [feat. Daddy Yankee, Wisin, Farruko, Zion & Lennox]"
-                },
-                {
-                    "artist_name": "Pepe Quintana",
-                    "track_uri": "spotify:track:2rEkxxDFjrbiNjZZvzZf5q",
-                    "track_name": "Ella y Yo (feat. Farruko, Tempo, Anuel Aa, Almighty & Bryant Myers)"
-                },
-                {
-                    "artist_name": "Bryant Myers",
-                    "track_uri": "spotify:track:1RBY0rTVoWMVb3eCTbTSjP",
-                    "track_name": "Por Qu\u00e9 Sigues Con \u00c9l - Remix"
-                },
-                {
-                    "artist_name": "Ozuna",
-                    "track_uri": "spotify:track:6041gM9Th1ViQcnzkIxnuv",
-                    "track_name": "Me Ama Me Odia"
-                },
-                {
-                    "artist_name": "Lary Over",
-                    "track_uri": "spotify:track:3l6TlMpgQRKGlWQeg2Q3GF",
-                    "track_name": "Tu Me Enamoraste (Remix) [feat. Anuel, Bryant Myers, Almighty & Brytiago]"
-                },
-                {
-                    "artist_name": "Noriel",
-                    "track_uri": "spotify:track:1MlskGK4ubv2Nx1TzFMx1n",
-                    "track_name": "La Llamada (Remix) [feat. Brytiago, Bryant Myers, Darkiel & Almighty]"
-                },
-                {
-                    "artist_name": "Noriel",
-                    "track_uri": "spotify:track:4zbok3tDaKsnL76CQ07L4L",
-                    "track_name": "Quieres Enamorarme"
-                },
-                {
-                    "artist_name": "Maluma",
-                    "track_uri": "spotify:track:0JoHqmlqE0W0i9prt6kcHR",
-                    "track_name": "Cuatro Babys"
-                },
-                {
-                    "artist_name": "Noriel",
-                    "track_uri": "spotify:track:62NeZ2Vtrz5HgtQibleMNs",
-                    "track_name": "Diablita"
-                },
-                {
-                    "artist_name": "Noriel",
-                    "track_uri": "spotify:track:2rnvFmtBu8L32HcFXgBf9F",
-                    "track_name": "La Paso Cabr\u00f3n"
-                },
-                {
-                    "artist_name": "Nio Garcia",
-                    "track_uri": "spotify:track:5nmjKirANXdwZk5HcpmmNH",
-                    "track_name": "Volverte A Ver (feat. Anuel Aa & Bryant Myers)"
-                },
-                {
-                    "artist_name": "El Alfa",
-                    "track_uri": "spotify:track:1appeARJNMsAD2TCKhbS6y",
-                    "track_name": "Dema Ga Ge Gi Go Gu"
-                },
-                {
-                    "artist_name": "Bad Bunny",
-                    "track_uri": "spotify:track:5MT96Zz0ymUJNm8obKZQr0",
-                    "track_name": "Soy Peor"
-                },
-                {
-                    "artist_name": "Arcangel",
-                    "track_uri": "spotify:track:6NSMQFKgjpQb0KkjMDYIK0",
-                    "track_name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)"
-                },
-                {
-                    "artist_name": "Arcangel",
-                    "track_uri": "spotify:track:3LgtCt7CVhMvNSMGoQD9i1",
-                    "track_name": "Me Llamas"
-                },
-                {
-                    "artist_name": "Maluma",
-                    "track_uri": "spotify:track:01vHGJRvJ6EZW9KO8NtZpi",
-                    "track_name": "Un Polvo"
-                },
-                {
-                    "artist_name": "Brytiago",
-                    "track_uri": "spotify:track:63F3v5fl2h5ByplXD8w1tV",
-                    "track_name": "Punto G (feat. Darell)"
-                },
-                {
-                    "artist_name": "Brytiago",
-                    "track_uri": "spotify:track:5dSTD7gDvHV2oR7u2NuQ96",
-                    "track_name": "Hag\u00e1moslo"
-                },
-                {
-                    "artist_name": "Juhn",
-                    "track_uri": "spotify:track:2oSLptm3VY9mVhxvCNKpfw",
-                    "track_name": "Ahora Me Llama (Remix) [feat. Bryant Myers, Anonimus, Noriel, Brytiago & MikyWoodz]"
-                },
-                {
-                    "artist_name": "Santana the Golden Boy",
-                    "track_uri": "spotify:track:7DWgF6bsbk9ITB91GfGK6N",
-                    "track_name": "En Su Nota"
-                },
-                {
-                    "artist_name": "Los Eleven",
-                    "track_uri": "spotify:track:7dKzXQb3K8irtPC2xtmcsJ",
-                    "track_name": "D\u00e9j\u00e0 vu"
-                },
-                {
-                    "artist_name": "Rvssian",
-                    "track_uri": "spotify:track:11zRKpjEZwmcBBBGzB4pMn",
-                    "track_name": "Privado"
-                },
-                {
-                    "artist_name": "DJ Kadel",
-                    "track_uri": "spotify:track:0rcqj0D6clCaFWKPN9GkYu",
-                    "track_name": "La 69"
-                },
-                {
-                    "artist_name": "J Alvarez",
-                    "track_uri": "spotify:track:19fJTidc1SDh3Odly4lT3J",
-                    "track_name": "Tu Veneno"
-                },
-                {
-                    "artist_name": "Ozuna",
-                    "track_uri": "spotify:track:0QetVR4wwvyiTezQeFNdeZ",
-                    "track_name": "En La Intimidad"
-                },
-                {
-                    "artist_name": "Gigolo",
-                    "track_uri": "spotify:track:4dHclKrthlMHUPOWfRb9vp",
-                    "track_name": "Nasty (Official Remix) [feat. Farruko, Messiah & Almighty]"
-                },
-                {
-                    "artist_name": "Bad Bunny",
-                    "track_uri": "spotify:track:17nOaHsTn06jxuU9NpHuFU",
-                    "track_name": "Pa Ti"
-                },
-                {
-                    "artist_name": "Pepe Quintana",
-                    "track_uri": "spotify:track:6Nzq7iIxg5w9ipnCd15sQt",
-                    "track_name": "Te Lo Meto Yo (feat. Bad Bunny, Lary Over, Farruko, Arcangel & Tempo)"
-                },
-                {
-                    "artist_name": "Revol",
-                    "track_uri": "spotify:track:626rYyBfeAeleh1F5t4B70",
-                    "track_name": "Caile (feat. Zion & De La Ghetto)"
-                },
-                {
-                    "artist_name": "Mym",
-                    "track_uri": "spotify:track:3rnVI6t735qm9swZfL3p6q",
-                    "track_name": "Adderall"
-                },
-                {
-                    "artist_name": "Brytiago",
-                    "track_uri": "spotify:track:0swhRlMVAFZUralMYJ7RAj",
-                    "track_name": "Punto G - Remix"
-                },
-                {
-                    "artist_name": "DJ Luian",
-                    "track_uri": "spotify:track:1M9gupJZxS3LdK8R6UZfYH",
-                    "track_name": "La Ocasi\u00f3n - Remix"
-                },
-                {
-                    "artist_name": "Farruko",
-                    "track_uri": "spotify:track:2OxUtaKYeahAGNaBiahXtR",
-                    "track_name": "Diabla - Official Remix"
-                },
-                {
-                    "artist_name": "J Alvarez",
-                    "track_uri": "spotify:track:6HfqZrk1nP3Nowri3TXIoz",
-                    "track_name": "Bebiendo y Fumando"
-                },
-                {
-                    "artist_name": "Noriel",
-                    "track_uri": "spotify:track:7MWdzTTeGQF7xsXB25DIjS",
-                    "track_name": "Desobediente (feat. Alexis Y Fido)"
-                },
-                {
-                    "artist_name": "J Balvin",
-                    "track_uri": "spotify:track:0RFFFGtPn6a58RHY3ccVYX",
-                    "track_name": "Si Tu Novio Te Deja Sola"
-                },
-                {
-                    "artist_name": "Jory Boy",
-                    "track_uri": "spotify:track:5hKjEpYrJIJs6uPl7zw6Y6",
-                    "track_name": "No Te Hagas"
-                },
-                {
-                    "artist_name": "Chris Jeday",
-                    "track_uri": "spotify:track:22eADXu8DfOAUEDw4vU8qy",
-                    "track_name": "Ahora Dice"
-                },
-                {
-                    "artist_name": "Alexis y Fido",
-                    "track_uri": "spotify:track:1GpBcCRShuLTp4gz1Udc8n",
-                    "track_name": "T\u00f3cate Tu Misma"
-                },
-                {
-                    "artist_name": "Juhn",
-                    "track_uri": "spotify:track:3rF6sA3AIGEtqXOc5RMm6K",
-                    "track_name": "Puerta Abierta (feat. Bad Bunny & Noriel)"
-                },
-                {
-                    "artist_name": "Bad Bunny",
-                    "track_uri": "spotify:track:2wgDAPgBhFA7pnIbm0YOhP",
-                    "track_name": "Me Mata"
-                },
-                {
-                    "artist_name": "Jantony",
-                    "track_uri": "spotify:track:25U0wXA96Ycryw4RDZqiAV",
-                    "track_name": "Demonia Baila (feat. Bad Bunny & Brytiago)"
-                },
-                {
-                    "artist_name": "Anuel Aa",
-                    "track_uri": "spotify:track:4J1e3hbf0e5YUZjkxyJWD3",
-                    "track_name": "La \u00daltima Vez"
-                },
-                {
-                    "artist_name": "Bryant Myers",
-                    "track_uri": "spotify:track:3HnUVp1Z5Xeecl6RDa7eD9",
-                    "track_name": "Un Ratito Mas (feat. Bad Bunny)"
-                },
-                {
-                    "artist_name": "Bryant Myers",
-                    "track_uri": "spotify:track:21lnmphofXWWeSSx0PEMjc",
-                    "track_name": "Un Ratito Mas"
-                },
-                {
-                    "artist_name": "Bad Bunny",
-                    "track_uri": "spotify:track:3uPLiBTUgz7wrGJ2mw1rzM",
-                    "track_name": "Blockia"
-                },
-                {
-                    "artist_name": "Sammy & Falsetto",
-                    "track_uri": "spotify:track:7yEzGLSb4ruu2v2PsIwTAK",
-                    "track_name": "Momento"
-                },
-                {
-                    "artist_name": "Juhn",
-                    "track_uri": "spotify:track:0Dt2O2RcGY4zdaNXclo1bk",
-                    "track_name": "Apaga el Celular (feat. Bryant Myers)"
-                },
-                {
-                    "artist_name": "Yexian",
-                    "track_uri": "spotify:track:6fKb3WKENmGwopNxj3seRP",
-                    "track_name": "Desde Que Te Com\u00ed"
-                },
-                {
-                    "artist_name": "Pepe Quintana",
-                    "track_uri": "spotify:track:7gLApUvGknNvpqeRtgp7S9",
-                    "track_name": "Si Me Muero (feat. Farruko, Lary Over, Nengo Flow & Darell)"
-                },
-                {
-                    "artist_name": "Lary Over",
-                    "track_uri": "spotify:track:69M7ZcGR8iI57HNOD3bvxM",
-                    "track_name": "Que Tengo Que Hacer"
-                },
-                {
-                    "artist_name": "Bad Bunny",
-                    "track_uri": "spotify:track:4UG962ViiLqoUyx0RjCcwP",
-                    "track_name": "Soy Peor Remix (feat. J Balvin, Ozuna & Arcangel)"
-                },
-                {
-                    "artist_name": "Miky Woodz",
-                    "track_uri": "spotify:track:0xBRCnr2dyUBebAhfIDYL2",
-                    "track_name": "Aparentas"
-                },
-                {
-                    "artist_name": "Brytiago",
-                    "track_uri": "spotify:track:5gFAT2DbEt4TOMXyAMEixG",
-                    "track_name": "Netflixxx"
-                },
-                {
-                    "artist_name": "Wisin",
-                    "track_uri": "spotify:track:5P45f6HakSHDwdFj5dO5K5",
-                    "track_name": "Esc\u00e1pate Conmigo - Remix"
-                },
-                {
-                    "artist_name": "Ozuna",
-                    "track_uri": "spotify:track:5EId1m4DNwTf3at31w8bPJ",
-                    "track_name": "El Farsante"
-                },
-                {
-                    "artist_name": "Rvssian",
-                    "track_uri": "spotify:track:2naJy8SKJ27gj6ZhRPDKaz",
-                    "track_name": "Si Tu Lo Dejas"
-                },
-                {
-                    "artist_name": "Farruko",
-                    "track_uri": "spotify:track:7FfpP3YZ6fOWMdxkIAtud9",
-                    "track_name": "Krippy Kush"
-                },
-                {
-                    "artist_name": "Dayme y El High",
-                    "track_uri": "spotify:track:2ozKWxJMkclxV9AejIyED8",
-                    "track_name": "Busy (feat. Noriel & Gaviria)"
-                },
-                {
-                    "artist_name": "Reykon",
-                    "track_uri": "spotify:track:6lsXYMxGQVcMsgqQDav4Ii",
-                    "track_name": "Pa Eso (feat. Bryant Myers)"
-                },
-                {
-                    "artist_name": "Yandel",
-                    "track_uri": "spotify:track:1LszjjoVwDDZcWUQbzeDLG",
-                    "track_name": "Expl\u00edcale"
-                },
-                {
-                    "artist_name": "Gigolo Y La Exce",
-                    "track_uri": "spotify:track:3iDPALl8BoUbuXZgy6EOWY",
-                    "track_name": "Sexto Sentido (feat. Bad Bunny)"
-                },
-                {
-                    "artist_name": "Noriel",
-                    "track_uri": "spotify:track:6F23RA4YzxmSOS7StCKEXb",
-                    "track_name": "Doble Personalidad"
-                },
-                {
-                    "artist_name": "Ozuna",
-                    "track_uri": "spotify:track:7IteHlPcwD5mzvkXZmimLI",
-                    "track_name": "Pide Lo Que T\u00fa Quieras"
-                },
-                {
-                    "artist_name": "Farruko",
-                    "track_uri": "spotify:track:4XgcpHJAulT6gSTPFODnB7",
-                    "track_name": "Pure"
-                },
-                {
-                    "artist_name": "J Alvarez",
-                    "track_uri": "spotify:track:3NZerG5aPauXkTKJrSfbco",
-                    "track_name": "6 de la Morning"
-                },
-                {
-                    "artist_name": "Farruko",
-                    "track_uri": "spotify:track:3wKPZXhC7OfBShb9aaN5lz",
-                    "track_name": "Ll\u00e9gale"
-                },
-                {
-                    "artist_name": "Farruko",
-                    "track_uri": "spotify:track:6KyDlCJmYU7BsccK8ZTrNK",
-                    "track_name": "Para Ac\u00e1"
-                },
-                {
-                    "artist_name": "Daddy Yankee",
-                    "track_uri": "spotify:track:0lJCqIx5BhZtf6QtYI2fbv",
-                    "track_name": "Vuelve"
-                },
-                {
-                    "artist_name": "Kelmitt",
-                    "track_uri": "spotify:track:0zY4kXv0OOKLFh33DH2cSv",
-                    "track_name": "Recuerdos"
-                }
-            ],
-            "num_edits": 37,
-            "duration_ms": 19711505,
-            "num_artists": 38
-        },
-        {
-            "name": "The real deal",
-            "pid": 206,
-            "num_tracks": 23,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Aretha Franklin",
-                    "track_uri": "spotify:track:3NfxSdJnVdon1axzloJgba",
-                    "track_name": "I Say a Little Prayer"
-                },
-                {
-                    "artist_name": "Tinariwen",
-                    "track_uri": "spotify:track:3CHFf9TNHohgBphn7mmOYC",
-                    "track_name": "Ya Messinagh"
-                },
-                {
-                    "artist_name": "Beck",
-                    "track_uri": "spotify:track:10bSPg0ThnU22WhTp3OsbF",
-                    "track_name": "Everybody's Got To Learn Sometime - Exclusive Recording"
-                },
-                {
-                    "artist_name": "Sly & The Family Stone",
-                    "track_uri": "spotify:track:0xY1l2iECKzl7swYdUzCI9",
-                    "track_name": "Let Me Have It All"
-                },
-                {
-                    "artist_name": "Billie Holiday",
-                    "track_uri": "spotify:track:6W5706MsehAWMAZLIg9Fu2",
-                    "track_name": "Strange Fruit"
-                },
-                {
-                    "artist_name": "Ayub Ogada",
-                    "track_uri": "spotify:track:1BU3nhivEP6VdGLlnDiCaG",
-                    "track_name": "Kothbiro"
-                },
-                {
-                    "artist_name": "Nina Simone",
-                    "track_uri": "spotify:track:3NcJu9876GBJuNU6vJOrbb",
-                    "track_name": "I Want a Little Sugar In My Bowl"
-                },
-                {
-                    "artist_name": "Shearwater",
-                    "track_uri": "spotify:track:6l6PHSJrD3hySRPmaH5TeX",
-                    "track_name": "Animal Life"
-                },
-                {
-                    "artist_name": "Talk Talk",
-                    "track_uri": "spotify:track:1Viz6Hi6jm4YSHOlkF3gGd",
-                    "track_name": "Ascension Day"
-                },
-                {
-                    "artist_name": "Bonnie Raitt",
-                    "track_uri": "spotify:track:69uJi5QsBtqlYkGURTBli8",
-                    "track_name": "I Can't Make You Love Me"
-                },
-                {
-                    "artist_name": "Grant Lee Buffalo",
-                    "track_uri": "spotify:track:5EVk9OMnP1sdLlCzQDwgNa",
-                    "track_name": "Happiness"
-                },
-                {
-                    "artist_name": "The Replacements",
-                    "track_uri": "spotify:track:4QuYdbaC0j3lzmt5hLgMjj",
-                    "track_name": "Unsatisfied"
-                },
-                {
-                    "artist_name": "Fleet Foxes",
-                    "track_uri": "spotify:track:2hNvu4bGZFOoop3PbornV2",
-                    "track_name": "Tiger Mountain Peasant Song"
-                },
-                {
-                    "artist_name": "Death Cab for Cutie",
-                    "track_uri": "spotify:track:4QJ9qzD7PHDET2bwlOxXyO",
-                    "track_name": "Your Heart Is An Empty Room"
-                },
-                {
-                    "artist_name": "Gillian Welch",
-                    "track_uri": "spotify:track:3f9HJzevC4sMYGDwj7yQwd",
-                    "track_name": "April 14th Part 1"
-                },
-                {
-                    "artist_name": "Jason Isbell",
-                    "track_uri": "spotify:track:646XybLbLFN2jdaxrftauK",
-                    "track_name": "Different Days"
-                },
-                {
-                    "artist_name": "Natalia Lafourcade",
-                    "track_uri": "spotify:track:3lGMtkONrZdJ8kTCg6KIFf",
-                    "track_name": "Hasta la Ra\u00edz"
-                },
-                {
-                    "artist_name": "Neutral Milk Hotel",
-                    "track_uri": "spotify:track:3SM3i5bICobf4BXXtm29NS",
-                    "track_name": "Oh Comely"
-                },
-                {
-                    "artist_name": "XTC",
-                    "track_uri": "spotify:track:12bBG2L6kHEzHANNaXNMHN",
-                    "track_name": "Jason and the Argonauts - 2001 - Remaster"
-                },
-                {
-                    "artist_name": "Woody Guthrie",
-                    "track_uri": "spotify:track:5xjIEkpItmlbYYia9CFUFI",
-                    "track_name": "I Ain't Gonna Be Treated This Way"
-                },
-                {
-                    "artist_name": "Bulgarian State Television Female Choir",
-                    "track_uri": "spotify:track:3xZ5iEowm8yhNcav5DFhtw",
-                    "track_name": "Tche Da Ti Kupim Bela Seitsa (I'm Going to Buy You Some White Silk)"
-                },
-                {
-                    "artist_name": "David Sylvian",
-                    "track_uri": "spotify:track:5R7nnAPDAARpGugU3wOtTu",
-                    "track_name": "Let the Happiness In - 2003 - Remaster"
-                },
-                {
-                    "artist_name": "Ben Howard",
-                    "track_uri": "spotify:track:0UBUnp3ggZivpFWGQxoSok",
-                    "track_name": "Keep Your Head Up"
-                }
-            ],
-            "num_edits": 3,
-            "duration_ms": 6057843,
-            "num_artists": 23
-        },
-        {
             "name": "Ratchet",
-            "pid": 207,
+            "pid": 156,
             "num_tracks": 34,
             "num_followers": 17,
             "tracks": [
@@ -685,7 +188,7 @@
         },
         {
             "name": "2 AM",
-            "pid": 208,
+            "pid": 157,
             "num_tracks": 91,
             "num_followers": 53,
             "tracks": [
@@ -1151,7 +654,7 @@
         },
         {
             "name": "Sessions ",
-            "pid": 209,
+            "pid": 158,
             "num_tracks": 76,
             "num_followers": 21,
             "tracks": [
@@ -1542,7 +1045,7 @@
         },
         {
             "name": "Let The Good Times Roll",
-            "pid": 210,
+            "pid": 159,
             "num_tracks": 21,
             "num_followers": 120,
             "tracks": [
@@ -1658,7 +1161,7 @@
         },
         {
             "name": "BYE",
-            "pid": 211,
+            "pid": 160,
             "num_tracks": 69,
             "num_followers": 1916,
             "tracks": [
@@ -2015,7 +1518,7 @@
         },
         {
             "name": "ghetto",
-            "pid": 212,
+            "pid": 161,
             "num_tracks": 111,
             "num_followers": 12,
             "tracks": [
@@ -2581,7 +2084,7 @@
         },
         {
             "name": "Soft",
-            "pid": 213,
+            "pid": 162,
             "num_tracks": 71,
             "num_followers": 12,
             "tracks": [

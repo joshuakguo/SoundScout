@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Life Is Strange",
-            "pid": 4182,
+            "pid": 3194,
             "num_tracks": 14,
             "num_followers": 16,
             "tracks": [
@@ -88,7 +88,7 @@
         },
         {
             "name": "Pompeii",
-            "pid": 4183,
+            "pid": 3195,
             "num_tracks": 160,
             "num_followers": 27,
             "tracks": [
@@ -898,329 +898,8 @@
             "num_artists": 117
         },
         {
-            "name": "fall 2015",
-            "pid": 4184,
-            "num_tracks": 62,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:2FBUoWkIuQXwayw2RNo5l6",
-                    "track_name": "Hotline Bling"
-                },
-                {
-                    "artist_name": "Banks",
-                    "track_uri": "spotify:track:7MW3CnwokFGyWUkldSLjIZ",
-                    "track_name": "Someone New"
-                },
-                {
-                    "artist_name": "Weezer",
-                    "track_uri": "spotify:track:2MLHyLy5z5l5YRp7momlgw",
-                    "track_name": "Island In The Sun"
-                },
-                {
-                    "artist_name": "Halsey",
-                    "track_uri": "spotify:track:6Xs7OKt6i0Ddq8B4M5Dgvr",
-                    "track_name": "New Americana"
-                },
-                {
-                    "artist_name": "Halsey",
-                    "track_uri": "spotify:track:6w4LIVTA1966CdmIo0yG4x",
-                    "track_name": "Colors"
-                },
-                {
-                    "artist_name": "Coldplay",
-                    "track_uri": "spotify:track:0BCPKOYdS2jbQ8iyB56Zns",
-                    "track_name": "Clocks"
-                },
-                {
-                    "artist_name": "Sia",
-                    "track_uri": "spotify:track:7jqzZyJJLrpkRFYGpkqSK6",
-                    "track_name": "Breathe Me"
-                },
-                {
-                    "artist_name": "Ruth B.",
-                    "track_uri": "spotify:track:0zMzyHAeMvwq5CRstru1Fp",
-                    "track_name": "Lost Boy"
-                },
-                {
-                    "artist_name": "Frank Ocean",
-                    "track_uri": "spotify:track:7DfFc7a6Rwfi3YQMRbDMau",
-                    "track_name": "Thinkin Bout You"
-                },
-                {
-                    "artist_name": "Twenty One Pilots",
-                    "track_uri": "spotify:track:1lguQJjlNrIOoOylYVZN3M",
-                    "track_name": "The Judge"
-                },
-                {
-                    "artist_name": "Vic Mensa",
-                    "track_uri": "spotify:track:3KiEydhjn7yf58h9jBD5Sa",
-                    "track_name": "U Mad"
-                },
-                {
-                    "artist_name": "Childish Gambino",
-                    "track_uri": "spotify:track:23uWgO8PvL3wvtjbrHDWwT",
-                    "track_name": "II. WORLDSTAR"
-                },
-                {
-                    "artist_name": "Lewis Watson",
-                    "track_uri": "spotify:track:7iGGlST1PYSXHGtxunSf2c",
-                    "track_name": "sink or swim"
-                },
-                {
-                    "artist_name": "James Bay",
-                    "track_uri": "spotify:track:13HVjjWUZFaWilh2QUJKsP",
-                    "track_name": "Let It Go"
-                },
-                {
-                    "artist_name": "Oh Wonder",
-                    "track_uri": "spotify:track:6bpBsotzL05UzS1rHsIqk8",
-                    "track_name": "Livewire"
-                },
-                {
-                    "artist_name": "Oh Wonder",
-                    "track_uri": "spotify:track:0IIdoxwlGBHhNZQkbYF3yD",
-                    "track_name": "Body Gold"
-                },
-                {
-                    "artist_name": "Oh Wonder",
-                    "track_uri": "spotify:track:2QgNcjwEn0vGmTommfszQd",
-                    "track_name": "Lose It"
-                },
-                {
-                    "artist_name": "Oh Wonder",
-                    "track_uri": "spotify:track:5pLpkaIRobcvPnUmclNv6o",
-                    "track_name": "Technicolour Beat"
-                },
-                {
-                    "artist_name": "Jhene Aiko",
-                    "track_uri": "spotify:track:6y6349tNafoiPlduSVAz9A",
-                    "track_name": "The Pressure"
-                },
-                {
-                    "artist_name": "blackbear",
-                    "track_uri": "spotify:track:4mVg0vqVrQLNaPimoxf9Gz",
-                    "track_name": "Cold Coffee (feat. Matt Thiessen)"
-                },
-                {
-                    "artist_name": "Daughter",
-                    "track_uri": "spotify:track:1zZcEoMG3ZEUU6hEPyPXh5",
-                    "track_name": "Candles"
-                },
-                {
-                    "artist_name": "Sam Burchfield",
-                    "track_uri": "spotify:track:6dveGvF0p5baTXEUmS4da2",
-                    "track_name": "Monopoly"
-                },
-                {
-                    "artist_name": "Sam Burchfield",
-                    "track_uri": "spotify:track:7fEOpjwt9TEydwZCcjOKYv",
-                    "track_name": "She Got Your Love"
-                },
-                {
-                    "artist_name": "Sam Burchfield",
-                    "track_uri": "spotify:track:4rmmbDW4fdrxYyCMzrC6C6",
-                    "track_name": "Sister"
-                },
-                {
-                    "artist_name": "Sam Burchfield",
-                    "track_uri": "spotify:track:6ItGPha13j36IiQlvubGrT",
-                    "track_name": "Here Tonight"
-                },
-                {
-                    "artist_name": "Sam Burchfield",
-                    "track_uri": "spotify:track:4PexlaXTsYP6eiGdTEi0KD",
-                    "track_name": "Moses"
-                },
-                {
-                    "artist_name": "Sam Burchfield",
-                    "track_uri": "spotify:track:5yJWdAO8i8RaarPVlz7Zri",
-                    "track_name": "Kings"
-                },
-                {
-                    "artist_name": "Mumford & Sons",
-                    "track_uri": "spotify:track:3pLTOP0G0etiWUknFoRpsr",
-                    "track_name": "The Cave"
-                },
-                {
-                    "artist_name": "Bad Suns",
-                    "track_uri": "spotify:track:6zQyu8L8yUuJkl6LbQ6iKU",
-                    "track_name": "Cardiac Arrest"
-                },
-                {
-                    "artist_name": "Kyle & Devin",
-                    "track_uri": "spotify:track:1TKf8zN3BlaPrpn4QwyrBv",
-                    "track_name": "Compass"
-                },
-                {
-                    "artist_name": "Atlas Genius",
-                    "track_uri": "spotify:track:1H0hqToQLTzPzYk3ks0DnS",
-                    "track_name": "A Perfect End"
-                },
-                {
-                    "artist_name": "Rod Stewart",
-                    "track_uri": "spotify:track:0NIRG3SEn2Zf88o3qHJil5",
-                    "track_name": "Hot Legs"
-                },
-                {
-                    "artist_name": "Rod Stewart",
-                    "track_uri": "spotify:track:2LpirOWiA4eslLRuPpQT7V",
-                    "track_name": "Maggie May"
-                },
-                {
-                    "artist_name": "Eagles",
-                    "track_uri": "spotify:track:4yugZvBYaoREkJKtbG08Qr",
-                    "track_name": "Take It Easy"
-                },
-                {
-                    "artist_name": "The Charlie Daniels Band",
-                    "track_uri": "spotify:track:383Xl5QTigwj3QiA3Qc6S7",
-                    "track_name": "The Devil Went Down to Georgia"
-                },
-                {
-                    "artist_name": "Red Hot Chili Peppers",
-                    "track_uri": "spotify:track:10Nmj3JCNoMeBQ87uw5j8k",
-                    "track_name": "Dani California"
-                },
-                {
-                    "artist_name": "Aidan Knight",
-                    "track_uri": "spotify:track:0QFFEw6XDbQigtqDDkkAUx",
-                    "track_name": "Dream Team"
-                },
-                {
-                    "artist_name": "X Ambassadors",
-                    "track_uri": "spotify:track:46GGxd8TVRt6FjUBfCavVT",
-                    "track_name": "Renegades"
-                },
-                {
-                    "artist_name": "Christopher Norman",
-                    "track_uri": "spotify:track:0iN7au58etCpQz5RHRepyF",
-                    "track_name": "Keep Pace"
-                },
-                {
-                    "artist_name": "Ryan Adams",
-                    "track_uri": "spotify:track:4MTs3CVEeu4Am2w1AdrBzQ",
-                    "track_name": "I Know Places"
-                },
-                {
-                    "artist_name": "Ryan Adams",
-                    "track_uri": "spotify:track:2xZiDt5inFaBvoxwG8EYWV",
-                    "track_name": "Clean"
-                },
-                {
-                    "artist_name": "Coldplay",
-                    "track_uri": "spotify:track:1mea3bSkSGXuIRvnydlB5b",
-                    "track_name": "Viva La Vida"
-                },
-                {
-                    "artist_name": "Miike Snow",
-                    "track_uri": "spotify:track:15JHH5FBawCL7DmCcUxlUp",
-                    "track_name": "Song for No One"
-                },
-                {
-                    "artist_name": "G-Eazy",
-                    "track_uri": "spotify:track:5DSr1NMci58MEgS20vivSL",
-                    "track_name": "Let's Get Lost"
-                },
-                {
-                    "artist_name": "Benjamin Francis Leftwich",
-                    "track_uri": "spotify:track:4yTLzGr4hPiNWR8L88wTo6",
-                    "track_name": "Atlas Hands"
-                },
-                {
-                    "artist_name": "Hands Like Houses",
-                    "track_uri": "spotify:track:5fQLhGd3Wxo8DDiYc24H1n",
-                    "track_name": "Torn"
-                },
-                {
-                    "artist_name": "STRFKR",
-                    "track_uri": "spotify:track:4PVvih9vJedYSZq5Msc6Lh",
-                    "track_name": "Girls Just Want to Have Fun"
-                },
-                {
-                    "artist_name": "The 1975",
-                    "track_uri": "spotify:track:5hRzAbY2AAO258hL6oqsqO",
-                    "track_name": "Love Me"
-                },
-                {
-                    "artist_name": "The 1975",
-                    "track_uri": "spotify:track:5CnQpEh55BqUPtT0GCLRqS",
-                    "track_name": "Head.Cars.Bending"
-                },
-                {
-                    "artist_name": "Travie McCoy",
-                    "track_uri": "spotify:track:0HZWWaKieQ9ZETkTEUVTH2",
-                    "track_name": "Golden (feat. Sia)"
-                },
-                {
-                    "artist_name": "Crowder",
-                    "track_uri": "spotify:track:6iha1ZUpCGUJrrQLDSFYux",
-                    "track_name": "Come As You Are"
-                },
-                {
-                    "artist_name": "Elle King",
-                    "track_uri": "spotify:track:2vW5tqS1EFel9yYOQ7WZmE",
-                    "track_name": "Ex's & Oh's"
-                },
-                {
-                    "artist_name": "One Direction",
-                    "track_uri": "spotify:track:3NLnwwAQbbFKcEcV8hDItk",
-                    "track_name": "Perfect"
-                },
-                {
-                    "artist_name": "Lily Allen",
-                    "track_uri": "spotify:track:6FzUX4kFBss56SSjAsLi7t",
-                    "track_name": "Hard Out Here"
-                },
-                {
-                    "artist_name": "Kendra Morris",
-                    "track_uri": "spotify:track:6kv6xwlwm1fodXIKYNTvac",
-                    "track_name": "Im Gonna Be (500 Miles)"
-                },
-                {
-                    "artist_name": "Penguin Prison",
-                    "track_uri": "spotify:track:2AVL6hxC2kgvGb3CFKiqWJ",
-                    "track_name": "Show Me The Way"
-                },
-                {
-                    "artist_name": "Alabama Shakes",
-                    "track_uri": "spotify:track:1gGY6qfslDtJ4OoWQGKtkE",
-                    "track_name": "Hold On"
-                },
-                {
-                    "artist_name": "Ariana Grande",
-                    "track_uri": "spotify:track:4r4V1wYecTxSAAXV11cFPD",
-                    "track_name": "Focus"
-                },
-                {
-                    "artist_name": "Korbee",
-                    "track_uri": "spotify:track:1hZpNz5FqVxGk0hJg0xe3R",
-                    "track_name": "Can't Say You Won't"
-                },
-                {
-                    "artist_name": "One Direction",
-                    "track_uri": "spotify:track:0HMjXBAZmSYOTTi33WpMso",
-                    "track_name": "History"
-                },
-                {
-                    "artist_name": "Justin Bieber",
-                    "track_uri": "spotify:track:3hB5DgAiMAQ4DzYbsMq1IT",
-                    "track_name": "Love Yourself"
-                },
-                {
-                    "artist_name": "WALK THE MOON",
-                    "track_uri": "spotify:track:2CdNHP8DJ5tfbRoIRdcTeE",
-                    "track_name": "Quesadilla"
-                }
-            ],
-            "num_edits": 27,
-            "duration_ms": 14783661,
-            "num_artists": 48
-        },
-        {
             "name": "R5",
-            "pid": 4185,
+            "pid": 3196,
             "num_tracks": 104,
             "num_followers": 18,
             "tracks": [
@@ -1751,7 +1430,7 @@
         },
         {
             "name": "IDM",
-            "pid": 4186,
+            "pid": 3197,
             "num_tracks": 120,
             "num_followers": 76,
             "tracks": [
@@ -2362,7 +2041,7 @@
         },
         {
             "name": "WerQ",
-            "pid": 4187,
+            "pid": 3198,
             "num_tracks": 147,
             "num_followers": 195,
             "tracks": [
@@ -3109,7 +2788,7 @@
         },
         {
             "name": "TrAp",
-            "pid": 4188,
+            "pid": 3199,
             "num_tracks": 136,
             "num_followers": 12,
             "tracks": [
@@ -3800,7 +3479,7 @@
         },
         {
             "name": "#blessed",
-            "pid": 4189,
+            "pid": 3200,
             "num_tracks": 187,
             "num_followers": 12,
             "tracks": [
@@ -4746,7 +4425,7 @@
         },
         {
             "name": "Hombres g",
-            "pid": 4190,
+            "pid": 3201,
             "num_tracks": 70,
             "num_followers": 28,
             "tracks": [
@@ -5107,7 +4786,7 @@
         },
         {
             "name": "Work",
-            "pid": 4191,
+            "pid": 3202,
             "num_tracks": 125,
             "num_followers": 16,
             "tracks": [

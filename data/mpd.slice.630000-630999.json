@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Worship",
-            "pid": 2604,
+            "pid": 1977,
             "num_tracks": 65,
             "num_followers": 16,
             "tracks": [
@@ -343,7 +343,7 @@
         },
         {
             "name": "BREAKFAST",
-            "pid": 2605,
+            "pid": 1978,
             "num_tracks": 116,
             "num_followers": 36,
             "tracks": [
@@ -934,7 +934,7 @@
         },
         {
             "name": "Hit The Road",
-            "pid": 2606,
+            "pid": 1979,
             "num_tracks": 12,
             "num_followers": 77,
             "tracks": [
@@ -1005,7 +1005,7 @@
         },
         {
             "name": "Shower Songs",
-            "pid": 2607,
+            "pid": 1980,
             "num_tracks": 115,
             "num_followers": 21,
             "tracks": [
@@ -1590,250 +1590,8 @@
             "num_artists": 86
         },
         {
-            "name": "speechless",
-            "pid": 2608,
-            "num_tracks": 46,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Freedom Church",
-                    "track_uri": "spotify:track:4MJ0LdkEFiZrHeZ23JPLNR",
-                    "track_name": "Find You"
-                },
-                {
-                    "artist_name": "Young Oceans",
-                    "track_uri": "spotify:track:1dn6mBH3FSiQArtTbiT8ph",
-                    "track_name": "Until These Tears Are Gone (feat. Harvest)"
-                },
-                {
-                    "artist_name": "Loud Harp",
-                    "track_uri": "spotify:track:0RFR2B3EvOCyFetJ6fVfRE",
-                    "track_name": "Hold Me Together"
-                },
-                {
-                    "artist_name": "Jenn Johnson",
-                    "track_uri": "spotify:track:4YmilI6UTES7B2xYjSPLN2",
-                    "track_name": "You're Gonna Be OK"
-                },
-                {
-                    "artist_name": "Kings Kaleidoscope",
-                    "track_uri": "spotify:track:4F1mJebZX8v8Oi1Zl0CRdl",
-                    "track_name": "Fix My Eyes (Live)"
-                },
-                {
-                    "artist_name": "Rend Collective",
-                    "track_uri": "spotify:track:1uCVpUO24T2ukRcU0TCfFu",
-                    "track_name": "Whatever Comes"
-                },
-                {
-                    "artist_name": "Hillsong United",
-                    "track_uri": "spotify:track:1ed3wNCecRIp6SugyR0w2J",
-                    "track_name": "So Will I (100 Billion X)"
-                },
-                {
-                    "artist_name": "Gungor",
-                    "track_uri": "spotify:track:0Q6SwpdV7ZUpO3LG4ikAAv",
-                    "track_name": "Vapor"
-                },
-                {
-                    "artist_name": "I AM THEY",
-                    "track_uri": "spotify:track:3rBY6K8EM0MmKNniTZgRvx",
-                    "track_name": "Over & Over Again"
-                },
-                {
-                    "artist_name": "Hillsong United",
-                    "track_uri": "spotify:track:5aA2v6AQgFHsmZO87tiaec",
-                    "track_name": "Oceans (Where Feet My Fail) - Live/Acoustic Version"
-                },
-                {
-                    "artist_name": "Lauren Daigle",
-                    "track_uri": "spotify:track:6siQ0cpUNy1DbHbDGDwNlE",
-                    "track_name": "Come Alive (Dry Bones) - Deluxe Sessions"
-                },
-                {
-                    "artist_name": "Bifrost Arts",
-                    "track_uri": "spotify:track:5OJju6bfnqTALJpZ2xud3j",
-                    "track_name": "If It Be Your Will (feat. Sam Bush)"
-                },
-                {
-                    "artist_name": "Kari Jobe",
-                    "track_uri": "spotify:track:7HtF6IsvLL7dES6Gb5odxE",
-                    "track_name": "The Garden"
-                },
-                {
-                    "artist_name": "Jon Thurlow",
-                    "track_uri": "spotify:track:2G8CTUyGAsOAlnmEJlssCW",
-                    "track_name": "Strong Love"
-                },
-                {
-                    "artist_name": "Rivers & Robots",
-                    "track_uri": "spotify:track:5JNhtYiyGpQQ6pDFtfpLLz",
-                    "track_name": "Shepherd of My Soul"
-                },
-                {
-                    "artist_name": "Lovelite",
-                    "track_uri": "spotify:track:747MEASDu4HJAiMFa4TBKO",
-                    "track_name": "Overcome"
-                },
-                {
-                    "artist_name": "Loud Harp",
-                    "track_uri": "spotify:track:5krn4eIYXGII74la8fDPBy",
-                    "track_name": "Hope Where There Was None"
-                },
-                {
-                    "artist_name": "Josh Garrels",
-                    "track_uri": "spotify:track:5GgGeERIujrjB31S3nNed8",
-                    "track_name": "Rise"
-                },
-                {
-                    "artist_name": "The Digital Age",
-                    "track_uri": "spotify:track:6yqubZF4LsME7BEHvT6kEG",
-                    "track_name": "Break Every Chain"
-                },
-                {
-                    "artist_name": "Dustin Kensrue",
-                    "track_uri": "spotify:track:2ShC6f8noocQi0ebm9EZ55",
-                    "track_name": "Rejoice (Live)"
-                },
-                {
-                    "artist_name": "Waken",
-                    "track_uri": "spotify:track:5Ch8eemm33KtMkdCMLXlKw",
-                    "track_name": "Hope Has Found Us"
-                },
-                {
-                    "artist_name": "Audrey Assad",
-                    "track_uri": "spotify:track:3jlAkZoMZovVV5gUA62ulF",
-                    "track_name": "I Shall Not Want"
-                },
-                {
-                    "artist_name": "Loud Harp",
-                    "track_uri": "spotify:track:6Srfwh0SwoVrtQCir2Ywo7",
-                    "track_name": "(73) the Nearness of You"
-                },
-                {
-                    "artist_name": "Kari Jobe",
-                    "track_uri": "spotify:track:7HQTezDSBl8rxUufIbyCnf",
-                    "track_name": "Here As In Heaven"
-                },
-                {
-                    "artist_name": "Matt Redman",
-                    "track_uri": "spotify:track:2FidM78xwmCDG78pP8iHJU",
-                    "track_name": "Never Once - Radio Version"
-                },
-                {
-                    "artist_name": "Page CXVI",
-                    "track_uri": "spotify:track:7xtzpuKI5qhi584OKeqFov",
-                    "track_name": "Rock of Ages"
-                },
-                {
-                    "artist_name": "Jennie Lee Riddle",
-                    "track_uri": "spotify:track:5O3e4AQS6lAy5qbzxss8eG",
-                    "track_name": "You Are My Shepherd (feat. Jonathan Lee)"
-                },
-                {
-                    "artist_name": "Tauren Wells",
-                    "track_uri": "spotify:track:398Dfg7EisARPcvixgrtuI",
-                    "track_name": "Hills and Valleys (The Valleys Version)"
-                },
-                {
-                    "artist_name": "Matt Maher",
-                    "track_uri": "spotify:track:0ocaDYnVGNWAvu037JI0Pt",
-                    "track_name": "Abide With Me"
-                },
-                {
-                    "artist_name": "Kings Kaleidoscope",
-                    "track_uri": "spotify:track:1g5b5gNTAh3dsSWZILzczm",
-                    "track_name": "In Christ Alone"
-                },
-                {
-                    "artist_name": "Jonathan Ogden",
-                    "track_uri": "spotify:track:0LXna6NquPw45HEx6M9rvb",
-                    "track_name": "Trust"
-                },
-                {
-                    "artist_name": "The Anchor Fellowship",
-                    "track_uri": "spotify:track:4vlETEVGCHbo5NXI52LnjC",
-                    "track_name": "I Breathe You in, God"
-                },
-                {
-                    "artist_name": "Young Oceans",
-                    "track_uri": "spotify:track:5TO4KuGzOBKG6CqxHm4wRD",
-                    "track_name": "Great Is Our God"
-                },
-                {
-                    "artist_name": "The Sing Team",
-                    "track_uri": "spotify:track:40jK6rrM6gR5Bju6EuyP2P",
-                    "track_name": "Satisfied in You (Psalm 42)"
-                },
-                {
-                    "artist_name": "The Brilliance",
-                    "track_uri": "spotify:track:0mEaugJrHsSCAe5W5MU5T5",
-                    "track_name": "Your Love Remains"
-                },
-                {
-                    "artist_name": "Page CXVI",
-                    "track_uri": "spotify:track:0C79lfXRxYqSVFBOGlXo4J",
-                    "track_name": "How Deep the Father's Love for Us"
-                },
-                {
-                    "artist_name": "Calvary Creative",
-                    "track_uri": "spotify:track:6XomSEovAnhBgGXecmJDFh",
-                    "track_name": "Tis so Sweet (feat. Danny Donnelly)"
-                },
-                {
-                    "artist_name": "Alison Krauss",
-                    "track_uri": "spotify:track:3KNnyBCjInhKXHIfW5Byhg",
-                    "track_name": "Down To The River To Pray"
-                },
-                {
-                    "artist_name": "John Mark McMillan",
-                    "track_uri": "spotify:track:57pq6L3HKxWocyDxyDMKeS",
-                    "track_name": "Death In His Grave"
-                },
-                {
-                    "artist_name": "Rivers & Robots",
-                    "track_uri": "spotify:track:5kw4tBzuZmZpmlzDHjAuAn",
-                    "track_name": "We Have Overcome"
-                },
-                {
-                    "artist_name": "Phil Wickham",
-                    "track_uri": "spotify:track:2kLHSJ9B6sqDYggynPrNiA",
-                    "track_name": "The Secret Place - Acoustic"
-                },
-                {
-                    "artist_name": "Citizens & Saints",
-                    "track_uri": "spotify:track:2nwHPB0hduHfhSsBrSOBZ1",
-                    "track_name": "Father You Are All We Need"
-                },
-                {
-                    "artist_name": "Jon Guerra",
-                    "track_uri": "spotify:track:5Hqoyi2pECWXmAhYj32Tox",
-                    "track_name": "Bound For Glory"
-                },
-                {
-                    "artist_name": "Kim Walker-Smith",
-                    "track_uri": "spotify:track:0jgM1QdC5mA8O2dd3XJUvG",
-                    "track_name": "Just One Touch"
-                },
-                {
-                    "artist_name": "Wildwood Music",
-                    "track_uri": "spotify:track:4JxlgfB13Qo0IVlRfvmfcT",
-                    "track_name": "Your Presence"
-                },
-                {
-                    "artist_name": "Plumb",
-                    "track_uri": "spotify:track:75OmU3YjGaRYaFKBV7QNCu",
-                    "track_name": "God Help Me"
-                }
-            ],
-            "num_edits": 4,
-            "duration_ms": 13258960,
-            "num_artists": 38,
-            "description": "when words fail."
-        },
-        {
             "name": "i love you",
-            "pid": 2609,
+            "pid": 1981,
             "num_tracks": 53,
             "num_followers": 51,
             "tracks": [
@@ -2109,7 +1867,7 @@
         },
         {
             "name": "Feed Me",
-            "pid": 2610,
+            "pid": 1982,
             "num_tracks": 62,
             "num_followers": 22,
             "tracks": [
@@ -2430,7 +2188,7 @@
         },
         {
             "name": "bops",
-            "pid": 2611,
+            "pid": 1983,
             "num_tracks": 8,
             "num_followers": 302,
             "tracks": [
@@ -2481,7 +2239,7 @@
         },
         {
             "name": "\ud83d\udd25\ud83d\udd25\ud83d\udd25",
-            "pid": 2612,
+            "pid": 1984,
             "num_tracks": 122,
             "num_followers": 12,
             "tracks": [
@@ -3102,7 +2860,7 @@
         },
         {
             "name": "Sexy Songs",
-            "pid": 2613,
+            "pid": 1985,
             "num_tracks": 148,
             "num_followers": 13,
             "tracks": [
@@ -3854,7 +3612,7 @@
         },
         {
             "name": "Los tucanes de tijuana",
-            "pid": 2614,
+            "pid": 1986,
             "num_tracks": 66,
             "num_followers": 30,
             "tracks": [

@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "A Cappella",
-            "pid": 6072,
+            "pid": 4604,
             "num_tracks": 205,
             "num_followers": 79,
             "tracks": [
@@ -1043,7 +1043,7 @@
         },
         {
             "name": "Ke$ha",
-            "pid": 6073,
+            "pid": 4605,
             "num_tracks": 61,
             "num_followers": 202,
             "tracks": [
@@ -1360,7 +1360,7 @@
         },
         {
             "name": "weird",
-            "pid": 6074,
+            "pid": 4606,
             "num_tracks": 72,
             "num_followers": 14,
             "tracks": [
@@ -1731,7 +1731,7 @@
         },
         {
             "name": "Celtic Woman",
-            "pid": 6075,
+            "pid": 4607,
             "num_tracks": 220,
             "num_followers": 348,
             "tracks": [
@@ -2842,7 +2842,7 @@
         },
         {
             "name": "mellow rap ",
-            "pid": 6076,
+            "pid": 4608,
             "num_tracks": 51,
             "num_followers": 25,
             "tracks": [
@@ -3108,7 +3108,7 @@
         },
         {
             "name": "Lounge ",
-            "pid": 6077,
+            "pid": 4609,
             "num_tracks": 104,
             "num_followers": 15,
             "tracks": [
@@ -3638,349 +3638,8 @@
             "num_artists": 86
         },
         {
-            "name": "Salsa",
-            "pid": 6078,
-            "num_tracks": 66,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Willie Col\u00f3n",
-                    "track_uri": "spotify:track:65B6PVBnY28EEAMSrIk6bk",
-                    "track_name": "La Murga"
-                },
-                {
-                    "artist_name": "H\u00e9ctor Lavoe",
-                    "track_uri": "spotify:track:3Hv1DCU3Z0mPJa7UjqD0IG",
-                    "track_name": "Periodico De Ayer"
-                },
-                {
-                    "artist_name": "Willie Col\u00f3n",
-                    "track_uri": "spotify:track:6vDBVG7rNB3pW0rllS2Be5",
-                    "track_name": "Triste Y Vac\u00eda"
-                },
-                {
-                    "artist_name": "Willie Col\u00f3n",
-                    "track_uri": "spotify:track:2C2jFMQ6x80Fo2WjxsuDi8",
-                    "track_name": "Juanito Alimana"
-                },
-                {
-                    "artist_name": "H\u00e9ctor Lavoe",
-                    "track_uri": "spotify:track:1woUil5lgjq7jPVUu1IhJa",
-                    "track_name": "Ausencia"
-                },
-                {
-                    "artist_name": "H\u00e9ctor Lavoe",
-                    "track_uri": "spotify:track:5fgeCaIVPYMlrfKRVtHucc",
-                    "track_name": "El Retrado de Mama"
-                },
-                {
-                    "artist_name": "H\u00e9ctor Lavoe",
-                    "track_uri": "spotify:track:7HOYggw0TM328TD7SvOwDK",
-                    "track_name": "Un Amor De La Calle"
-                },
-                {
-                    "artist_name": "H\u00e9ctor Lavoe",
-                    "track_uri": "spotify:track:5TF6QTau4prK9LiYxm6Szj",
-                    "track_name": "Que Lio"
-                },
-                {
-                    "artist_name": "Willie Col\u00f3n",
-                    "track_uri": "spotify:track:1R8FUoJjGt0YUzHFvrQ46E",
-                    "track_name": "Calle Luna Calle Sol"
-                },
-                {
-                    "artist_name": "H\u00e9ctor Lavoe",
-                    "track_uri": "spotify:track:62VgmopIYoAOYXpGgRWbYS",
-                    "track_name": "Hacha Y Machete"
-                },
-                {
-                    "artist_name": "H\u00e9ctor Lavoe",
-                    "track_uri": "spotify:track:3Hv1DCU3Z0mPJa7UjqD0IG",
-                    "track_name": "Periodico De Ayer"
-                },
-                {
-                    "artist_name": "H\u00e9ctor Lavoe",
-                    "track_uri": "spotify:track:2OnJvVDECqFPgojAK1NWEz",
-                    "track_name": "La Fama"
-                },
-                {
-                    "artist_name": "Willie Col\u00f3n",
-                    "track_uri": "spotify:track:4BRlVMUm40irJbsXQSrxBe",
-                    "track_name": "Juana Pena"
-                },
-                {
-                    "artist_name": "Willie Col\u00f3n",
-                    "track_uri": "spotify:track:5o8qz7M1dqNg1cCOI9tyyF",
-                    "track_name": "Timbalero"
-                },
-                {
-                    "artist_name": "Willie Col\u00f3n",
-                    "track_uri": "spotify:track:5qWxAN5P0cKSvonP1VNXLn",
-                    "track_name": "Barrunto"
-                },
-                {
-                    "artist_name": "H\u00e9ctor Lavoe",
-                    "track_uri": "spotify:track:1pbUxFZuVr6SDLFZw06CKo",
-                    "track_name": "Vamos A Reir Un Poco"
-                },
-                {
-                    "artist_name": "Sonora Ponce\u00f1a",
-                    "track_uri": "spotify:track:60HG3jOvvG7XITdy6F06el",
-                    "track_name": "Fuego En El 23"
-                },
-                {
-                    "artist_name": "Sonora Ponce\u00f1a",
-                    "track_uri": "spotify:track:3VwPNM4msiLQWKM0HHaYEA",
-                    "track_name": "Boranda"
-                },
-                {
-                    "artist_name": "Sonora Ponce\u00f1a",
-                    "track_uri": "spotify:track:7yDcPK5xUiqCrca7eWMLHg",
-                    "track_name": "Bomba Carambomba"
-                },
-                {
-                    "artist_name": "Sonora Ponce\u00f1a",
-                    "track_uri": "spotify:track:3rDuZ9MJK90Au68yj85duT",
-                    "track_name": "Juana Bayona"
-                },
-                {
-                    "artist_name": "Ismael Rivera Y Sus Cachimbos",
-                    "track_uri": "spotify:track:4jMLowuEdyL0GQhgyc6OXM",
-                    "track_name": "El Nazareno"
-                },
-                {
-                    "artist_name": "Roberto Roena",
-                    "track_uri": "spotify:track:68mhx8y3mOH4ODiArmjxa5",
-                    "track_name": "Mi Desengano"
-                },
-                {
-                    "artist_name": "Roberto Roena",
-                    "track_uri": "spotify:track:6BXPd16odD426XZKhOhvxW",
-                    "track_name": "Tu Loco Loco Y Yo Tranquilo"
-                },
-                {
-                    "artist_name": "Roberto Roena",
-                    "track_uri": "spotify:track:7H6LkZuJzXcQckTDd37MYy",
-                    "track_name": "Chotorro"
-                },
-                {
-                    "artist_name": "Ismael Rivera Y Sus Cachimbos",
-                    "track_uri": "spotify:track:2chN2tZqbkfxDDXgUXRoPd",
-                    "track_name": "Que Te Pasa A Ti"
-                },
-                {
-                    "artist_name": "Conjunto Clasico / Tito Nieves",
-                    "track_uri": "spotify:track:0ODtUiVIaXzUQGdS7PusQU",
-                    "track_name": "Regreso"
-                },
-                {
-                    "artist_name": "Conjunto Clasico / Tito Nieves",
-                    "track_uri": "spotify:track:75nwD45qXzxbnLMaLiE2EF",
-                    "track_name": "Los Rodriguez"
-                },
-                {
-                    "artist_name": "Los Rodriguez / Conjunto Clasico Con Tito Nieves",
-                    "track_uri": "spotify:track:34Ssl85XCUxEVfusmni9y7",
-                    "track_name": "Sin Rumbo Alguno"
-                },
-                {
-                    "artist_name": "Willie Col\u00f3n",
-                    "track_uri": "spotify:track:5iwgEFKEktjBBZV3C9TTZj",
-                    "track_name": "Idilio"
-                },
-                {
-                    "artist_name": "H\u00e9ctor Lavoe",
-                    "track_uri": "spotify:track:5ITdGzpb4twvkpEHp5CGBK",
-                    "track_name": "Escarchas"
-                },
-                {
-                    "artist_name": "Cheo Feliciano",
-                    "track_uri": "spotify:track:54vVFWhoMG7LMfmRPTqijM",
-                    "track_name": "Anacaona"
-                },
-                {
-                    "artist_name": "Frankie Ruiz",
-                    "track_uri": "spotify:track:54QivjUs9hweccCVI7NmdQ",
-                    "track_name": "La Cura"
-                },
-                {
-                    "artist_name": "Ismael Miranda",
-                    "track_uri": "spotify:track:2TZb8VX8eiqltuK2zyP6UG",
-                    "track_name": "Asi Se Compone Un Son"
-                },
-                {
-                    "artist_name": "Ismael Rivera Y Sus Cachimbos",
-                    "track_uri": "spotify:track:7BEHAPElPXDwHQFzaHlfb5",
-                    "track_name": "Las Caras Lindas"
-                },
-                {
-                    "artist_name": "Pete Rodriguez",
-                    "track_uri": "spotify:track:0KibIoRfTHL2p8CWPSH0oK",
-                    "track_name": "La Esencia Del Guaguanco"
-                },
-                {
-                    "artist_name": "Larry Harlow",
-                    "track_uri": "spotify:track:4CxDqPmmkDdnlrnkjbXYhm",
-                    "track_name": "Senor Sereno"
-                },
-                {
-                    "artist_name": "Willie Col\u00f3n",
-                    "track_uri": "spotify:track:0FriNBfZnUzIAXRkYH1SHH",
-                    "track_name": "Che Che Cole"
-                },
-                {
-                    "artist_name": "Cheo Feliciano",
-                    "track_uri": "spotify:track:6Zsm8QFqZ4jQhrVnTkzTqA",
-                    "track_name": "El Raton"
-                },
-                {
-                    "artist_name": "Tito Ramos",
-                    "track_uri": "spotify:track:3oEKcY5gU8SirHfHYiH9D6",
-                    "track_name": "Que Se Sepa"
-                },
-                {
-                    "artist_name": "Willie Col\u00f3n",
-                    "track_uri": "spotify:track:6hjw8OJWs27OvpHPCsM7cC",
-                    "track_name": "Tiempo Pa' Matar"
-                },
-                {
-                    "artist_name": "Sonora Ponce\u00f1a",
-                    "track_uri": "spotify:track:6cfvzdEF2BaCxeMEKICXz8",
-                    "track_name": "Moreno Soy"
-                },
-                {
-                    "artist_name": "Ismael Miranda",
-                    "track_uri": "spotify:track:25WYnj1TqubHuZKvbOyKAa",
-                    "track_name": "Senor Sereno"
-                },
-                {
-                    "artist_name": "Roberto Roena",
-                    "track_uri": "spotify:track:5dYEAJN0Z2eORA71xuU1GN",
-                    "track_name": "Avisale A Mi Contrario"
-                },
-                {
-                    "artist_name": "Ismael Rivera",
-                    "track_uri": "spotify:track:6XL4hwSHqO2HyB5NIQzNBO",
-                    "track_name": "Me Tienes Loco"
-                },
-                {
-                    "artist_name": "Ismael Miranda",
-                    "track_uri": "spotify:track:2SbZjtowLaooY4TNg5cgq8",
-                    "track_name": "Borinquen Tiene Montuno"
-                },
-                {
-                    "artist_name": "Roberto Roena",
-                    "track_uri": "spotify:track:6Y3jdf88nBjoOgdtAyrdQf",
-                    "track_name": "Vigilandote"
-                },
-                {
-                    "artist_name": "Ismael Miranda",
-                    "track_uri": "spotify:track:0TxZfvNZkzO2w3QkuIAp4Q",
-                    "track_name": "No Me Digan Que Es Muy Tarde"
-                },
-                {
-                    "artist_name": "Bobby Valentin",
-                    "track_uri": "spotify:track:461r8m7wxs4hpc5aVKYRd3",
-                    "track_name": "Mi Ritmo Es Bueno"
-                },
-                {
-                    "artist_name": "Ismael Rivera",
-                    "track_uri": "spotify:track:5g709Q02KgrKwu010HyiS4",
-                    "track_name": "El Cumbanchero"
-                },
-                {
-                    "artist_name": "Bobby Cruz",
-                    "track_uri": "spotify:track:21SpmCsmQV00R3dTqtzzfL",
-                    "track_name": "Sonido Bestial"
-                },
-                {
-                    "artist_name": "Bobby Cruz",
-                    "track_uri": "spotify:track:3LmXBG1PfDZIW5xfsUzns3",
-                    "track_name": "Aguzate"
-                },
-                {
-                    "artist_name": "Ricardo Ray",
-                    "track_uri": "spotify:track:4Mk7napJbsKzRAs38jy0oK",
-                    "track_name": "Richie's Jala Jala"
-                },
-                {
-                    "artist_name": "Eddie Palmieri",
-                    "track_uri": "spotify:track:6sOKwtZxTM5uuXSJfEjLa8",
-                    "track_name": "Cafe"
-                },
-                {
-                    "artist_name": "Conjunto Clasico / Tito Nieves",
-                    "track_uri": "spotify:track:5DtgZDktHvgUPW6tfOWXm8",
-                    "track_name": "Se\u00f1ora Ley"
-                },
-                {
-                    "artist_name": "Conjunto Clasico / Tito Nieves",
-                    "track_uri": "spotify:track:6jqvVCLCO5tGNmdr3vSrko",
-                    "track_name": "Solitario"
-                },
-                {
-                    "artist_name": "Conjunto Clasico / Tito Nieves",
-                    "track_uri": "spotify:track:5EPx1kv0UcbU2bObPzXpqf",
-                    "track_name": "Teresita"
-                },
-                {
-                    "artist_name": "Raphy Leavitt & Orquesta La Selecta",
-                    "track_uri": "spotify:track:3Ux7NGtRBBSgRU9S03Xxu9",
-                    "track_name": "Payaso"
-                },
-                {
-                    "artist_name": "Rapphy Levitt Orquesta La Selecta",
-                    "track_uri": "spotify:track:4BU6By6H7aXCaawlfKU6ZL",
-                    "track_name": "Cafe Colao"
-                },
-                {
-                    "artist_name": "Ismael Miranda",
-                    "track_uri": "spotify:track:2TFOcFDk6m2CYJpGxuhJ3M",
-                    "track_name": "Indestructible"
-                },
-                {
-                    "artist_name": "Pete Rodriguez",
-                    "track_uri": "spotify:track:5w5B1ccui0lRPR7Qh3yVyA",
-                    "track_name": "Catalina La O"
-                },
-                {
-                    "artist_name": "Ray Barretto",
-                    "track_uri": "spotify:track:4k7UQjVkgyqAJ3pEK511YS",
-                    "track_name": "Quitate La Mascara"
-                },
-                {
-                    "artist_name": "Ray Barretto",
-                    "track_uri": "spotify:track:347LLLGAhzeQldUou02umQ",
-                    "track_name": "Guarare"
-                },
-                {
-                    "artist_name": "Marvin Santiago",
-                    "track_uri": "spotify:track:19NriYaLQJIg06NkYlontw",
-                    "track_name": "Fuego A La Jicotea"
-                },
-                {
-                    "artist_name": "Fruko Y Sus Tesos",
-                    "track_uri": "spotify:track:0uHT5Hme7j1dUoyUwtY9Dc",
-                    "track_name": "A la Memoria del Muerto"
-                },
-                {
-                    "artist_name": "Willie Col\u00f3n",
-                    "track_uri": "spotify:track:6vfYE9WDl5jyTiwruyRWm8",
-                    "track_name": "Popurri Navideno"
-                },
-                {
-                    "artist_name": "Roberto Roena Y Su Apollo Sound",
-                    "track_uri": "spotify:track:4SATo5IEBWV0ecROMwUqKT",
-                    "track_name": "Marejada Feliz"
-                }
-            ],
-            "num_edits": 10,
-            "duration_ms": 20479639,
-            "num_artists": 24
-        },
-        {
             "name": "#GRLPWR",
-            "pid": 6079,
+            "pid": 4610,
             "num_tracks": 15,
             "num_followers": 19,
             "tracks": [

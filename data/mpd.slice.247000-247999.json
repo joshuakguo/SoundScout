@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "DC",
-            "pid": 1117,
+            "pid": 847,
             "num_tracks": 45,
             "num_followers": 16,
             "tracks": [
@@ -244,7 +244,7 @@
         },
         {
             "name": "I Love You",
-            "pid": 1118,
+            "pid": 848,
             "num_tracks": 20,
             "num_followers": 21,
             "tracks": [
@@ -354,439 +354,8 @@
             "num_artists": 18
         },
         {
-            "name": "Slow it Down",
-            "pid": 1119,
-            "num_tracks": 84,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "The Wailin' Jennys",
-                    "track_uri": "spotify:track:4Mrob0mOsRAumJRiSw6YLp",
-                    "track_name": "One Voice"
-                },
-                {
-                    "artist_name": "The Wailin' Jennys",
-                    "track_uri": "spotify:track:2AhbZP2oChiLpq5HHKg1xP",
-                    "track_name": "Long Time Traveller"
-                },
-                {
-                    "artist_name": "The Wailin' Jennys",
-                    "track_uri": "spotify:track:65OSy72gMdtgHzHgESAOsq",
-                    "track_name": "The Parting Glass"
-                },
-                {
-                    "artist_name": "The Wailin' Jennys",
-                    "track_uri": "spotify:track:0vRN2cacGXVKcvczYfYnGO",
-                    "track_name": "All The Stars"
-                },
-                {
-                    "artist_name": "The Weepies",
-                    "track_uri": "spotify:track:0bAM9qivrntXnHyklRRx39",
-                    "track_name": "World Spins Madly On"
-                },
-                {
-                    "artist_name": "The Wailin' Jennys",
-                    "track_uri": "spotify:track:0YuYjJAVSCC3RViA8oEZXF",
-                    "track_name": "Bright Morning Stars"
-                },
-                {
-                    "artist_name": "Billy Currington",
-                    "track_uri": "spotify:track:2LUYGE3JUk4LIIobqI0jpr",
-                    "track_name": "Walk A Little Straighter"
-                },
-                {
-                    "artist_name": "Amanda Seyfried",
-                    "track_uri": "spotify:track:6q5Tish3eetD08qBTvGKov",
-                    "track_name": "Dear John - Little House"
-                },
-                {
-                    "artist_name": "Birdy",
-                    "track_uri": "spotify:track:4RL77hMWUq35NYnPLXBpih",
-                    "track_name": "Skinny Love"
-                },
-                {
-                    "artist_name": "Carrie Underwood",
-                    "track_uri": "spotify:track:0d0tJF80562KcMndcBcSfM",
-                    "track_name": "Temporary Home"
-                },
-                {
-                    "artist_name": "Christina Aguilera",
-                    "track_uri": "spotify:track:0G3iJ1r5SSv7nUBNCgBmwF",
-                    "track_name": "We Remain - From \u201cThe Hunger Games: Catching Fire\u201d Soundtrack"
-                },
-                {
-                    "artist_name": "Christina Perri",
-                    "track_uri": "spotify:track:1x80xTzSL7pok3M5JC3oJz",
-                    "track_name": "human"
-                },
-                {
-                    "artist_name": "Colbie Caillat",
-                    "track_uri": "spotify:track:3wVVIeC1tLfBxXtISoBZaA",
-                    "track_name": "When The Darkness Comes"
-                },
-                {
-                    "artist_name": "Coldplay",
-                    "track_uri": "spotify:track:0FDzzruyVECATHXKHFs9eJ",
-                    "track_name": "A Sky Full of Stars"
-                },
-                {
-                    "artist_name": "Ed Sheeran",
-                    "track_uri": "spotify:track:6fxVffaTuwjgEk5h9QyRjy",
-                    "track_name": "Photograph"
-                },
-                {
-                    "artist_name": "Ellie Goulding",
-                    "track_uri": "spotify:track:54nfzb6wMJPltkh5vQo7Wd",
-                    "track_name": "Your Song"
-                },
-                {
-                    "artist_name": "Ellie Goulding",
-                    "track_uri": "spotify:track:6Wytqpe4mfmyeT8s1xbczG",
-                    "track_name": "Something In The Way You Move"
-                },
-                {
-                    "artist_name": "David Ball",
-                    "track_uri": "spotify:track:3XvlHlobglG0GY60YtszSt",
-                    "track_name": "Riding with private malone"
-                },
-                {
-                    "artist_name": "Dixie Chicks",
-                    "track_uri": "spotify:track:0AkZjWYCMJ8wWiNex7LmkY",
-                    "track_name": "Travelin' Soldier"
-                },
-                {
-                    "artist_name": "Grace Potter & The Nocturnals",
-                    "track_uri": "spotify:track:6s7sq2Quh4TxHRfdk6eFxk",
-                    "track_name": "Stars"
-                },
-                {
-                    "artist_name": "Halsey",
-                    "track_uri": "spotify:track:4U38hORPx8SsUAXGumsUYN",
-                    "track_name": "Hold Me Down"
-                },
-                {
-                    "artist_name": "Hozier",
-                    "track_uri": "spotify:track:0IqKeD8ZSP72KbGYyzEcAs",
-                    "track_name": "Take Me To Church"
-                },
-                {
-                    "artist_name": "James Blunt",
-                    "track_uri": "spotify:track:2YaGZvBfkQ4jiD5cMLIFQV",
-                    "track_name": "Same Mistake"
-                },
-                {
-                    "artist_name": "James Blunt",
-                    "track_uri": "spotify:track:1zVBU0PAj7ZUVmVfG2pgQG",
-                    "track_name": "Carry You Home"
-                },
-                {
-                    "artist_name": "James Blunt",
-                    "track_uri": "spotify:track:3vsNteZn6E5qBSSBO78W7b",
-                    "track_name": "You're Beautiful"
-                },
-                {
-                    "artist_name": "James Blunt",
-                    "track_uri": "spotify:track:3Iya0xOCXhgSdDwIYM75wh",
-                    "track_name": "Goodbye My Lover"
-                },
-                {
-                    "artist_name": "Sam Smith",
-                    "track_uri": "spotify:track:5Db9VIdDsN5yu3Eu7CT0i4",
-                    "track_name": "Stay With Me"
-                },
-                {
-                    "artist_name": "Sam Smith",
-                    "track_uri": "spotify:track:0fioLzGM8ngbD1w6fMmm45",
-                    "track_name": "I'm Not The Only One"
-                },
-                {
-                    "artist_name": "Sam Smith",
-                    "track_uri": "spotify:track:64GRDrL1efgXclrhVCeuA0",
-                    "track_name": "Lay Me Down"
-                },
-                {
-                    "artist_name": "Justin Bieber",
-                    "track_uri": "spotify:track:3hB5DgAiMAQ4DzYbsMq1IT",
-                    "track_name": "Love Yourself"
-                },
-                {
-                    "artist_name": "Lana Del Rey",
-                    "track_uri": "spotify:track:2nMeu6UenVvwUktBCpLMK9",
-                    "track_name": "Young And Beautiful"
-                },
-                {
-                    "artist_name": "Michael Bubl\u00e9",
-                    "track_uri": "spotify:track:6vhYDNMZgffPwcdXdvMqCS",
-                    "track_name": "Lost"
-                },
-                {
-                    "artist_name": "Michael Bubl\u00e9",
-                    "track_uri": "spotify:track:4T6HLdP6OcAtqC6tGnQelG",
-                    "track_name": "Everything"
-                },
-                {
-                    "artist_name": "Nick Jonas",
-                    "track_uri": "spotify:track:07BAaeVwEwkzQrE3qJxJ5S",
-                    "track_name": "Jealous - Remix"
-                },
-                {
-                    "artist_name": "Rihanna",
-                    "track_uri": "spotify:track:4zzzZ1UNfr75ASG1lUE9L1",
-                    "track_name": "Stay - Album Version (Edited)"
-                },
-                {
-                    "artist_name": "Sam Smith",
-                    "track_uri": "spotify:track:64GRDrL1efgXclrhVCeuA0",
-                    "track_name": "Lay Me Down"
-                },
-                {
-                    "artist_name": "Sara Bareilles",
-                    "track_uri": "spotify:track:4oa14QBfWRDfJy2agySy0L",
-                    "track_name": "Gravity"
-                },
-                {
-                    "artist_name": "Twenty One Pilots",
-                    "track_uri": "spotify:track:3CRDbSIZ4r5MsZ0YwxuEkn",
-                    "track_name": "Stressed Out"
-                },
-                {
-                    "artist_name": "Hozier",
-                    "track_uri": "spotify:track:3UfCFlGruX0DRPCpD1V3pU",
-                    "track_name": "Work Song"
-                },
-                {
-                    "artist_name": "Amanda Seyfried",
-                    "track_uri": "spotify:track:7J0Nli29ypZmMTqItpvPvM",
-                    "track_name": "Lil' Red Riding Hood"
-                },
-                {
-                    "artist_name": "Lukas Graham",
-                    "track_uri": "spotify:track:7129iqBafaphfc3WPCGC0L",
-                    "track_name": "7 Years"
-                },
-                {
-                    "artist_name": "Birdy",
-                    "track_uri": "spotify:track:5vuwXvQTpavYCgcPFnCMS4",
-                    "track_name": "Keeping Your Head Up"
-                },
-                {
-                    "artist_name": "Birdy",
-                    "track_uri": "spotify:track:3C5in0EVdoGepp5bA6lhlE",
-                    "track_name": "Tee Shirt"
-                },
-                {
-                    "artist_name": "Amanda Seyfried",
-                    "track_uri": "spotify:track:7J0Nli29ypZmMTqItpvPvM",
-                    "track_name": "Lil' Red Riding Hood"
-                },
-                {
-                    "artist_name": "Lukas Graham",
-                    "track_uri": "spotify:track:7129iqBafaphfc3WPCGC0L",
-                    "track_name": "7 Years"
-                },
-                {
-                    "artist_name": "Avicii",
-                    "track_uri": "spotify:track:3zKST4nk4QJE77oLjUZ0Ng",
-                    "track_name": "Hey Brother"
-                },
-                {
-                    "artist_name": "Ellie Goulding",
-                    "track_uri": "spotify:track:54nfzb6wMJPltkh5vQo7Wd",
-                    "track_name": "Your Song"
-                },
-                {
-                    "artist_name": "Celtic Woman",
-                    "track_uri": "spotify:track:3ZkelH3zCRJNSTqSWaaR4D",
-                    "track_name": "Fields Of Gold"
-                },
-                {
-                    "artist_name": "Rod Stewart",
-                    "track_uri": "spotify:track:6y4OjcEz7LMrdVGODrcAIv",
-                    "track_name": "Forever Young"
-                },
-                {
-                    "artist_name": "Ellie Goulding",
-                    "track_uri": "spotify:track:0ZPfDxZn5O0L84wvPSN2iG",
-                    "track_name": "How Long Will I Love You - Bonus Track"
-                },
-                {
-                    "artist_name": "Blue October",
-                    "track_uri": "spotify:track:2SiqlgLMfKQbczSMRp8drY",
-                    "track_name": "Into The Ocean"
-                },
-                {
-                    "artist_name": "Blue Foundation",
-                    "track_uri": "spotify:track:3XHrTm6WE2BOHafLwTT3GR",
-                    "track_name": "Eyes On Fire"
-                },
-                {
-                    "artist_name": "Miley Cyrus",
-                    "track_uri": "spotify:track:6ZfXA2xakAvphXOSOJ3u1W",
-                    "track_name": "When I Look At You"
-                },
-                {
-                    "artist_name": "Christina Perri",
-                    "track_uri": "spotify:track:6lanRgr6wXibZr8KgzXxBl",
-                    "track_name": "A Thousand Years"
-                },
-                {
-                    "artist_name": "Regina Spektor",
-                    "track_uri": "spotify:track:341863z079BT4EFPiSw9DP",
-                    "track_name": "The Call"
-                },
-                {
-                    "artist_name": "Regina Spektor",
-                    "track_uri": "spotify:track:6XPYPchsGj40NxVLe3m7AM",
-                    "track_name": "While My Guitar Gently Weeps"
-                },
-                {
-                    "artist_name": "Twenty One Pilots",
-                    "track_uri": "spotify:track:6i0V12jOa3mr6uu4WYhUBr",
-                    "track_name": "Heathens"
-                },
-                {
-                    "artist_name": "Train",
-                    "track_uri": "spotify:track:4ocbH5ZJqajZIpUrqRUoue",
-                    "track_name": "Meet Virginia"
-                },
-                {
-                    "artist_name": "Carrie Underwood",
-                    "track_uri": "spotify:track:4lnnde7PnrXR3pUzQKBe6X",
-                    "track_name": "Little Toy Guns"
-                },
-                {
-                    "artist_name": "Bryan Adams",
-                    "track_uri": "spotify:track:2AuTF7yXMDPhBHYBLjWcqg",
-                    "track_name": "I Will Always Return - Soundtrack Version"
-                },
-                {
-                    "artist_name": "Bryan Adams",
-                    "track_uri": "spotify:track:0tyJAX9WrXG40nJGn3DzpS",
-                    "track_name": "Sound The Bugle - Soundtrack Version"
-                },
-                {
-                    "artist_name": "London Music Works",
-                    "track_uri": "spotify:track:30Jz5gHONcfkVw8w36Wb1w",
-                    "track_name": "Homeland (From \"Spirit: Stallion of the Cimarron\")"
-                },
-                {
-                    "artist_name": "Bryan Adams",
-                    "track_uri": "spotify:track:5Z9iYd55FHNUeIIvUxXHZ8",
-                    "track_name": "This Is Where I Belong - Soundtrack Version"
-                },
-                {
-                    "artist_name": "Bryan Adams",
-                    "track_uri": "spotify:track:5L2PuKskVhXZ1ClWqFdyK4",
-                    "track_name": "Here I Am - Soundtrack Version"
-                },
-                {
-                    "artist_name": "Hans Zimmer",
-                    "track_uri": "spotify:track:42OUCmD1mBbtK7l10y7KMp",
-                    "track_name": "Run Free - Soundtrack Version"
-                },
-                {
-                    "artist_name": "Bryan Adams",
-                    "track_uri": "spotify:track:4bZ4JLtDmIErL4vn5rSShb",
-                    "track_name": "Don't Let Go - Soundtrack Version"
-                },
-                {
-                    "artist_name": "Bryan Adams",
-                    "track_uri": "spotify:track:4orPkQLhT8aye5SNHJIO64",
-                    "track_name": "Brothers Under The Sun - Soundtrack Version"
-                },
-                {
-                    "artist_name": "Bryan Adams",
-                    "track_uri": "spotify:track:5M2mW2Gj2WxkDUJitNSjW4",
-                    "track_name": "Nothing I've Ever Known - Soundtrack Version"
-                },
-                {
-                    "artist_name": "Halsey",
-                    "track_uri": "spotify:track:6Xs7OKt6i0Ddq8B4M5Dgvr",
-                    "track_name": "New Americana"
-                },
-                {
-                    "artist_name": "Mary J. Blige",
-                    "track_uri": "spotify:track:5rHCVI0zksYCs1EEqbGbSO",
-                    "track_name": "Reflections (I Remember) - New Mix"
-                },
-                {
-                    "artist_name": "Billy Joel",
-                    "track_uri": "spotify:track:4U45aEWtQhrm8A5mxPaFZ7",
-                    "track_name": "Vienna"
-                },
-                {
-                    "artist_name": "Regina Spektor",
-                    "track_uri": "spotify:track:6XPYPchsGj40NxVLe3m7AM",
-                    "track_name": "While My Guitar Gently Weeps"
-                },
-                {
-                    "artist_name": "Havva",
-                    "track_uri": "spotify:track:2578XLb2mWtUFl8LBCt2D4",
-                    "track_name": "Fuck Yourself"
-                },
-                {
-                    "artist_name": "Machine Gun Kelly",
-                    "track_uri": "spotify:track:1PSBzsahR2AKwLJgx8ehBj",
-                    "track_name": "Bad Things (with Camila Cabello)"
-                },
-                {
-                    "artist_name": "Wiz Khalifa",
-                    "track_uri": "spotify:track:6IcrwGdIvRsrImOnoYfG9Z",
-                    "track_name": "See You Again (feat. Charlie Puth) - From \"Furious 7\""
-                },
-                {
-                    "artist_name": "Luis Fonsi",
-                    "track_uri": "spotify:track:5CtI0qwDJkDQGwXD1H1cLb",
-                    "track_name": "Despacito - Remix"
-                },
-                {
-                    "artist_name": "Tori Kelly",
-                    "track_uri": "spotify:track:3wWinz94TSPWe6CgTaSK6x",
-                    "track_name": "Hallelujah"
-                },
-                {
-                    "artist_name": "Lana Del Rey",
-                    "track_uri": "spotify:track:7yFMhCJOsH7khgpdnyrZAZ",
-                    "track_name": "Ride"
-                },
-                {
-                    "artist_name": "Disturbed",
-                    "track_uri": "spotify:track:0eZBeB2xFIS65jQHerispi",
-                    "track_name": "The Sound Of Silence"
-                },
-                {
-                    "artist_name": "The Weeknd",
-                    "track_uri": "spotify:track:7ID2dydg1QFuWObmdhwzfm",
-                    "track_name": "Earned It (Fifty Shades Of Grey)"
-                },
-                {
-                    "artist_name": "Kendrick Lamar",
-                    "track_uri": "spotify:track:7ALEBJ8LOQqXVJ2tqnXtoH",
-                    "track_name": "Bitch, Don\u2019t Kill My Vibe - Remix"
-                },
-                {
-                    "artist_name": "Hozier",
-                    "track_uri": "spotify:track:3UfCFlGruX0DRPCpD1V3pU",
-                    "track_name": "Work Song"
-                },
-                {
-                    "artist_name": "Post Malone",
-                    "track_uri": "spotify:track:6eT7xZZlB2mwyzJ2sUKG6w",
-                    "track_name": "White Iverson"
-                },
-                {
-                    "artist_name": "Post Malone",
-                    "track_uri": "spotify:track:75ZvA4QfFiZvzhj2xkaWAh",
-                    "track_name": "I Fall Apart"
-                }
-            ],
-            "num_edits": 31,
-            "duration_ms": 19569939,
-            "num_artists": 49
-        },
-        {
             "name": "august '17",
-            "pid": 1120,
+            "pid": 849,
             "num_tracks": 66,
             "num_followers": 12,
             "tracks": [
@@ -1127,7 +696,7 @@
         },
         {
             "name": "On The Road",
-            "pid": 1121,
+            "pid": 850,
             "num_tracks": 42,
             "num_followers": 21,
             "tracks": [
@@ -1349,7 +918,7 @@
         },
         {
             "name": "Good Music",
-            "pid": 1122,
+            "pid": 851,
             "num_tracks": 126,
             "num_followers": 12,
             "tracks": [
@@ -1990,7 +1559,7 @@
         },
         {
             "name": "BBQ",
-            "pid": 1123,
+            "pid": 852,
             "num_tracks": 43,
             "num_followers": 14,
             "tracks": [
@@ -2216,7 +1785,7 @@
         },
         {
             "name": "moon",
-            "pid": 1124,
+            "pid": 853,
             "num_tracks": 229,
             "num_followers": 26,
             "tracks": [

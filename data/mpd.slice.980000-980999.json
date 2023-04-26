@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "girls",
-            "pid": 1995,
+            "pid": 1524,
             "num_tracks": 38,
             "num_followers": 13,
             "tracks": [
@@ -208,7 +208,7 @@
         },
         {
             "name": "Dennis",
-            "pid": 1996,
+            "pid": 1525,
             "num_tracks": 20,
             "num_followers": 22,
             "tracks": [
@@ -317,192 +317,6 @@
             "duration_ms": 4560459,
             "num_artists": 19,
             "description": "A playlist for Dennis Reynolds from It&#x27;s Always Sunny in Philadelphia."
-        },
-        {
-            "name": "The List",
-            "pid": 1997,
-            "num_tracks": 35,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "John Denver",
-                    "track_uri": "spotify:track:2xYlyywNgefLCRDG8hlxZq",
-                    "track_name": "Take Me Home, Country Roads"
-                },
-                {
-                    "artist_name": "The Silver Beetles",
-                    "track_uri": "spotify:track:2yPdr7QeaccxqDUb6B7ykg",
-                    "track_name": "Hey Jude"
-                },
-                {
-                    "artist_name": "Neil Diamond",
-                    "track_uri": "spotify:track:3zByVQLvdXUaDTubfWkpCk",
-                    "track_name": "Sweet Caroline"
-                },
-                {
-                    "artist_name": "Don McLean",
-                    "track_uri": "spotify:track:1fDsrQ23eTAVFElUMaf38X",
-                    "track_name": "American Pie"
-                },
-                {
-                    "artist_name": "Simon & Garfunkel",
-                    "track_uri": "spotify:track:6Ps4zgxtCnjY2xIwuOLUD1",
-                    "track_name": "Homeward Bound - Live"
-                },
-                {
-                    "artist_name": "John Denver",
-                    "track_uri": "spotify:track:5tlyFGagMcqqpbqo2jYKU5",
-                    "track_name": "Rocky Mountain High - Remastered"
-                },
-                {
-                    "artist_name": "Peter, Paul and Mary",
-                    "track_uri": "spotify:track:6ZSTinOwx5dKFYc6iYyGDn",
-                    "track_name": "Leaving On A Jet Plane"
-                },
-                {
-                    "artist_name": "Marty Haugen",
-                    "track_uri": "spotify:track:4JwgqDgRqtdylNKktA7fFf",
-                    "track_name": "Mass of Creation: Jesus, Lamb of God"
-                },
-                {
-                    "artist_name": "Simon & Garfunkel",
-                    "track_uri": "spotify:track:6QhXQOpyYvbpdbyjgAqKdY",
-                    "track_name": "Cecilia"
-                },
-                {
-                    "artist_name": "Simon & Garfunkel",
-                    "track_uri": "spotify:track:76TZCvJ8GitQ2FA1q5dKu0",
-                    "track_name": "The Boxer"
-                },
-                {
-                    "artist_name": "Simon & Garfunkel",
-                    "track_uri": "spotify:track:1I3feY3HoAtdIl9EAF2fBc",
-                    "track_name": "Homeward Bound"
-                },
-                {
-                    "artist_name": "Jimmy Buffett",
-                    "track_uri": "spotify:track:4EEjMyQub6tgFVshlM9j1M",
-                    "track_name": "Margaritaville"
-                },
-                {
-                    "artist_name": "The Beach Boys",
-                    "track_uri": "spotify:track:2ULL3VZf4WwBKO4vjwT7Bg",
-                    "track_name": "Sloop John B - 1996 - Remaster"
-                },
-                {
-                    "artist_name": "The Irish Tenors",
-                    "track_uri": "spotify:track:1JssSjrnWKYEHGNUJ9YgTh",
-                    "track_name": "Danny Boy"
-                },
-                {
-                    "artist_name": "The Irish Tenors",
-                    "track_uri": "spotify:track:5fwieut36J7mV5LnLfTH9J",
-                    "track_name": "Toora-Loora-Looral"
-                },
-                {
-                    "artist_name": "The Big Bopper",
-                    "track_uri": "spotify:track:0Rphayj7XHRoQFEwBwlZMC",
-                    "track_name": "Chantilly Lace"
-                },
-                {
-                    "artist_name": "John Denver",
-                    "track_uri": "spotify:track:4aqVJ566auHqnlpwSiYE5N",
-                    "track_name": "Back Home Again"
-                },
-                {
-                    "artist_name": "Gordon Lightfoot",
-                    "track_uri": "spotify:track:1H3gGIIkTPtBfasqsi9kme",
-                    "track_name": "Me And Bobby McGee"
-                },
-                {
-                    "artist_name": "Kenny Rogers",
-                    "track_uri": "spotify:track:5KqldkCunQ2rWxruMEtGh0",
-                    "track_name": "The Gambler"
-                },
-                {
-                    "artist_name": "Kenny Rogers",
-                    "track_uri": "spotify:track:42lAZKaWTWOC2pJe7eQDGw",
-                    "track_name": "Lucille"
-                },
-                {
-                    "artist_name": "Dion & The Belmonts",
-                    "track_uri": "spotify:track:17iHLt9yQLLeBN3g1woXzB",
-                    "track_name": "A Teenager In Love"
-                },
-                {
-                    "artist_name": "Colin Pritchard",
-                    "track_uri": "spotify:track:3yurmmFxqirCUPA6JakPmJ",
-                    "track_name": "Harrigan"
-                },
-                {
-                    "artist_name": "Arlo Guthrie",
-                    "track_uri": "spotify:track:0P6TTXbSLGrSoTNMz5kvB7",
-                    "track_name": "The City of New Orleans"
-                },
-                {
-                    "artist_name": "Dean Martin",
-                    "track_uri": "spotify:track:4I4aQGNJ2HufloNtB65nxR",
-                    "track_name": "That's Amore"
-                },
-                {
-                    "artist_name": "The Drifters",
-                    "track_uri": "spotify:track:65jrjEhWfAvysKfnojk1i0",
-                    "track_name": "Under The Boardwalk - Single/LP Version"
-                },
-                {
-                    "artist_name": "Frank Sinatra",
-                    "track_uri": "spotify:track:40tAOP3DPqmVD6L1h45Jp6",
-                    "track_name": "My Way"
-                },
-                {
-                    "artist_name": "The Drifters",
-                    "track_uri": "spotify:track:7cNRqg0lbiqBaGeOlA4AEU",
-                    "track_name": "Up On The Roof - Single/LP Version"
-                },
-                {
-                    "artist_name": "The Beach Boys",
-                    "track_uri": "spotify:track:5tP77cig0EkPqF4jECsp6K",
-                    "track_name": "Barbara Ann"
-                },
-                {
-                    "artist_name": "The Chiffons",
-                    "track_uri": "spotify:track:72EOe9jvjhUFu3Dw5lhLiV",
-                    "track_name": "Will You Still Love Me Tomorrow"
-                },
-                {
-                    "artist_name": "The Shirelles",
-                    "track_uri": "spotify:track:5zupfF6lvpSISEy7kZCZ0L",
-                    "track_name": "Will You Love Me Tomorrow"
-                },
-                {
-                    "artist_name": "Glen Campbell",
-                    "track_uri": "spotify:track:2VYF84ZzEofEYYg0cCxETc",
-                    "track_name": "Try A Little Kindness"
-                },
-                {
-                    "artist_name": "The Irish Rovers",
-                    "track_uri": "spotify:track:07NW7RpZaSe2ohHXADWhxz",
-                    "track_name": "Wild Colonial Boy"
-                },
-                {
-                    "artist_name": "Lonnie Donegan",
-                    "track_uri": "spotify:track:353qxXeS9BNjH1RgfdOXxM",
-                    "track_name": "Does Your Chewing Gum Lose Its Flavour (On The Bedpost Overnight)"
-                },
-                {
-                    "artist_name": "The Kingston Trio",
-                    "track_uri": "spotify:track:7czDlyNEoVpFzh8A4bNSdS",
-                    "track_name": "M.T.A."
-                },
-                {
-                    "artist_name": "Roger Miller",
-                    "track_uri": "spotify:track:70AMHrPg7O48A9X6AW75Yi",
-                    "track_name": "Kansas City Star - Re-Recorded In Stereo"
-                }
-            ],
-            "num_edits": 7,
-            "duration_ms": 7338764,
-            "num_artists": 26
         }
     ]
 }

@@ -6,359 +6,8 @@
     },
     "playlists": [
         {
-            "name": "Country/Rap",
-            "pid": 3573,
-            "num_tracks": 68,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:4fkUsaC0dJfHp5N1kIrZlr",
-                    "track_name": "Workin' (feat. Alexander King)"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:4AVGNAuDKWYpdFKavRF8pB",
-                    "track_name": "Bumpy Road"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:0bdekl9rjPas6kIZA49wdc",
-                    "track_name": "Hick Ross"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:4HfnDKWoTkCpzXSTsrkS9D",
-                    "track_name": "Anything Goes (feat. Alexander King)"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:5hJW27JJMnf4EMp9fuTbV7",
-                    "track_name": "Down In The Backwoods"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:3qT5a6XfAdJYsKtVZl9lXH",
-                    "track_name": "Come On (feat. Frankie Ballard)"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:0ibcFKQayP5OA8yQsGlzN5",
-                    "track_name": "Redneck Rich"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:0x248t0SlMbR1xt2sjr23O",
-                    "track_name": "Who I'll Be"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:11yPEnA9GSgAs8kaWGIvcV",
-                    "track_name": "Got Me"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:4vQYgcVKHcCKyCPpRPa1ql",
-                    "track_name": "Ain't Nothin' Free"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:5OgNtWX3qVt5ORYq3HUsre",
-                    "track_name": "I'm So Kuntry"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:1YMIixTJLNPEPrz0AJUZyr",
-                    "track_name": "Boss Of The Stix"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:1xinrSXajiIVeaAEwrGPob",
-                    "track_name": "Kick Mud"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:4zKDQSoJmqACzLtDB9uIea",
-                    "track_name": "Turn Your Back - feat. Jayme Pearl"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:5yydSGW7hRBX2CI7Zmt7gO",
-                    "track_name": "Old Dirt Road (feat. CB3)"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:6e0BVDHSbd2fE9xGLJJmQ3",
-                    "track_name": "American Made (feat. CB3)"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:7MEO7ZgajnCWMje9GM5gGV",
-                    "track_name": "Kickin It In Tennessee"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:6he5Be3IhDHAHJhTlxO6oK",
-                    "track_name": "Kuntry Boys (feat. Lil Wyte & JellyRoll)"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:0hfvdugblZ8PibvGBr0cMC",
-                    "track_name": "Buckin On Em (feat. Mr Sneed & Relapse)"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:2M3yaC0ZJGMOBw7eaP9bRH",
-                    "track_name": "It's On"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:6sgF9gczeciamAOtV50jaF",
-                    "track_name": "Fly Away (feat. MJ & TD)"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:31joXV9Y1waIYqIQyBKfFg",
-                    "track_name": "C.W.G. (feat. Haystak)"
-                },
-                {
-                    "artist_name": "Big Smo",
-                    "track_uri": "spotify:track:4O1fDvyLCDKs3fE1yajgsC",
-                    "track_name": "I Been Hard At Work"
-                },
-                {
-                    "artist_name": "The Lacs",
-                    "track_uri": "spotify:track:31Xa0SpE8683VhZXnJMjjn",
-                    "track_name": "Country Road"
-                },
-                {
-                    "artist_name": "The Lacs",
-                    "track_uri": "spotify:track:4UhXvpnh9q1ILBFAlHLB9r",
-                    "track_name": "Keep It Redneck"
-                },
-                {
-                    "artist_name": "Jawga Boyz",
-                    "track_uri": "spotify:track:63oXfvnKh3wm09ONxi5lt7",
-                    "track_name": "Ridin High"
-                },
-                {
-                    "artist_name": "Jawga Boyz",
-                    "track_uri": "spotify:track:4u4JqBap9AgXwHMH90pKTl",
-                    "track_name": "All The Girls Wanna Ride"
-                },
-                {
-                    "artist_name": "Jawga Boyz",
-                    "track_uri": "spotify:track:7DUNdZdRapX9vM3qN8M1iO",
-                    "track_name": "Rollin Like A Redneck"
-                },
-                {
-                    "artist_name": "Jawga Boyz",
-                    "track_uri": "spotify:track:4LnIemCt9PtP34zZsBAoNo",
-                    "track_name": "What I Do (feat. Bottleneck)"
-                },
-                {
-                    "artist_name": "Jawga Boyz",
-                    "track_uri": "spotify:track:3i5SieFUzE88mIFymjeWqN",
-                    "track_name": "Rednecks"
-                },
-                {
-                    "artist_name": "Jawga Boyz",
-                    "track_uri": "spotify:track:5lUovDaOXNReBnIXrNvZyJ",
-                    "track_name": "Tear the Mudhole up (feat. Yung Bama & Young Gunner)"
-                },
-                {
-                    "artist_name": "Jawga Boyz",
-                    "track_uri": "spotify:track:3wSCJCm3aNEgat3Cf3r5hv",
-                    "track_name": "Back in the Day"
-                },
-                {
-                    "artist_name": "Jawga Boyz",
-                    "track_uri": "spotify:track:7ot2mYpQD8nGwXwnvLDbvL",
-                    "track_name": "Until I Die (feat. Dez & Bubba Sparxxx)"
-                },
-                {
-                    "artist_name": "Jawga Boyz",
-                    "track_uri": "spotify:track:7nRdahtG3gddpgYvnUnkya",
-                    "track_name": "All the Girls Wanna Ride (Remix) [feat. Lenny Cooper]"
-                },
-                {
-                    "artist_name": "Jawga Boyz",
-                    "track_uri": "spotify:track:0SuXIpM8XmlOWtGS7EFk6d",
-                    "track_name": "Mudjug (Dip in My Lip) - (Remastered)"
-                },
-                {
-                    "artist_name": "Jawga Boyz",
-                    "track_uri": "spotify:track:15tqz9b2nPpF5pIoDntukg",
-                    "track_name": "Ridin High (Remastered) [feat. Young Gunner & Bottleneck]"
-                },
-                {
-                    "artist_name": "Jawga Boyz",
-                    "track_uri": "spotify:track:32XMh6INsNOcg7s7FwY3bj",
-                    "track_name": "Get Out My Way"
-                },
-                {
-                    "artist_name": "Jawga Boyz",
-                    "track_uri": "spotify:track:3iB96bT0rFgRvWwOzwJc84",
-                    "track_name": "Waylons Gone (feat. Biggie D & Twang and Round)"
-                },
-                {
-                    "artist_name": "Jawga Boyz",
-                    "track_uri": "spotify:track:15gODHYgsLS9ATh5Y6cQgA",
-                    "track_name": "Jack Em Up (feat. Pastor Troy)"
-                },
-                {
-                    "artist_name": "Bottleneck",
-                    "track_uri": "spotify:track:0iOogKe1DloB6wjHCWfAZs",
-                    "track_name": "Country Boys (feat. the Lacs)"
-                },
-                {
-                    "artist_name": "Bottleneck",
-                    "track_uri": "spotify:track:55kWN35yw1rjuTRDK46lS6",
-                    "track_name": "Ride On"
-                },
-                {
-                    "artist_name": "Colt Ford",
-                    "track_uri": "spotify:track:4BdoRSMhsiaAXM71CAgbyc",
-                    "track_name": "The High Life (feat. Chase Rice)"
-                },
-                {
-                    "artist_name": "Colt Ford",
-                    "track_uri": "spotify:track:0CEsKV485jSq8nn0Rsx4qY",
-                    "track_name": "Country Thang (feat. Eric Church)"
-                },
-                {
-                    "artist_name": "Colt Ford",
-                    "track_uri": "spotify:track:59bx5emG4yTKWzAxwxgrKv",
-                    "track_name": "Answer to No One (feat. JJ Lawhorn)"
-                },
-                {
-                    "artist_name": "Colt Ford",
-                    "track_uri": "spotify:track:6ppSjfNnek9OEUO1iQwOnZ",
-                    "track_name": "Ain\u2019t Out of the Woods Yet (feat. Montgomery Gentry)"
-                },
-                {
-                    "artist_name": "Colt Ford",
-                    "track_uri": "spotify:track:2gwXIaPLADrFgIi4aAUQ4a",
-                    "track_name": "Lucky (feat. Jonathan Singleton)"
-                },
-                {
-                    "artist_name": "Colt Ford",
-                    "track_uri": "spotify:track:6S9VO30FTHcDAXMhpGSN3U",
-                    "track_name": "Room At the Bar (feat. Corey Smith)"
-                },
-                {
-                    "artist_name": "Yelawolf",
-                    "track_uri": "spotify:track:61Qah5aEk9024AEaXCgXtN",
-                    "track_name": "Let's Roll"
-                },
-                {
-                    "artist_name": "Yelawolf",
-                    "track_uri": "spotify:track:6glKjytC9d79KqBNS5dKam",
-                    "track_name": "Back To Bama"
-                },
-                {
-                    "artist_name": "Bubba Sparxxx",
-                    "track_uri": "spotify:track:1BsvAobGiVCaqRAixv22CW",
-                    "track_name": "Country Folks (feat. Colt Ford & Danny Boone)"
-                },
-                {
-                    "artist_name": "Bubba Sparxxx",
-                    "track_uri": "spotify:track:4FzkPnSgAVkCLZDdL0W7ja",
-                    "track_name": "Way Down South (feat. Kyle Cook, Danny Boone, and Demun Jones)"
-                },
-                {
-                    "artist_name": "Bubba Sparxxx",
-                    "track_uri": "spotify:track:49jWY6Sxi9Oflo4sCbtES9",
-                    "track_name": "Better Be Country"
-                },
-                {
-                    "artist_name": "The Lacs",
-                    "track_uri": "spotify:track:73MUx2ZAvli9uPUZriKfi1",
-                    "track_name": "Drinks Up"
-                },
-                {
-                    "artist_name": "The Lacs",
-                    "track_uri": "spotify:track:33cvNt39RzYYHX1nnmI0LV",
-                    "track_name": "Mud Lovin' Rednecks"
-                },
-                {
-                    "artist_name": "The Lacs",
-                    "track_uri": "spotify:track:583f3ZvsGP7bCw3ueG4H8O",
-                    "track_name": "Nothing in Particular"
-                },
-                {
-                    "artist_name": "Mud Digger",
-                    "track_uri": "spotify:track:1jyBlr0Do8vBHkartKoen7",
-                    "track_name": "Smoke Stack (Remix) [feat. The Lacs & Cap Bailey]"
-                },
-                {
-                    "artist_name": "The Lacs",
-                    "track_uri": "spotify:track:31FmTHVyWz1VXjPuyS8IqT",
-                    "track_name": "Wylin' (Remix) [feat. Bubba Sparxxx & Charlie Farley]"
-                },
-                {
-                    "artist_name": "The Lacs",
-                    "track_uri": "spotify:track:0Xwsncb1ALxmXAhjeQOxlC",
-                    "track_name": "All Weekend Long"
-                },
-                {
-                    "artist_name": "Mud Digger",
-                    "track_uri": "spotify:track:6ODA6MLDwP0sLXn6gyMRal",
-                    "track_name": "Goin' Deep (feat. The Lacs & Luke Martin)"
-                },
-                {
-                    "artist_name": "The Lacs",
-                    "track_uri": "spotify:track:3szBOtTmjk6lS0t2kuWscz",
-                    "track_name": "Country Boy Downtime"
-                },
-                {
-                    "artist_name": "Mud Digger",
-                    "track_uri": "spotify:track:2DI1SvvgzhIybzuM0AjyvR",
-                    "track_name": "Field Party (feat. The Lacs & JJ Lawhorn)"
-                },
-                {
-                    "artist_name": "The Lacs",
-                    "track_uri": "spotify:track:17jYwVBtebpMsG0RgikSgl",
-                    "track_name": "King of the Honey Hole"
-                },
-                {
-                    "artist_name": "The Lacs",
-                    "track_uri": "spotify:track:4weRdciyTNXAnZGIxQI6bS",
-                    "track_name": "Black Moon"
-                },
-                {
-                    "artist_name": "Mud Digger",
-                    "track_uri": "spotify:track:0RpJTfoGuhhe585N9c7XYA",
-                    "track_name": "Let Your Country Hang Out (feat. The Lacs)"
-                },
-                {
-                    "artist_name": "Twang and Round",
-                    "track_uri": "spotify:track:7076S3ymsodMC81vfKD7S3",
-                    "track_name": "Outlawz Kingz"
-                },
-                {
-                    "artist_name": "Mud Digger",
-                    "track_uri": "spotify:track:4VMB5Ui9Cwd7A0JRXiwhmy",
-                    "track_name": "All Wired Up (feat. Twang and Round)"
-                },
-                {
-                    "artist_name": "Twang and Round",
-                    "track_uri": "spotify:track:4cgMbpadUX2zgo0O9v8cVS",
-                    "track_name": "Grand Daddy Long Legs"
-                },
-                {
-                    "artist_name": "Twang and Round",
-                    "track_uri": "spotify:track:2dzKlfE6gmHhLig5IstJaq",
-                    "track_name": "How I Roll"
-                }
-            ],
-            "num_edits": 5,
-            "duration_ms": 15422922,
-            "num_artists": 11
-        },
-        {
             "name": "Regina Spektor ",
-            "pid": 3574,
+            "pid": 2736,
             "num_tracks": 88,
             "num_followers": 31,
             "tracks": [
@@ -809,7 +458,7 @@
         },
         {
             "name": "EDM",
-            "pid": 3575,
+            "pid": 2737,
             "num_tracks": 127,
             "num_followers": 19,
             "tracks": [
@@ -1455,7 +1104,7 @@
         },
         {
             "name": "Good Feelings",
-            "pid": 3576,
+            "pid": 2738,
             "num_tracks": 122,
             "num_followers": 16,
             "tracks": [
@@ -2076,7 +1725,7 @@
         },
         {
             "name": "At Last",
-            "pid": 3577,
+            "pid": 2739,
             "num_tracks": 36,
             "num_followers": 18,
             "tracks": [
@@ -2267,7 +1916,7 @@
         },
         {
             "name": "Slow Jams",
-            "pid": 3578,
+            "pid": 2740,
             "num_tracks": 53,
             "num_followers": 114,
             "tracks": [
@@ -2543,7 +2192,7 @@
         },
         {
             "name": "\ud83d\udcb8\ud83d\udcb8",
-            "pid": 3579,
+            "pid": 2741,
             "num_tracks": 244,
             "num_followers": 13,
             "tracks": [

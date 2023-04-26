@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Family Reunion",
-            "pid": 5147,
+            "pid": 3910,
             "num_tracks": 54,
             "num_followers": 15,
             "tracks": [
@@ -288,7 +288,7 @@
         },
         {
             "name": "Bangers",
-            "pid": 5148,
+            "pid": 3911,
             "num_tracks": 28,
             "num_followers": 24,
             "tracks": [
@@ -439,7 +439,7 @@
         },
         {
             "name": "Gym",
-            "pid": 5149,
+            "pid": 3912,
             "num_tracks": 102,
             "num_followers": 17,
             "tracks": [
@@ -960,7 +960,7 @@
         },
         {
             "name": "Workout",
-            "pid": 5150,
+            "pid": 3913,
             "num_tracks": 21,
             "num_followers": 333,
             "tracks": [
@@ -1075,219 +1075,8 @@
             "num_artists": 20
         },
         {
-            "name": "camp",
-            "pid": 5151,
-            "num_tracks": 40,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Zara Larsson",
-                    "track_uri": "spotify:track:1rIKgCH4H52lrvDcz50hS8",
-                    "track_name": "Lush Life"
-                },
-                {
-                    "artist_name": "Wobble Baby Wobble Baby",
-                    "track_uri": "spotify:track:1SG18kW0egXcvFS1vmpA62",
-                    "track_name": "Wobble"
-                },
-                {
-                    "artist_name": "Galantis",
-                    "track_uri": "spotify:track:6M6Tk58pQvABy6ru66dY3d",
-                    "track_name": "No Money"
-                },
-                {
-                    "artist_name": "Timeflies",
-                    "track_uri": "spotify:track:6cREm4bV7V79Yxdilx9HDo",
-                    "track_name": "Once In a While"
-                },
-                {
-                    "artist_name": "Sia",
-                    "track_uri": "spotify:track:27SdWb2rFzO6GWiYDBTD9j",
-                    "track_name": "Cheap Thrills"
-                },
-                {
-                    "artist_name": "OneRepublic",
-                    "track_uri": "spotify:track:46jLy47W8rkf8rEX04gMKB",
-                    "track_name": "Wherever I Go"
-                },
-                {
-                    "artist_name": "Daya",
-                    "track_uri": "spotify:track:2DpCdPMg1BADE4HDnxt3Rd",
-                    "track_name": "Sit Still, Look Pretty"
-                },
-                {
-                    "artist_name": "Justin Timberlake",
-                    "track_uri": "spotify:track:6JV2JOEocMgcZxYSZelKcc",
-                    "track_name": "CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's \"TROLLS\")"
-                },
-                {
-                    "artist_name": "Clean Bandit",
-                    "track_uri": "spotify:track:5HuqzFfq2ulY1iBAW5CxLe",
-                    "track_name": "Rather Be (feat. Jess Glynne)"
-                },
-                {
-                    "artist_name": "One Direction",
-                    "track_uri": "spotify:track:4JaLkM90MJutDAl5jD9BZX",
-                    "track_name": "No Control"
-                },
-                {
-                    "artist_name": "Alesso",
-                    "track_uri": "spotify:track:6WQLkih8nE0JdUCEyLaGnQ",
-                    "track_name": "Heroes (we could be)"
-                },
-                {
-                    "artist_name": "Circa Waves",
-                    "track_uri": "spotify:track:1uNH7kknB8MVkmh6FfDb6W",
-                    "track_name": "T-Shirt Weather"
-                },
-                {
-                    "artist_name": "Selena Gomez",
-                    "track_uri": "spotify:track:3CJvmtWw2bJsudbAC5uCQk",
-                    "track_name": "Hands To Myself"
-                },
-                {
-                    "artist_name": "Disclosure",
-                    "track_uri": "spotify:track:1BltsyC5W3SAABdxyrDXwi",
-                    "track_name": "Latch"
-                },
-                {
-                    "artist_name": "Rihanna",
-                    "track_uri": "spotify:track:5XzmZjXhMjDHr7ZfJ6DELQ",
-                    "track_name": "FourFiveSeconds"
-                },
-                {
-                    "artist_name": "Disclosure",
-                    "track_uri": "spotify:track:3jEPu6FD1icy9cLllhB2XK",
-                    "track_name": "Omen - Radio Edit"
-                },
-                {
-                    "artist_name": "Justin Bieber",
-                    "track_uri": "spotify:track:3pzjHKrQSvXGHQ98dx18HI",
-                    "track_name": "What Do You Mean?"
-                },
-                {
-                    "artist_name": "Coldplay",
-                    "track_uri": "spotify:track:69uxyAqqPIsUyTO8txoP2M",
-                    "track_name": "Adventure Of A Lifetime"
-                },
-                {
-                    "artist_name": "Matoma",
-                    "track_uri": "spotify:track:2H8LPaY3NSjmOFMH2Rygnz",
-                    "track_name": "Running Out"
-                },
-                {
-                    "artist_name": "Justin Bieber",
-                    "track_uri": "spotify:track:69bp2EbF7Q2rqc5N3ylezZ",
-                    "track_name": "Sorry"
-                },
-                {
-                    "artist_name": "Justin Bieber",
-                    "track_uri": "spotify:track:09mhA1SJjMHniZPF4Hcihn",
-                    "track_name": "Company"
-                },
-                {
-                    "artist_name": "Troye Sivan",
-                    "track_uri": "spotify:track:1cOyWWUr3oXJIxY0AjJEx9",
-                    "track_name": "YOUTH"
-                },
-                {
-                    "artist_name": "Hailee Steinfeld",
-                    "track_uri": "spotify:track:3Bjr9MzHM7KHk6zq7KvJRN",
-                    "track_name": "Love Myself"
-                },
-                {
-                    "artist_name": "Jess Glynne",
-                    "track_uri": "spotify:track:58jx3tTuDuzHysC77c0AQd",
-                    "track_name": "Hold My Hand"
-                },
-                {
-                    "artist_name": "Little Mix",
-                    "track_uri": "spotify:track:5y6pj7OeBFF0CVgZKhRbOG",
-                    "track_name": "Black Magic"
-                },
-                {
-                    "artist_name": "Nick Jonas",
-                    "track_uri": "spotify:track:6pf9datdAtxQj4EU8UYHSx",
-                    "track_name": "Levels"
-                },
-                {
-                    "artist_name": "Kygo",
-                    "track_uri": "spotify:track:5masKPHeAOVNgxdLebIcK7",
-                    "track_name": "Stole the Show"
-                },
-                {
-                    "artist_name": "MKTO",
-                    "track_uri": "spotify:track:6FE2iI43OZnszFLuLtvvmg",
-                    "track_name": "Classic"
-                },
-                {
-                    "artist_name": "Becky G",
-                    "track_uri": "spotify:track:3DmW6y7wTEYHJZlLo1r6XJ",
-                    "track_name": "Shower"
-                },
-                {
-                    "artist_name": "Olly Murs",
-                    "track_uri": "spotify:track:6nM9Sr6MPcfpqwQTD7PZGi",
-                    "track_name": "Wrapped Up"
-                },
-                {
-                    "artist_name": "Rita Ora",
-                    "track_uri": "spotify:track:2ia7iiEtpiOL2ZVuWxBZGB",
-                    "track_name": "I Will Never Let You Down"
-                },
-                {
-                    "artist_name": "Troy",
-                    "track_uri": "spotify:track:6TRp2628QKH3kY6KrCnjqp",
-                    "track_name": "You Are The Music In Me - From \"High School Musical 2\"/Soundtrack Version"
-                },
-                {
-                    "artist_name": "High School Musical Cast",
-                    "track_uri": "spotify:track:2XQ1tVtmHNKBOxaCbjYxdn",
-                    "track_name": "Everyday"
-                },
-                {
-                    "artist_name": "High School Musical Cast",
-                    "track_uri": "spotify:track:3SMxd9vNy41n9Xk4UFw36S",
-                    "track_name": "Just Wanna Be With You"
-                },
-                {
-                    "artist_name": "Jonas Brothers",
-                    "track_uri": "spotify:track:1ZP0sKDoVM1NCFB65Esfm6",
-                    "track_name": "S.O.S."
-                },
-                {
-                    "artist_name": "Aly & AJ",
-                    "track_uri": "spotify:track:11dxtPJKR4E0wlSr0A0t47",
-                    "track_name": "Potential Breakup Song"
-                },
-                {
-                    "artist_name": "Miley Cyrus",
-                    "track_uri": "spotify:track:3utIAb67sOu0QHxBE88P1M",
-                    "track_name": "See You Again"
-                },
-                {
-                    "artist_name": "Jesse McCartney",
-                    "track_uri": "spotify:track:1HwpWwa6bnqqRhK8agG4RS",
-                    "track_name": "Beautiful Soul"
-                },
-                {
-                    "artist_name": "The 1975",
-                    "track_uri": "spotify:track:316r1KLN0bcmpr7TZcMCXT",
-                    "track_name": "The Sound"
-                },
-                {
-                    "artist_name": "Capital Cities",
-                    "track_uri": "spotify:track:6Z8R6UsFuGXGtiIxiD8ISb",
-                    "track_name": "Safe And Sound"
-                }
-            ],
-            "num_edits": 3,
-            "duration_ms": 8281154,
-            "num_artists": 36
-        },
-        {
             "name": "GYM",
-            "pid": 5152,
+            "pid": 3914,
             "num_tracks": 127,
             "num_followers": 26,
             "tracks": [
@@ -1933,7 +1722,7 @@
         },
         {
             "name": "Oldies",
-            "pid": 5153,
+            "pid": 3915,
             "num_tracks": 18,
             "num_followers": 17,
             "tracks": [
@@ -2034,7 +1823,7 @@
         },
         {
             "name": "Jazz Funk",
-            "pid": 5154,
+            "pid": 3916,
             "num_tracks": 13,
             "num_followers": 22,
             "tracks": [
@@ -2110,7 +1899,7 @@
         },
         {
             "name": "oldies",
-            "pid": 5155,
+            "pid": 3917,
             "num_tracks": 54,
             "num_followers": 13,
             "tracks": [

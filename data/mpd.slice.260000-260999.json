@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Easy Does It",
-            "pid": 6032,
+            "pid": 4574,
             "num_tracks": 21,
             "num_followers": 30,
             "tracks": [
@@ -123,7 +123,7 @@
         },
         {
             "name": " songs i love",
-            "pid": 6033,
+            "pid": 4575,
             "num_tracks": 149,
             "num_followers": 15,
             "tracks": [
@@ -879,7 +879,7 @@
         },
         {
             "name": "rock",
-            "pid": 6034,
+            "pid": 4576,
             "num_tracks": 105,
             "num_followers": 17,
             "tracks": [
@@ -1414,134 +1414,8 @@
             "num_artists": 48
         },
         {
-            "name": "Yuhh",
-            "pid": 6035,
-            "num_tracks": 23,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Post Malone",
-                    "track_uri": "spotify:track:3a1lNhkSLSkpJE4MSHpDu9",
-                    "track_name": "Congratulations"
-                },
-                {
-                    "artist_name": "Future",
-                    "track_uri": "spotify:track:6dVZCbi9CYtD9LjAHXRjIG",
-                    "track_name": "Mask Off - Remix"
-                },
-                {
-                    "artist_name": "Rae Sremmurd",
-                    "track_uri": "spotify:track:6mapJIPnQ23RTAevUoE0DL",
-                    "track_name": "Swang"
-                },
-                {
-                    "artist_name": "Nebu Kiniza",
-                    "track_uri": "spotify:track:6JjEVlMkfHWMeYavkEYzNO",
-                    "track_name": "Gassed Up"
-                },
-                {
-                    "artist_name": "Post Malone",
-                    "track_uri": "spotify:track:5yuShbu70mtHXY0yLzCQLQ",
-                    "track_name": "Go Flex"
-                },
-                {
-                    "artist_name": "Travis Scott",
-                    "track_uri": "spotify:track:6gBFPUFcJLzWGx4lenP6h2",
-                    "track_name": "goosebumps"
-                },
-                {
-                    "artist_name": "21 Savage",
-                    "track_uri": "spotify:track:2fQrGHiQOvpL9UgPvtYy6G",
-                    "track_name": "Bank Account"
-                },
-                {
-                    "artist_name": "Big Sean",
-                    "track_uri": "spotify:track:0SGkqnVQo9KPytSri1H6cF",
-                    "track_name": "Bounce Back"
-                },
-                {
-                    "artist_name": "blackbear",
-                    "track_uri": "spotify:track:0qgZvYWLIqDn0tXimF8gPa",
-                    "track_name": "Dirty Laundry"
-                },
-                {
-                    "artist_name": "Kendrick Lamar",
-                    "track_uri": "spotify:track:6HZILIRieu8S0iqY8kIKhj",
-                    "track_name": "DNA."
-                },
-                {
-                    "artist_name": "Post Malone",
-                    "track_uri": "spotify:track:42CeaId2XNlxugDvyqHfDf",
-                    "track_name": "Candy Paint"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert",
-                    "track_uri": "spotify:track:7GX5flRQZVHRAGd6B4TmDO",
-                    "track_name": "XO TOUR Llif3"
-                },
-                {
-                    "artist_name": "A Boogie Wit da Hoodie",
-                    "track_uri": "spotify:track:1f5cbQtDrykjarZVrShaDI",
-                    "track_name": "Drowning (feat. Kodak Black)"
-                },
-                {
-                    "artist_name": "French Montana",
-                    "track_uri": "spotify:track:3B54sVLJ402zGa6Xm4YGNe",
-                    "track_name": "Unforgettable"
-                },
-                {
-                    "artist_name": "blackbear",
-                    "track_uri": "spotify:track:3Q3myFA7q4Op95DOpHplaY",
-                    "track_name": "do re mi"
-                },
-                {
-                    "artist_name": "KYLE",
-                    "track_uri": "spotify:track:2EEeOnHehOozLq4aS0n6SL",
-                    "track_name": "iSpy (feat. Lil Yachty)"
-                },
-                {
-                    "artist_name": "DRAM",
-                    "track_uri": "spotify:track:6GG2tkV9PRYGN5rniXPFXZ",
-                    "track_name": "Cash Machine"
-                },
-                {
-                    "artist_name": "NAV",
-                    "track_uri": "spotify:track:05nbZ1xxVNwUTcGwLbp7CN",
-                    "track_name": "Myself"
-                },
-                {
-                    "artist_name": "Lost Kings",
-                    "track_uri": "spotify:track:5bvNpG6wiIEf1PA13TkTu2",
-                    "track_name": "Phone Down"
-                },
-                {
-                    "artist_name": "Cardi B",
-                    "track_uri": "spotify:track:2771LMNxwf62FTAdpJMQfM",
-                    "track_name": "Bodak Yellow"
-                },
-                {
-                    "artist_name": "Post Malone",
-                    "track_uri": "spotify:track:7wGoVu4Dady5GV0Sv4UIsx",
-                    "track_name": "rockstar"
-                },
-                {
-                    "artist_name": "Rae Sremmurd",
-                    "track_uri": "spotify:track:4jTiyLlOJVJj3mCr7yfPQD",
-                    "track_name": "This Could Be Us"
-                },
-                {
-                    "artist_name": "Amin\u00e9",
-                    "track_uri": "spotify:track:4HW5kSQ8M2IQWZhSxERvla",
-                    "track_name": "Spice Girl"
-                }
-            ],
-            "num_edits": 13,
-            "duration_ms": 4864285,
-            "num_artists": 18
-        },
-        {
             "name": "bonfire playlist",
-            "pid": 6036,
+            "pid": 4577,
             "num_tracks": 243,
             "num_followers": 32,
             "tracks": [
@@ -2767,7 +2641,7 @@
         },
         {
             "name": "Girl Power",
-            "pid": 6037,
+            "pid": 4578,
             "num_tracks": 40,
             "num_followers": 90,
             "tracks": [

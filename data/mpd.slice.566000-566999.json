@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Worship",
-            "pid": 6055,
+            "pid": 4591,
             "num_tracks": 39,
             "num_followers": 17,
             "tracks": [
@@ -213,7 +213,7 @@
         },
         {
             "name": "Clubbin",
-            "pid": 6056,
+            "pid": 4592,
             "num_tracks": 164,
             "num_followers": 15,
             "tracks": [
@@ -1044,7 +1044,7 @@
         },
         {
             "name": "On the Road",
-            "pid": 6057,
+            "pid": 4593,
             "num_tracks": 17,
             "num_followers": 78,
             "tracks": [
@@ -1141,7 +1141,7 @@
         },
         {
             "name": "Graduation Playlist",
-            "pid": 6058,
+            "pid": 4594,
             "num_tracks": 113,
             "num_followers": 36,
             "tracks": [
@@ -1717,7 +1717,7 @@
         },
         {
             "name": "beach trip",
-            "pid": 6059,
+            "pid": 4595,
             "num_tracks": 30,
             "num_followers": 13,
             "tracks": [
@@ -1878,7 +1878,7 @@
         },
         {
             "name": "cherry wine",
-            "pid": 6060,
+            "pid": 4596,
             "num_tracks": 145,
             "num_followers": 19,
             "tracks": [
@@ -2614,7 +2614,7 @@
         },
         {
             "name": "the jams ",
-            "pid": 6061,
+            "pid": 4597,
             "num_tracks": 138,
             "num_followers": 15,
             "tracks": [
@@ -3312,82 +3312,6 @@
             "num_edits": 75,
             "duration_ms": 29822491,
             "num_artists": 74
-        },
-        {
-            "name": "June 2017",
-            "pid": 6062,
-            "num_tracks": 13,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Forth Wanderers",
-                    "track_uri": "spotify:track:2UvxS1HnysPdQ7tvSnNFJh",
-                    "track_name": "Know Better"
-                },
-                {
-                    "artist_name": "Spirit Award",
-                    "track_uri": "spotify:track:7pJBscbAsIiGZGDSws95nc",
-                    "track_name": "Fields"
-                },
-                {
-                    "artist_name": "Palehound",
-                    "track_uri": "spotify:track:36b2d3ehA00w3i17RAznM2",
-                    "track_name": "Room"
-                },
-                {
-                    "artist_name": "Naked Giants",
-                    "track_uri": "spotify:track:5vHOHY1NDtOIvFDB9BvedS",
-                    "track_name": "Surchin 4 U"
-                },
-                {
-                    "artist_name": "Flaural",
-                    "track_uri": "spotify:track:0PiXZzaG3fqwHdEcr3bLqh",
-                    "track_name": "Staycation"
-                },
-                {
-                    "artist_name": "Sundae Crush",
-                    "track_uri": "spotify:track:65xMZTLaIVw3tFGFAUXz3p",
-                    "track_name": "Contestant"
-                },
-                {
-                    "artist_name": "Haley Heynderickx",
-                    "track_uri": "spotify:track:0QrxeCKmq1qHJSqysK5rdD",
-                    "track_name": "Drinking Song"
-                },
-                {
-                    "artist_name": "Kevin Morby",
-                    "track_uri": "spotify:track:5qrQdy5Srp96OaJpy7gLYw",
-                    "track_name": "Tin Can"
-                },
-                {
-                    "artist_name": "Julia Jacklin",
-                    "track_uri": "spotify:track:6cAeudR3Q4uMkhwsC1eCE5",
-                    "track_name": "Eastwick"
-                },
-                {
-                    "artist_name": "IAN SWEET",
-                    "track_uri": "spotify:track:2dnEc3spIPfR71PFSKRprf",
-                    "track_name": "Slime Time Live"
-                },
-                {
-                    "artist_name": "Molly Burch",
-                    "track_uri": "spotify:track:3XNNKdI1mL6xAXaN5QADkk",
-                    "track_name": "Try"
-                },
-                {
-                    "artist_name": "Space Mountain",
-                    "track_uri": "spotify:track:09TRvHJT00epD6lXsrPFTi",
-                    "track_name": "Never Lonely"
-                },
-                {
-                    "artist_name": "Jaded Juice Riders",
-                    "track_uri": "spotify:track:2aGwiiy40Ul3Lm3QsSEKmC",
-                    "track_name": "Blackies"
-                }
-            ],
-            "num_edits": 3,
-            "duration_ms": 2845352,
-            "num_artists": 13
         }
     ]
 }

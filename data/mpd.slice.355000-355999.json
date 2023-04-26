@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Das antigas",
-            "pid": 2241,
+            "pid": 1707,
             "num_tracks": 232,
             "num_followers": 12,
             "tracks": [
@@ -1179,7 +1179,7 @@
         },
         {
             "name": "michael",
-            "pid": 2242,
+            "pid": 1708,
             "num_tracks": 40,
             "num_followers": 12,
             "tracks": [
@@ -1390,7 +1390,7 @@
         },
         {
             "name": "Michael Jackson",
-            "pid": 2243,
+            "pid": 1709,
             "num_tracks": 142,
             "num_followers": 27,
             "tracks": [
@@ -2112,7 +2112,7 @@
         },
         {
             "name": "San Francisco",
-            "pid": 2244,
+            "pid": 1710,
             "num_tracks": 207,
             "num_followers": 15,
             "tracks": [
@@ -3158,7 +3158,7 @@
         },
         {
             "name": "Hip Hop",
-            "pid": 2245,
+            "pid": 1711,
             "num_tracks": 95,
             "num_followers": 33,
             "tracks": [
@@ -3644,7 +3644,7 @@
         },
         {
             "name": "Slow Jams",
-            "pid": 2246,
+            "pid": 1712,
             "num_tracks": 59,
             "num_followers": 13,
             "tracks": [
@@ -3949,59 +3949,8 @@
             "num_artists": 55
         },
         {
-            "name": "Trap Music",
-            "pid": 2247,
-            "num_tracks": 8,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Massappeals",
-                    "track_uri": "spotify:track:10Ae5XLoLiHYsdo8KbzYk6",
-                    "track_name": "I'm Good"
-                },
-                {
-                    "artist_name": "Massappeals",
-                    "track_uri": "spotify:track:0YKVdl1BdWPaHJvDwuLKkN",
-                    "track_name": "BAWS"
-                },
-                {
-                    "artist_name": "Flosstradamus",
-                    "track_uri": "spotify:track:4NZg8df9BxJ6spPDnr6Z9T",
-                    "track_name": "Rollup - Baauer Remix"
-                },
-                {
-                    "artist_name": "Flosstradamus",
-                    "track_uri": "spotify:track:2XFak3Sx0XCoXJpPt5TeeR",
-                    "track_name": "Soundclash"
-                },
-                {
-                    "artist_name": "Flux Pavilion",
-                    "track_uri": "spotify:track:5F7FWI7P3jMzO3yCz0jELg",
-                    "track_name": "Hold Me Close"
-                },
-                {
-                    "artist_name": "Flux Pavilion",
-                    "track_uri": "spotify:track:5WSL7UTa38jMWoBzObD4BD",
-                    "track_name": "I Can't Stop"
-                },
-                {
-                    "artist_name": "Flux Pavilion",
-                    "track_uri": "spotify:track:2BTPW7osibjN9gFDRY4mYN",
-                    "track_name": "Do Or Die (feat. Childish Gambino)"
-                },
-                {
-                    "artist_name": "XXTRAKT",
-                    "track_uri": "spotify:track:6FN8tfVrpmZd2pcbRv3Cyi",
-                    "track_name": "Higher - Massappeals Remix"
-                }
-            ],
-            "num_edits": 3,
-            "duration_ms": 1937910,
-            "num_artists": 4
-        },
-        {
             "name": "Feel Good Playlist",
-            "pid": 2248,
+            "pid": 1713,
             "num_tracks": 65,
             "num_followers": 18,
             "tracks": [
@@ -4337,7 +4286,7 @@
         },
         {
             "name": "Prayer",
-            "pid": 2249,
+            "pid": 1714,
             "num_tracks": 18,
             "num_followers": 35,
             "tracks": [
@@ -4437,304 +4386,8 @@
             "num_artists": 10
         },
         {
-            "name": "classics",
-            "pid": 2250,
-            "num_tracks": 57,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Counting Crows",
-                    "track_uri": "spotify:track:5DiXcVovI0FcY2s0icWWUu",
-                    "track_name": "Mr. Jones"
-                },
-                {
-                    "artist_name": "Dexys Midnight Runners",
-                    "track_uri": "spotify:track:0EMmVUYs9ZZRHtlADB88uz",
-                    "track_name": "Come On Eileen"
-                },
-                {
-                    "artist_name": "King Harvest",
-                    "track_uri": "spotify:track:55GxhCTq6SY3tFTVh7z1nR",
-                    "track_name": "Dancing In The Moonlight"
-                },
-                {
-                    "artist_name": "Van Morrison",
-                    "track_uri": "spotify:track:3yrSvpt2l1xhsV9Em88Pul",
-                    "track_name": "Brown Eyed Girl"
-                },
-                {
-                    "artist_name": "Rick Springfield",
-                    "track_uri": "spotify:track:5RsUlxLto4NZbhJpqJbHfN",
-                    "track_name": "Jessie's Girl"
-                },
-                {
-                    "artist_name": "Toto",
-                    "track_uri": "spotify:track:2374M0fQpWi3dLnB54qaLX",
-                    "track_name": "Africa"
-                },
-                {
-                    "artist_name": "The Outfield",
-                    "track_uri": "spotify:track:4oDZ5L8izBals6jKBJDBcX",
-                    "track_name": "Your Love"
-                },
-                {
-                    "artist_name": "Poison",
-                    "track_uri": "spotify:track:2aYobZL0fq4VeQrSS28VYV",
-                    "track_name": "What I Like About You"
-                },
-                {
-                    "artist_name": "Boston",
-                    "track_uri": "spotify:track:1QEEqeFIZktqIpPI4jSVSF",
-                    "track_name": "More Than a Feeling"
-                },
-                {
-                    "artist_name": "Kansas",
-                    "track_uri": "spotify:track:4DMKwE2E2iYDKY01C335Uw",
-                    "track_name": "Carry on Wayward Son"
-                },
-                {
-                    "artist_name": "The J. Geils Band",
-                    "track_uri": "spotify:track:1ynmMEK1fkyiZ6Z6F3ThEt",
-                    "track_name": "Centerfold"
-                },
-                {
-                    "artist_name": "The Outlaws",
-                    "track_uri": "spotify:track:1oA8QkvEsCNtDVUo1usiEM",
-                    "track_name": "Green Grass & High Tides (Live)"
-                },
-                {
-                    "artist_name": "Lynyrd Skynyrd",
-                    "track_uri": "spotify:track:4CJVkjo5WpmUAKp3R44LNb",
-                    "track_name": "Sweet Home Alabama"
-                },
-                {
-                    "artist_name": "Dave Matthews Band",
-                    "track_uri": "spotify:track:1HL3yEnYq8LEyFQ3QegA5V",
-                    "track_name": "Crash into Me"
-                },
-                {
-                    "artist_name": "Train",
-                    "track_uri": "spotify:track:2hKdd3qO7cWr2Jo0Bcs0MA",
-                    "track_name": "Drops of Jupiter"
-                },
-                {
-                    "artist_name": "Counting Crows",
-                    "track_uri": "spotify:track:3ZpiT9OFY8BawTHDTi1Pfz",
-                    "track_name": "Big Yellow Taxi"
-                },
-                {
-                    "artist_name": "Sublime",
-                    "track_uri": "spotify:track:2Z2vOukzwOgqR4dkymRSWd",
-                    "track_name": "Santeria"
-                },
-                {
-                    "artist_name": "Billy Joel",
-                    "track_uri": "spotify:track:78WVLOP9pN0G3gRLFy1rAa",
-                    "track_name": "Piano Man"
-                },
-                {
-                    "artist_name": "Billy Joel",
-                    "track_uri": "spotify:track:4U45aEWtQhrm8A5mxPaFZ7",
-                    "track_name": "Vienna"
-                },
-                {
-                    "artist_name": "Eagles",
-                    "track_uri": "spotify:track:40riOy7x9W7GXjyGp4pjAv",
-                    "track_name": "Hotel California - Remastered"
-                },
-                {
-                    "artist_name": "Fleetwood Mac",
-                    "track_uri": "spotify:track:5ihS6UUlyQAfmp48eSkxuQ",
-                    "track_name": "Landslide"
-                },
-                {
-                    "artist_name": "Daryl Hall & John Oates",
-                    "track_uri": "spotify:track:4o6BgsqLIBViaGVbx5rbRk",
-                    "track_name": "You Make My Dreams - Remastered"
-                },
-                {
-                    "artist_name": "Daryl Hall & John Oates",
-                    "track_uri": "spotify:track:0qRR9d89hIS0MHRkQ0ejxX",
-                    "track_name": "Rich Girl"
-                },
-                {
-                    "artist_name": "Darius Rucker",
-                    "track_uri": "spotify:track:3xdjjKMcMOFgo1eQrfbogM",
-                    "track_name": "Wagon Wheel"
-                },
-                {
-                    "artist_name": "Norman Greenbaum",
-                    "track_uri": "spotify:track:7fqhrLJzKHJ0RW32N0y2Gp",
-                    "track_name": "Spirit In The Sky"
-                },
-                {
-                    "artist_name": "Red Hot Chili Peppers",
-                    "track_uri": "spotify:track:48UPSzbZjgc449aqz8bxox",
-                    "track_name": "Californication"
-                },
-                {
-                    "artist_name": "Rupert Holmes",
-                    "track_uri": "spotify:track:5IMtdHjJ1OtkxbGe4zfUxQ",
-                    "track_name": "Escape (The Pina Colada Song)"
-                },
-                {
-                    "artist_name": "Lou Bega",
-                    "track_uri": "spotify:track:3vJG33adGD5Z39Gb6Cnevi",
-                    "track_name": "Mambo No. 5 (A Little Bit of...)"
-                },
-                {
-                    "artist_name": "Blue Swede",
-                    "track_uri": "spotify:track:2Nz6aF1umHh5Et6I5H581L",
-                    "track_name": "Hooked on a Feeling"
-                },
-                {
-                    "artist_name": "Boston",
-                    "track_uri": "spotify:track:4QySZtWymRGNgrwxZOODKF",
-                    "track_name": "Don't Look Back"
-                },
-                {
-                    "artist_name": "Billy Joel",
-                    "track_uri": "spotify:track:1xOXXYh6lTW8laxlW7JP2J",
-                    "track_name": "Only the Good Die Young"
-                },
-                {
-                    "artist_name": "Billy Joel",
-                    "track_uri": "spotify:track:5zA8vzDGqPl2AzZkEYQGKh",
-                    "track_name": "Uptown Girl"
-                },
-                {
-                    "artist_name": "Lynyrd Skynyrd",
-                    "track_uri": "spotify:track:64sn7wgJfeQKY3Jisnl59w",
-                    "track_name": "Tuesday's Gone"
-                },
-                {
-                    "artist_name": "Lynyrd Skynyrd",
-                    "track_uri": "spotify:track:5EWPGh7jbTNO2wakv8LjUI",
-                    "track_name": "Free Bird"
-                },
-                {
-                    "artist_name": "Lynyrd Skynyrd",
-                    "track_uri": "spotify:track:0x2wtJbtJrox3SDmnMj97x",
-                    "track_name": "Gimme Three Steps"
-                },
-                {
-                    "artist_name": "Van Halen",
-                    "track_uri": "spotify:track:05RgAMGypEvqhNs5hPCbMS",
-                    "track_name": "Panama - 2015 Remastered Version"
-                },
-                {
-                    "artist_name": "Sam Cooke",
-                    "track_uri": "spotify:track:27K3ZDS5B4fwjhwyihrdzC",
-                    "track_name": "(What A) Wonderful World - Remastered"
-                },
-                {
-                    "artist_name": "Dion",
-                    "track_uri": "spotify:track:1DndHckdH9m5rp6gYP086b",
-                    "track_name": "Runaround Sue"
-                },
-                {
-                    "artist_name": "The Red One Rocketman",
-                    "track_uri": "spotify:track:7f18QFVkxS0lXSXlDhVRqG",
-                    "track_name": "Benny and the Jets"
-                },
-                {
-                    "artist_name": "James Taylor",
-                    "track_uri": "spotify:track:3LcYYV9ozePfgYYmXv0P3r",
-                    "track_name": "Fire And Rain"
-                },
-                {
-                    "artist_name": "James Taylor",
-                    "track_uri": "spotify:track:5WOLghNew2YKZO96gYoM7p",
-                    "track_name": "Carolina In My Mind"
-                },
-                {
-                    "artist_name": "James Taylor",
-                    "track_uri": "spotify:track:0VOIJT3Gz8uStYHHBGAUj1",
-                    "track_name": "Mexico"
-                },
-                {
-                    "artist_name": "James Taylor",
-                    "track_uri": "spotify:track:2ixvyphthfX2dW1d3eOaf5",
-                    "track_name": "Walking Man"
-                },
-                {
-                    "artist_name": "James Taylor",
-                    "track_uri": "spotify:track:1105xyHTDp3bZQa1cpoCyX",
-                    "track_name": "Country Road"
-                },
-                {
-                    "artist_name": "Tom Petty",
-                    "track_uri": "spotify:track:5tVA6TkbaAH9QMITTQRrNv",
-                    "track_name": "Free Fallin'"
-                },
-                {
-                    "artist_name": "4 Non Blondes",
-                    "track_uri": "spotify:track:7f0jXNMu2xjQUtmKMuWhGA",
-                    "track_name": "What's Up?"
-                },
-                {
-                    "artist_name": "Peter Gabriel",
-                    "track_uri": "spotify:track:6DnKPMbm4KnBP16v7xde4J",
-                    "track_name": "Solsbury Hill - 2002 Remaster"
-                },
-                {
-                    "artist_name": "Frankie Valli & The Four Seasons",
-                    "track_uri": "spotify:track:1hQFF33xi8ruavZNyovtUN",
-                    "track_name": "December, 1963 (Oh What A Night!)"
-                },
-                {
-                    "artist_name": "James Taylor",
-                    "track_uri": "spotify:track:6IYX0TnfRvUt1VveSAdlIB",
-                    "track_name": "Something In The Way She Moves"
-                },
-                {
-                    "artist_name": "Steppenwolf",
-                    "track_uri": "spotify:track:4c4jJJoaiY21t2TyRZgdWS",
-                    "track_name": "Magic Carpet Ride"
-                },
-                {
-                    "artist_name": "Guns N' Roses",
-                    "track_uri": "spotify:track:7o2CTH4ctstm8TNelqjb51",
-                    "track_name": "Sweet Child O' Mine"
-                },
-                {
-                    "artist_name": "The Beatles",
-                    "track_uri": "spotify:track:3H7sv3Krffn15BufUuXzf3",
-                    "track_name": "Hey Jude - Remastered 2015"
-                },
-                {
-                    "artist_name": "The Animals",
-                    "track_uri": "spotify:track:7BY005dacJkbO6EPiOh2wb",
-                    "track_name": "House Of The Rising Sun"
-                },
-                {
-                    "artist_name": "The Beatles",
-                    "track_uri": "spotify:track:5V1AHQugSTASVez5ffJtFo",
-                    "track_name": "Let It Be - Remastered"
-                },
-                {
-                    "artist_name": "The Police",
-                    "track_uri": "spotify:track:3bN4tg6rnNPy9GCkGhym4T",
-                    "track_name": "Message In A Bottle - Remastered 2003"
-                },
-                {
-                    "artist_name": "Van Morrison",
-                    "track_uri": "spotify:track:5G4W4UzaJIpYl0ar95Cs17",
-                    "track_name": "Tupelo Honey"
-                },
-                {
-                    "artist_name": "Smokey Robinson & The Miracles",
-                    "track_uri": "spotify:track:5d6jGnTPXWRSqn5DspJDJl",
-                    "track_name": "The Tracks Of My Tears"
-                }
-            ],
-            "num_edits": 12,
-            "duration_ms": 15017424,
-            "num_artists": 41
-        },
-        {
             "name": "oct",
-            "pid": 2251,
+            "pid": 1715,
             "num_tracks": 12,
             "num_followers": 13,
             "tracks": [
@@ -4805,7 +4458,7 @@
         },
         {
             "name": "Chansons Francaises",
-            "pid": 2252,
+            "pid": 1716,
             "num_tracks": 140,
             "num_followers": 552,
             "tracks": [
@@ -5516,7 +5169,7 @@
         },
         {
             "name": "Salsa Clasica",
-            "pid": 2253,
+            "pid": 1717,
             "num_tracks": 16,
             "num_followers": 22,
             "tracks": [
@@ -5607,7 +5260,7 @@
         },
         {
             "name": "Meaningful",
-            "pid": 2254,
+            "pid": 1718,
             "num_tracks": 209,
             "num_followers": 33,
             "tracks": [

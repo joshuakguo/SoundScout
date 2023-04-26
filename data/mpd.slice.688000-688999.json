@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "acoustic",
-            "pid": 5786,
+            "pid": 4392,
             "num_tracks": 64,
             "num_followers": 132,
             "tracks": [
@@ -338,89 +338,8 @@
             "description": "Kill off Columbus, and turn the world around"
         },
         {
-            "name": "Let It Go",
-            "pid": 5787,
-            "num_tracks": 14,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "James Bay",
-                    "track_uri": "spotify:track:0JOEUtDjC2adwFfl3gXPWv",
-                    "track_name": "Let It Go - Live From Spotify London/2015"
-                },
-                {
-                    "artist_name": "Tony Anderson",
-                    "track_uri": "spotify:track:40OBqDBx10vglqLPJ3AIKm",
-                    "track_name": "The Way Home"
-                },
-                {
-                    "artist_name": "Vaults",
-                    "track_uri": "spotify:track:6jrztnYIBYFo121nj0Oajx",
-                    "track_name": "Hunger Of The Pine - Jody Wisternoff & James Grant Remix"
-                },
-                {
-                    "artist_name": "Fever Ray",
-                    "track_uri": "spotify:track:1we2UifyzGe2tgvTVFTwD4",
-                    "track_name": "If I Had A Heart"
-                },
-                {
-                    "artist_name": "Sam Feldt",
-                    "track_uri": "spotify:track:6nBxWguZQowtfbHI3uL0ci",
-                    "track_name": "Open Your Eyes"
-                },
-                {
-                    "artist_name": "Grace",
-                    "track_uri": "spotify:track:6OtQHgI8hVudAEtUHgmekh",
-                    "track_name": "You Don't Own Me - Candyland Remix"
-                },
-                {
-                    "artist_name": "Roostz",
-                    "track_uri": "spotify:track:5ch0tGfMOrjD2nT9ygHeLz",
-                    "track_name": "Let Me Love You"
-                },
-                {
-                    "artist_name": "Phil Collins",
-                    "track_uri": "spotify:track:18AXbzPzBS8Y3AkgSxzJPb",
-                    "track_name": "In The Air Tonight - 2015 Remastered"
-                },
-                {
-                    "artist_name": "London Grammar",
-                    "track_uri": "spotify:track:7246NJIISQqAiBH8a5NtIc",
-                    "track_name": "Big Picture - THRDL!FE Remix"
-                },
-                {
-                    "artist_name": "Beyonc\u00e9",
-                    "track_uri": "spotify:track:64Tp4KN5U5rtqrasP5a7FH",
-                    "track_name": "I Was Here"
-                },
-                {
-                    "artist_name": "NYMZ",
-                    "track_uri": "spotify:track:4FgvFjDadrhhxNqwvISHmR",
-                    "track_name": "BINGBONG"
-                },
-                {
-                    "artist_name": "My Brothers And I",
-                    "track_uri": "spotify:track:1i8XQPlJD6QWLE2pFmHgrV",
-                    "track_name": "Scars"
-                },
-                {
-                    "artist_name": "RHODES",
-                    "track_uri": "spotify:track:5MzXUNfn8AAcz4Z6j2KgTK",
-                    "track_name": "Let It All Go"
-                },
-                {
-                    "artist_name": "Lowercase Noises",
-                    "track_uri": "spotify:track:4rcRi9MD6TtMPlKY4TeMvM",
-                    "track_name": "Beauty Into Wreck"
-                }
-            ],
-            "num_edits": 2,
-            "duration_ms": 3360052,
-            "num_artists": 14
-        },
-        {
             "name": "Tango",
-            "pid": 5788,
+            "pid": 4393,
             "num_tracks": 13,
             "num_followers": 13,
             "tracks": [

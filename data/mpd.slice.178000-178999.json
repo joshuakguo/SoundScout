@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "worship",
-            "pid": 3827,
+            "pid": 2935,
             "num_tracks": 58,
             "num_followers": 46,
             "tracks": [
@@ -308,7 +308,7 @@
         },
         {
             "name": "John Coltrane",
-            "pid": 3828,
+            "pid": 2936,
             "num_tracks": 22,
             "num_followers": 142,
             "tracks": [
@@ -429,7 +429,7 @@
         },
         {
             "name": "Zydeco",
-            "pid": 3829,
+            "pid": 2937,
             "num_tracks": 151,
             "num_followers": 18,
             "tracks": [
@@ -1194,229 +1194,8 @@
             "num_artists": 24
         },
         {
-            "name": "Spring 2015",
-            "pid": 3830,
-            "num_tracks": 42,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Papercut",
-                    "track_uri": "spotify:track:1UEDFMXhzNbWle5eEDQugg",
-                    "track_name": "Adrift (Albert Planck & Solifer Remix) [feat. Kristin Mainhart]"
-                },
-                {
-                    "artist_name": "Sekuoia",
-                    "track_uri": "spotify:track:05IyLjGA0bWqyTLH1EuWOo",
-                    "track_name": "Something We Lost - Remastered Version"
-                },
-                {
-                    "artist_name": "Paolo Nutini",
-                    "track_uri": "spotify:track:2bcC9Xyi40wnI7Od5uch31",
-                    "track_name": "Iron Sky"
-                },
-                {
-                    "artist_name": "Paolo Nutini",
-                    "track_uri": "spotify:track:2W58wKH0UciMzGl7Ot19DY",
-                    "track_name": "Scream (Funk My Life Up)"
-                },
-                {
-                    "artist_name": "Tame Impala",
-                    "track_uri": "spotify:track:068LmtzI6xJJDPfPnMje0U",
-                    "track_name": "Let It Happen"
-                },
-                {
-                    "artist_name": "Carl Craig",
-                    "track_uri": "spotify:track:5yXoaywtrfHi1dcoSn69CV",
-                    "track_name": "A Wonderful Life - Version"
-                },
-                {
-                    "artist_name": "Tei Shi",
-                    "track_uri": "spotify:track:10ynqei9RoHj4Q9lqr636t",
-                    "track_name": "Bassically"
-                },
-                {
-                    "artist_name": "Caribou",
-                    "track_uri": "spotify:track:4IVpRqqX58KQY4YOU9fEAe",
-                    "track_name": "Can't Do Without You - Tale Of Us & Mano Le Tough Remix"
-                },
-                {
-                    "artist_name": "Of Norway",
-                    "track_uri": "spotify:track:3dPNOTs127VULunvtdeu9a",
-                    "track_name": "Spirit Lights (feat. Linnea Dale)"
-                },
-                {
-                    "artist_name": "Lexer",
-                    "track_uri": "spotify:track:0VBB8kwJ5GoRhWAxZMf9kV",
-                    "track_name": "If You See The Stars"
-                },
-                {
-                    "artist_name": "Body Language",
-                    "track_uri": "spotify:track:4VxexsRUkDIBp4ZmuGIcId",
-                    "track_name": "Really Love - Gold Fields Body Funk Remix"
-                },
-                {
-                    "artist_name": "Robert DeLong",
-                    "track_uri": "spotify:track:4A2ms2utCQY9RoJ46sc3ev",
-                    "track_name": "Long Way Down - Sean Glass Remix"
-                },
-                {
-                    "artist_name": "Years & Years",
-                    "track_uri": "spotify:track:5Z3zRrMIJk7CVpfcLsM9wD",
-                    "track_name": "King"
-                },
-                {
-                    "artist_name": "Romare",
-                    "track_uri": "spotify:track:0MnY8eivehu0Plkq8kqp2w",
-                    "track_name": "Roots"
-                },
-                {
-                    "artist_name": "Romare",
-                    "track_uri": "spotify:track:7oxs8hRwBgh2KNUCLqG6Ge",
-                    "track_name": "Motherless Child"
-                },
-                {
-                    "artist_name": "Glass Animals",
-                    "track_uri": "spotify:track:1z8Ri7dzCg3EnWx4gr0KnO",
-                    "track_name": "Walla Walla"
-                },
-                {
-                    "artist_name": "Glass Animals",
-                    "track_uri": "spotify:track:1F4bXwGiiLyCQ3JbkKjtO5",
-                    "track_name": "Intruxx"
-                },
-                {
-                    "artist_name": "Marian Hill",
-                    "track_uri": "spotify:track:2MHdIP9qDvpHDsJfIXp0j6",
-                    "track_name": "Lips"
-                },
-                {
-                    "artist_name": "William Onyeabor",
-                    "track_uri": "spotify:track:6kdJFaEr6Lqy0HAE8rnfq6",
-                    "track_name": "Body and Soul - Whatever / Whatever Mix"
-                },
-                {
-                    "artist_name": "The Vaccines",
-                    "track_uri": "spotify:track:2HJJ9wz5JiSiTPUfSEZ7C7",
-                    "track_name": "Do You Want a Man? - John Hill & Rich Costey Remix"
-                },
-                {
-                    "artist_name": "Radiohead",
-                    "track_uri": "spotify:track:3SVAN3BRByDmHOhKyIDxfC",
-                    "track_name": "Karma Police"
-                },
-                {
-                    "artist_name": "Seth Troxler",
-                    "track_uri": "spotify:track:4GnNXRcdbm9cnvU3XFRurL",
-                    "track_name": "Aphrika"
-                },
-                {
-                    "artist_name": "Matt Simons",
-                    "track_uri": "spotify:track:5Yp8d1wlkpup010VvKFEP2",
-                    "track_name": "Catch & Release - Deepend Remix Extended Version"
-                },
-                {
-                    "artist_name": "Feder",
-                    "track_uri": "spotify:track:3PnOOmkxruDDAiMYZZTgO7",
-                    "track_name": "Goodbye (feat. Lyse) - Radio Edit"
-                },
-                {
-                    "artist_name": "Mozambo",
-                    "track_uri": "spotify:track:2yzsCm9n8lbpPvntMGLc33",
-                    "track_name": "Bright Side"
-                },
-                {
-                    "artist_name": "K\u00f6lsch",
-                    "track_uri": "spotify:track:6cB6vtflgNQYaC8JDrxUps",
-                    "track_name": "Bappedekkel"
-                },
-                {
-                    "artist_name": "Fiona Apple",
-                    "track_uri": "spotify:track:5h9Iek7Hp9wayRt7fBp7Ab",
-                    "track_name": "Extraordinary Machine"
-                },
-                {
-                    "artist_name": "Allison Taylor",
-                    "track_uri": "spotify:track:35tS8UBvjBSdUYuwcDEdK7",
-                    "track_name": "Bells"
-                },
-                {
-                    "artist_name": "Fiona Apple",
-                    "track_uri": "spotify:track:6PNvv1dmDbOWrAYwEcuKBX",
-                    "track_name": "Criminal"
-                },
-                {
-                    "artist_name": "Amason",
-                    "track_uri": "spotify:track:3q6gvYPqqVa1RNE4D1qun0",
-                    "track_name": "Went to War"
-                },
-                {
-                    "artist_name": "Bloodgroup",
-                    "track_uri": "spotify:track:0XiMKl6U24imZTfSFzPJe9",
-                    "track_name": "Nothing Is Written In The Stars"
-                },
-                {
-                    "artist_name": "Flight Facilities",
-                    "track_uri": "spotify:track:1uN1WoPdFrf4Yh3VSJ8iDu",
-                    "track_name": "Down To Earth - Radio Edit"
-                },
-                {
-                    "artist_name": "Mr. Big",
-                    "track_uri": "spotify:track:3Mmt6Xk0H6VR92PEp6x3hP",
-                    "track_name": "To Be With You - 2010 Remastered Version"
-                },
-                {
-                    "artist_name": "Moon Taxi",
-                    "track_uri": "spotify:track:1dv9NZzzUeuMRwqqnsWbyW",
-                    "track_name": "All Day All Night"
-                },
-                {
-                    "artist_name": "Thugfucker",
-                    "track_uri": "spotify:track:0gwoz2c2l6d75YDVNGo6kv",
-                    "track_name": "Disco Gnome - Tale Of Us Remix"
-                },
-                {
-                    "artist_name": "Trails and Ways",
-                    "track_uri": "spotify:track:0sZEyujLM2nbEp5CeaPyta",
-                    "track_name": "Nunca"
-                },
-                {
-                    "artist_name": "Yuna",
-                    "track_uri": "spotify:track:48Egr6zPIlUDMflxQzg4uM",
-                    "track_name": "Come As You Are"
-                },
-                {
-                    "artist_name": "Yuna",
-                    "track_uri": "spotify:track:3RJuptH9QoeJWzHd4ZCI0u",
-                    "track_name": "Lullabies - Adventure Club Remix"
-                },
-                {
-                    "artist_name": "Wild Belle",
-                    "track_uri": "spotify:track:1eREJIBdqeCcqNCB1pbz7w",
-                    "track_name": "Keep You"
-                },
-                {
-                    "artist_name": "Paolo Rocco",
-                    "track_uri": "spotify:track:7iRieBhfEy7jmCQaGSutQT",
-                    "track_name": "Caution You - Ohmme Remix"
-                },
-                {
-                    "artist_name": "Worakls",
-                    "track_uri": "spotify:track:26cE0c0wZPWKnCLaGDAuUz",
-                    "track_name": "Porto (Original Mix)"
-                },
-                {
-                    "artist_name": "City of the Sun",
-                    "track_uri": "spotify:track:3TvmqtQjbh82IvyVr5M7m4",
-                    "track_name": "Second Sun"
-                }
-            ],
-            "num_edits": 19,
-            "duration_ms": 12767355,
-            "num_artists": 37
-        },
-        {
             "name": "OG",
-            "pid": 3831,
+            "pid": 2938,
             "num_tracks": 188,
             "num_followers": 13,
             "tracks": [
@@ -2367,7 +2146,7 @@
         },
         {
             "name": "Philip Glass",
-            "pid": 3832,
+            "pid": 2939,
             "num_tracks": 26,
             "num_followers": 16,
             "tracks": [
@@ -2508,7 +2287,7 @@
         },
         {
             "name": "Get Turnt",
-            "pid": 3833,
+            "pid": 2940,
             "num_tracks": 164,
             "num_followers": 12,
             "tracks": [

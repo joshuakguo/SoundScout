@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "2014",
-            "pid": 4494,
+            "pid": 3421,
             "num_tracks": 18,
             "num_followers": 134,
             "tracks": [
@@ -108,7 +108,7 @@
         },
         {
             "name": "Olds",
-            "pid": 4495,
+            "pid": 3422,
             "num_tracks": 148,
             "num_followers": 17,
             "tracks": [
@@ -859,7 +859,7 @@
         },
         {
             "name": "Jesus",
-            "pid": 4496,
+            "pid": 3423,
             "num_tracks": 189,
             "num_followers": 15,
             "tracks": [
@@ -1815,7 +1815,7 @@
         },
         {
             "name": "Get Lit",
-            "pid": 4497,
+            "pid": 3424,
             "num_tracks": 27,
             "num_followers": 18,
             "tracks": [
@@ -1961,7 +1961,7 @@
         },
         {
             "name": "summer 16",
-            "pid": 4498,
+            "pid": 3425,
             "num_tracks": 196,
             "num_followers": 14,
             "tracks": [
@@ -2952,7 +2952,7 @@
         },
         {
             "name": "Matisyahu",
-            "pid": 4499,
+            "pid": 3426,
             "num_tracks": 147,
             "num_followers": 12,
             "tracks": [
@@ -3697,394 +3697,8 @@
             "num_artists": 17
         },
         {
-            "name": "Nov 2015",
-            "pid": 4500,
-            "num_tracks": 75,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Kygo",
-                    "track_uri": "spotify:track:73iyt0DBfDKsMSjJStycGC",
-                    "track_name": "Here for You"
-                },
-                {
-                    "artist_name": "Kygo",
-                    "track_uri": "spotify:track:5masKPHeAOVNgxdLebIcK7",
-                    "track_name": "Stole the Show"
-                },
-                {
-                    "artist_name": "Kygo",
-                    "track_uri": "spotify:track:1I8tHoNBFTuoJAlh4hfVVE",
-                    "track_name": "Firestone"
-                },
-                {
-                    "artist_name": "Kygo",
-                    "track_uri": "spotify:track:2fZW7ByWe46rGih0FtP2XK",
-                    "track_name": "Nothing Left"
-                },
-                {
-                    "artist_name": "Dillon Francis",
-                    "track_uri": "spotify:track:6m3ZWIXhjoV76syT1j2oE9",
-                    "track_name": "Coming Over (feat. James Hersey)"
-                },
-                {
-                    "artist_name": "Kygo",
-                    "track_uri": "spotify:track:2ErAwXXUgBGLXwm4IgZRQv",
-                    "track_name": "Sexual Healing - Kygo Radio Edit"
-                },
-                {
-                    "artist_name": "Kyla La Grange",
-                    "track_uri": "spotify:track:4F4hKCEgevJgNq27pYz0Mk",
-                    "track_name": "Cut Your Teeth - Kygo Remix"
-                },
-                {
-                    "artist_name": "Kygo",
-                    "track_uri": "spotify:track:1twLxJP3DWzN4NDOV01sQ5",
-                    "track_name": "Epsilon - Original Mix"
-                },
-                {
-                    "artist_name": "Seinabo Sey",
-                    "track_uri": "spotify:track:0IDcqQM84frBhAJ8vXC76I",
-                    "track_name": "Younger - Kygo Remix"
-                },
-                {
-                    "artist_name": "Benjamin Francis Leftwich",
-                    "track_uri": "spotify:track:00YeYHw6zhoy1y7EPTgIkj",
-                    "track_name": "Shine - Kygo Remix"
-                },
-                {
-                    "artist_name": "Syn Cole",
-                    "track_uri": "spotify:track:7l15QDWp4v3TYh5u3pQjxa",
-                    "track_name": "Miami 82 - Kygo Remix"
-                },
-                {
-                    "artist_name": "Didrik Thulin",
-                    "track_uri": "spotify:track:7ctdCk91bL7jjDx3hmbB5z",
-                    "track_name": "Dancer (Kygo Remix)"
-                },
-                {
-                    "artist_name": "LCD Soundsystem",
-                    "track_uri": "spotify:track:2cmRpmO04TLaKPzmAzySYZ",
-                    "track_name": "Dance Yrself Clean"
-                },
-                {
-                    "artist_name": "Avicii",
-                    "track_uri": "spotify:track:3c3XJ9P1BjOtmNXKvdVyHK",
-                    "track_name": "For A Better Day"
-                },
-                {
-                    "artist_name": "Avicii",
-                    "track_uri": "spotify:track:6nsLzJfvp5OLd4mgqUJkpq",
-                    "track_name": "Waiting For Love"
-                },
-                {
-                    "artist_name": "Klingande",
-                    "track_uri": "spotify:track:2xlA7kNX6NPtT2LEWspzAQ",
-                    "track_name": "Jubel - Original Mix"
-                },
-                {
-                    "artist_name": "Gorgon City",
-                    "track_uri": "spotify:track:5wGLQvq6JoxYZX7V3ymPS5",
-                    "track_name": "Ready For Your Love"
-                },
-                {
-                    "artist_name": "Route 94",
-                    "track_uri": "spotify:track:4jpbDGZz6euo0xDcLlJUDZ",
-                    "track_name": "My Love (feat. Jess Glynne)"
-                },
-                {
-                    "artist_name": "Kiesza",
-                    "track_uri": "spotify:track:51tUT1gHE30GQPhn1agudM",
-                    "track_name": "Hideaway"
-                },
-                {
-                    "artist_name": "The Knife",
-                    "track_uri": "spotify:track:2YacpExEbX9tF8IbFlFOo4",
-                    "track_name": "Heartbeats"
-                },
-                {
-                    "artist_name": "Felix Jaehn",
-                    "track_uri": "spotify:track:5afHIkEcVhCF1Z1CTqMUXB",
-                    "track_name": "Ain't Nobody (Loves Me Better)"
-                },
-                {
-                    "artist_name": "Galantis",
-                    "track_uri": "spotify:track:1PBk2knn4anq0vaS5KGDG2",
-                    "track_name": "In My Head"
-                },
-                {
-                    "artist_name": "Avicii",
-                    "track_uri": "spotify:track:0tDbl1SVkdSI4Efi0sA3A8",
-                    "track_name": "Levels - Original Version"
-                },
-                {
-                    "artist_name": "Zedd",
-                    "track_uri": "spotify:track:19RevBdb9MKUaBIvxSbGd4",
-                    "track_name": "I Want You To Know"
-                },
-                {
-                    "artist_name": "Daft Punk",
-                    "track_uri": "spotify:track:36c4JohayB9qd64eidQMBi",
-                    "track_name": "Doin' it Right"
-                },
-                {
-                    "artist_name": "Daft Punk",
-                    "track_uri": "spotify:track:5CMjjywI0eZMixPeqNd75R",
-                    "track_name": "Lose Yourself to Dance"
-                },
-                {
-                    "artist_name": "Major Lazer",
-                    "track_uri": "spotify:track:4WjH9Bzt3kx7z8kl0awxh4",
-                    "track_name": "Lean On (feat. M\u00d8 & DJ Snake)"
-                },
-                {
-                    "artist_name": "Galantis",
-                    "track_uri": "spotify:track:46lFttIf5hnUZMGvjK0Wxo",
-                    "track_name": "Runaway (U & I)"
-                },
-                {
-                    "artist_name": "DJ Snake",
-                    "track_uri": "spotify:track:1sNSG13fsK6KPKKNIQXXrh",
-                    "track_name": "You Know You Like It"
-                },
-                {
-                    "artist_name": "Disclosure",
-                    "track_uri": "spotify:track:3jEPu6FD1icy9cLllhB2XK",
-                    "track_name": "Omen - Radio Edit"
-                },
-                {
-                    "artist_name": "Zedd",
-                    "track_uri": "spotify:track:7FJP35tUJ2121EJsFpU1Gh",
-                    "track_name": "Beautiful Now"
-                },
-                {
-                    "artist_name": "The Weeknd",
-                    "track_uri": "spotify:track:1RM7XdyfDnksC1ukt4y67n",
-                    "track_name": "Losers"
-                },
-                {
-                    "artist_name": "The Weeknd",
-                    "track_uri": "spotify:track:5SqSckut3FcoQKmGkMWgp1",
-                    "track_name": "Often"
-                },
-                {
-                    "artist_name": "Kavinsky",
-                    "track_uri": "spotify:track:0U0ldCRmgCqhVvD6ksG63j",
-                    "track_name": "Nightcall"
-                },
-                {
-                    "artist_name": "Avicii",
-                    "track_uri": "spotify:track:0tmFHk3YWZcST0SZjViHhY",
-                    "track_name": "Sunset Jesus"
-                },
-                {
-                    "artist_name": "Avicii",
-                    "track_uri": "spotify:track:7br84ZQ7X2IGahwaC2FlZs",
-                    "track_name": "Gonna Love Ya"
-                },
-                {
-                    "artist_name": "Avicii",
-                    "track_uri": "spotify:track:79x6Ab5tMDGQeXnzjQN5lO",
-                    "track_name": "Trouble"
-                },
-                {
-                    "artist_name": "Avicii",
-                    "track_uri": "spotify:track:37aStseEdbd33KlmUlIHX6",
-                    "track_name": "Ten More Days"
-                },
-                {
-                    "artist_name": "Avicii",
-                    "track_uri": "spotify:track:0xfM3tIsjijqywX6pVHx9w",
-                    "track_name": "Talk To Myself"
-                },
-                {
-                    "artist_name": "Avicii",
-                    "track_uri": "spotify:track:5YfqiG5TBvCMkWvWrnXRhF",
-                    "track_name": "Touch Me"
-                },
-                {
-                    "artist_name": "Deorro",
-                    "track_uri": "spotify:track:6r7FXNO57mlZCBY6PXcZZT",
-                    "track_name": "Five Hours"
-                },
-                {
-                    "artist_name": "R\u00dcF\u00dcS",
-                    "track_uri": "spotify:track:6808fuj56HYDOND2CpyqsT",
-                    "track_name": "Sundream"
-                },
-                {
-                    "artist_name": "Klangkarussell",
-                    "track_uri": "spotify:track:4QW7BfyoTAP2Jdiar1SYjS",
-                    "track_name": "Sonnentanz - Sun Don't Shine"
-                },
-                {
-                    "artist_name": "Avicii",
-                    "track_uri": "spotify:track:2BVVmJQZv4fOPWavI9mkIj",
-                    "track_name": "Broken Arrows"
-                },
-                {
-                    "artist_name": "Diplo",
-                    "track_uri": "spotify:track:1K4G5LfdiD0fxVZDG5c0RR",
-                    "track_name": "Revolution (feat. Faustix & Imanos and Kai) - Absence Remix"
-                },
-                {
-                    "artist_name": "Jess Glynne",
-                    "track_uri": "spotify:track:6mE7cjA9svHRq3k63FAvYn",
-                    "track_name": "Right Here"
-                },
-                {
-                    "artist_name": "Kygo",
-                    "track_uri": "spotify:track:1a6d3j3lDbmTvhczhiBHX3",
-                    "track_name": "Stole the Show - Live from Spotify London"
-                },
-                {
-                    "artist_name": "Klingande",
-                    "track_uri": "spotify:track:4Pgr29maPgbjAkt9zzwBq6",
-                    "track_name": "Punga"
-                },
-                {
-                    "artist_name": "Felix Jaehn",
-                    "track_uri": "spotify:track:5ctXZyWLbYyUSpPOdlKTlj",
-                    "track_name": "I Do"
-                },
-                {
-                    "artist_name": "Avicii",
-                    "track_uri": "spotify:track:3qC3qmZNDXu62hc8YbhWsy",
-                    "track_name": "Dear Boy"
-                },
-                {
-                    "artist_name": "Calvin Harris",
-                    "track_uri": "spotify:track:22mek4IiqubGD9ctzxc69s",
-                    "track_name": "How Deep Is Your Love"
-                },
-                {
-                    "artist_name": "Justin Bieber",
-                    "track_uri": "spotify:track:3pzjHKrQSvXGHQ98dx18HI",
-                    "track_name": "What Do You Mean?"
-                },
-                {
-                    "artist_name": "Rudimental",
-                    "track_uri": "spotify:track:0vbbhcA6okLzvsy6WSTlLg",
-                    "track_name": "Lay It All On Me (feat. Ed Sheeran)"
-                },
-                {
-                    "artist_name": "Snakehips",
-                    "track_uri": "spotify:track:6TaqooOXAEcijL6G1AWS2K",
-                    "track_name": "All My Friends"
-                },
-                {
-                    "artist_name": "Disclosure",
-                    "track_uri": "spotify:track:43Ei9NSyEjgFYXoKLISyz4",
-                    "track_name": "Magnets"
-                },
-                {
-                    "artist_name": "Disclosure",
-                    "track_uri": "spotify:track:2ZbqLzPVJxwJ5KPVXb3KaL",
-                    "track_name": "Nocturnal"
-                },
-                {
-                    "artist_name": "Thomas Jack",
-                    "track_uri": "spotify:track:3NBDgwEAGMj0aKRsU8zoO9",
-                    "track_name": "Rivers"
-                },
-                {
-                    "artist_name": "Alina Baraz",
-                    "track_uri": "spotify:track:17YuXw2ScwLLL1sUrRKhoW",
-                    "track_name": "Fantasy"
-                },
-                {
-                    "artist_name": "Calvin Harris",
-                    "track_uri": "spotify:track:0TaJUvjmA2WToXM0FyUyRR",
-                    "track_name": "Thinking About You"
-                },
-                {
-                    "artist_name": "ODESZA",
-                    "track_uri": "spotify:track:4auZhbHhgbiSMeh0kiHCRk",
-                    "track_name": "Say My Name"
-                },
-                {
-                    "artist_name": "ZHU",
-                    "track_uri": "spotify:track:1XjwrW3JufY1GcGPWLx3OV",
-                    "track_name": "Faded - Odesza Remix"
-                },
-                {
-                    "artist_name": "ZHU",
-                    "track_uri": "spotify:track:6eednPwnwAG3mDnJavkCxo",
-                    "track_name": "Cocaine Model"
-                },
-                {
-                    "artist_name": "ZHU",
-                    "track_uri": "spotify:track:3xDLr3dMiy8G9hFmu9EicA",
-                    "track_name": "Superfriends"
-                },
-                {
-                    "artist_name": "The Weeknd",
-                    "track_uri": "spotify:track:5KIfOGEy5DM2TaT0ph5nYM",
-                    "track_name": "Can't Feel My Face - Martin Garrix Remix"
-                },
-                {
-                    "artist_name": "Alex Adair",
-                    "track_uri": "spotify:track:3sFCrYlKCEnrTRfXEafPai",
-                    "track_name": "Heaven"
-                },
-                {
-                    "artist_name": "Waterm\u00e4t",
-                    "track_uri": "spotify:track:0O3dIWoUrDLg2E5qDGx7Cb",
-                    "track_name": "Bullit"
-                },
-                {
-                    "artist_name": "Justin Bieber",
-                    "track_uri": "spotify:track:69bp2EbF7Q2rqc5N3ylezZ",
-                    "track_name": "Sorry"
-                },
-                {
-                    "artist_name": "Black Box",
-                    "track_uri": "spotify:track:24lF0of2nbQlTYDU8i6glX",
-                    "track_name": "Everybody Everybody"
-                },
-                {
-                    "artist_name": "Sigala",
-                    "track_uri": "spotify:track:1dn1CQcTDnkmncHIKBaC6i",
-                    "track_name": "Easy Love"
-                },
-                {
-                    "artist_name": "Justin Bieber",
-                    "track_uri": "spotify:track:747eWJy8c3u09N30NSqSTp",
-                    "track_name": "I'll Show You"
-                },
-                {
-                    "artist_name": "Kygo",
-                    "track_uri": "spotify:track:2FiSTH0GYpIioUgjfzMIja",
-                    "track_name": "Stay"
-                },
-                {
-                    "artist_name": "Marcus Marr",
-                    "track_uri": "spotify:track:6CohXotXOrMVAB0bSPzqzm",
-                    "track_name": "The Trouble With Us"
-                },
-                {
-                    "artist_name": "Marcus Marr",
-                    "track_uri": "spotify:track:4HMluKkDbxmXztwotjdX1s",
-                    "track_name": "Learning For Your Love"
-                },
-                {
-                    "artist_name": "Felix Jaehn",
-                    "track_uri": "spotify:track:1gLXtnkhzRGQ7fo90paYgk",
-                    "track_name": "Shine - Extended Mix"
-                },
-                {
-                    "artist_name": "Felix Jaehn",
-                    "track_uri": "spotify:track:26S8oclmZCMf9uMhrU8Hlx",
-                    "track_name": "Eagle Eyes (feat. Lost Frequencies & Linying) - Radio Edit"
-                }
-            ],
-            "num_edits": 12,
-            "duration_ms": 19230150,
-            "num_artists": 41
-        },
-        {
             "name": "Bangin'",
-            "pid": 4501,
+            "pid": 3427,
             "num_tracks": 144,
             "num_followers": 12,
             "tracks": [
@@ -4815,7 +4429,7 @@
         },
         {
             "name": "girl jams",
-            "pid": 4502,
+            "pid": 3428,
             "num_tracks": 79,
             "num_followers": 653,
             "tracks": [

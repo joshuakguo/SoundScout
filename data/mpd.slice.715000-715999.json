@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "feels",
-            "pid": 3821,
+            "pid": 2930,
             "num_tracks": 29,
             "num_followers": 19,
             "tracks": [
@@ -164,7 +164,7 @@
         },
         {
             "name": "oldies",
-            "pid": 3822,
+            "pid": 2931,
             "num_tracks": 129,
             "num_followers": 18,
             "tracks": [
@@ -820,7 +820,7 @@
         },
         {
             "name": "feels",
-            "pid": 3823,
+            "pid": 2932,
             "num_tracks": 147,
             "num_followers": 47,
             "tracks": [
@@ -1566,7 +1566,7 @@
         },
         {
             "name": "Summer 2013",
-            "pid": 3824,
+            "pid": 2933,
             "num_tracks": 93,
             "num_followers": 27,
             "tracks": [
@@ -2041,164 +2041,8 @@
             "num_artists": 84
         },
         {
-            "name": "some tunes ",
-            "pid": 3825,
-            "num_tracks": 29,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Roy Orbison",
-                    "track_uri": "spotify:track:0PkBTqRtN25z3oKasWoKlj",
-                    "track_name": "Only the Lonely"
-                },
-                {
-                    "artist_name": "Craft Spells",
-                    "track_uri": "spotify:track:6N2kBsYvZaS7tO5awPcnSV",
-                    "track_name": "Party Talk"
-                },
-                {
-                    "artist_name": "Peaking Lights",
-                    "track_uri": "spotify:track:14WuWtk60BtIaYFaBg3CYq",
-                    "track_name": "Hey Sparrow"
-                },
-                {
-                    "artist_name": "Girls",
-                    "track_uri": "spotify:track:5FH0pGKry3eL56IHjEgjPm",
-                    "track_name": "Lust for Life"
-                },
-                {
-                    "artist_name": "Evenings",
-                    "track_uri": "spotify:track:74RR51y4gOTeJQuCUQrPrW",
-                    "track_name": "Babe"
-                },
-                {
-                    "artist_name": "Eddie Floyd",
-                    "track_uri": "spotify:track:20hak07VOCq8M5ciPGL5og",
-                    "track_name": "Good Love, Bad Love"
-                },
-                {
-                    "artist_name": "Bonnie Raitt",
-                    "track_uri": "spotify:track:6hH5c3iQ0z1RjyOuz4D0c2",
-                    "track_name": "Any Day Woman - Remastered Version"
-                },
-                {
-                    "artist_name": "Heavenly Beat",
-                    "track_uri": "spotify:track:638EurCtZxrR7t4b2oLHYq",
-                    "track_name": "Lust"
-                },
-                {
-                    "artist_name": "The Rolling Stones",
-                    "track_uri": "spotify:track:0GREOtucugbS6bpVDJmVKE",
-                    "track_name": "Factory Girl"
-                },
-                {
-                    "artist_name": "Rhye",
-                    "track_uri": "spotify:track:4nLaeAathdcgAhhB0h5aWe",
-                    "track_name": "Open"
-                },
-                {
-                    "artist_name": "Black Marble",
-                    "track_uri": "spotify:track:0NEqTtXXwLtffqQqON1SoW",
-                    "track_name": "Static"
-                },
-                {
-                    "artist_name": "The Strokes",
-                    "track_uri": "spotify:track:08yezFIhte4aFiDpmQmQlP",
-                    "track_name": "What Ever Happened?"
-                },
-                {
-                    "artist_name": "The Ruby Suns",
-                    "track_uri": "spotify:track:1z84aF6Y8hNa6MljRFpHGj",
-                    "track_name": "Kenya Dig It?"
-                },
-                {
-                    "artist_name": "Bob Dylan",
-                    "track_uri": "spotify:track:5j216bw8PG0EcIdfu92k4l",
-                    "track_name": "Isis"
-                },
-                {
-                    "artist_name": "Generationals",
-                    "track_uri": "spotify:track:2ACpQ65gVl1mPWov9NrQTv",
-                    "track_name": "Yours Forever"
-                },
-                {
-                    "artist_name": "The Decemberists",
-                    "track_uri": "spotify:track:2dunRq7yiVaj0WsPpvADMH",
-                    "track_name": "January Hymn"
-                },
-                {
-                    "artist_name": "Arcade Fire",
-                    "track_uri": "spotify:track:7htarnw5d8d2MnlolePkOM",
-                    "track_name": "Wasted Hours"
-                },
-                {
-                    "artist_name": "Rose Windows",
-                    "track_uri": "spotify:track:7xG5ihjHPYHQK8k3poeKqB",
-                    "track_name": "Wartime Lovers"
-                },
-                {
-                    "artist_name": "The Rolling Stones",
-                    "track_uri": "spotify:track:4VeenLChnVtXj5ZXPfGUZh",
-                    "track_name": "She Smiled Sweetly"
-                },
-                {
-                    "artist_name": "Peggy Sue",
-                    "track_uri": "spotify:track:6uIVvb5S9MAk8q7FFKS99G",
-                    "track_name": "He's a Rebel"
-                },
-                {
-                    "artist_name": "Rhye",
-                    "track_uri": "spotify:track:6HL3cmt8NOO6r9aAN877PH",
-                    "track_name": "Last Dance"
-                },
-                {
-                    "artist_name": "Them",
-                    "track_uri": "spotify:track:7fHCJYhG0fTwsagmOj1f0G",
-                    "track_name": "My Little Baby"
-                },
-                {
-                    "artist_name": "Angel Olsen",
-                    "track_uri": "spotify:track:1XGwjdHXHNu3842f75eg3T",
-                    "track_name": "The Waiting"
-                },
-                {
-                    "artist_name": "Kurt Vile",
-                    "track_uri": "spotify:track:4qAXKXL15atSboqmY5JNRS",
-                    "track_name": "Shame Chamber"
-                },
-                {
-                    "artist_name": "Deerhunter",
-                    "track_uri": "spotify:track:30wvVTkqA4Fp5ZCG0xGof7",
-                    "track_name": "Revival"
-                },
-                {
-                    "artist_name": "Mikal Cronin",
-                    "track_uri": "spotify:track:2h0JffoZxTcCK95cekgyYT",
-                    "track_name": "Weight"
-                },
-                {
-                    "artist_name": "Fleetwood Mac",
-                    "track_uri": "spotify:track:01Ad3YljWv9gfMVYpn6cL7",
-                    "track_name": "That's Alright - 2016 Remastered"
-                },
-                {
-                    "artist_name": "Caveman",
-                    "track_uri": "spotify:track:4T9T1nM3i9yt5l1c5MVgpE",
-                    "track_name": "I See You"
-                },
-                {
-                    "artist_name": "Widowspeak",
-                    "track_uri": "spotify:track:1xHKn0uycP9X0qEdyPHx5d",
-                    "track_name": "Gun Shy"
-                }
-            ],
-            "num_edits": 13,
-            "duration_ms": 5677395,
-            "num_artists": 27
-        },
-        {
             "name": "The voice ",
-            "pid": 3826,
+            "pid": 2934,
             "num_tracks": 82,
             "num_followers": 12,
             "tracks": [

@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "party music",
-            "pid": 4839,
+            "pid": 3688,
             "num_tracks": 84,
             "num_followers": 14,
             "tracks": [
@@ -438,7 +438,7 @@
         },
         {
             "name": "anthems",
-            "pid": 4840,
+            "pid": 3689,
             "num_tracks": 242,
             "num_followers": 15,
             "tracks": [
@@ -1659,7 +1659,7 @@
         },
         {
             "name": "Work",
-            "pid": 4841,
+            "pid": 3690,
             "num_tracks": 44,
             "num_followers": 22,
             "tracks": [
@@ -1890,7 +1890,7 @@
         },
         {
             "name": "VALENTINES DAY",
-            "pid": 4842,
+            "pid": 3691,
             "num_tracks": 15,
             "num_followers": 587,
             "tracks": [
@@ -1976,7 +1976,7 @@
         },
         {
             "name": "shower playlist",
-            "pid": 4843,
+            "pid": 3692,
             "num_tracks": 234,
             "num_followers": 13,
             "tracks": [
@@ -3157,7 +3157,7 @@
         },
         {
             "name": "FEB17",
-            "pid": 4844,
+            "pid": 3693,
             "num_tracks": 85,
             "num_followers": 64,
             "tracks": [
@@ -3590,337 +3590,6 @@
             "num_edits": 37,
             "duration_ms": 19617307,
             "num_artists": 58
-        },
-        {
-            "name": "Pa Bailar",
-            "pid": 4845,
-            "num_tracks": 64,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Zion & Lennox",
-                    "track_uri": "spotify:track:3QwBODjSEzelZyVjxPOHdq",
-                    "track_name": "Otra Vez (feat. J Balvin)"
-                },
-                {
-                    "artist_name": "Zion & Lennox",
-                    "track_uri": "spotify:track:7tA7IQiLWAqTXahUQ9RvfN",
-                    "track_name": "Pierdo la Cabeza - Official Remix"
-                },
-                {
-                    "artist_name": "Luis Fonsi",
-                    "track_uri": "spotify:track:4aWmUDTfIPGksMNLV2rQP2",
-                    "track_name": "Despacito (Featuring Daddy Yankee)"
-                },
-                {
-                    "artist_name": "Ed Sheeran",
-                    "track_uri": "spotify:track:5nCtCCB5i1OfbADvynNw0i",
-                    "track_name": "Shape of You (Latin Remix) [feat. Zion & Lennox]"
-                },
-                {
-                    "artist_name": "Enrique Iglesias",
-                    "track_uri": "spotify:track:3VgLQi51JI6avrVmP9lL4B",
-                    "track_name": "SUBEME LA RADIO REMIX"
-                },
-                {
-                    "artist_name": "Shakira",
-                    "track_uri": "spotify:track:6mICuAdrwEjh6Y6lroV2Kg",
-                    "track_name": "Chantaje"
-                },
-                {
-                    "artist_name": "CNCO",
-                    "track_uri": "spotify:track:3AEZUABDXNtecAOSC1qTfo",
-                    "track_name": "Reggaet\u00f3n Lento (Bailemos)"
-                },
-                {
-                    "artist_name": "J Balvin",
-                    "track_uri": "spotify:track:6rQSrBHf7HlZjtcMZ4S4bO",
-                    "track_name": "Safari"
-                },
-                {
-                    "artist_name": "Danny Ocean",
-                    "track_uri": "spotify:track:6De0lHrwBfPfrhorm9q1Xl",
-                    "track_name": "Me Reh\u00faso"
-                },
-                {
-                    "artist_name": "Maluma",
-                    "track_uri": "spotify:track:1iEwyiSLAunPR6uouANE0O",
-                    "track_name": "El Perdedor"
-                },
-                {
-                    "artist_name": "CNCO",
-                    "track_uri": "spotify:track:1T45DsQ4HFLJgthyedAa8V",
-                    "track_name": "Reggaet\u00f3n Lento (Bailemos) - Remix"
-                },
-                {
-                    "artist_name": "Maluma",
-                    "track_uri": "spotify:track:6DUdDIRgLqCGq1DwkNWQTN",
-                    "track_name": "Borro Cassette"
-                },
-                {
-                    "artist_name": "Zion & Lennox",
-                    "track_uri": "spotify:track:1WOJTQfNUEkLlsinPP95VM",
-                    "track_name": "Embri\u00e1game (feat. Don Omar) - Remix"
-                },
-                {
-                    "artist_name": "Mando",
-                    "track_uri": "spotify:track:3fFHiEg3VVnA9aH6DEAETU",
-                    "track_name": "Su\u00e9ltate"
-                },
-                {
-                    "artist_name": "CNCO",
-                    "track_uri": "spotify:track:1TxgZRcy3kZ7JaEp88MDbC",
-                    "track_name": "Tan F\u00e1cil"
-                },
-                {
-                    "artist_name": "Los Rakas",
-                    "track_uri": "spotify:track:0CEUpttft5AiVaSjr7bw0a",
-                    "track_name": "Me Enamoro"
-                },
-                {
-                    "artist_name": "Gente De Zona",
-                    "track_uri": "spotify:track:0OMRAvrtLWE2TvcXorRiB9",
-                    "track_name": "La Gozadera"
-                },
-                {
-                    "artist_name": "Rupee",
-                    "track_uri": "spotify:track:7ye65LYY08VtgesVKcuHUo",
-                    "track_name": "Tempted To Touch"
-                },
-                {
-                    "artist_name": "Carlitos Rossy",
-                    "track_uri": "spotify:track:5w3PIDXOWqhWfgj0zoy8fK",
-                    "track_name": "Quedate Tranquila"
-                },
-                {
-                    "artist_name": "CNCO",
-                    "track_uri": "spotify:track:3B21fRFqPLmTd9zAlK0I8A",
-                    "track_name": "Para Enamorarte"
-                },
-                {
-                    "artist_name": "CNCO",
-                    "track_uri": "spotify:track:46kk8o20nT5KOEn7gM0AOx",
-                    "track_name": "Volverte a Ver"
-                },
-                {
-                    "artist_name": "Sebastian Yatra",
-                    "track_uri": "spotify:track:5i50gKdLAjjIr7UxRT5IVy",
-                    "track_name": "Alguien Robo"
-                },
-                {
-                    "artist_name": "Ana Mena",
-                    "track_uri": "spotify:track:7Fb8u1fxwY1XcRYXJ1tUL2",
-                    "track_name": "Ahora Lloras T\u00fa"
-                },
-                {
-                    "artist_name": "CNCO",
-                    "track_uri": "spotify:track:2kAe8s00cKth2AfcLEbFi9",
-                    "track_name": "Hey DJ - Pop Version"
-                },
-                {
-                    "artist_name": "Becky G",
-                    "track_uri": "spotify:track:0V78U6QU3RJ8kjW41OBmRw",
-                    "track_name": "Todo Cambio"
-                },
-                {
-                    "artist_name": "Romeo Santos",
-                    "track_uri": "spotify:track:5A9AILetvfQg3LHyX5X0pV",
-                    "track_name": "Yo Tambi\u00e9n"
-                },
-                {
-                    "artist_name": "Chocolate",
-                    "track_uri": "spotify:track:6Xwg7H3TScBF6Jy6RRG6on",
-                    "track_name": "Guachineo"
-                },
-                {
-                    "artist_name": "Karol G",
-                    "track_uri": "spotify:track:7dv2SyBU5R9bjAB8EQv0DK",
-                    "track_name": "Casi Nada - Nando Pro Remix"
-                },
-                {
-                    "artist_name": "CNCO",
-                    "track_uri": "spotify:track:4Pt1JU8SpkG1p8Pst5x3Q2",
-                    "track_name": "No Entiendo"
-                },
-                {
-                    "artist_name": "CNCO",
-                    "track_uri": "spotify:track:4icWKp3UtiqeuHmWvNfhNT",
-                    "track_name": "Cien"
-                },
-                {
-                    "artist_name": "CNCO",
-                    "track_uri": "spotify:track:4WZkVAxwmHk3AmcXk3GDhT",
-                    "track_name": "Devu\u00e9lveme Mi Coraz\u00f3n"
-                },
-                {
-                    "artist_name": "Cosculluela",
-                    "track_uri": "spotify:track:3noN1TxpjbjjmKqssghvg8",
-                    "track_name": "Si Me Dices Que Si (feat. Nicky Jam)"
-                },
-                {
-                    "artist_name": "Danny Ocean",
-                    "track_uri": "spotify:track:1G0xFA3KNiKdbjhT2asL43",
-                    "track_name": "Baby I Won't"
-                },
-                {
-                    "artist_name": "Daddy Yankee",
-                    "track_uri": "spotify:track:58IL315gMSTD37DOZPJ2hf",
-                    "track_name": "Shaky Shaky"
-                },
-                {
-                    "artist_name": "Luis Fonsi",
-                    "track_uri": "spotify:track:5CtI0qwDJkDQGwXD1H1cLb",
-                    "track_name": "Despacito - Remix"
-                },
-                {
-                    "artist_name": "Farruko",
-                    "track_uri": "spotify:track:1lxswgIpzV6HhENRvkflES",
-                    "track_name": "Chillax"
-                },
-                {
-                    "artist_name": "Ciara",
-                    "track_uri": "spotify:track:3biFdxByHgUhTbp2dG89zK",
-                    "track_name": "Dance Like We're Making Love"
-                },
-                {
-                    "artist_name": "Ciara",
-                    "track_uri": "spotify:track:30lAGXMytmKjGVZk9BBC3m",
-                    "track_name": "Body Party"
-                },
-                {
-                    "artist_name": "Ciara",
-                    "track_uri": "spotify:track:1pLdjo3lOBbMaoR4ZpybFH",
-                    "track_name": "Promise"
-                },
-                {
-                    "artist_name": "Ciara",
-                    "track_uri": "spotify:track:5pKesXZVC43Vcvw1jT7p1f",
-                    "track_name": "Sorry"
-                },
-                {
-                    "artist_name": "Carlos Vives",
-                    "track_uri": "spotify:track:0sXvAOmXgjR2QUqLK1MltU",
-                    "track_name": "La Bicicleta"
-                },
-                {
-                    "artist_name": "Sebastian Yatra",
-                    "track_uri": "spotify:track:5J1c3M4EldCfNxXwrwt8mT",
-                    "track_name": "Traicionera"
-                },
-                {
-                    "artist_name": "J Balvin",
-                    "track_uri": "spotify:track:6qDF4wWL49CAVbgT7yuHl8",
-                    "track_name": "Sigo Extra\u00f1\u00e1ndote"
-                },
-                {
-                    "artist_name": "Don Omar",
-                    "track_uri": "spotify:track:3BY2mafsbsoKGqS380Xnuz",
-                    "track_name": "Te Quiero Pa\u00b4Mi"
-                },
-                {
-                    "artist_name": "Cali Y El Dandee",
-                    "track_uri": "spotify:track:6VHdcVbiKLYYOcMbIqBcuK",
-                    "track_name": "Lumbra"
-                },
-                {
-                    "artist_name": "J Balvin",
-                    "track_uri": "spotify:track:0RFFFGtPn6a58RHY3ccVYX",
-                    "track_name": "Si Tu Novio Te Deja Sola"
-                },
-                {
-                    "artist_name": "Farruko",
-                    "track_uri": "spotify:track:2QBlGKAp4PquIGtA6iNAuJ",
-                    "track_name": "Lejos De Aqu\u00ed"
-                },
-                {
-                    "artist_name": "Prince Royce",
-                    "track_uri": "spotify:track:46HdsiK0uR26B2dY9QPzda",
-                    "track_name": "Deja vu"
-                },
-                {
-                    "artist_name": "Reik",
-                    "track_uri": "spotify:track:3H179O48ynsu9q8LOnFQZY",
-                    "track_name": "Qu\u00e9 Gano Olvid\u00e1ndote - Versi\u00f3n Urbana"
-                },
-                {
-                    "artist_name": "J Balvin",
-                    "track_uri": "spotify:track:7AtlMCIauSQZqiXSlbBPW6",
-                    "track_name": "Bobo"
-                },
-                {
-                    "artist_name": "Don Omar",
-                    "track_uri": "spotify:track:3HqhooNQE34WSQ5K2ePOPA",
-                    "track_name": "Danza Kuduro - Don Raik Reggaeton Lento Remix"
-                },
-                {
-                    "artist_name": "Shakira",
-                    "track_uri": "spotify:track:3ZFTkvIE7kyPt6Nu3PEa7V",
-                    "track_name": "Hips Don't Lie"
-                },
-                {
-                    "artist_name": "Shakira",
-                    "track_uri": "spotify:track:0S5eBnwtkuFB0TQTlVqW6C",
-                    "track_name": "La Tortura"
-                },
-                {
-                    "artist_name": "Pitbull",
-                    "track_uri": "spotify:track:0KqpOdVQoDfeELTKYc97cO",
-                    "track_name": "Piensas (Dile la Verdad)"
-                },
-                {
-                    "artist_name": "Romeo Santos",
-                    "track_uri": "spotify:track:0uLwWjN1KFO678WNJcZDkw",
-                    "track_name": "Ll\u00e9vame Contigo"
-                },
-                {
-                    "artist_name": "Romeo Santos",
-                    "track_uri": "spotify:track:6hV6EpITzeBa1mzq5tvqpj",
-                    "track_name": "Soberbio"
-                },
-                {
-                    "artist_name": "Cali Y El Dandee",
-                    "track_uri": "spotify:track:3GpvoKKWZyTwgbLEM9RmWM",
-                    "track_name": "Por Fin Te Encontr\u00e9"
-                },
-                {
-                    "artist_name": "Juan Mag\u00e1n",
-                    "track_uri": "spotify:track:4hLEorB47NotMkSLCWmh5e",
-                    "track_name": "Bailando por el Mundo"
-                },
-                {
-                    "artist_name": "Juan Mag\u00e1n",
-                    "track_uri": "spotify:track:6sHBvzRsuGunQTfCk18KXi",
-                    "track_name": "Bailando por Ahi"
-                },
-                {
-                    "artist_name": "Juan Mag\u00e1n",
-                    "track_uri": "spotify:track:772io14jrMTxGJbijtDccQ",
-                    "track_name": "Baila Conmigo"
-                },
-                {
-                    "artist_name": "Don Omar",
-                    "track_uri": "spotify:track:5fwFQ9hooBZoxdboAHo99Y",
-                    "track_name": "No Sigue Modas Aka Ella No Sigue Modas"
-                },
-                {
-                    "artist_name": "Zion & Lennox",
-                    "track_uri": "spotify:track:5HABnFSYvl6mTmg8nSdzHa",
-                    "track_name": "Mi Tesoro (feat. Nicky Jam)"
-                },
-                {
-                    "artist_name": "Ken-Y",
-                    "track_uri": "spotify:track:2d1Bkco7bbFw050xDvZqQ1",
-                    "track_name": "Como Lo Hacia Yo (Official Remix)"
-                },
-                {
-                    "artist_name": "Yandel",
-                    "track_uri": "spotify:track:0EpFfFZpCuqYFzHvxOtrZS",
-                    "track_name": "Encantadora - Remix"
-                }
-            ],
-            "num_edits": 33,
-            "duration_ms": 14419153,
-            "num_artists": 33
         }
     ]
 }

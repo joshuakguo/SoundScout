@@ -6,294 +6,8 @@
     },
     "playlists": [
         {
-            "name": "good jams ",
-            "pid": 6172,
-            "num_tracks": 55,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Matt and Kim",
-                    "track_uri": "spotify:track:57i3M29DWoo7RDk0Tf0LZG",
-                    "track_name": "Daylight"
-                },
-                {
-                    "artist_name": "Modest Mouse",
-                    "track_uri": "spotify:track:3b00LSFIRqnHvkoDEs5fkg",
-                    "track_name": "Float On"
-                },
-                {
-                    "artist_name": "M83",
-                    "track_uri": "spotify:track:1eyzqe2QqGZUmfcPZtrIyt",
-                    "track_name": "Midnight City"
-                },
-                {
-                    "artist_name": "M83",
-                    "track_uri": "spotify:track:66fKIbn90iaQZ0jEuurozt",
-                    "track_name": "Oblivion (feat. Susanne Sundf\u00f8r)"
-                },
-                {
-                    "artist_name": "Phoenix",
-                    "track_uri": "spotify:track:5JtPGzRgrWxkXX9LoROq3d",
-                    "track_name": "1901"
-                },
-                {
-                    "artist_name": "Phoenix",
-                    "track_uri": "spotify:track:6ZrlXT6mUMEgomN128iekU",
-                    "track_name": "Lisztomania"
-                },
-                {
-                    "artist_name": "Passion Pit",
-                    "track_uri": "spotify:track:4Sfa7hdVkqlM8UW5LsSY3F",
-                    "track_name": "Take a Walk"
-                },
-                {
-                    "artist_name": "Passion Pit",
-                    "track_uri": "spotify:track:3kb38wezoUA8ki5jPYy3t5",
-                    "track_name": "Little Secrets"
-                },
-                {
-                    "artist_name": "Tegan and Sara",
-                    "track_uri": "spotify:track:4dTVgHZFPlaq9nPbLVVLSG",
-                    "track_name": "Closer"
-                },
-                {
-                    "artist_name": "Coldplay",
-                    "track_uri": "spotify:track:0FDzzruyVECATHXKHFs9eJ",
-                    "track_name": "A Sky Full of Stars"
-                },
-                {
-                    "artist_name": "Coldplay",
-                    "track_uri": "spotify:track:1mea3bSkSGXuIRvnydlB5b",
-                    "track_name": "Viva La Vida"
-                },
-                {
-                    "artist_name": "Coldplay",
-                    "track_uri": "spotify:track:6lpWMtQoGqQyEZuyIwhbkO",
-                    "track_name": "Every Teardrop Is a Waterfall"
-                },
-                {
-                    "artist_name": "Coldplay",
-                    "track_uri": "spotify:track:0BCPKOYdS2jbQ8iyB56Zns",
-                    "track_name": "Clocks"
-                },
-                {
-                    "artist_name": "Red Hot Chili Peppers",
-                    "track_uri": "spotify:track:3d9DChrdc6BOeFsbrZ3Is0",
-                    "track_name": "Under The Bridge"
-                },
-                {
-                    "artist_name": "Red Hot Chili Peppers",
-                    "track_uri": "spotify:track:10Nmj3JCNoMeBQ87uw5j8k",
-                    "track_name": "Dani California"
-                },
-                {
-                    "artist_name": "Weezer",
-                    "track_uri": "spotify:track:4YPhn26bIFm2KUkL1VLzQG",
-                    "track_name": "Say It Ain't So"
-                },
-                {
-                    "artist_name": "Weezer",
-                    "track_uri": "spotify:track:2MLHyLy5z5l5YRp7momlgw",
-                    "track_name": "Island In The Sun"
-                },
-                {
-                    "artist_name": "Weezer",
-                    "track_uri": "spotify:track:1yKu2MhpwzDXXH2tzG6xoa",
-                    "track_name": "Beverly Hills"
-                },
-                {
-                    "artist_name": "Passion Pit",
-                    "track_uri": "spotify:track:048AQ5XBnvStuTn7X2pGSY",
-                    "track_name": "To Kingdom Come"
-                },
-                {
-                    "artist_name": "The Killers",
-                    "track_uri": "spotify:track:7oK9VyNzrYvRFo7nQEYkWN",
-                    "track_name": "Mr. Brightside"
-                },
-                {
-                    "artist_name": "The Killers",
-                    "track_uri": "spotify:track:0kYUrLVQOfx21xuXu7OGrT",
-                    "track_name": "All These Things That I've Done"
-                },
-                {
-                    "artist_name": "The Killers",
-                    "track_uri": "spotify:track:7HGTkn2aX7MNdKs7nV2xBt",
-                    "track_name": "Somebody Told Me"
-                },
-                {
-                    "artist_name": "OneRepublic",
-                    "track_uri": "spotify:track:4zweVv3Wa6XgexhoUOzkYs",
-                    "track_name": "Secrets"
-                },
-                {
-                    "artist_name": "Third Eye Blind",
-                    "track_uri": "spotify:track:42et6fnHCw1HIPSrdPprMl",
-                    "track_name": "Semi-Charmed Life"
-                },
-                {
-                    "artist_name": "Capital Cities",
-                    "track_uri": "spotify:track:6Z8R6UsFuGXGtiIxiD8ISb",
-                    "track_name": "Safe And Sound"
-                },
-                {
-                    "artist_name": "Queen",
-                    "track_uri": "spotify:track:2fuCquhmrzHpu5xcA1ci9x",
-                    "track_name": "Under Pressure - Remastered 2011"
-                },
-                {
-                    "artist_name": "Nelly Furtado",
-                    "track_uri": "spotify:track:2aI21FnmY7TJVKeMaoQZ0t",
-                    "track_name": "Say It Right - Main"
-                },
-                {
-                    "artist_name": "Rooney",
-                    "track_uri": "spotify:track:7bBEDtVmP86Zli3NmBV17y",
-                    "track_name": "When Did Your Heart Go Missing?"
-                },
-                {
-                    "artist_name": "Empire of the Sun",
-                    "track_uri": "spotify:track:3iVAyrTlbWGBq0laeQ18z2",
-                    "track_name": "Walking On A Dream"
-                },
-                {
-                    "artist_name": "MGMT",
-                    "track_uri": "spotify:track:0vaf64cpnqM7COUZZkoBig",
-                    "track_name": "Electric Feel"
-                },
-                {
-                    "artist_name": "Vampire Weekend",
-                    "track_uri": "spotify:track:5329hKonR0ej5Tq4xmz5gD",
-                    "track_name": "Unbelievers"
-                },
-                {
-                    "artist_name": "Vampire Weekend",
-                    "track_uri": "spotify:track:5dKBaysNJtfpyNTRa5lqDb",
-                    "track_name": "A-Punk"
-                },
-                {
-                    "artist_name": "Grouplove",
-                    "track_uri": "spotify:track:0GO8y8jQk1PkHzS31d699N",
-                    "track_name": "Tongue Tied"
-                },
-                {
-                    "artist_name": "The Naked And Famous",
-                    "track_uri": "spotify:track:25nzKGDiua1lE9Qo5V19GL",
-                    "track_name": "Young Blood"
-                },
-                {
-                    "artist_name": "Young the Giant",
-                    "track_uri": "spotify:track:5Az8KU81g2aLBbJN67F2CI",
-                    "track_name": "Mind Over Matter"
-                },
-                {
-                    "artist_name": "Bleachers",
-                    "track_uri": "spotify:track:5L95vS64rG1YMIFm1hLjyZ",
-                    "track_name": "Rollercoaster"
-                },
-                {
-                    "artist_name": "The Verve",
-                    "track_uri": "spotify:track:3Z9PJ6xiEGmcqo2hESEB5n",
-                    "track_name": "Bitter Sweet Symphony"
-                },
-                {
-                    "artist_name": "Jimmy Eat World",
-                    "track_uri": "spotify:track:3mcG2NI5G5vhrQtRda1YnA",
-                    "track_name": "The Middle"
-                },
-                {
-                    "artist_name": "Modest Mouse",
-                    "track_uri": "spotify:track:5jJ69cMDMC0aeWPjZo6VP2",
-                    "track_name": "Lampshades on Fire"
-                },
-                {
-                    "artist_name": "Franz Ferdinand",
-                    "track_uri": "spotify:track:6ooluO7DiEhI1zmK94nRCM",
-                    "track_name": "Take Me Out"
-                },
-                {
-                    "artist_name": "Arctic Monkeys",
-                    "track_uri": "spotify:track:29tzJGvqJPTAFs6LXmsHoA",
-                    "track_name": "R U Mine?"
-                },
-                {
-                    "artist_name": "The xx",
-                    "track_uri": "spotify:track:0bXpmJyHHYPk6QBFj25bYF",
-                    "track_name": "Intro"
-                },
-                {
-                    "artist_name": "The Temper Trap",
-                    "track_uri": "spotify:track:5RoIXwyTCdyUjpMMkk4uPd",
-                    "track_name": "Sweet Disposition"
-                },
-                {
-                    "artist_name": "The Weeknd",
-                    "track_uri": "spotify:track:25khomWgBVamSdKw7hzm3l",
-                    "track_name": "The Hills"
-                },
-                {
-                    "artist_name": "Grizzly Bear",
-                    "track_uri": "spotify:track:0iTpQYzJnYgh7kIxyq8A2O",
-                    "track_name": "Two Weeks"
-                },
-                {
-                    "artist_name": "What So Not",
-                    "track_uri": "spotify:track:6zpCJDhdpHPZCcFCJZDqX5",
-                    "track_name": "High You Are"
-                },
-                {
-                    "artist_name": "Martin Solveig",
-                    "track_uri": "spotify:track:0HRNJk07cJs0seVHQqjfli",
-                    "track_name": "The Night Out - A-Trak vs. Martin Rework"
-                },
-                {
-                    "artist_name": "Rita Ora",
-                    "track_uri": "spotify:track:0PFxreXPMlzz74HGL4AtVC",
-                    "track_name": "Poison - Zdot Remix"
-                },
-                {
-                    "artist_name": "Train",
-                    "track_uri": "spotify:track:2hKdd3qO7cWr2Jo0Bcs0MA",
-                    "track_name": "Drops of Jupiter"
-                },
-                {
-                    "artist_name": "So Far So Good",
-                    "track_uri": "spotify:track:4rOMjhgtMX5G7a384fBZXa",
-                    "track_name": "Jack And Dianne"
-                },
-                {
-                    "artist_name": "Moon Taxi",
-                    "track_uri": "spotify:track:30lgD1UuHczwlxa7NZFeSQ",
-                    "track_name": "Morocco"
-                },
-                {
-                    "artist_name": "The Chainsmokers",
-                    "track_uri": "spotify:track:6O6M7pJLABmfBRoGZMu76Y",
-                    "track_name": "Roses"
-                },
-                {
-                    "artist_name": "OneRepublic",
-                    "track_uri": "spotify:track:5COPw6K4B6PPpeUXIE2Ry5",
-                    "track_name": "Feel Again"
-                },
-                {
-                    "artist_name": "Cherub",
-                    "track_uri": "spotify:track:152ANCuCtaK7mkhyFubrRG",
-                    "track_name": "Doses & Mimosas"
-                },
-                {
-                    "artist_name": "Kanye West",
-                    "track_uri": "spotify:track:1eQBEelI2NCy7AUTerX0KS",
-                    "track_name": "Ultralight Beam"
-                }
-            ],
-            "num_edits": 20,
-            "duration_ms": 12832424,
-            "num_artists": 40
-        },
-        {
             "name": "Depeche Mode",
-            "pid": 6173,
+            "pid": 4684,
             "num_tracks": 104,
             "num_followers": 15,
             "tracks": [
@@ -824,7 +538,7 @@
         },
         {
             "name": "Power",
-            "pid": 6174,
+            "pid": 4685,
             "num_tracks": 15,
             "num_followers": 13,
             "tracks": [
@@ -910,7 +624,7 @@
         },
         {
             "name": "comedy",
-            "pid": 6175,
+            "pid": 4686,
             "num_tracks": 247,
             "num_followers": 443,
             "tracks": [
@@ -2156,7 +1870,7 @@
         },
         {
             "name": "Tyler, The Creator",
-            "pid": 6176,
+            "pid": 4687,
             "num_tracks": 105,
             "num_followers": 24,
             "tracks": [
@@ -2692,7 +2406,7 @@
         },
         {
             "name": "Christian music ",
-            "pid": 6177,
+            "pid": 4688,
             "num_tracks": 90,
             "num_followers": 32,
             "tracks": [
@@ -3153,7 +2867,7 @@
         },
         {
             "name": "Duetos",
-            "pid": 6178,
+            "pid": 4689,
             "num_tracks": 20,
             "num_followers": 450,
             "tracks": [
@@ -3264,7 +2978,7 @@
         },
         {
             "name": "LIT PLAYLIST",
-            "pid": 6179,
+            "pid": 4690,
             "num_tracks": 132,
             "num_followers": 527,
             "tracks": [

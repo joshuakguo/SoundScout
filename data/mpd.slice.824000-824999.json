@@ -6,274 +6,8 @@
     },
     "playlists": [
         {
-            "name": "Sad Music",
-            "pid": 1266,
-            "num_tracks": 51,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Harry Chapin",
-                    "track_uri": "spotify:track:2obblQ6tcePeOEVJV6nEGD",
-                    "track_name": "Cat's In The Cradle"
-                },
-                {
-                    "artist_name": "The Fray",
-                    "track_uri": "spotify:track:5fVZC9GiM4e8vu99W0Xf6J",
-                    "track_name": "How to Save a Life"
-                },
-                {
-                    "artist_name": "The Fray",
-                    "track_uri": "spotify:track:57uX2vR9j9DNiANDYfXw1i",
-                    "track_name": "Never Say Never"
-                },
-                {
-                    "artist_name": "The Fray",
-                    "track_uri": "spotify:track:1N62wozuHCvczCkY4QidpP",
-                    "track_name": "Over My Head (Cable Car)"
-                },
-                {
-                    "artist_name": "3 Doors Down",
-                    "track_uri": "spotify:track:3NLrRZoMF0Lx6zTlYqeIo4",
-                    "track_name": "Here Without You"
-                },
-                {
-                    "artist_name": "Three Days Grace",
-                    "track_uri": "spotify:track:0M955bMOoilikPXwKLYpoi",
-                    "track_name": "I Hate Everything About You"
-                },
-                {
-                    "artist_name": "Bullet For My Valentine",
-                    "track_uri": "spotify:track:5pKCDm2fw4k6D6C5Rk646C",
-                    "track_name": "Tears Don't Fall"
-                },
-                {
-                    "artist_name": "The Killers",
-                    "track_uri": "spotify:track:7oK9VyNzrYvRFo7nQEYkWN",
-                    "track_name": "Mr. Brightside"
-                },
-                {
-                    "artist_name": "Imagine Dragons",
-                    "track_uri": "spotify:track:6Ep6BzIOB9tz3P4sWqiiAB",
-                    "track_name": "Radioactive"
-                },
-                {
-                    "artist_name": "Keane",
-                    "track_uri": "spotify:track:1SKPmfSYaPsETbRHaiA18G",
-                    "track_name": "Somewhere Only We Know"
-                },
-                {
-                    "artist_name": "Green Day",
-                    "track_uri": "spotify:track:3ZffCQKLFLUvYM59XKLbVm",
-                    "track_name": "Wake Me Up When September Ends"
-                },
-                {
-                    "artist_name": "Linkin Park",
-                    "track_uri": "spotify:track:1r1fPuhj9H4VdXr7OK6FL5",
-                    "track_name": "CASTLE OF GLASS"
-                },
-                {
-                    "artist_name": "Nickelback",
-                    "track_uri": "spotify:track:1urvke4VZGwRmP2PVlqFCy",
-                    "track_name": "If Today Was Your Last Day"
-                },
-                {
-                    "artist_name": "Nickelback",
-                    "track_uri": "spotify:track:0gmbgwZ8iqyMPmXefof8Yf",
-                    "track_name": "How You Remind Me - LP Mix"
-                },
-                {
-                    "artist_name": "Motion City Soundtrack",
-                    "track_uri": "spotify:track:0bgUPauRTvHds2ZciPSuoU",
-                    "track_name": "Everything Is Alright"
-                },
-                {
-                    "artist_name": "Motion City Soundtrack",
-                    "track_uri": "spotify:track:3f49c2ZsXqKwvbVchiUngB",
-                    "track_name": "Hello Helicopter"
-                },
-                {
-                    "artist_name": "Linkin Park",
-                    "track_uri": "spotify:track:2nLtzopw4rPReszdYBJU6h",
-                    "track_name": "Numb"
-                },
-                {
-                    "artist_name": "OneRepublic",
-                    "track_uri": "spotify:track:5edBgVtRD0fvWk140Sl21T",
-                    "track_name": "Counting Stars"
-                },
-                {
-                    "artist_name": "OneRepublic",
-                    "track_uri": "spotify:track:6fOPuabPdAJ0HgqJFcDGb1",
-                    "track_name": "Apologize"
-                },
-                {
-                    "artist_name": "OneRepublic",
-                    "track_uri": "spotify:track:7pzdiluN2tVrxsFGyM2Asc",
-                    "track_name": "I Lived"
-                },
-                {
-                    "artist_name": "Paramore",
-                    "track_uri": "spotify:track:1yjY7rpaAQvKwpdUliHx0d",
-                    "track_name": "Still Into You"
-                },
-                {
-                    "artist_name": "Paramore",
-                    "track_uri": "spotify:track:3ZHfX6kbiY7JVsB63lLOLu",
-                    "track_name": "The Only Exception"
-                },
-                {
-                    "artist_name": "Snow Patrol",
-                    "track_uri": "spotify:track:11bD1JtSjlIgKgZG2134DZ",
-                    "track_name": "Chasing Cars"
-                },
-                {
-                    "artist_name": "Train",
-                    "track_uri": "spotify:track:2hKdd3qO7cWr2Jo0Bcs0MA",
-                    "track_name": "Drops of Jupiter"
-                },
-                {
-                    "artist_name": "Five For Fighting",
-                    "track_uri": "spotify:track:5gBQ3x6u7DCvMW1QoP3CpG",
-                    "track_name": "100 Years"
-                },
-                {
-                    "artist_name": "Five For Fighting",
-                    "track_uri": "spotify:track:1MzlQlMCHU4zSyHjVGbMln",
-                    "track_name": "Chances"
-                },
-                {
-                    "artist_name": "Five For Fighting",
-                    "track_uri": "spotify:track:59d5hUNA6yvQZuFa1D5F50",
-                    "track_name": "What If"
-                },
-                {
-                    "artist_name": "Motion City Soundtrack",
-                    "track_uri": "spotify:track:2JtZ5DpUHYdmU5Iz02SMEH",
-                    "track_name": "Bad Idea"
-                },
-                {
-                    "artist_name": "Hollywood Undead",
-                    "track_uri": "spotify:track:2wRxT0oLnINBO3hPaivUnk",
-                    "track_name": "This Love, This Hate"
-                },
-                {
-                    "artist_name": "The Pretty Reckless",
-                    "track_uri": "spotify:track:0KGIbrNYktDXYyHopcDI2L",
-                    "track_name": "Make Me Wanna Die - Streaming Version"
-                },
-                {
-                    "artist_name": "Jacquie",
-                    "track_uri": "spotify:track:0VYCUWNFIYLIOQqu3bFzs0",
-                    "track_name": "Broken Ones"
-                },
-                {
-                    "artist_name": "Mayday Parade",
-                    "track_uri": "spotify:track:1ONoPkp5XIuw3tZ1GzrNKZ",
-                    "track_name": "Miserable At Best"
-                },
-                {
-                    "artist_name": "Ne-Yo",
-                    "track_uri": "spotify:track:03An28Kv50AtcVBaBsIJ0b",
-                    "track_name": "Unconditional"
-                },
-                {
-                    "artist_name": "Simple Plan",
-                    "track_uri": "spotify:track:714Lw0m2SmCEhKSPw0Dn8J",
-                    "track_name": "Welcome To My Life"
-                },
-                {
-                    "artist_name": "Avril Lavigne",
-                    "track_uri": "spotify:track:4VdYpmlf6EDmqbAcWc2jt7",
-                    "track_name": "When You're Gone"
-                },
-                {
-                    "artist_name": "Hollywood Undead",
-                    "track_uri": "spotify:track:5wBLDkxVvclanSitx5jq8e",
-                    "track_name": "Undead"
-                },
-                {
-                    "artist_name": "Hollywood Undead",
-                    "track_uri": "spotify:track:1OrCpmM69OMGktWh4QqGpK",
-                    "track_name": "Paradise Lost"
-                },
-                {
-                    "artist_name": "Three Days Grace",
-                    "track_uri": "spotify:track:3THZtwFfwGqnJPLdtkbesl",
-                    "track_name": "Someone Who Cares"
-                },
-                {
-                    "artist_name": "Three Days Grace",
-                    "track_uri": "spotify:track:5y7NRMui3GLbwj2zBaOqo1",
-                    "track_name": "Never Too Late"
-                },
-                {
-                    "artist_name": "Three Days Grace",
-                    "track_uri": "spotify:track:1uiwlmWedlNpzAxDSRGqdK",
-                    "track_name": "Lost in You"
-                },
-                {
-                    "artist_name": "Three Days Grace",
-                    "track_uri": "spotify:track:4Rtc87aysfzgqRMFcSqWme",
-                    "track_name": "Life Starts Now"
-                },
-                {
-                    "artist_name": "Three Days Grace",
-                    "track_uri": "spotify:track:4LpmKOzQJuWgi81prP0JQj",
-                    "track_name": "On My Own"
-                },
-                {
-                    "artist_name": "Three Days Grace",
-                    "track_uri": "spotify:track:6gPd6brcBXlbGdy1obe234",
-                    "track_name": "Time of Dying"
-                },
-                {
-                    "artist_name": "Three Days Grace",
-                    "track_uri": "spotify:track:50cltj4Bb1wwDnVwX8R1Ut",
-                    "track_name": "Over and Over"
-                },
-                {
-                    "artist_name": "Breaking Benjamin",
-                    "track_uri": "spotify:track:0faXHILILebCGnJBPU6KJJ",
-                    "track_name": "The Diary of Jane"
-                },
-                {
-                    "artist_name": "Evanescence",
-                    "track_uri": "spotify:track:0COqiPhxzoWICwFCS4eZcp",
-                    "track_name": "Bring Me To Life"
-                },
-                {
-                    "artist_name": "My Chemical Romance",
-                    "track_uri": "spotify:track:0BpKPyXhWsTaWkgXeOd1Sn",
-                    "track_name": "Thank You For The Venom"
-                },
-                {
-                    "artist_name": "My Chemical Romance",
-                    "track_uri": "spotify:track:2d6m2F4I7wCuAKtSsdhh83",
-                    "track_name": "Famous Last Words"
-                },
-                {
-                    "artist_name": "My Chemical Romance",
-                    "track_uri": "spotify:track:2M8g01v2vUMn39YQ10l7ef",
-                    "track_name": "Fake Your Death"
-                },
-                {
-                    "artist_name": "The Fray",
-                    "track_uri": "spotify:track:7trg1faBmQrr7zxr4U7SOr",
-                    "track_name": "Syndicate"
-                },
-                {
-                    "artist_name": "The Fray",
-                    "track_uri": "spotify:track:672rLD2Eqriv9fVvSm1Lgg",
-                    "track_name": "Little House"
-                }
-            ],
-            "num_edits": 13,
-            "duration_ms": 11829519,
-            "num_artists": 27
-        },
-        {
             "name": "epica",
-            "pid": 1267,
+            "pid": 954,
             "num_tracks": 69,
             "num_followers": 29,
             "tracks": [
@@ -629,7 +363,7 @@
         },
         {
             "name": "Banana Pancakes ",
-            "pid": 1268,
+            "pid": 955,
             "num_tracks": 172,
             "num_followers": 14,
             "tracks": [
@@ -1500,7 +1234,7 @@
         },
         {
             "name": "Alta Consigna",
-            "pid": 1269,
+            "pid": 956,
             "num_tracks": 82,
             "num_followers": 2341,
             "tracks": [
@@ -1921,7 +1655,7 @@
         },
         {
             "name": "Chill",
-            "pid": 1270,
+            "pid": 957,
             "num_tracks": 180,
             "num_followers": 30,
             "tracks": [

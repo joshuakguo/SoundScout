@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Best of 2014",
-            "pid": 2623,
+            "pid": 1994,
             "num_tracks": 101,
             "num_followers": 14,
             "tracks": [
@@ -523,7 +523,7 @@
         },
         {
             "name": "May 2017",
-            "pid": 2624,
+            "pid": 1995,
             "num_tracks": 14,
             "num_followers": 284,
             "tracks": [
@@ -604,7 +604,7 @@
         },
         {
             "name": "heavy",
-            "pid": 2625,
+            "pid": 1996,
             "num_tracks": 196,
             "num_followers": 25,
             "tracks": [
@@ -1595,7 +1595,7 @@
         },
         {
             "name": "Chill/Study",
-            "pid": 2626,
+            "pid": 1997,
             "num_tracks": 87,
             "num_followers": 12,
             "tracks": [
@@ -2041,7 +2041,7 @@
         },
         {
             "name": "Hockey",
-            "pid": 2627,
+            "pid": 1998,
             "num_tracks": 18,
             "num_followers": 85,
             "tracks": [
@@ -2142,7 +2142,7 @@
         },
         {
             "name": "GOSPEL",
-            "pid": 2628,
+            "pid": 1999,
             "num_tracks": 67,
             "num_followers": 12,
             "tracks": [
@@ -2487,119 +2487,8 @@
             "num_artists": 31
         },
         {
-            "name": "AUG17",
-            "pid": 2629,
-            "num_tracks": 20,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Echosmith",
-                    "track_uri": "spotify:track:161XtFcwPg4CPcicsC5FNz",
-                    "track_name": "Goodbye"
-                },
-                {
-                    "artist_name": "Dua Lipa",
-                    "track_uri": "spotify:track:2ekn2ttSfGqwhhate0LSR0",
-                    "track_name": "New Rules"
-                },
-                {
-                    "artist_name": "Capital Cities",
-                    "track_uri": "spotify:track:2ek7IR1d6Que09zlPJs8QD",
-                    "track_name": "Drop Everything"
-                },
-                {
-                    "artist_name": "Katy Perry",
-                    "track_uri": "spotify:track:5jhF4d9nxIm1P58WQCCa5h",
-                    "track_name": "Roulette"
-                },
-                {
-                    "artist_name": "The Kite String Tangle",
-                    "track_uri": "spotify:track:28Qxe222onMKRYCuteG3Qr",
-                    "track_name": "Beneath the Canopy"
-                },
-                {
-                    "artist_name": "Junior Empire",
-                    "track_uri": "spotify:track:1PGNxvofIH6dO4mBKYNXAM",
-                    "track_name": "I Know"
-                },
-                {
-                    "artist_name": "NEIKED",
-                    "track_uri": "spotify:track:08QmhAybC6VHeG8gah84qA",
-                    "track_name": "Call Me"
-                },
-                {
-                    "artist_name": "Zedd",
-                    "track_uri": "spotify:track:1CKd1PnqfYx0H12V9MSaIY",
-                    "track_name": "Get Low (with Liam Payne)"
-                },
-                {
-                    "artist_name": "SHAED",
-                    "track_uri": "spotify:track:2pG0RPiPPchJR6p5sh8Hv9",
-                    "track_name": "Too Much"
-                },
-                {
-                    "artist_name": "Jordan Xidas",
-                    "track_uri": "spotify:track:5ffxLIWugVQzA0WMjxQV5c",
-                    "track_name": "Crush"
-                },
-                {
-                    "artist_name": "The Ivy",
-                    "track_uri": "spotify:track:3A9b3wKbPfV9eKclrwMz8M",
-                    "track_name": "Gold"
-                },
-                {
-                    "artist_name": "Moonlight Cove",
-                    "track_uri": "spotify:track:7GtJVCp4kHs3yaYYT6yMGC",
-                    "track_name": "For I Am You"
-                },
-                {
-                    "artist_name": "Snakehips",
-                    "track_uri": "spotify:track:3nodtPfXcok53E8Uze8gvD",
-                    "track_name": "Either Way"
-                },
-                {
-                    "artist_name": "Kygo",
-                    "track_uri": "spotify:track:6LIe9o2p1xfj72rx4NDY8k",
-                    "track_name": "First Time - Gryffin Remix"
-                },
-                {
-                    "artist_name": "Lauv",
-                    "track_uri": "spotify:track:7cuZPcBl98VBf6aCAkwxE2",
-                    "track_name": "I Like Me Better - Ryan Riback Remix"
-                },
-                {
-                    "artist_name": "Lights",
-                    "track_uri": "spotify:track:7IMahreYyDefIMu34OvHPX",
-                    "track_name": "Skydiving"
-                },
-                {
-                    "artist_name": "Lefti",
-                    "track_uri": "spotify:track:42K3sDVCVmLnZ3LhZLcyOS",
-                    "track_name": "City Heart"
-                },
-                {
-                    "artist_name": "LANY",
-                    "track_uri": "spotify:track:74ODGXs4byLTRdnKGM4s6E",
-                    "track_name": "Super Far"
-                },
-                {
-                    "artist_name": "Leland",
-                    "track_uri": "spotify:track:5tsnJOyHm4W5rVosu4Kylk",
-                    "track_name": "Mattress"
-                },
-                {
-                    "artist_name": "Lorde",
-                    "track_uri": "spotify:track:0dyiHoYbYjYaOEXLpmzQZG",
-                    "track_name": "Supercut"
-                }
-            ],
-            "num_edits": 11,
-            "duration_ms": 4193107,
-            "num_artists": 20
-        },
-        {
             "name": "Pagan",
-            "pid": 2630,
+            "pid": 2000,
             "num_tracks": 143,
             "num_followers": 20,
             "tracks": [
@@ -3324,200 +3213,8 @@
             "num_artists": 55
         },
         {
-            "name": "TGIF",
-            "pid": 2631,
-            "num_tracks": 36,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "DNCE",
-                    "track_uri": "spotify:track:0CNjoQozZP0mB9rKVdrKGx",
-                    "track_name": "Toothbrush"
-                },
-                {
-                    "artist_name": "Anna Of The North",
-                    "track_uri": "spotify:track:08qjPXZBdEyif5PxU2AY9S",
-                    "track_name": "Sway - Chainsmokers Remix"
-                },
-                {
-                    "artist_name": "Perfectionist Music",
-                    "track_uri": "spotify:track:0rTXW00T8vfp7glUBsCidA",
-                    "track_name": "Save Me from the Night"
-                },
-                {
-                    "artist_name": "Daya",
-                    "track_uri": "spotify:track:1wDfQ3eLZb51M8jCkNwbyx",
-                    "track_name": "Words"
-                },
-                {
-                    "artist_name": "Stayleave",
-                    "track_uri": "spotify:track:3UgJYPZP6dSEELZ9BkyjMG",
-                    "track_name": "She Doesnt Know"
-                },
-                {
-                    "artist_name": "Chris Lutz",
-                    "track_uri": "spotify:track:3qKGB3yeZQCDHLEg19VfcU",
-                    "track_name": "Belong to You"
-                },
-                {
-                    "artist_name": "Eden Prince",
-                    "track_uri": "spotify:track:6rZjEUxUXGue4D70LJP7SH",
-                    "track_name": "P.Y.T. (Pretty Young Thing)"
-                },
-                {
-                    "artist_name": "Eklo",
-                    "track_uri": "spotify:track:5C1yCv1xgV80No8NblZqte",
-                    "track_name": "Weightless - Club Tropicana Remix"
-                },
-                {
-                    "artist_name": "Clean Bandit",
-                    "track_uri": "spotify:track:5knuzwU65gJK7IF5yJsuaW",
-                    "track_name": "Rockabye (feat. Sean Paul & Anne-Marie)"
-                },
-                {
-                    "artist_name": "Miley Cyrus",
-                    "track_uri": "spotify:track:40qjDdULzkFRlivTqTggLH",
-                    "track_name": "Adore You - Remix"
-                },
-                {
-                    "artist_name": "Alessia Cara",
-                    "track_uri": "spotify:track:0prNGof3XqfTvNDxHonvdK",
-                    "track_name": "Scars To Your Beautiful"
-                },
-                {
-                    "artist_name": "gnash",
-                    "track_uri": "spotify:track:1nalr6pgeR33Oqy57JgTVT",
-                    "track_name": "i hate u, i love u (feat. olivia o'brien) - Robin Schulz Remix"
-                },
-                {
-                    "artist_name": "Mike Perry",
-                    "track_uri": "spotify:track:2CPqh63wRVscbceKcPxwvv",
-                    "track_name": "The Ocean"
-                },
-                {
-                    "artist_name": "Avicii",
-                    "track_uri": "spotify:track:5B03nSG8pLE48jh7kmasuL",
-                    "track_name": "Levels - Radio Edit"
-                },
-                {
-                    "artist_name": "State of Sound",
-                    "track_uri": "spotify:track:2s76aKBWKShlwPC4xTtEEE",
-                    "track_name": "Wake Up Where You Are"
-                },
-                {
-                    "artist_name": "Soulja Boy",
-                    "track_uri": "spotify:track:07mYgXZhYC4smAzoyKoMrh",
-                    "track_name": "Rick Flair"
-                },
-                {
-                    "artist_name": "Fergie",
-                    "track_uri": "spotify:track:3osQ5lSSqZb8HWRozdbVPw",
-                    "track_name": "M.I.L.F. $"
-                },
-                {
-                    "artist_name": "Galantis",
-                    "track_uri": "spotify:track:3bvjsHQd792zIO4SKFxXKs",
-                    "track_name": "Love On Me"
-                },
-                {
-                    "artist_name": "Peter Agyagos",
-                    "track_uri": "spotify:track:54zRX2bRnH84TMkq1N2Gd7",
-                    "track_name": "It's You (Club Mix)"
-                },
-                {
-                    "artist_name": "Sam Feldt",
-                    "track_uri": "spotify:track:32yHAUbvsP1LFQqd9lmnBr",
-                    "track_name": "Runaways - Wild Culture Remix"
-                },
-                {
-                    "artist_name": "Zay Hilfigerrr",
-                    "track_uri": "spotify:track:1lItf5ZXJc1by9SbPeljFd",
-                    "track_name": "Juju On That Beat (TZ Anthem)"
-                },
-                {
-                    "artist_name": "Dua Lipa",
-                    "track_uri": "spotify:track:2eAAEa8pxKF7My0EO4rFgR",
-                    "track_name": "Blow Your Mind (Mwah)"
-                },
-                {
-                    "artist_name": "Storm Drums",
-                    "track_uri": "spotify:track:1hMnAWe306utVe83rkKNDw",
-                    "track_name": "Dance to House"
-                },
-                {
-                    "artist_name": "Caroline Pennell",
-                    "track_uri": "spotify:track:4BS9MBPYKNFEvaC5S7I3fN",
-                    "track_name": "Lovesick (feat. Felix Snow)"
-                },
-                {
-                    "artist_name": "Campsite Dream",
-                    "track_uri": "spotify:track:79T9m6YkRCgP0955CE4UCd",
-                    "track_name": "No Diggity"
-                },
-                {
-                    "artist_name": "Roeland Ruijsch",
-                    "track_uri": "spotify:track:4rC6bUHnao6FKzcB8cEy4m",
-                    "track_name": "Lingering Dance"
-                },
-                {
-                    "artist_name": "Maty Noyes",
-                    "track_uri": "spotify:track:0F1Rc18rZcJOALxIIQPTYd",
-                    "track_name": "in my miNd"
-                },
-                {
-                    "artist_name": "Party Favor",
-                    "track_uri": "spotify:track:7BGKxIHAlgIGRa1jDTGI5R",
-                    "track_name": "Give It To Me Twice (feat. Sean Kingston & Rich The Kid)"
-                },
-                {
-                    "artist_name": "Christopher Luz",
-                    "track_uri": "spotify:track:51KHT7x0TMfQ9nsZtewBr5",
-                    "track_name": "Super Electro"
-                },
-                {
-                    "artist_name": "Elephante",
-                    "track_uri": "spotify:track:6XLUlVeCNo4T7Gvkmy6NmC",
-                    "track_name": "Plans (feat. Brandyn Burnette)"
-                },
-                {
-                    "artist_name": "Fountain Of Youth",
-                    "track_uri": "spotify:track:3mdk9jHxJCO4PQNtaR3EoT",
-                    "track_name": "Improvement"
-                },
-                {
-                    "artist_name": "DRAM",
-                    "track_uri": "spotify:track:7yyRTcZmCiyzzJlNzGC9Ol",
-                    "track_name": "Broccoli (feat. Lil Yachty)"
-                },
-                {
-                    "artist_name": "Jamiryo",
-                    "track_uri": "spotify:track:62fO7EUYKdYFXEnxCgJUIh",
-                    "track_name": "Bring The Fire"
-                },
-                {
-                    "artist_name": "Christian French",
-                    "track_uri": "spotify:track:7JKdB79MjDgH9GE72AChkY",
-                    "track_name": "Fall for You"
-                },
-                {
-                    "artist_name": "Madden",
-                    "track_uri": "spotify:track:7J2EJ4QMpGUbB2H3SYYYtU",
-                    "track_name": "Alive"
-                },
-                {
-                    "artist_name": "Best Night Ever",
-                    "track_uri": "spotify:track:50ZQqtVbQjWfzadtPCVZ6q",
-                    "track_name": "Fire Me Up"
-                }
-            ],
-            "num_edits": 2,
-            "duration_ms": 8076770,
-            "num_artists": 36,
-            "description": "It&#x27;s FRIDAY. The perfect playlist for whether you&#x27;re getting ready to go out, or to play at a house party!"
-        },
-        {
             "name": "riding music",
-            "pid": 2632,
+            "pid": 2001,
             "num_tracks": 163,
             "num_followers": 19,
             "tracks": [

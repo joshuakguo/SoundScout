@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Favorite ",
-            "pid": 3257,
+            "pid": 2486,
             "num_tracks": 87,
             "num_followers": 55,
             "tracks": [
@@ -453,7 +453,7 @@
         },
         {
             "name": "slytherin",
-            "pid": 3258,
+            "pid": 2487,
             "num_tracks": 20,
             "num_followers": 16,
             "tracks": [
@@ -565,7 +565,7 @@
         },
         {
             "name": "coffee house",
-            "pid": 3259,
+            "pid": 2488,
             "num_tracks": 87,
             "num_followers": 23,
             "tracks": [
@@ -1012,7 +1012,7 @@
         },
         {
             "name": "crying. ",
-            "pid": 3260,
+            "pid": 2489,
             "num_tracks": 126,
             "num_followers": 16,
             "tracks": [
@@ -1653,7 +1653,7 @@
         },
         {
             "name": "Pretty",
-            "pid": 3261,
+            "pid": 2490,
             "num_tracks": 45,
             "num_followers": 12,
             "tracks": [
@@ -1889,7 +1889,7 @@
         },
         {
             "name": "Sunday",
-            "pid": 3262,
+            "pid": 2491,
             "num_tracks": 203,
             "num_followers": 41,
             "tracks": [
@@ -2915,7 +2915,7 @@
         },
         {
             "name": "Songs for the Soul",
-            "pid": 3263,
+            "pid": 2492,
             "num_tracks": 68,
             "num_followers": 119,
             "tracks": [
@@ -3267,7 +3267,7 @@
         },
         {
             "name": "Espa\u00f1ol",
-            "pid": 3264,
+            "pid": 2493,
             "num_tracks": 126,
             "num_followers": 14,
             "tracks": [
@@ -3907,474 +3907,8 @@
             "num_artists": 72
         },
         {
-            "name": "Beer Pong",
-            "pid": 3265,
-            "num_tracks": 91,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "J. Cole",
-                    "track_uri": "spotify:track:6rbeWjEavBHvX2kr6lSogS",
-                    "track_name": "Work Out"
-                },
-                {
-                    "artist_name": "T-Pain",
-                    "track_uri": "spotify:track:4gFXY5yvHayGckJndafYQE",
-                    "track_name": "Buy U a Drank (Shawty Snappin')"
-                },
-                {
-                    "artist_name": "Childish Gambino",
-                    "track_uri": "spotify:track:7wwifjNAb172PtDpKK3CoR",
-                    "track_name": "V. 3005"
-                },
-                {
-                    "artist_name": "Childish Gambino",
-                    "track_uri": "spotify:track:0uMUvbkTdjBNZ5UuHZ5PIj",
-                    "track_name": "IV. sweatpants"
-                },
-                {
-                    "artist_name": "A$AP Rocky",
-                    "track_uri": "spotify:track:1j6kDJttn6wbVyMaM42Nxm",
-                    "track_name": "Lord Pretty Flacko Jodye 2 (LPFJ2)"
-                },
-                {
-                    "artist_name": "A$AP Mob",
-                    "track_uri": "spotify:track:4pdgV8qr9Oytcv6thCdiIZ",
-                    "track_name": "RAF"
-                },
-                {
-                    "artist_name": "A$AP Mob",
-                    "track_uri": "spotify:track:3OTMcouJxgNYYwuLsQ4Qw6",
-                    "track_name": "Bahamas"
-                },
-                {
-                    "artist_name": "Lil Yachty",
-                    "track_uri": "spotify:track:40yJGQyEaBbIkXpwMFkXip",
-                    "track_name": "One Night"
-                },
-                {
-                    "artist_name": "Tee Grizzley",
-                    "track_uri": "spotify:track:2NyrXRn4tancYPW6JwtTl2",
-                    "track_name": "From The D To The A (feat. Lil Yachty)"
-                },
-                {
-                    "artist_name": "DRAM",
-                    "track_uri": "spotify:track:7yyRTcZmCiyzzJlNzGC9Ol",
-                    "track_name": "Broccoli (feat. Lil Yachty)"
-                },
-                {
-                    "artist_name": "Kanye West",
-                    "track_uri": "spotify:track:4ImL3v98u2BLkwnyQDjfRm",
-                    "track_name": "Can't Tell Me Nothing"
-                },
-                {
-                    "artist_name": "Kendrick Lamar",
-                    "track_uri": "spotify:track:5UHjWOJA6MDl1g3x2HC68V",
-                    "track_name": "The Recipe (Black Hippy Remix) - Bonus Track"
-                },
-                {
-                    "artist_name": "Kendrick Lamar",
-                    "track_uri": "spotify:track:5ujh1I7NZH5agbwf7Hp8Hc",
-                    "track_name": "Swimming Pools (Drank) - Extended Version"
-                },
-                {
-                    "artist_name": "ScHoolboy Q",
-                    "track_uri": "spotify:track:0zO8ctW0UiuOefR87OeJOZ",
-                    "track_name": "Collard Greens"
-                },
-                {
-                    "artist_name": "ScHoolboy Q",
-                    "track_uri": "spotify:track:5SsR3wtCOafDmZgvIdRhSm",
-                    "track_name": "Man Of The Year"
-                },
-                {
-                    "artist_name": "ScHoolboy Q",
-                    "track_uri": "spotify:track:29gsi1zZrZxdStACmTQB0Z",
-                    "track_name": "Studio"
-                },
-                {
-                    "artist_name": "Rae Sremmurd",
-                    "track_uri": "spotify:track:6mapJIPnQ23RTAevUoE0DL",
-                    "track_name": "Swang"
-                },
-                {
-                    "artist_name": "ILoveMakonnen",
-                    "track_uri": "spotify:track:4PWY72AubTjoZrohQt0pWn",
-                    "track_name": "Tuesday (feat. Drake)"
-                },
-                {
-                    "artist_name": "Meek Mill",
-                    "track_uri": "spotify:track:0Y0TOsE1q11qgbi7c5WZsG",
-                    "track_name": "R.I.C.O. (feat. Drake)"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:1xznGGDReH1oQq0xzbwXa3",
-                    "track_name": "One Dance"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:6LxSe8YmdPxy095Ux6znaQ",
-                    "track_name": "Headlines"
-                },
-                {
-                    "artist_name": "Roy Woods",
-                    "track_uri": "spotify:track:0PXp9QxBfSKGGpWUNaws2X",
-                    "track_name": "Drama (feat. Drake)"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:5mPSyjLatqB00IkPqRlbTE",
-                    "track_name": "Pop Style"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:2bjwRfXMk4uRgOD9IBYl9h",
-                    "track_name": "Portland"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:1OHoBC4icbuNhpSxP400sv",
-                    "track_name": "Preach"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:7hDc8b7IXETo14hHIHdnhd",
-                    "track_name": "Passionfruit"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:4Kz4RdRCceaA9VgTqBhBfa",
-                    "track_name": "The Motto"
-                },
-                {
-                    "artist_name": "Post Malone",
-                    "track_uri": "spotify:track:5yuShbu70mtHXY0yLzCQLQ",
-                    "track_name": "Go Flex"
-                },
-                {
-                    "artist_name": "Post Malone",
-                    "track_uri": "spotify:track:7wGoVu4Dady5GV0Sv4UIsx",
-                    "track_name": "rockstar"
-                },
-                {
-                    "artist_name": "Post Malone",
-                    "track_uri": "spotify:track:42CeaId2XNlxugDvyqHfDf",
-                    "track_name": "Candy Paint"
-                },
-                {
-                    "artist_name": "Post Malone",
-                    "track_uri": "spotify:track:02opp1cycqiFNDpLd2o1J3",
-                    "track_name": "Big Lie"
-                },
-                {
-                    "artist_name": "Steve Aoki",
-                    "track_uri": "spotify:track:47iLFlyBYWZiXvl8XHBniE",
-                    "track_name": "Night Call (feat. Lil Yachty & Migos)"
-                },
-                {
-                    "artist_name": "Migos",
-                    "track_uri": "spotify:track:6p8NuHm8uCGnn2Dtbtf7zE",
-                    "track_name": "Slippery (feat. Gucci Mane)"
-                },
-                {
-                    "artist_name": "Metro Boomin",
-                    "track_uri": "spotify:track:6kig1UFggPUyZBCvXD3Wod",
-                    "track_name": "No Complaints"
-                },
-                {
-                    "artist_name": "Migos",
-                    "track_uri": "spotify:track:76Y0gxtTxN0FyDCYh5qYQj",
-                    "track_name": "Get Right Witcha"
-                },
-                {
-                    "artist_name": "Quavo",
-                    "track_uri": "spotify:track:37bSkNc317ZGC7u5KPq5J9",
-                    "track_name": "Trapstar"
-                },
-                {
-                    "artist_name": "Gucci Mane",
-                    "track_uri": "spotify:track:1XRgIKC5TPwo7nWGyKqgG0",
-                    "track_name": "I Get The Bag (feat. Migos)"
-                },
-                {
-                    "artist_name": "French Montana",
-                    "track_uri": "spotify:track:7iaw359G2XT14uTfV9feip",
-                    "track_name": "Lockjaw"
-                },
-                {
-                    "artist_name": "PnB Rock",
-                    "track_uri": "spotify:track:5de7ci7TFqbQ1PFgKAD7MR",
-                    "track_name": "Horses (with PnB Rock, Kodak Black & A Boogie Wit da Hoodie)"
-                },
-                {
-                    "artist_name": "A Boogie Wit da Hoodie",
-                    "track_uri": "spotify:track:1f5cbQtDrykjarZVrShaDI",
-                    "track_name": "Drowning (feat. Kodak Black)"
-                },
-                {
-                    "artist_name": "A Boogie Wit da Hoodie",
-                    "track_uri": "spotify:track:5wVslBYruyg44O2nSuGyMT",
-                    "track_name": "Macaroni"
-                },
-                {
-                    "artist_name": "Travis Scott",
-                    "track_uri": "spotify:track:1SGt65i9AnXYdDQt1AtDRH",
-                    "track_name": "3500"
-                },
-                {
-                    "artist_name": "Travis Scott",
-                    "track_uri": "spotify:track:0ESJlaM8CE1jRWaNtwSNj8",
-                    "track_name": "beibs in the trap"
-                },
-                {
-                    "artist_name": "NAV",
-                    "track_uri": "spotify:track:1xpXnpIpuvzpx9jz15baJF",
-                    "track_name": "Call Me"
-                },
-                {
-                    "artist_name": "NAV",
-                    "track_uri": "spotify:track:5qbcsZMwL0x46sX7VO37Ye",
-                    "track_name": "Up"
-                },
-                {
-                    "artist_name": "NAV",
-                    "track_uri": "spotify:track:3JWh19WsndEFg0UFRFeTiU",
-                    "track_name": "Minute"
-                },
-                {
-                    "artist_name": "NAV",
-                    "track_uri": "spotify:track:5Od0M7jp6IODTPW0cygHgu",
-                    "track_name": "Perfect Timing (Intro)"
-                },
-                {
-                    "artist_name": "NAV",
-                    "track_uri": "spotify:track:4EbULzyWMuFx94aoIY1MlJ",
-                    "track_name": "A$AP Ferg"
-                },
-                {
-                    "artist_name": "NAV",
-                    "track_uri": "spotify:track:4E7QkOCYzWYb7trOJWsYuS",
-                    "track_name": "NAVUZIMETRO#PT2"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert",
-                    "track_uri": "spotify:track:0B8QzDH7YWih85V5SEMnyJ",
-                    "track_name": "Money Longer"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert",
-                    "track_uri": "spotify:track:2ANLarE8yHVsLWW21nj79M",
-                    "track_name": "You Was Right"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert",
-                    "track_uri": "spotify:track:1gGsNNUfvVMOv4llVMg8Vg",
-                    "track_name": "Ps & Qs"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert",
-                    "track_uri": "spotify:track:6j0teRL3WdExzqmy334sh5",
-                    "track_name": "Seven Million (feat. Future)"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert Gucci Future",
-                    "track_uri": "spotify:track:7coa5p6z3jR4wCxRozrkn9",
-                    "track_name": "Changed My Phone"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert",
-                    "track_uri": "spotify:track:7GX5flRQZVHRAGd6B4TmDO",
-                    "track_name": "XO TOUR Llif3"
-                },
-                {
-                    "artist_name": "DJ Jayp",
-                    "track_uri": "spotify:track:3WRAPzBKpj0249PQ5qD3sR",
-                    "track_name": "Change My Phone"
-                },
-                {
-                    "artist_name": "Carnage",
-                    "track_uri": "spotify:track:4afMG2PlvFfX976bZJvHmb",
-                    "track_name": "WDYW"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert",
-                    "track_uri": "spotify:track:5O8x1YlmLQopQHErxtDfi9",
-                    "track_name": "UnFazed (feat. The Weeknd)"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert",
-                    "track_uri": "spotify:track:0QV16pno66L6K3fn4W13b7",
-                    "track_name": "No Sleep Leak"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert",
-                    "track_uri": "spotify:track:2ZdCrBA52bb4pIG3tOOZiQ",
-                    "track_name": "Dark Queen"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert",
-                    "track_uri": "spotify:track:1MJErNPIQUoEMu4YUUmecm",
-                    "track_name": "Neon Guts (feat. Pharrell Williams)"
-                },
-                {
-                    "artist_name": "Lil Uzi Vert",
-                    "track_uri": "spotify:track:1QgTBfRN5m81a5K01qens6",
-                    "track_name": "444+222"
-                },
-                {
-                    "artist_name": "Playboi Carti",
-                    "track_uri": "spotify:track:1UAmQe8EwpxQ80OfYVD13z",
-                    "track_name": "Lookin"
-                },
-                {
-                    "artist_name": "Playboi Carti",
-                    "track_uri": "spotify:track:59J5nzL1KniFHnU120dQzt",
-                    "track_name": "wokeuplikethis*"
-                },
-                {
-                    "artist_name": "Playboi Carti",
-                    "track_uri": "spotify:track:1e1JKLEDKP7hEQzJfNAgPl",
-                    "track_name": "Magnolia"
-                },
-                {
-                    "artist_name": "Young Thug",
-                    "track_uri": "spotify:track:4cg1yakyRSIOjxKM2I7J1q",
-                    "track_name": "Digits"
-                },
-                {
-                    "artist_name": "Future",
-                    "track_uri": "spotify:track:1uUGn3Sk4qErHdDqL1OSVA",
-                    "track_name": "Who (feat. Young Thug)"
-                },
-                {
-                    "artist_name": "Future",
-                    "track_uri": "spotify:track:1XWcdNQvGrX32fH09CwuWI",
-                    "track_name": "100it Racks"
-                },
-                {
-                    "artist_name": "Drake",
-                    "track_uri": "spotify:track:2uTG00P1DkhB97pdITkl2O",
-                    "track_name": "Live From The Gutter"
-                },
-                {
-                    "artist_name": "Future",
-                    "track_uri": "spotify:track:0QohT2QOr9MzABER7DCDN4",
-                    "track_name": "Check On Me"
-                },
-                {
-                    "artist_name": "Future",
-                    "track_uri": "spotify:track:6hVGw7yVUd2bpdHMPCWrtN",
-                    "track_name": "March Madness"
-                },
-                {
-                    "artist_name": "Future",
-                    "track_uri": "spotify:track:6elNeXUhiuHPD9hH5rocQi",
-                    "track_name": "Trap Niggas"
-                },
-                {
-                    "artist_name": "Gucci Mane",
-                    "track_uri": "spotify:track:5tFep7dXGd7vEJ668wTPux",
-                    "track_name": "Both (feat. Drake)"
-                },
-                {
-                    "artist_name": "Gucci Mane",
-                    "track_uri": "spotify:track:2XaInsPPUkZRkY4uFJ3AHK",
-                    "track_name": "Met Gala (feat. Offset)"
-                },
-                {
-                    "artist_name": "KYLE",
-                    "track_uri": "spotify:track:0c6DDLA4rsGGNXWZM5oZdS",
-                    "track_name": "Doubt It"
-                },
-                {
-                    "artist_name": "XXL Freshman",
-                    "track_uri": "spotify:track:01pw3e2s4PExku8cLYylH4",
-                    "track_name": "Kodak Black Lil Uzi Vert Lil Yachty Cypher"
-                },
-                {
-                    "artist_name": "MadeinTYO",
-                    "track_uri": "spotify:track:7zBPzAjKAqQpcv8F8GCq5s",
-                    "track_name": "Uber Everywhere"
-                },
-                {
-                    "artist_name": "Kid Cudi",
-                    "track_uri": "spotify:track:5iSEsR6NKjlC9SrIJkyL3k",
-                    "track_name": "Pursuit Of Happiness (nightmare)"
-                },
-                {
-                    "artist_name": "Tory Ln",
-                    "track_uri": "spotify:track:3l3IyjUlQ32itCOBKmDwuu",
-                    "track_name": "Blue Jay Season"
-                },
-                {
-                    "artist_name": "Meek Mill",
-                    "track_uri": "spotify:track:5J5PXmMdQ2nh1lZOal8KmK",
-                    "track_name": "Litty (feat. Tory Lanez)"
-                },
-                {
-                    "artist_name": "Jeremih",
-                    "track_uri": "spotify:track:0xrdZMsJIaxoTHAB4bvGnu",
-                    "track_name": "Pass Dat"
-                },
-                {
-                    "artist_name": "Smokepurpp",
-                    "track_uri": "spotify:track:7MCs283jdifycrZoMPPynX",
-                    "track_name": "Glock In My Benz"
-                },
-                {
-                    "artist_name": "Smokepurpp",
-                    "track_uri": "spotify:track:0FczZscGB1PynHk6zwNO69",
-                    "track_name": "Bless Yo Trap"
-                },
-                {
-                    "artist_name": "Smokepurpp",
-                    "track_uri": "spotify:track:2INqEk4ko5AsGVLBsiKiQe",
-                    "track_name": "Audi."
-                },
-                {
-                    "artist_name": "SahBabii",
-                    "track_uri": "spotify:track:1L0M8Uj3aI6IQQNi6Nghvn",
-                    "track_name": "Pull Up Wit Ah Stick (feat. Loso Loaded)"
-                },
-                {
-                    "artist_name": "2 Chainz",
-                    "track_uri": "spotify:track:1nX9KhK3Fff27SnrIor2Yb",
-                    "track_name": "4 AM"
-                },
-                {
-                    "artist_name": "2 Chainz",
-                    "track_uri": "spotify:track:67gmXPQZL1ISSh13OJJ1Pu",
-                    "track_name": "Blue Cheese"
-                },
-                {
-                    "artist_name": "2 Chainz",
-                    "track_uri": "spotify:track:39pS70eeDvyCAF3t8NAlVV",
-                    "track_name": "Good Drank"
-                },
-                {
-                    "artist_name": "Lil Yachty",
-                    "track_uri": "spotify:track:3Tgwc23CjkBdbmywbvJlud",
-                    "track_name": "No Hook (feat. Quavo)"
-                },
-                {
-                    "artist_name": "King Fresco",
-                    "track_uri": "spotify:track:1H6Q8cBkDB8oGAefUFz9cM",
-                    "track_name": "Got Lazy"
-                },
-                {
-                    "artist_name": "Nike Boi",
-                    "track_uri": "spotify:track:7i2BpChaA8yTMhGWyAXVfV",
-                    "track_name": "Gucci Chanel"
-                }
-            ],
-            "num_edits": 55,
-            "duration_ms": 20226489,
-            "num_artists": 45
-        },
-        {
             "name": "EDM/House",
-            "pid": 3266,
+            "pid": 2494,
             "num_tracks": 66,
             "num_followers": 16,
             "tracks": [

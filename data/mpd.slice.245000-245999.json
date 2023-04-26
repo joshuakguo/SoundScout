@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Good For You",
-            "pid": 1593,
+            "pid": 1219,
             "num_tracks": 9,
             "num_followers": 13,
             "tracks": [
@@ -62,170 +62,8 @@
             "num_artists": 7
         },
         {
-            "name": "Chill",
-            "pid": 1594,
-            "num_tracks": 16,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Thundercat",
-                    "track_uri": "spotify:track:0YUqBFAH5myAV0An8Gjqf3",
-                    "track_name": "Uh Uh"
-                },
-                {
-                    "artist_name": "Thundercat",
-                    "track_uri": "spotify:track:6qXNCWY49AaZ5nfp9AJIc5",
-                    "track_name": "A Fan's Mail (Tron Song Suite II)"
-                },
-                {
-                    "artist_name": "Thundercat",
-                    "track_uri": "spotify:track:3QRQwnaENDNslrc5tNUGgE",
-                    "track_name": "Lava Lamp"
-                },
-                {
-                    "artist_name": "Thundercat",
-                    "track_uri": "spotify:track:1tN7gp3HKJL5MXCGqUZtgh",
-                    "track_name": "Jethro"
-                },
-                {
-                    "artist_name": "Thundercat",
-                    "track_uri": "spotify:track:2YzOFeQ8ZtgZG6pHDXPMQi",
-                    "track_name": "Blackkk"
-                },
-                {
-                    "artist_name": "Thundercat",
-                    "track_uri": "spotify:track:0Att3l6OhP6j87mEjxA758",
-                    "track_name": "Tokyo"
-                },
-                {
-                    "artist_name": "Thundercat",
-                    "track_uri": "spotify:track:1mulnYEUXkVd1G0jdtrSvC",
-                    "track_name": "Jameel's Space Ride"
-                },
-                {
-                    "artist_name": "Thundercat",
-                    "track_uri": "spotify:track:2UAMy9T8jWOjRVlQvHOmsn",
-                    "track_name": "Friend Zone"
-                },
-                {
-                    "artist_name": "Thundercat",
-                    "track_uri": "spotify:track:0VcVOg0FcgS7iRn1JNU7Xu",
-                    "track_name": "Where I'm Going"
-                },
-                {
-                    "artist_name": "Thundercat",
-                    "track_uri": "spotify:track:0bBJjaaaqNOTa0AhrpZDwn",
-                    "track_name": "Inferno"
-                },
-                {
-                    "artist_name": "Thundercat",
-                    "track_uri": "spotify:track:2lHakzNTla3OnDlCrLsbaU",
-                    "track_name": "I Am Crazy"
-                },
-                {
-                    "artist_name": "Thundercat",
-                    "track_uri": "spotify:track:2n2kX2OvFTDA6FTDoFBWT9",
-                    "track_name": "Tron Song"
-                },
-                {
-                    "artist_name": "Thundercat",
-                    "track_uri": "spotify:track:6YbzH3wPPDcQVL9I5i7wE1",
-                    "track_name": "Lotus and the Jondy"
-                },
-                {
-                    "artist_name": "Thundercat",
-                    "track_uri": "spotify:track:7kFbacUP6MRGLIduMu40jb",
-                    "track_name": "Heartbreaks + Setbacks"
-                },
-                {
-                    "artist_name": "Shabazz Palaces",
-                    "track_uri": "spotify:track:4UIfBRnJoiGeQhBec0mHm0",
-                    "track_name": "Shine a Light"
-                },
-                {
-                    "artist_name": "xxyyxx",
-                    "track_uri": "spotify:track:1zEVPE9DRX9qihIcIY2h7n",
-                    "track_name": "Closer"
-                }
-            ],
-            "num_edits": 5,
-            "duration_ms": 2508690,
-            "num_artists": 3
-        },
-        {
-            "name": "10",
-            "pid": 1595,
-            "num_tracks": 12,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "L\u00e5psley",
-                    "track_uri": "spotify:track:0OW4q99xXIpbiof4ao8Oet",
-                    "track_name": "Operator (He Doesn't Call Me)"
-                },
-                {
-                    "artist_name": "liv",
-                    "track_uri": "spotify:track:4HXABSIIr5QXkBMOKg4KtJ",
-                    "track_name": "Wings of Love"
-                },
-                {
-                    "artist_name": "Amber Coffman",
-                    "track_uri": "spotify:track:5eNFX8wUn487T4PEl2Ratm",
-                    "track_name": "All to Myself"
-                },
-                {
-                    "artist_name": "Ari Lennox",
-                    "track_uri": "spotify:track:3VeuvRWfJLSOzeVPrgi5MR",
-                    "track_name": "Night Drive"
-                },
-                {
-                    "artist_name": "Helado Negro",
-                    "track_uri": "spotify:track:496Vor8cpc1aOuTD1LpznW",
-                    "track_name": "Runaround"
-                },
-                {
-                    "artist_name": "Solange",
-                    "track_uri": "spotify:track:48EjSdYh8wz2gBxxqzrsLe",
-                    "track_name": "Cranes in the Sky"
-                },
-                {
-                    "artist_name": "Anderson .Paak",
-                    "track_uri": "spotify:track:7pamxApUs3CE8t7tKmUJ6Z",
-                    "track_name": "The Bird"
-                },
-                {
-                    "artist_name": "NxWorries",
-                    "track_uri": "spotify:track:6EddQZZdY4yK6oFtFIIGBp",
-                    "track_name": "Link Up"
-                },
-                {
-                    "artist_name": "Gavin Turek",
-                    "track_uri": "spotify:track:27uyUCHIMiiBM4vNHeEf5X",
-                    "track_name": "On The Line"
-                },
-                {
-                    "artist_name": "Lizzo",
-                    "track_uri": "spotify:track:5D9Nw6HyFH0k40X8RxHfD6",
-                    "track_name": "Worship"
-                },
-                {
-                    "artist_name": "Kevin Abstract",
-                    "track_uri": "spotify:track:6gSw5vz7dcafda23VqMrnl",
-                    "track_name": "Empty"
-                },
-                {
-                    "artist_name": "Pional",
-                    "track_uri": "spotify:track:44q7001a7ZxgWe98OOcYaZ",
-                    "track_name": "The Way That You Like - feat. Empress Of"
-                }
-            ],
-            "num_edits": 9,
-            "duration_ms": 2698450,
-            "num_artists": 12
-        },
-        {
             "name": "August 2015 ",
-            "pid": 1596,
+            "pid": 1220,
             "num_tracks": 53,
             "num_followers": 36,
             "tracks": [
@@ -501,7 +339,7 @@
         },
         {
             "name": "Final fantasy",
-            "pid": 1597,
+            "pid": 1221,
             "num_tracks": 201,
             "num_followers": 16,
             "tracks": [

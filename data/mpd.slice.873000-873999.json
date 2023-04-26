@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Summer Vibes",
-            "pid": 3595,
+            "pid": 2755,
             "num_tracks": 160,
             "num_followers": 15,
             "tracks": [
@@ -817,64 +817,8 @@
             "num_artists": 109
         },
         {
-            "name": "All Time Low",
-            "pid": 3596,
-            "num_tracks": 9,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Jon Bellion",
-                    "track_uri": "spotify:track:1CnPYaKxTVb4LWOtiGOm0m",
-                    "track_name": "All Time Low"
-                },
-                {
-                    "artist_name": "Judah & the Lion",
-                    "track_uri": "spotify:track:6DS5SORgeoVulehnj02vV4",
-                    "track_name": "Take It All Back - String Quartet Op. 9 In C Major"
-                },
-                {
-                    "artist_name": "Jon Bellion",
-                    "track_uri": "spotify:track:1zTW7xRtxmprjTUDi6bAHg",
-                    "track_name": "Woke The F*ck Up"
-                },
-                {
-                    "artist_name": "Jon Bellion",
-                    "track_uri": "spotify:track:2FK1qmw8XNBqUe5CcgTVnE",
-                    "track_name": "Guillotine"
-                },
-                {
-                    "artist_name": "Ed Sheeran",
-                    "track_uri": "spotify:track:10CThxBSCJs5TWsM0Fhdjv",
-                    "track_name": "Bloodstream"
-                },
-                {
-                    "artist_name": "Judah & the Lion",
-                    "track_uri": "spotify:track:2w7O4XCRoIJrwF1NqKL9TM",
-                    "track_name": "Take It All Back 2.0"
-                },
-                {
-                    "artist_name": "Donny Osmond",
-                    "track_uri": "spotify:track:28UMEtwyUUy5u0UWOVHwiI",
-                    "track_name": "I'll Make a Man Out of You - From \"Mulan\"/Soundtrack"
-                },
-                {
-                    "artist_name": "Ed Sheeran",
-                    "track_uri": "spotify:track:6gTJaPuj8DT8RjuDJyBgzP",
-                    "track_name": "Don't"
-                },
-                {
-                    "artist_name": "Ed Sheeran",
-                    "track_uri": "spotify:track:3KiktyOxQd2Z0bmnabgRq2",
-                    "track_name": "I'm A Mess"
-                }
-            ],
-            "num_edits": 2,
-            "duration_ms": 2086695,
-            "num_artists": 4
-        },
-        {
             "name": "worship",
-            "pid": 3597,
+            "pid": 2756,
             "num_tracks": 180,
             "num_followers": 16,
             "tracks": [
@@ -1785,7 +1729,7 @@
         },
         {
             "name": "Chillin'",
-            "pid": 3598,
+            "pid": 2757,
             "num_tracks": 20,
             "num_followers": 14,
             "tracks": [
@@ -1896,7 +1840,7 @@
         },
         {
             "name": "Lana Del Ray",
-            "pid": 3599,
+            "pid": 2758,
             "num_tracks": 172,
             "num_followers": 12,
             "tracks": [

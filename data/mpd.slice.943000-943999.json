@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Chill out",
-            "pid": 4032,
+            "pid": 3078,
             "num_tracks": 85,
             "num_followers": 175,
             "tracks": [
@@ -443,7 +443,7 @@
         },
         {
             "name": "Confused",
-            "pid": 4033,
+            "pid": 3079,
             "num_tracks": 70,
             "num_followers": 16,
             "tracks": [
@@ -804,7 +804,7 @@
         },
         {
             "name": "stupid",
-            "pid": 4034,
+            "pid": 3080,
             "num_tracks": 195,
             "num_followers": 31,
             "tracks": [
@@ -1790,7 +1790,7 @@
         },
         {
             "name": "Bangers",
-            "pid": 4035,
+            "pid": 3081,
             "num_tracks": 129,
             "num_followers": 12,
             "tracks": [
@@ -2445,249 +2445,8 @@
             "num_artists": 94
         },
         {
-            "name": "Fusion",
-            "pid": 4036,
-            "num_tracks": 46,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Lydia&Sebastien",
-                    "track_uri": "spotify:track:49SOPUTxbQfgim7oBfLLNi",
-                    "track_name": "Quand T'Es Pas L\u00e0 - Antoine Remix"
-                },
-                {
-                    "artist_name": "Armin van Buuren",
-                    "track_uri": "spotify:track:54TNuxCZ6PUdE7ltaLplzU",
-                    "track_name": "Strong Ones - M\u00d6WE Remix"
-                },
-                {
-                    "artist_name": "Matt Simons",
-                    "track_uri": "spotify:track:5Yp8d1wlkpup010VvKFEP2",
-                    "track_name": "Catch & Release - Deepend Remix Extended Version"
-                },
-                {
-                    "artist_name": "Paxel",
-                    "track_uri": "spotify:track:5yh3Ayfpot2i3us46og7lg",
-                    "track_name": "Kingal"
-                },
-                {
-                    "artist_name": "Igor Blaska",
-                    "track_uri": "spotify:track:3xrwYReX4sNurxrpkIejir",
-                    "track_name": "Could You Be Loved - Radio Remix"
-                },
-                {
-                    "artist_name": "Y.V.E. 48",
-                    "track_uri": "spotify:track:5TOizU9bA85OrqSFGwJ9UK",
-                    "track_name": "All You Need - Night Mix"
-                },
-                {
-                    "artist_name": "MOKS",
-                    "track_uri": "spotify:track:37PtW9bccg3KULj4nWAjEY",
-                    "track_name": "Otherwise"
-                },
-                {
-                    "artist_name": "Simioli",
-                    "track_uri": "spotify:track:00iqlnVIIOoCEN3u52wLip",
-                    "track_name": "Ain't No Sunshine - Deep Chills Remix"
-                },
-                {
-                    "artist_name": "Sia",
-                    "track_uri": "spotify:track:6dWrvmUw835xslfJoAVpSB",
-                    "track_name": "Chandelier - Hector Fonseca Remix"
-                },
-                {
-                    "artist_name": "Piero",
-                    "track_uri": "spotify:track:5ZGegPLHwVIuGiZB2kjerB",
-                    "track_name": "When We Were Young (feat. ALIUS)"
-                },
-                {
-                    "artist_name": "Cheat Codes",
-                    "track_uri": "spotify:track:05MGzkCp90WjBzEbdWkbed",
-                    "track_name": "Visions - Boehm Remix"
-                },
-                {
-                    "artist_name": "Grits",
-                    "track_uri": "spotify:track:7eAJQQSVv6xsPZyhAUZSfm",
-                    "track_name": "New Life - Feat. Annie Williams"
-                },
-                {
-                    "artist_name": "Jess Glynne",
-                    "track_uri": "spotify:track:1IrW9ut32LRjjBhyXZFc15",
-                    "track_name": "Don't Be So Hard On Yourself - KREAM Remix"
-                },
-                {
-                    "artist_name": "Changed Habits",
-                    "track_uri": "spotify:track:6cEKpF9AJXUvUqB7I04dLE",
-                    "track_name": "Memory"
-                },
-                {
-                    "artist_name": "Bolier & Redondo",
-                    "track_uri": "spotify:track:06P1nOOKitFbJRBTm9Keec",
-                    "track_name": "Lost & Found"
-                },
-                {
-                    "artist_name": "Jonas Blue",
-                    "track_uri": "spotify:track:6OZh916QF8XNunWaP97WEZ",
-                    "track_name": "Fast Car"
-                },
-                {
-                    "artist_name": "Klangkarussell",
-                    "track_uri": "spotify:track:6n0OQD5aGspHuwFPJ2ePGC",
-                    "track_name": "Sun Don't Shine"
-                },
-                {
-                    "artist_name": "Oliver Nelson",
-                    "track_uri": "spotify:track:0gyU02DxJH6RQsyZlCckey",
-                    "track_name": "Found Your Love"
-                },
-                {
-                    "artist_name": "Eklo",
-                    "track_uri": "spotify:track:4SwL4ZshYgrZG0luM7aoot",
-                    "track_name": "Feel So High (feat. JordinLaine) (Pegato Remix)"
-                },
-                {
-                    "artist_name": "Seizo",
-                    "track_uri": "spotify:track:6LItoaBQSFuQ6sVBdgzvta",
-                    "track_name": "Oh Baby - Radio Edit"
-                },
-                {
-                    "artist_name": "Lost Frequencies",
-                    "track_uri": "spotify:track:6ryur0RAbYABdwpWplc59K",
-                    "track_name": "Are You with Me - Dash Berlin Radio Edit"
-                },
-                {
-                    "artist_name": "Quinn XCII",
-                    "track_uri": "spotify:track:5fD0rnsQbidMHrYuM7xxyK",
-                    "track_name": "Light On"
-                },
-                {
-                    "artist_name": "Nature",
-                    "track_uri": "spotify:track:7zdvLdtInW9adnWGfLJbPe",
-                    "track_name": "Love You - Le P Remix"
-                },
-                {
-                    "artist_name": "William Joseph",
-                    "track_uri": "spotify:track:3JvdZv9dxIHZlHu0eCKajZ",
-                    "track_name": "Safe & Sound"
-                },
-                {
-                    "artist_name": "Alyx Ander",
-                    "track_uri": "spotify:track:2ihnCMoibnhbx2VF2by0Z7",
-                    "track_name": "Close Enough (feat. Maria Z.)"
-                },
-                {
-                    "artist_name": "Avicii",
-                    "track_uri": "spotify:track:0tmFHk3YWZcST0SZjViHhY",
-                    "track_name": "Sunset Jesus"
-                },
-                {
-                    "artist_name": "Stone Van Brooken",
-                    "track_uri": "spotify:track:0GG1LSmPwK7rYYH3yzlrHJ",
-                    "track_name": "I Need You (Radio Edit) [feat. N\u00e9ha]"
-                },
-                {
-                    "artist_name": "Bob Marley & The Wailers",
-                    "track_uri": "spotify:track:14CsUVcoKztExH6aSgfrfb",
-                    "track_name": "Is This Love - Montmartre Remix"
-                },
-                {
-                    "artist_name": "Jolyon Petch",
-                    "track_uri": "spotify:track:4cOgYgxQalWKxiPN1bsC9f",
-                    "track_name": "Fast Car - Radio Mix"
-                },
-                {
-                    "artist_name": "Billie Tasker",
-                    "track_uri": "spotify:track:5HxAycRdJmNTqtJqHgEHd5",
-                    "track_name": "Nobody to Love (Workout Mix 140 BPM)"
-                },
-                {
-                    "artist_name": "Mike Mago",
-                    "track_uri": "spotify:track:49NQAQTdYS576PKSsCk1Ah",
-                    "track_name": "Higher"
-                },
-                {
-                    "artist_name": "Yolanda Be Cool",
-                    "track_uri": "spotify:track:0fbVchz3aR1WCiMmwNWFW7",
-                    "track_name": "From Me to You - Radio Edit"
-                },
-                {
-                    "artist_name": "Cedric Gervais",
-                    "track_uri": "spotify:track:7JjvR7V4ZK0kEu2z3ROjXI",
-                    "track_name": "Love Again - Acoustic"
-                },
-                {
-                    "artist_name": "Hozier",
-                    "track_uri": "spotify:track:44f2AVSNQ3xVs1EI0S0bjl",
-                    "track_name": "Like Real People Do"
-                },
-                {
-                    "artist_name": "Jus Jack",
-                    "track_uri": "spotify:track:2hE2ncsiECRFyBMNiPgSUY",
-                    "track_name": "Stargazing - Original Mix"
-                },
-                {
-                    "artist_name": "Kenton Slash Demon",
-                    "track_uri": "spotify:track:4NZ49ou8OhP8AIlmFmmNUu",
-                    "track_name": "Harpe"
-                },
-                {
-                    "artist_name": "Lindsey Stirling",
-                    "track_uri": "spotify:track:0z9UTMWoBnFsXBJSuOGZLf",
-                    "track_name": "Crystallize"
-                },
-                {
-                    "artist_name": "Santa Maradona F.C.",
-                    "track_uri": "spotify:track:59P1iUcBioABZ8iGp1P0o0",
-                    "track_name": "Give Me Sunshine (feat. Lucy Spraggan)"
-                },
-                {
-                    "artist_name": "OMI",
-                    "track_uri": "spotify:track:1VgejoOJoUpSDxOB1wDpyy",
-                    "track_name": "Hula Hoop - Precision Soca Remix"
-                },
-                {
-                    "artist_name": "A R I Z O N A",
-                    "track_uri": "spotify:track:0bRXBPQ4uL0N3aGV8SVIk7",
-                    "track_name": "Let Me Touch Your Fire"
-                },
-                {
-                    "artist_name": "DJ Rebel",
-                    "track_uri": "spotify:track:6EhAeevoPg6bZbONhOLIAo",
-                    "track_name": "You can Call me Al - DJ Rebel's Radio Mix"
-                },
-                {
-                    "artist_name": "Timbaland",
-                    "track_uri": "spotify:track:1Jrn6agPxzgRMh4SKfLz7A",
-                    "track_name": "Morning After Dark (Featuring Nelly Furtado & SoShy)"
-                },
-                {
-                    "artist_name": "Lindsey Stirling",
-                    "track_uri": "spotify:track:0T7C3cu09QkOZUFwJODSgb",
-                    "track_name": "Shadows"
-                },
-                {
-                    "artist_name": "DNCE",
-                    "track_uri": "spotify:track:2aFiaMXmWsM3Vj72F9ksBl",
-                    "track_name": "Cake By The Ocean"
-                },
-                {
-                    "artist_name": "Redondo",
-                    "track_uri": "spotify:track:06BBJ7akpQD72jIVfzYAmA",
-                    "track_name": "Sunday"
-                },
-                {
-                    "artist_name": "Matthew Koma",
-                    "track_uri": "spotify:track:7eoIqhXjSgC1ckaKoBsfCb",
-                    "track_name": "So F**kin' Romantic - The Knocks Remix"
-                }
-            ],
-            "num_edits": 10,
-            "duration_ms": 10985157,
-            "num_artists": 45
-        },
-        {
             "name": "Dance",
-            "pid": 4037,
+            "pid": 3082,
             "num_tracks": 30,
             "num_followers": 39,
             "tracks": [

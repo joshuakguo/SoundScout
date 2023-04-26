@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Alternative music",
-            "pid": 1302,
+            "pid": 984,
             "num_tracks": 55,
             "num_followers": 15,
             "tracks": [
@@ -293,7 +293,7 @@
         },
         {
             "name": "Slim Shady",
-            "pid": 1303,
+            "pid": 985,
             "num_tracks": 43,
             "num_followers": 13,
             "tracks": [
@@ -516,202 +516,6 @@
             "num_edits": 3,
             "duration_ms": 12162627,
             "num_artists": 3
-        },
-        {
-            "name": "2013 ",
-            "pid": 1304,
-            "num_tracks": 37,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "Other Lives",
-                    "track_uri": "spotify:track:4TpkH1yE6hBw4xXfneJpHj",
-                    "track_name": "Dust Bowl III"
-                },
-                {
-                    "artist_name": "alt-J",
-                    "track_uri": "spotify:track:3Kuz6KSGfiNIV9Rphs5hgL",
-                    "track_name": "Hand-Made"
-                },
-                {
-                    "artist_name": "Sharon Van Etten",
-                    "track_uri": "spotify:track:3DD48JX944qwU4xSksKrsf",
-                    "track_name": "We Are Fine"
-                },
-                {
-                    "artist_name": "Jim James",
-                    "track_uri": "spotify:track:58xb3WKjQQ5VOOExQME4eQ",
-                    "track_name": "A New Life"
-                },
-                {
-                    "artist_name": "Two Door Cinema Club",
-                    "track_uri": "spotify:track:52tI5MEuR2a0NhnwWdNd5g",
-                    "track_name": "Someday"
-                },
-                {
-                    "artist_name": "Born Ruffians",
-                    "track_uri": "spotify:track:3HLBjEL3HL1rlnloZSWL9K",
-                    "track_name": "Needle"
-                },
-                {
-                    "artist_name": "Kishi Bashi",
-                    "track_uri": "spotify:track:7BDQBKhg7XNX6WcHPZ1a0J",
-                    "track_name": "Manchester"
-                },
-                {
-                    "artist_name": "Lana Del Rey",
-                    "track_uri": "spotify:track:2nMeu6UenVvwUktBCpLMK9",
-                    "track_name": "Young And Beautiful"
-                },
-                {
-                    "artist_name": "Kill It Kid",
-                    "track_uri": "spotify:track:1fGyzgBaci9CqtB0wv9J82",
-                    "track_name": "Run"
-                },
-                {
-                    "artist_name": "Ivan & Alyosha",
-                    "track_uri": "spotify:track:2pR4KAAJUHlZxw1wkNRGcA",
-                    "track_name": "The Fold"
-                },
-                {
-                    "artist_name": "Kodaline",
-                    "track_uri": "spotify:track:5JuA3wlm0kn7IHfbeHV0i6",
-                    "track_name": "All I Want"
-                },
-                {
-                    "artist_name": "Vampire Weekend",
-                    "track_uri": "spotify:track:7hWop1c3h2leNATTU2jdIh",
-                    "track_name": "Don't Lie"
-                },
-                {
-                    "artist_name": "Vance Joy",
-                    "track_uri": "spotify:track:7yq4Qj7cqayVTp3FF9CWbm",
-                    "track_name": "Riptide"
-                },
-                {
-                    "artist_name": "Delta Rae",
-                    "track_uri": "spotify:track:5i9ob4zvx3a72kPLfheUkh",
-                    "track_name": "If I Loved You"
-                },
-                {
-                    "artist_name": "Bruce Springsteen",
-                    "track_uri": "spotify:track:7HrzErXq3TsKOY1gmdIShB",
-                    "track_name": "The River"
-                },
-                {
-                    "artist_name": "Edward Sharpe & The Magnetic Zeros",
-                    "track_uri": "spotify:track:6XEuXOJgCeCFKBlbfFmpoP",
-                    "track_name": "In The Summer"
-                },
-                {
-                    "artist_name": "The Perishers",
-                    "track_uri": "spotify:track:6RIGAZfcj8WKvfkuvqT2sQ",
-                    "track_name": "8am Departure"
-                },
-                {
-                    "artist_name": "Basement Jaxx",
-                    "track_uri": "spotify:track:19O3CoylRgLmzwx5Tn27Ma",
-                    "track_name": "Feelings Gone"
-                },
-                {
-                    "artist_name": "The Republic Tigers",
-                    "track_uri": "spotify:track:6gdXtZBxNVRAn9rraExIaG",
-                    "track_name": "Buildings & Mountains"
-                },
-                {
-                    "artist_name": "WALK THE MOON",
-                    "track_uri": "spotify:track:5urdl721ncXAFkuIwR9Mj5",
-                    "track_name": "Iscariot"
-                },
-                {
-                    "artist_name": "Arctic Monkeys",
-                    "track_uri": "spotify:track:48q0vSHcJdhK3IiXH8C5WJ",
-                    "track_name": "Why'd You Only Call Me When You're High?"
-                },
-                {
-                    "artist_name": "Mapei",
-                    "track_uri": "spotify:track:11yN6oWrPPJXafJCUkSz2e",
-                    "track_name": "Don\u2019t Wait"
-                },
-                {
-                    "artist_name": "Golden Shoulders",
-                    "track_uri": "spotify:track:2ShuJDejHCsnULbn9IYitk",
-                    "track_name": "I Will Light You On Fire"
-                },
-                {
-                    "artist_name": "Andrew Belle",
-                    "track_uri": "spotify:track:2DHDuADAHoUW6n0z80RLQF",
-                    "track_name": "Pieces"
-                },
-                {
-                    "artist_name": "Old School Freight Train",
-                    "track_uri": "spotify:track:0JTEH5fHU5HAvTqkYSFtjZ",
-                    "track_name": "Heart of Glass"
-                },
-                {
-                    "artist_name": "Django Django",
-                    "track_uri": "spotify:track:1TbT66Q7xinBmflin3MabA",
-                    "track_name": "Life's a Beach"
-                },
-                {
-                    "artist_name": "Joywave",
-                    "track_uri": "spotify:track:2CYhKfcgrxziIkBLs8cPd0",
-                    "track_name": "Tongues (feat. Kopps)"
-                },
-                {
-                    "artist_name": "Telekinesis",
-                    "track_uri": "spotify:track:090lCdk6kfL54WvNNSDpmc",
-                    "track_name": "Ghosts and Creatures"
-                },
-                {
-                    "artist_name": "The Features",
-                    "track_uri": "spotify:track:7pN1T2t8wCVzlykywml01J",
-                    "track_name": "Whatever Gets You By"
-                },
-                {
-                    "artist_name": "Fitz and The Tantrums",
-                    "track_uri": "spotify:track:5sT4upO5j06qrEabn6WGrl",
-                    "track_name": "Breakin\u2019 The Chains of Love"
-                },
-                {
-                    "artist_name": "Radical Face",
-                    "track_uri": "spotify:track:2oA6tAT5u3cc8ND5crtH0k",
-                    "track_name": "Black Eyes"
-                },
-                {
-                    "artist_name": "Lucius",
-                    "track_uri": "spotify:track:6dpPkJIg1nGcvcvFC1aXUR",
-                    "track_name": "Two Of Us On The Run"
-                },
-                {
-                    "artist_name": "Pacific Air",
-                    "track_uri": "spotify:track:3yt2uGIGep27Q3vtwMXM7d",
-                    "track_name": "Float"
-                },
-                {
-                    "artist_name": "Phosphorescent",
-                    "track_uri": "spotify:track:2kD2li0Gfjqh26jYNz6Z6p",
-                    "track_name": "Song For Zula"
-                },
-                {
-                    "artist_name": "The National",
-                    "track_uri": "spotify:track:193ZaXTaD0dPz66pUYS3SQ",
-                    "track_name": "Pink Rabbits"
-                },
-                {
-                    "artist_name": "Santigold",
-                    "track_uri": "spotify:track:6cFNmW8oCIzSYqFXI60BmO",
-                    "track_name": "The Riot's Gone"
-                },
-                {
-                    "artist_name": "Bombay Bicycle Club",
-                    "track_uri": "spotify:track:5NtoPBmhY7WGdpsHmpy9Xh",
-                    "track_name": "Always Like This"
-                }
-            ],
-            "num_edits": 4,
-            "duration_ms": 8737767,
-            "num_artists": 37
         }
     ]
 }

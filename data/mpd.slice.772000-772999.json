@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "God's Not Dead ",
-            "pid": 1572,
+            "pid": 1202,
             "num_tracks": 17,
             "num_followers": 12,
             "tracks": [
@@ -103,7 +103,7 @@
         },
         {
             "name": "Vibes",
-            "pid": 1573,
+            "pid": 1203,
             "num_tracks": 9,
             "num_followers": 34,
             "tracks": [
@@ -159,7 +159,7 @@
         },
         {
             "name": "Sad Country",
-            "pid": 1574,
+            "pid": 1204,
             "num_tracks": 104,
             "num_followers": 68,
             "tracks": [
@@ -691,7 +691,7 @@
         },
         {
             "name": "TURNUP",
-            "pid": 1575,
+            "pid": 1205,
             "num_tracks": 222,
             "num_followers": 12,
             "tracks": [
@@ -1811,114 +1811,8 @@
             "num_artists": 112
         },
         {
-            "name": "mexicana",
-            "pid": 1576,
-            "num_tracks": 19,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-                    "track_uri": "spotify:track:2Hk58JfwDg7qHXeBLphoYQ",
-                    "track_name": "Arrepentida"
-                },
-                {
-                    "artist_name": "Omar Ruiz",
-                    "track_uri": "spotify:track:2OCo2YZ0IoiqNlDHlxHUeB",
-                    "track_name": "El Americano"
-                },
-                {
-                    "artist_name": "Banda El Recodo",
-                    "track_uri": "spotify:track:3YrTZUat5cgeVhrxEZvG1d",
-                    "track_name": "Mi Vicio M\u00e1s Grande"
-                },
-                {
-                    "artist_name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-                    "track_uri": "spotify:track:05vms8fFZ4KG2J6U6cJ59I",
-                    "track_name": "Te Hubieras Ido Antes"
-                },
-                {
-                    "artist_name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-                    "track_uri": "spotify:track:2GQuP8ZrDoi38bwAbsyAtZ",
-                    "track_name": "De Ti Exclusivo"
-                },
-                {
-                    "artist_name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-                    "track_uri": "spotify:track:7mOQEg3i3791j7Fmr5jVqj",
-                    "track_name": "Irreversible"
-                },
-                {
-                    "artist_name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-                    "track_uri": "spotify:track:5JaMGjY9Ltvo9CFQfmUdYW",
-                    "track_name": "Mi Raz\u00f3n De Ser"
-                },
-                {
-                    "artist_name": "Banda Sinaloense MS de Sergio Liz\u00e1rraga",
-                    "track_uri": "spotify:track:2yS8aYWXEWJ1NlZ7VPDroT",
-                    "track_name": "Me Vas a Extra\u00f1ar"
-                },
-                {
-                    "artist_name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-                    "track_uri": "spotify:track:0KHDthR0XvPoeJaqBc7Sg5",
-                    "track_name": "Ya Te Perd\u00ed La Fe"
-                },
-                {
-                    "artist_name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-                    "track_uri": "spotify:track:2iGhNWJq8YO6k6Y9WMgSAF",
-                    "track_name": "Y Yo Qu\u00e9 Gano"
-                },
-                {
-                    "artist_name": "Javier Rosas Y Su Artiller\u00eda Pesada",
-                    "track_uri": "spotify:track:2wzBBN4okgN6lZ6OSkBB1L",
-                    "track_name": "En La Sierra Y En La Ciudad \"La China\""
-                },
-                {
-                    "artist_name": "Alfredo Olivas",
-                    "track_uri": "spotify:track:0bXO2vrEE0eDj09u6cLfca",
-                    "track_name": "Con La Novedad"
-                },
-                {
-                    "artist_name": "Los Nuevos Rebeldes",
-                    "track_uri": "spotify:track:7o1ZrVgVvgPCx7CoC95GRK",
-                    "track_name": "Soldado Imperial"
-                },
-                {
-                    "artist_name": "Los Nuevos Rebeldes",
-                    "track_uri": "spotify:track:3TROv7e7JEwRYbvoRQeQLa",
-                    "track_name": "EL Numero 30"
-                },
-                {
-                    "artist_name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-                    "track_uri": "spotify:track:1GMKqL4aLxHA7lRoIcTWtS",
-                    "track_name": "Te Dejo Libre"
-                },
-                {
-                    "artist_name": "Banda El Recodo",
-                    "track_uri": "spotify:track:2ptXIOqjZLkmLhblz4Q9fH",
-                    "track_name": "Inevitable"
-                },
-                {
-                    "artist_name": "Regulo Caro",
-                    "track_uri": "spotify:track:4doAczw4VqEa9qJu1M8Ou5",
-                    "track_name": "Empujando la L\u00ednea"
-                },
-                {
-                    "artist_name": "Grupo Efectivo",
-                    "track_uri": "spotify:track:4DfTX8kBMKF2mPZrGtkbBz",
-                    "track_name": "Rafa Caro"
-                },
-                {
-                    "artist_name": "Christian Nodal",
-                    "track_uri": "spotify:track:63bmZnBN1CiJ9sA4qTEe8y",
-                    "track_name": "Adi\u00f3s Amor"
-                }
-            ],
-            "num_edits": 19,
-            "duration_ms": 3703863,
-            "num_artists": 11
-        },
-        {
             "name": "Airplane Mode",
-            "pid": 1577,
+            "pid": 1206,
             "num_tracks": 126,
             "num_followers": 1251,
             "tracks": [
@@ -2560,7 +2454,7 @@
         },
         {
             "name": "vibin'",
-            "pid": 1578,
+            "pid": 1207,
             "num_tracks": 68,
             "num_followers": 21,
             "tracks": [
@@ -2911,7 +2805,7 @@
         },
         {
             "name": "PROM",
-            "pid": 1579,
+            "pid": 1208,
             "num_tracks": 99,
             "num_followers": 12,
             "tracks": [

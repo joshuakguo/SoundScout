@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Vibes",
-            "pid": 3667,
+            "pid": 2813,
             "num_tracks": 10,
             "num_followers": 64,
             "tracks": [
@@ -67,429 +67,8 @@
             "num_artists": 10
         },
         {
-            "name": "Coffee",
-            "pid": 3668,
-            "num_tracks": 82,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Sylvan Esso",
-                    "track_uri": "spotify:track:1FejelrM94Ik1mlI64Ofpb",
-                    "track_name": "Coffee"
-                },
-                {
-                    "artist_name": "Flume",
-                    "track_uri": "spotify:track:2mk87j3RWPdzy0rWIoUP1o",
-                    "track_name": "Drop the Game"
-                },
-                {
-                    "artist_name": "Flume",
-                    "track_uri": "spotify:track:1Vp2WQSL4vCsvvEcoC3pJ9",
-                    "track_name": "What About Us"
-                },
-                {
-                    "artist_name": "ZHU",
-                    "track_uri": "spotify:track:4oAcO5355v4Tz9nEWj8OHJ",
-                    "track_name": "Faded - Amtrac Remix"
-                },
-                {
-                    "artist_name": "RAC",
-                    "track_uri": "spotify:track:4MatjVmXUxuBf7WeInnRBG",
-                    "track_name": "Cheap Sunglasses"
-                },
-                {
-                    "artist_name": "Hermitude",
-                    "track_uri": "spotify:track:0QAjwIEt6FVTbfASxmNolZ",
-                    "track_name": "HyperParadise - Flume Remix (Ganz Flip)"
-                },
-                {
-                    "artist_name": "ODESZA",
-                    "track_uri": "spotify:track:4auZhbHhgbiSMeh0kiHCRk",
-                    "track_name": "Say My Name"
-                },
-                {
-                    "artist_name": "ODESZA",
-                    "track_uri": "spotify:track:52iURkrkvWkdhHVgIKe9Ql",
-                    "track_name": "Without You (1990 Remix)"
-                },
-                {
-                    "artist_name": "ODESZA",
-                    "track_uri": "spotify:track:7avUYFehb1GscgCncPdBDK",
-                    "track_name": "Sun Models"
-                },
-                {
-                    "artist_name": "Pretty Lights",
-                    "track_uri": "spotify:track:3WS7spXVlbeC5kjePmHMQW",
-                    "track_name": "Finally Moving"
-                },
-                {
-                    "artist_name": "Kid Cudi",
-                    "track_uri": "spotify:track:76EkWHTJhklKBNBSeHW0Qw",
-                    "track_name": "Embrace The Martian"
-                },
-                {
-                    "artist_name": "Zion I",
-                    "track_uri": "spotify:track:2FhN2KhUvT91Q3Er4v9Qpd",
-                    "track_name": "Coastin'"
-                },
-                {
-                    "artist_name": "Zion I",
-                    "track_uri": "spotify:track:1orIfeEBuQvNedZdvT52cE",
-                    "track_name": "Human Being (BassNectar Edit Mix) - BassNectar Edit"
-                },
-                {
-                    "artist_name": "PANTyRAiD",
-                    "track_uri": "spotify:track:1VpqFON7eeE13IbSbRJ8Ic",
-                    "track_name": "Get The Money"
-                },
-                {
-                    "artist_name": "Zeds Dead",
-                    "track_uri": "spotify:track:2nz6tKHsV0GJhwaXIOvYz5",
-                    "track_name": "Rude Boy"
-                },
-                {
-                    "artist_name": "Flux Pavilion",
-                    "track_uri": "spotify:track:2BTPW7osibjN9gFDRY4mYN",
-                    "track_name": "Do Or Die (feat. Childish Gambino)"
-                },
-                {
-                    "artist_name": "B\u00d8RNS",
-                    "track_uri": "spotify:track:2GiJYvgVaD2HtM8GqD9EgQ",
-                    "track_name": "Electric Love"
-                },
-                {
-                    "artist_name": "Banks",
-                    "track_uri": "spotify:track:4PvD06Pmbm2rHG2JjSlElF",
-                    "track_name": "Beggin For Thread"
-                },
-                {
-                    "artist_name": "M.I.A.",
-                    "track_uri": "spotify:track:1kusepF3AacIEtUTYrw4GV",
-                    "track_name": "Paper Planes"
-                },
-                {
-                    "artist_name": "CHVRCHES",
-                    "track_uri": "spotify:track:3PvzvltQZLIKk9YgoMP3Yq",
-                    "track_name": "The Mother We Share"
-                },
-                {
-                    "artist_name": "Ellie Goulding",
-                    "track_uri": "spotify:track:0xMd5bcWTbyXS7wPrBtZA6",
-                    "track_name": "Burn"
-                },
-                {
-                    "artist_name": "The Neighbourhood",
-                    "track_uri": "spotify:track:2QjOHCTQ1Jl3zawyYOpxh6",
-                    "track_name": "Sweater Weather"
-                },
-                {
-                    "artist_name": "The xx",
-                    "track_uri": "spotify:track:0bXpmJyHHYPk6QBFj25bYF",
-                    "track_name": "Intro"
-                },
-                {
-                    "artist_name": "alt-J",
-                    "track_uri": "spotify:track:0iIY7S7uiEYC9TvVaWZHV3",
-                    "track_name": "Left Hand Free - Lido Remix"
-                },
-                {
-                    "artist_name": "M83",
-                    "track_uri": "spotify:track:1eyzqe2QqGZUmfcPZtrIyt",
-                    "track_name": "Midnight City"
-                },
-                {
-                    "artist_name": "M83",
-                    "track_uri": "spotify:track:44jJCNW8frQLEWpYuAQz47",
-                    "track_name": "We Own The Sky"
-                },
-                {
-                    "artist_name": "Broods",
-                    "track_uri": "spotify:track:1IcEofBOoS01ouUsqdn8ke",
-                    "track_name": "Four Walls"
-                },
-                {
-                    "artist_name": "Mr Little Jeans",
-                    "track_uri": "spotify:track:5iKoarDSV0EA1JN10Bljr5",
-                    "track_name": "The Suburbs"
-                },
-                {
-                    "artist_name": "Angus & Julia Stone",
-                    "track_uri": "spotify:track:2fbXJ0VpxhW7j0qcg1DnoZ",
-                    "track_name": "Big Jet Plane"
-                },
-                {
-                    "artist_name": "ODESZA",
-                    "track_uri": "spotify:track:4lCUTC1Saufwz7RlDN2ldu",
-                    "track_name": "Bloom - Lane 8 Remix"
-                },
-                {
-                    "artist_name": "Hippie Sabotage",
-                    "track_uri": "spotify:track:5iyFrZpv5f4oWQCWMKfj52",
-                    "track_name": "Ridin Solo - Njomza Remix"
-                },
-                {
-                    "artist_name": "Chet Faker",
-                    "track_uri": "spotify:track:2xD7RvKFJl52xyds3wQFXQ",
-                    "track_name": "No Diggity"
-                },
-                {
-                    "artist_name": "SBTRKT",
-                    "track_uri": "spotify:track:2WMRd3xAb9FwXopCRNWDq1",
-                    "track_name": "Wildfire"
-                },
-                {
-                    "artist_name": "Saskwatch",
-                    "track_uri": "spotify:track:0nv9u6HyeADOq1cnINz07D",
-                    "track_name": "Don\u2019t Wanna Try"
-                },
-                {
-                    "artist_name": "ASTR",
-                    "track_uri": "spotify:track:3XvIkeomrbYnwIzLUFiYHG",
-                    "track_name": "Operate"
-                },
-                {
-                    "artist_name": "ASTR",
-                    "track_uri": "spotify:track:7AxmT6cBkyLwEnb1IJWtUr",
-                    "track_name": "Operate - The Chainsmokers Remix"
-                },
-                {
-                    "artist_name": "Tove Lo",
-                    "track_uri": "spotify:track:62N2JSA0jHmSH7Va9t7hIf",
-                    "track_name": "Habits (Stay High) - Hippie Sabotage Remix"
-                },
-                {
-                    "artist_name": "Blue Foundation",
-                    "track_uri": "spotify:track:3Oiauiojgokw9vWQvFmEoI",
-                    "track_name": "Eyes On Fire - Zeds Dead Remix"
-                },
-                {
-                    "artist_name": "Tourist",
-                    "track_uri": "spotify:track:0RPD1Q6xm10R4VQI0lzb4n",
-                    "track_name": "Wait"
-                },
-                {
-                    "artist_name": "Phoebe Ryan",
-                    "track_uri": "spotify:track:4qZPdHRnZ7jwqg4peT2n9A",
-                    "track_name": "Ignition / Do You... (Mashup)"
-                },
-                {
-                    "artist_name": "Emika",
-                    "track_uri": "spotify:track:3YpfQPv91UnjOE5ghiM9xL",
-                    "track_name": "Wicked Game"
-                },
-                {
-                    "artist_name": "The Japanese House",
-                    "track_uri": "spotify:track:3vJJlApCOjUD0NBxrMuOJp",
-                    "track_name": "Teeth"
-                },
-                {
-                    "artist_name": "Yuna",
-                    "track_uri": "spotify:track:48Egr6zPIlUDMflxQzg4uM",
-                    "track_name": "Come As You Are"
-                },
-                {
-                    "artist_name": "Chet Faker",
-                    "track_uri": "spotify:track:2xD7RvKFJl52xyds3wQFXQ",
-                    "track_name": "No Diggity"
-                },
-                {
-                    "artist_name": "Echosmith",
-                    "track_uri": "spotify:track:13P5rwmk2EsoFRIz9UCeh9",
-                    "track_name": "Cool Kids"
-                },
-                {
-                    "artist_name": "Empire of the Sun",
-                    "track_uri": "spotify:track:3iVAyrTlbWGBq0laeQ18z2",
-                    "track_name": "Walking On A Dream"
-                },
-                {
-                    "artist_name": "alt-J",
-                    "track_uri": "spotify:track:6obHItHLe5WlhFoTalxsoY",
-                    "track_name": "Every Other Freckle - Take a Daytrip Remix"
-                },
-                {
-                    "artist_name": "Nouela",
-                    "track_uri": "spotify:track:3MoJoDStgGIfFEGkRzUSEB",
-                    "track_name": "Black Hole Sun"
-                },
-                {
-                    "artist_name": "HOLYCHILD",
-                    "track_uri": "spotify:track:52uUYGcE3S36l9t7ZhBwA6",
-                    "track_name": "Money All Around"
-                },
-                {
-                    "artist_name": "Panama",
-                    "track_uri": "spotify:track:1V3VXj5R2Mt5U4F9hz3wda",
-                    "track_name": "Always - Wave Racer Remix"
-                },
-                {
-                    "artist_name": "G-Eazy",
-                    "track_uri": "spotify:track:3b4ROKBiJIFxqzMrP16d2Z",
-                    "track_name": "Let's Get Lost - Louis Futon Remix"
-                },
-                {
-                    "artist_name": "Bassnectar",
-                    "track_uri": "spotify:track:7BedC2HyWO3PxgzxTpToqN",
-                    "track_name": "Lost In The Crowd (LOCOJA Remix)"
-                },
-                {
-                    "artist_name": "What So Not",
-                    "track_uri": "spotify:track:6zpCJDhdpHPZCcFCJZDqX5",
-                    "track_name": "High You Are"
-                },
-                {
-                    "artist_name": "Black Coast",
-                    "track_uri": "spotify:track:5LZQ5s0kRZS9nBSd1xLK7U",
-                    "track_name": "Trndsttr (feat. M. Maggie) - Lucian Remix"
-                },
-                {
-                    "artist_name": "Autograf",
-                    "track_uri": "spotify:track:0NOdq988ycHecq3K9KiwZe",
-                    "track_name": "Metaphysical - Kilter Remix"
-                },
-                {
-                    "artist_name": "filous",
-                    "track_uri": "spotify:track:0z4KfCF8vlPXpORBSWui8l",
-                    "track_name": "Shaded In - PALASTIC Remix"
-                },
-                {
-                    "artist_name": "filous",
-                    "track_uri": "spotify:track:64e9nWBepKbGusoPu8AmIr",
-                    "track_name": "Shaded In - Common Tiger Remix"
-                },
-                {
-                    "artist_name": "Marian Hill",
-                    "track_uri": "spotify:track:2dqLk7ezV15LEJEwUmEbXB",
-                    "track_name": "Down"
-                },
-                {
-                    "artist_name": "Kito & Reija Lee",
-                    "track_uri": "spotify:track:5antpYCYHhmqud6nMbnQdl",
-                    "track_name": "Sweet Talk"
-                },
-                {
-                    "artist_name": "Marian Hill",
-                    "track_uri": "spotify:track:2MHdIP9qDvpHDsJfIXp0j6",
-                    "track_name": "Lips"
-                },
-                {
-                    "artist_name": "NAO",
-                    "track_uri": "spotify:track:4LasgvllN0I6swXxeTHfyE",
-                    "track_name": "So Good"
-                },
-                {
-                    "artist_name": "Marian Hill",
-                    "track_uri": "spotify:track:4P73ZBrXOmsZA6WXsuxUC1",
-                    "track_name": "Got It"
-                },
-                {
-                    "artist_name": "Flume",
-                    "track_uri": "spotify:track:1CRFWfZEfLCs7pYDlXFYMJ",
-                    "track_name": "Holdin On"
-                },
-                {
-                    "artist_name": "Kiiara",
-                    "track_uri": "spotify:track:6WhzFzROw3aq3rPWjgYlxr",
-                    "track_name": "Gold"
-                },
-                {
-                    "artist_name": "Big Grams",
-                    "track_uri": "spotify:track:1qyRvPjbQZbPPwVGtApQ7P",
-                    "track_name": "Fell In the Sun"
-                },
-                {
-                    "artist_name": "Big Grams",
-                    "track_uri": "spotify:track:55aG1vDiWxN13CUSK5GS5Y",
-                    "track_name": "Drum Machine"
-                },
-                {
-                    "artist_name": "Big Grams",
-                    "track_uri": "spotify:track:5IgQ5tC54J5VxnzWckP04K",
-                    "track_name": "Goldmine Junkie"
-                },
-                {
-                    "artist_name": "Big Grams",
-                    "track_uri": "spotify:track:61BKqXDq8TOrUv1SFAJ7Ca",
-                    "track_name": "Lights On"
-                },
-                {
-                    "artist_name": "K.Flay",
-                    "track_uri": "spotify:track:5ZUFFZZ7qaKtgSbYfHom5f",
-                    "track_name": "Can't Sleep"
-                },
-                {
-                    "artist_name": "Broods",
-                    "track_uri": "spotify:track:4hFksmpwtT4bx5btyRT5ek",
-                    "track_name": "Heartlines"
-                },
-                {
-                    "artist_name": "K.Flay",
-                    "track_uri": "spotify:track:4q604hQba5940BbOoaenmz",
-                    "track_name": "Blood In The Cut"
-                },
-                {
-                    "artist_name": "K.Flay",
-                    "track_uri": "spotify:track:6kbCH9kQoNzaEt1R1rizpR",
-                    "track_name": "FML"
-                },
-                {
-                    "artist_name": "K.Flay",
-                    "track_uri": "spotify:track:4KAhc69yQjKk9cZUMxZ3n9",
-                    "track_name": "Make Me Fade"
-                },
-                {
-                    "artist_name": "Jack Novak",
-                    "track_uri": "spotify:track:73gGZaAsiYnV0W8jPazlCj",
-                    "track_name": "If It Kills Me (feat. Blackbear) (DM Galaxy Remix)"
-                },
-                {
-                    "artist_name": "MisterWives",
-                    "track_uri": "spotify:track:2PtBhfoPZ6VYtXkrE5FrCH",
-                    "track_name": "Reflections"
-                },
-                {
-                    "artist_name": "Flume",
-                    "track_uri": "spotify:track:458gevlvVGu3MHNwiXmh3f",
-                    "track_name": "Sleepless"
-                },
-                {
-                    "artist_name": "Flume",
-                    "track_uri": "spotify:track:23HOQuzL3VRldIjifjo0nY",
-                    "track_name": "Enough"
-                },
-                {
-                    "artist_name": "Flume",
-                    "track_uri": "spotify:track:3sBfXJVKKUWyKqEUsrYiNO",
-                    "track_name": "Say It - Illenium Remix"
-                },
-                {
-                    "artist_name": "Snakehips",
-                    "track_uri": "spotify:track:0Zx8khUcEfCFK2AEoIhC92",
-                    "track_name": "Don't Leave"
-                },
-                {
-                    "artist_name": "Flume",
-                    "track_uri": "spotify:track:4eC0UAMztwMLXAU4MV1mUF",
-                    "track_name": "My Boo (feat. Vince Staples, Ku\u010dka, Ngaiire & Vera Blue) [Triple J Like A Version]"
-                },
-                {
-                    "artist_name": "ZHU",
-                    "track_uri": "spotify:track:5oiCAaTXWuvRRKJwOfHev1",
-                    "track_name": "Working For It - Nomero Remix"
-                },
-                {
-                    "artist_name": "M-Phazes",
-                    "track_uri": "spotify:track:5yRDS8rO2nWrNxcVcsCPl4",
-                    "track_name": "Messiah"
-                }
-            ],
-            "num_edits": 38,
-            "duration_ms": 19000271,
-            "num_artists": 57
-        },
-        {
             "name": "CHRISTMAS TIME!!",
-            "pid": 3669,
+            "pid": 2814,
             "num_tracks": 248,
             "num_followers": 13,
             "tracks": [
@@ -1740,7 +1319,7 @@
         },
         {
             "name": "Work Out",
-            "pid": 3670,
+            "pid": 2815,
             "num_tracks": 181,
             "num_followers": 16,
             "tracks": [
@@ -2656,7 +2235,7 @@
         },
         {
             "name": "For You",
-            "pid": 3671,
+            "pid": 2816,
             "num_tracks": 77,
             "num_followers": 13,
             "tracks": [
@@ -3052,7 +2631,7 @@
         },
         {
             "name": "Coming down",
-            "pid": 3672,
+            "pid": 2817,
             "num_tracks": 81,
             "num_followers": 14,
             "tracks": [
@@ -3468,7 +3047,7 @@
         },
         {
             "name": "indie love",
-            "pid": 3673,
+            "pid": 2818,
             "num_tracks": 20,
             "num_followers": 576,
             "tracks": [
@@ -3579,7 +3158,7 @@
         },
         {
             "name": "90s",
-            "pid": 3674,
+            "pid": 2819,
             "num_tracks": 116,
             "num_followers": 15,
             "tracks": [

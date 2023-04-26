@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Day Drink",
-            "pid": 18,
+            "pid": 14,
             "num_tracks": 62,
             "num_followers": 54,
             "tracks": [
@@ -328,7 +328,7 @@
         },
         {
             "name": "JAZZ",
-            "pid": 19,
+            "pid": 15,
             "num_tracks": 96,
             "num_followers": 105,
             "tracks": [
@@ -818,214 +818,8 @@
             "num_artists": 77
         },
         {
-            "name": "Wedding Morning",
-            "pid": 20,
-            "num_tracks": 39,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "The Chordettes",
-                    "track_uri": "spotify:track:6ZN8mrrxaZWwYI0Z4xt5W2",
-                    "track_name": "Chapel of Love"
-                },
-                {
-                    "artist_name": "Frank Sinatra",
-                    "track_uri": "spotify:track:7eiG2sE8Yz0imfSoXzGEFx",
-                    "track_name": "Love And Marriage"
-                },
-                {
-                    "artist_name": "James Taylor",
-                    "track_uri": "spotify:track:2RwFdFIN9JAyVUzevwkzez",
-                    "track_name": "How Sweet It Is [To Be Loved By You]"
-                },
-                {
-                    "artist_name": "Ani DiFranco",
-                    "track_uri": "spotify:track:2fVRxEOnmJTrVbV4HlxfDu",
-                    "track_name": "Wishin' and Hopin'"
-                },
-                {
-                    "artist_name": "The Exciters",
-                    "track_uri": "spotify:track:7rGOWzo4evAQQ2FzrSKp0B",
-                    "track_name": "Tell Him"
-                },
-                {
-                    "artist_name": "James Taylor",
-                    "track_uri": "spotify:track:69l8nFPu0LWmnoJX7YSVYc",
-                    "track_name": "You've Got A Friend"
-                },
-                {
-                    "artist_name": "Aretha Franklin",
-                    "track_uri": "spotify:track:7s25THrKz86DM225dOYwnr",
-                    "track_name": "Respect"
-                },
-                {
-                    "artist_name": "Darlene Love",
-                    "track_uri": "spotify:track:2Px4PrbPBMeWB1silbjI5H",
-                    "track_name": "(Today I Met) The Boy I'm Gonna Marry"
-                },
-                {
-                    "artist_name": "Natalie Cole",
-                    "track_uri": "spotify:track:0PDCewmZCp0P5s00bptcdd",
-                    "track_name": "This Will Be (An Everlasting Love)"
-                },
-                {
-                    "artist_name": "The Wedding Singer",
-                    "track_uri": "spotify:track:1cOMucKvdFXu7wRce4oocK",
-                    "track_name": "Girls Just Want To Have Fun (Made Famous by Cindy Lauper)"
-                },
-                {
-                    "artist_name": "Aretha Franklin",
-                    "track_uri": "spotify:track:3NfxSdJnVdon1axzloJgba",
-                    "track_name": "I Say a Little Prayer"
-                },
-                {
-                    "artist_name": "Etta James",
-                    "track_uri": "spotify:track:1WhtxWwY7ra5rLrlHWWJaI",
-                    "track_name": "Something's Got A Hold On Me - Single Version"
-                },
-                {
-                    "artist_name": "Peggy Lee",
-                    "track_uri": "spotify:track:7vYytTBYdZNF3TYms7AeFM",
-                    "track_name": "L-O-V-E"
-                },
-                {
-                    "artist_name": "Doris Day",
-                    "track_uri": "spotify:track:1XQdwgnUoHTdeAjEIYONKq",
-                    "track_name": "Whatever Will Be, Will Be (Que Sera, Sera) - Single Version"
-                },
-                {
-                    "artist_name": "Amy Winehouse",
-                    "track_uri": "spotify:track:7yFkYur7IoDxMioyCMjsiz",
-                    "track_name": "Me & Mr Jones"
-                },
-                {
-                    "artist_name": "Macy Gray",
-                    "track_uri": "spotify:track:2dsSs1jUTcKvmXRWkoucTp",
-                    "track_name": "You Are The Sunshine Of My Life"
-                },
-                {
-                    "artist_name": "Ms. Lauryn Hill",
-                    "track_uri": "spotify:track:1VdKRU5fVwDVJTNv13Lddk",
-                    "track_name": "Can't Take My Eyes Off of You"
-                },
-                {
-                    "artist_name": "Michael Franti & Spearhead",
-                    "track_uri": "spotify:track:0nnxf8p851ZR49KFnGWVsB",
-                    "track_name": "Say Hey (I Love You)"
-                },
-                {
-                    "artist_name": "the bird and the bee",
-                    "track_uri": "spotify:track:6qrHnS0f1raPfbWUyZIz1b",
-                    "track_name": "I'm Into Something Good"
-                },
-                {
-                    "artist_name": "Amy Winehouse",
-                    "track_uri": "spotify:track:5kG1ARHk8dli0bKiMN2oE6",
-                    "track_name": "Cupid - Deluxe Edition Version"
-                },
-                {
-                    "artist_name": "Sausalito Foxtrot",
-                    "track_uri": "spotify:track:16R7ShysOBEvSV80l4MTqd",
-                    "track_name": "Everyday"
-                },
-                {
-                    "artist_name": "Jools Holland",
-                    "track_uri": "spotify:track:1K2mskoYmN2Z05e6colFcr",
-                    "track_name": "I'm In The Mood For Love"
-                },
-                {
-                    "artist_name": "The String Cheese Incident",
-                    "track_uri": "spotify:track:0xSaFRZ1pPA3z6GdQHoLYG",
-                    "track_name": "One Step Closer"
-                },
-                {
-                    "artist_name": "Keller Williams",
-                    "track_uri": "spotify:track:2TjzeWQI8tufyao0UDArJP",
-                    "track_name": "Breathe"
-                },
-                {
-                    "artist_name": "Natasha Bedingfield",
-                    "track_uri": "spotify:track:7hhAwcMTdCHxuYkCHCfzw7",
-                    "track_name": "Unwritten"
-                },
-                {
-                    "artist_name": "The Monkees",
-                    "track_uri": "spotify:track:3G7tRC24Uh09Hmp1KZ7LQ2",
-                    "track_name": "I'm a Believer"
-                },
-                {
-                    "artist_name": "Barry White",
-                    "track_uri": "spotify:track:1RG0HipdMCcaW9xJjyKiUb",
-                    "track_name": "Can't Get Enough Of Your Love, Babe"
-                },
-                {
-                    "artist_name": "The Temptations",
-                    "track_uri": "spotify:track:3496rr5XSGD6n1Z1OKXovb",
-                    "track_name": "The Way You Do The Things You Do"
-                },
-                {
-                    "artist_name": "Discosound",
-                    "track_uri": "spotify:track:5ZuqyzSquo90VTHb7U6XOs",
-                    "track_name": "Baby Love"
-                },
-                {
-                    "artist_name": "Elvis Presley",
-                    "track_uri": "spotify:track:64Ny7djQ6rNJspquof2KoX",
-                    "track_name": "Hound Dog"
-                },
-                {
-                    "artist_name": "Elvis Presley",
-                    "track_uri": "spotify:track:5ueyLj6e6oVaTY0KQ6yLaA",
-                    "track_name": "All Shook Up"
-                },
-                {
-                    "artist_name": "Lesley Gore",
-                    "track_uri": "spotify:track:6iqXxLX80xb2EAAzVNqewU",
-                    "track_name": "Sunshine, Lollipops And Rainbows"
-                },
-                {
-                    "artist_name": "Stevie Wonder",
-                    "track_uri": "spotify:track:3M5eeHXgG4VplKNcsBC8Dj",
-                    "track_name": "Signed, Sealed, Delivered (I'm Yours)"
-                },
-                {
-                    "artist_name": "Katrina & The Waves",
-                    "track_uri": "spotify:track:05wIrZSwuaVWhcv5FfqeH0",
-                    "track_name": "Walking On Sunshine"
-                },
-                {
-                    "artist_name": "James Brown & The Famous Flames",
-                    "track_uri": "spotify:track:0rTkE0FmT4zT2xL6GXwosU",
-                    "track_name": "I Got You (I Feel Good)"
-                },
-                {
-                    "artist_name": "Natalie Cole",
-                    "track_uri": "spotify:track:0PDCewmZCp0P5s00bptcdd",
-                    "track_name": "This Will Be (An Everlasting Love)"
-                },
-                {
-                    "artist_name": "Ray Charles",
-                    "track_uri": "spotify:track:2xar08Fq5xra2KKZs5Bw9j",
-                    "track_name": "I've Got A Woman"
-                },
-                {
-                    "artist_name": "Bill Withers",
-                    "track_uri": "spotify:track:0bRXwKfigvpKZUurwqAlEh",
-                    "track_name": "Lovely Day"
-                },
-                {
-                    "artist_name": "The Spencer Davis Group",
-                    "track_uri": "spotify:track:3EOZLnmwc7i7VFAtM5uNN4",
-                    "track_name": "Gimme Some Lovin' - Single Mix / U.S Version"
-                }
-            ],
-            "num_edits": 5,
-            "duration_ms": 7066313,
-            "num_artists": 34
-        },
-        {
             "name": "BEST OF 2013",
-            "pid": 21,
+            "pid": 16,
             "num_tracks": 127,
             "num_followers": 12,
             "tracks": [
@@ -1671,7 +1465,7 @@
         },
         {
             "name": "RANCHERAS",
-            "pid": 22,
+            "pid": 17,
             "num_tracks": 32,
             "num_followers": 21,
             "tracks": [
@@ -1842,7 +1636,7 @@
         },
         {
             "name": "ACL 2014",
-            "pid": 23,
+            "pid": 18,
             "num_tracks": 65,
             "num_followers": 13,
             "tracks": [
@@ -2178,7 +1972,7 @@
         },
         {
             "name": "class",
-            "pid": 24,
+            "pid": 19,
             "num_tracks": 24,
             "num_followers": 27,
             "tracks": [
@@ -2309,7 +2103,7 @@
         },
         {
             "name": "Country",
-            "pid": 25,
+            "pid": 20,
             "num_tracks": 115,
             "num_followers": 13,
             "tracks": [
@@ -2895,7 +2689,7 @@
         },
         {
             "name": "love songs",
-            "pid": 26,
+            "pid": 21,
             "num_tracks": 54,
             "num_followers": 43,
             "tracks": [

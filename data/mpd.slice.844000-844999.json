@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "Rom\u00e1ntica  ",
-            "pid": 629,
+            "pid": 473,
             "num_tracks": 57,
             "num_followers": 18,
             "tracks": [
@@ -303,7 +303,7 @@
         },
         {
             "name": "Spring Mix",
-            "pid": 630,
+            "pid": 474,
             "num_tracks": 90,
             "num_followers": 19,
             "tracks": [
@@ -764,7 +764,7 @@
         },
         {
             "name": "Rides",
-            "pid": 631,
+            "pid": 475,
             "num_tracks": 66,
             "num_followers": 27,
             "tracks": [
@@ -1105,7 +1105,7 @@
         },
         {
             "name": "2016",
-            "pid": 632,
+            "pid": 476,
             "num_tracks": 222,
             "num_followers": 14,
             "tracks": [
@@ -2226,7 +2226,7 @@
         },
         {
             "name": "gucci mane",
-            "pid": 633,
+            "pid": 477,
             "num_tracks": 127,
             "num_followers": 38,
             "tracks": [
@@ -2869,117 +2869,6 @@
             "num_edits": 72,
             "duration_ms": 30181169,
             "num_artists": 54
-        },
-        {
-            "name": "salsa",
-            "pid": 634,
-            "num_tracks": 20,
-            "num_followers": 11,
-            "tracks": [
-                {
-                    "artist_name": "Maelo Ruiz",
-                    "track_uri": "spotify:track:2h6WIOkTPvHSAD7vR6lMSS",
-                    "track_name": "Te Va a Doler"
-                },
-                {
-                    "artist_name": "Eddie Santiago",
-                    "track_uri": "spotify:track:7Jk76lCejUHeCHcBwxbR57",
-                    "track_name": "Devorame Otra Vez"
-                },
-                {
-                    "artist_name": "Jerry Rivera",
-                    "track_uri": "spotify:track:1RpCXjlxFGS6LfPOvqSJ7M",
-                    "track_name": "Amores Como el Nuestro"
-                },
-                {
-                    "artist_name": "Oscar D'Le\u00f3n",
-                    "track_uri": "spotify:track:0c2PGO2jIXKujocn5PTIQ2",
-                    "track_name": "Lloraras"
-                },
-                {
-                    "artist_name": "Sonora Carruseles",
-                    "track_uri": "spotify:track:1iPo3AoRC036zbbvkVROZw",
-                    "track_name": "Arranca en Fa"
-                },
-                {
-                    "artist_name": "H\u00e9ctor Lavoe",
-                    "track_uri": "spotify:track:3Hv1DCU3Z0mPJa7UjqD0IG",
-                    "track_name": "Periodico De Ayer"
-                },
-                {
-                    "artist_name": "Willie Col\u00f3n",
-                    "track_uri": "spotify:track:06YYzWTAibpHPEJTl4zVvm",
-                    "track_name": "Talento De Televisi\u00f3n"
-                },
-                {
-                    "artist_name": "Celia Cruz",
-                    "track_uri": "spotify:track:0wrMVjP7zS5fN7piwv5Gxq",
-                    "track_name": "La Vida Es Un Carnaval"
-                },
-                {
-                    "artist_name": "Rey Ruiz",
-                    "track_uri": "spotify:track:64QyipABOzDwoUFqaEnCvU",
-                    "track_name": "Mi Media Mitad"
-                },
-                {
-                    "artist_name": "Rey Ruiz",
-                    "track_uri": "spotify:track:5D8kBL3R3I9YvrXWcmZxel",
-                    "track_name": "Creo en el Amor"
-                },
-                {
-                    "artist_name": "Willie Col\u00f3n",
-                    "track_uri": "spotify:track:6ceFUA4tpIUfkMH7LZbjV4",
-                    "track_name": "El Gran Var\u00f3n"
-                },
-                {
-                    "artist_name": "Willie Col\u00f3n",
-                    "track_uri": "spotify:track:01Zk6jIg97dsGoQhS13wWC",
-                    "track_name": "Todo Tiene Su Final"
-                },
-                {
-                    "artist_name": "Andy Monta\u00f1ez",
-                    "track_uri": "spotify:track:3XDAtCvFfkbCr31SI1MO8N",
-                    "track_name": "Mujer Impura"
-                },
-                {
-                    "artist_name": "ChiChi Peralta",
-                    "track_uri": "spotify:track:7xmp7f74I0rxUOPjVuIOE8",
-                    "track_name": "Procura"
-                },
-                {
-                    "artist_name": "ChiChi Peralta",
-                    "track_uri": "spotify:track:0UcoGDfyRvyd9xr0168ym9",
-                    "track_name": "Amor Narc\u00f3tico"
-                },
-                {
-                    "artist_name": "Elvis Crespo",
-                    "track_uri": "spotify:track:7JIjUx3GsL0upxmNJacmtz",
-                    "track_name": "Suavemente"
-                },
-                {
-                    "artist_name": "Elvis Crespo",
-                    "track_uri": "spotify:track:7gNI9f8NTCU6hLV0pLkTT7",
-                    "track_name": "P\u00edntame"
-                },
-                {
-                    "artist_name": "Elvis Crespo",
-                    "track_uri": "spotify:track:36gbETWFHYOhKagApK6spF",
-                    "track_name": "Tu Sonrisa"
-                },
-                {
-                    "artist_name": "Manny Manuel",
-                    "track_uri": "spotify:track:0kXYQo1zwTlWQBke4Xv4nO",
-                    "track_name": "Te Amo - Mega MerengueMix 2010"
-                },
-                {
-                    "artist_name": "Juan Luis Guerra 4.40",
-                    "track_uri": "spotify:track:6IfMD01z39P15HKezjdaMP",
-                    "track_name": "Bachata En Fukuoka"
-                }
-            ],
-            "num_edits": 2,
-            "duration_ms": 5584100,
-            "num_artists": 14
         }
     ]
 }

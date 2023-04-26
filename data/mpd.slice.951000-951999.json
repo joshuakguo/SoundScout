@@ -7,7 +7,7 @@
     "playlists": [
         {
             "name": "ROADTRIP",
-            "pid": 6254,
+            "pid": 4747,
             "num_tracks": 28,
             "num_followers": 15,
             "tracks": [
@@ -158,7 +158,7 @@
         },
         {
             "name": "Songs to sing in the shower",
-            "pid": 6255,
+            "pid": 4748,
             "num_tracks": 134,
             "num_followers": 94,
             "tracks": [
@@ -840,7 +840,7 @@
         },
         {
             "name": "christmas instrumental",
-            "pid": 6256,
+            "pid": 4749,
             "num_tracks": 94,
             "num_followers": 14,
             "tracks": [
@@ -1321,7 +1321,7 @@
         },
         {
             "name": "Redbone",
-            "pid": 6257,
+            "pid": 4750,
             "num_tracks": 117,
             "num_followers": 21,
             "tracks": [
@@ -1917,7 +1917,7 @@
         },
         {
             "name": "pregame ",
-            "pid": 6258,
+            "pid": 4751,
             "num_tracks": 81,
             "num_followers": 14,
             "tracks": [
@@ -2333,7 +2333,7 @@
         },
         {
             "name": "College",
-            "pid": 6259,
+            "pid": 4752,
             "num_tracks": 139,
             "num_followers": 12,
             "tracks": [
@@ -3038,385 +3038,8 @@
             "num_artists": 104
         },
         {
-            "name": "Christmas 2017",
-            "pid": 6260,
-            "num_tracks": 73,
-            "num_followers": 10,
-            "tracks": [
-                {
-                    "artist_name": "George Winston",
-                    "track_uri": "spotify:track:2xW591LirofE9O1TvYhcWu",
-                    "track_name": "Joy"
-                },
-                {
-                    "artist_name": "Johnny Cash",
-                    "track_uri": "spotify:track:52xFCPMPgG3TSAgAxVWIxK",
-                    "track_name": "The Christmas Spirit - Mono Version"
-                },
-                {
-                    "artist_name": "Mykola Dmytrovych Leontovych",
-                    "track_uri": "spotify:track:4tHqQMWSqmL6YjXwsqthDI",
-                    "track_name": "Carol of the Bells"
-                },
-                {
-                    "artist_name": "Greg Lake",
-                    "track_uri": "spotify:track:78HLOELYnF1msRggbkZtFq",
-                    "track_name": "I Believe in Father Christmas"
-                },
-                {
-                    "artist_name": "Various Artists",
-                    "track_uri": "spotify:track:03N6dZis3HMB13q0AUB7cB",
-                    "track_name": "Beatles Holiday Greeting 1"
-                },
-                {
-                    "artist_name": "Bob & Doug McKenzie",
-                    "track_uri": "spotify:track:4eUuyhbmV2A5bkrnhRcrXn",
-                    "track_name": "The Twelve Days Of Christmas"
-                },
-                {
-                    "artist_name": "Kacey Musgraves",
-                    "track_uri": "spotify:track:0oIn0nNk918OsdTjKtVULN",
-                    "track_name": "A Willie Nice Christmas"
-                },
-                {
-                    "artist_name": "Brenda Lee",
-                    "track_uri": "spotify:track:3T7dNA7O8c3Axj5WyDNcH3",
-                    "track_name": "Rockin' Around The Christmas Tree - Single Version"
-                },
-                {
-                    "artist_name": "Rod Stewart",
-                    "track_uri": "spotify:track:7KRuB6wTUnirsi2X7jl8Ap",
-                    "track_name": "Red-Suited Super Man"
-                },
-                {
-                    "artist_name": "Stan Kenton",
-                    "track_uri": "spotify:track:4vVpeItpyqmpvLiPFhlCi0",
-                    "track_name": "Good King Wenceslas - 2003 - Remaster"
-                },
-                {
-                    "artist_name": "Peggy Lee",
-                    "track_uri": "spotify:track:3ECGKuJqXdm8iyoneC9Vgm",
-                    "track_name": "Winter Wonderland"
-                },
-                {
-                    "artist_name": "Tom Petty and the Heartbreakers",
-                    "track_uri": "spotify:track:3nCcFA1iiehndgGSddMiV2",
-                    "track_name": "Christmas All Over Again"
-                },
-                {
-                    "artist_name": "Jimmy Buffett",
-                    "track_uri": "spotify:track:0aVZwOMLntqrkth0DBo5An",
-                    "track_name": "Mele Kalikimaka"
-                },
-                {
-                    "artist_name": "Dean Martin",
-                    "track_uri": "spotify:track:2uFaJJtFpPDc5Pa95XzTvg",
-                    "track_name": "Let It Snow! Let It Snow! Let It Snow!"
-                },
-                {
-                    "artist_name": "Southern Culture on the Skids",
-                    "track_uri": "spotify:track:5Ui6H0keZdnj5vOY1Ib6M2",
-                    "track_name": "Silver Bells"
-                },
-                {
-                    "artist_name": "Kelly Clarkson",
-                    "track_uri": "spotify:track:3nAp4IvdMPPWEH9uuXFFV5",
-                    "track_name": "Underneath the Tree"
-                },
-                {
-                    "artist_name": "Elvis Presley",
-                    "track_uri": "spotify:track:3QiAAp20rPC3dcAtKtMaqQ",
-                    "track_name": "Blue Christmas"
-                },
-                {
-                    "artist_name": "Daryl Stuermer",
-                    "track_uri": "spotify:track:191j6ve8dJXDIXXSW9lLl5",
-                    "track_name": "The Little Drummer Boy"
-                },
-                {
-                    "artist_name": "Billy May",
-                    "track_uri": "spotify:track:7dzmB0GRVzwBa7AsN5FmIS",
-                    "track_name": "Rudolph, The Red-Nosed Reindeer - 1996 - Remaster"
-                },
-                {
-                    "artist_name": "Chicago",
-                    "track_uri": "spotify:track:4zJKAGGeaKpxMEuncvKxSP",
-                    "track_name": "Sleigh Ride"
-                },
-                {
-                    "artist_name": "Ella Fitzgerald",
-                    "track_uri": "spotify:track:47X9nPgLBHEGts5tFwpF6S",
-                    "track_name": "Have Yourself A Merry Little Christmas"
-                },
-                {
-                    "artist_name": "Bob Dylan",
-                    "track_uri": "spotify:track:0X9Sqk8kISEzGCrSTm8FOt",
-                    "track_name": "Here Comes Santa Claus"
-                },
-                {
-                    "artist_name": "She & Him",
-                    "track_uri": "spotify:track:3fMbBYxJrFX6HxPILnzQaf",
-                    "track_name": "A Marshmallow World"
-                },
-                {
-                    "artist_name": "Willie Nelson",
-                    "track_uri": "spotify:track:6vw0fFogTD5yIE5TWjZ0gM",
-                    "track_name": "Pretty Paper"
-                },
-                {
-                    "artist_name": "Carpenters",
-                    "track_uri": "spotify:track:19KesGVNVm23hdUiK0z68c",
-                    "track_name": "Christmas Waltz"
-                },
-                {
-                    "artist_name": "Louis Armstrong",
-                    "track_uri": "spotify:track:3fnV3ihXoUlRLwwzNkTmFX",
-                    "track_name": "ZAT YOU SANTA CLAUS"
-                },
-                {
-                    "artist_name": "Little Isidor And The Inquisitors",
-                    "track_uri": "spotify:track:38bmGbMsHmBlN7IRuMjToL",
-                    "track_name": "Christmas Of Love - From \"Dr. Seuss' How The Grinch Stole Christmas\" Soundtrack"
-                },
-                {
-                    "artist_name": "Amy Grant",
-                    "track_uri": "spotify:track:2eqBIB27ZWL0uBRL26nRWc",
-                    "track_name": "It's The Most Wonderful Time Of The Year"
-                },
-                {
-                    "artist_name": "Mannheim Steamroller",
-                    "track_uri": "spotify:track:6LdnlR4KpeTQWsWm382CNm",
-                    "track_name": "Hark! The Herald Angels Sing"
-                },
-                {
-                    "artist_name": "Frank Sinatra",
-                    "track_uri": "spotify:track:4HEOgBHRCExyYVeTyrXsnL",
-                    "track_name": "Jingle Bells - 1999 - Remaster"
-                },
-                {
-                    "artist_name": "James Brown",
-                    "track_uri": "spotify:track:6dSmurVKI0nrsD8aqYXOCL",
-                    "track_name": "Santa Claus Go Straight To The Ghetto"
-                },
-                {
-                    "artist_name": "Nat King Cole",
-                    "track_uri": "spotify:track:5humEOJehpAwMJEJmb0JJ2",
-                    "track_name": "The Christmas Song (Merry Christmas To You)"
-                },
-                {
-                    "artist_name": "The Beach Boys",
-                    "track_uri": "spotify:track:5xlS0QkVrSH7ssEbBgBzbM",
-                    "track_name": "Little Saint Nick"
-                },
-                {
-                    "artist_name": "Jimmy Buffett",
-                    "track_uri": "spotify:track:6LkBIFfdqipWo5k1a5HnMG",
-                    "track_name": "The Twelve Days of Christmas (Parrothead Version)"
-                },
-                {
-                    "artist_name": "Elmo & Patsy",
-                    "track_uri": "spotify:track:49iHYFjT5yO6WEw6KerX9o",
-                    "track_name": "Grandma Got Run over by a Reindeer"
-                },
-                {
-                    "artist_name": "Montgomery Gentry",
-                    "track_uri": "spotify:track:15ALrqRVH0NJsBuxI00Bk3",
-                    "track_name": "Merry Christmas from the Family"
-                },
-                {
-                    "artist_name": "Aaron Neville",
-                    "track_uri": "spotify:track:32XIsCfU8Ex8gMEDQV96t1",
-                    "track_name": "Such A Night"
-                },
-                {
-                    "artist_name": "Justin Bieber",
-                    "track_uri": "spotify:track:489nZybL79w209ELXWJyVK",
-                    "track_name": "Santa Claus Is Coming To Town"
-                },
-                {
-                    "artist_name": "Whirling Dervishes",
-                    "track_uri": "spotify:track:2seg3LMM9YeZwncdTlWvcn",
-                    "track_name": "You're A Mean One Mr. Grinch"
-                },
-                {
-                    "artist_name": "Esquivel!",
-                    "track_uri": "spotify:track:39F7sZbzxENIOmsMGLoy6Z",
-                    "track_name": "Jingle Bells (Greetings from Esquivel!)"
-                },
-                {
-                    "artist_name": "The Royal Guardsmen",
-                    "track_uri": "spotify:track:59m84qYfFmnP4fWmvUtWWw",
-                    "track_name": "Snoopy's Christmas"
-                },
-                {
-                    "artist_name": "The Waitresses",
-                    "track_uri": "spotify:track:25eh0CXZ35PuHKoqAzC9HF",
-                    "track_name": "Christmas Wrapping"
-                },
-                {
-                    "artist_name": "Bob Rivers",
-                    "track_uri": "spotify:track:1kU0eLxIhAemc6ODBwwd5E",
-                    "track_name": "The Twelve Pains Of Christmas"
-                },
-                {
-                    "artist_name": "Squirrel Nut Zippers",
-                    "track_uri": "spotify:track:7LXf7kmVVXw29f1RpQx6I6",
-                    "track_name": "Carolina Christmas"
-                },
-                {
-                    "artist_name": "Darius Rucker",
-                    "track_uri": "spotify:track:4IEN2ql1z7bpjNEA8irdHA",
-                    "track_name": "Candy Cane Christmas"
-                },
-                {
-                    "artist_name": "Jimmy Buffett",
-                    "track_uri": "spotify:track:1fNWRW6EaW1fChUFZXVObQ",
-                    "track_name": "Happy Xmas (War Is Over)"
-                },
-                {
-                    "artist_name": "Bryan Adams",
-                    "track_uri": "spotify:track:0hnErtVKN1JyvfBNfpWDpO",
-                    "track_name": "Christmas Time"
-                },
-                {
-                    "artist_name": "Eartha Kitt",
-                    "track_uri": "spotify:track:1foCxQtxBweJtZmdxhEHVO",
-                    "track_name": "Santa Baby"
-                },
-                {
-                    "artist_name": "Brian Setzer",
-                    "track_uri": "spotify:track:1hxh8wIBsfyXNlzqYvvaVW",
-                    "track_name": "The Nutcracker Suite"
-                },
-                {
-                    "artist_name": "Burl Ives",
-                    "track_uri": "spotify:track:65Q2mv3UlVi9eO70OpsmSe",
-                    "track_name": "A Holly Jolly Christmas - Single Version"
-                },
-                {
-                    "artist_name": "Jos\u00e9 Feliciano",
-                    "track_uri": "spotify:track:7taXf5odg9xCAZERYfyOkS",
-                    "track_name": "Feliz Navidad"
-                },
-                {
-                    "artist_name": "Capitol Studio Orchestra",
-                    "track_uri": "spotify:track:0MyXy1bW04AMfwxY9FdNZI",
-                    "track_name": "Cha-Cha All The Way - 1996 - Remaster"
-                },
-                {
-                    "artist_name": "Brave Combo",
-                    "track_uri": "spotify:track:4RyncCpOgtjk3GaJmH1pdN",
-                    "track_name": "The Christmas Song"
-                },
-                {
-                    "artist_name": "Barenaked Ladies",
-                    "track_uri": "spotify:track:6YgKtmBkCAm2ew0JYZFVVd",
-                    "track_name": "God Rest Ye Merry Gentlemen (feat. Sarah McLachlan)"
-                },
-                {
-                    "artist_name": "Kevin Eubanks",
-                    "track_uri": "spotify:track:1TWtZbBFFPAbg2HEbo1VDn",
-                    "track_name": "Silver Bells"
-                },
-                {
-                    "artist_name": "Lena Horne",
-                    "track_uri": "spotify:track:6z4Q2k3PoVoDM6tHEEnmr4",
-                    "track_name": "Jingle All The Way"
-                },
-                {
-                    "artist_name": "Jack Johnson",
-                    "track_uri": "spotify:track:5mb6YQWIVJ44alLjCZmGTT",
-                    "track_name": "Angel (Holiday)"
-                },
-                {
-                    "artist_name": "Ray Anthony",
-                    "track_uri": "spotify:track:3IpqsYNu9ZOJ3MN3cRHJyN",
-                    "track_name": "Christmas Kisses"
-                },
-                {
-                    "artist_name": "Perry Como",
-                    "track_uri": "spotify:track:0hvN2v6fAcB6xWyW7UaooA",
-                    "track_name": "(There's No Place Like) Home for the Holidays - 1959 Version"
-                },
-                {
-                    "artist_name": "Eagles",
-                    "track_uri": "spotify:track:70f0ToGXTEtLKFSwHMbHoC",
-                    "track_name": "Please Come Home For Christmas - Bonus Track"
-                },
-                {
-                    "artist_name": "Under The Streetlamp",
-                    "track_uri": "spotify:track:1qvBRDYhFUCosZpXT7cFcU",
-                    "track_name": "Here We Come a-Wassailing"
-                },
-                {
-                    "artist_name": "Randy Bachman",
-                    "track_uri": "spotify:track:0BLHp2n7sdosXiGYAcN14m",
-                    "track_name": "Takin' Care Of Christmas"
-                },
-                {
-                    "artist_name": "Whitney Houston",
-                    "track_uri": "spotify:track:5umJVEAPT2SocCoB99ZoaH",
-                    "track_name": "Do You Hear What I Hear?"
-                },
-                {
-                    "artist_name": "Band Aid",
-                    "track_uri": "spotify:track:1hvpDAxZPKjKztOc72sv06",
-                    "track_name": "Do They Know It's Christmas? - 1984 Version"
-                },
-                {
-                    "artist_name": "Savatage",
-                    "track_uri": "spotify:track:1aOIW5GzlVx0B8lX2foIFg",
-                    "track_name": "Christmas Eve (Sarajevo 12/24)"
-                },
-                {
-                    "artist_name": "Pentatonix",
-                    "track_uri": "spotify:track:4z8sz6E4YyFuEkv5o7IJni",
-                    "track_name": "Mary, Did You Know?"
-                },
-                {
-                    "artist_name": "Bing Crosby",
-                    "track_uri": "spotify:track:2UiOML9w1Cu6Cjmh28tEIm",
-                    "track_name": "Peace On Earth / The Little Drummer Boy"
-                },
-                {
-                    "artist_name": "Bruce Springsteen",
-                    "track_uri": "spotify:track:0lHCPIozN8ufLAtWuZwgx8",
-                    "track_name": "Merry Christmas Baby"
-                },
-                {
-                    "artist_name": "U2",
-                    "track_uri": "spotify:track:3HBvs6g8WgT8KT1gZzGSX1",
-                    "track_name": "Christmas (Baby Please Come Home)"
-                },
-                {
-                    "artist_name": "John Mellencamp",
-                    "track_uri": "spotify:track:4igopJrkjZ66vmCSuFCHFE",
-                    "track_name": "I Saw Mommy Kissing Santa Claus"
-                },
-                {
-                    "artist_name": "*NSYNC",
-                    "track_uri": "spotify:track:5IEwb1i3o3qkZfafCmzNGJ",
-                    "track_name": "O Holy Night - A Cappella"
-                },
-                {
-                    "artist_name": "Straight No Chaser",
-                    "track_uri": "spotify:track:5f5wlkRHWhYxOdp1hOUsTb",
-                    "track_name": "The 12 Days Of Christmas"
-                },
-                {
-                    "artist_name": "Dan Fogelberg",
-                    "track_uri": "spotify:track:0juQNDN4EdiuG97rgKywkF",
-                    "track_name": "Same Old Lang Syne"
-                }
-            ],
-            "num_edits": 15,
-            "duration_ms": 13695826,
-            "num_artists": 71,
-            "description": "Eclectic mix of old and new personal favorites! Enjoy!"
-        },
-        {
             "name": "dance, dance, dance",
-            "pid": 6261,
+            "pid": 4753,
             "num_tracks": 148,
             "num_followers": 16,
             "tracks": [
@@ -4167,7 +3790,7 @@
         },
         {
             "name": "chalino sanchez",
-            "pid": 6262,
+            "pid": 4754,
             "num_tracks": 217,
             "num_followers": 16,
             "tracks": [
