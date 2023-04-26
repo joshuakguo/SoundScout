@@ -87,7 +87,7 @@ def normalize_name(name):
 def preprocess():
     global inv_idx
     print("Processing...")
-    process_mpd("../data")
+    process_mpd("data")
     print("Total playlists:", total_playlists)
 
     print("Computing idf")
