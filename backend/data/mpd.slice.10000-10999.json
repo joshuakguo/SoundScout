@@ -1,0 +1,415 @@
+{
+    "info": {
+        "generated_on": "2017-12-03 08:41:42.057563",
+        "slice": "10000-10999",
+        "version": "v1"
+    },
+    "playlists": [
+        {
+            "name": "Rap",
+            "pid": 1351,
+            "num_tracks": 79,
+            "num_followers": 12,
+            "tracks": [
+                {
+                    "artist_name": "Yo Gotti",
+                    "track_uri": "spotify:track:6KfwXswgi5Suxu83SGY44x",
+                    "track_name": "LeBron James"
+                },
+                {
+                    "artist_name": "Yo Gotti",
+                    "track_uri": "spotify:track:7yz6wjkAV0ZByLrlcrMkAx",
+                    "track_name": "Act Right"
+                },
+                {
+                    "artist_name": "Andre Nickatina",
+                    "track_uri": "spotify:track:2SHDnvo78qHFyZVgx9ZAjP",
+                    "track_name": "Jelly (feat. Problem)"
+                },
+                {
+                    "artist_name": "2 Chainz",
+                    "track_uri": "spotify:track:6J5sxraPPZ4b0CVOGAgpXj",
+                    "track_name": "I'm Different"
+                },
+                {
+                    "artist_name": "Andre Nickatina",
+                    "track_uri": "spotify:track:3k8zx0tFrsWAvVHXeCBX2r",
+                    "track_name": "Ayo For Yayo"
+                },
+                {
+                    "artist_name": "YG",
+                    "track_uri": "spotify:track:27PmKcvsjXp7G1IQgLUkYY",
+                    "track_name": "My Nigga"
+                },
+                {
+                    "artist_name": "Yo Gotti",
+                    "track_uri": "spotify:track:0amvKhr7nbpSsnDJxfeb9d",
+                    "track_name": "Sorry"
+                },
+                {
+                    "artist_name": "B.o.B",
+                    "track_uri": "spotify:track:3aHkbJXFYpPrup2K8wvDOV",
+                    "track_name": "We Still In This Bitch (feat. T.I. and Juicy J)"
+                },
+                {
+                    "artist_name": "Rich Homie Quan",
+                    "track_uri": "spotify:track:07sOl7WsmCaUqaJaRn9Dss",
+                    "track_name": "Type of Way"
+                },
+                {
+                    "artist_name": "Yo Gotti",
+                    "track_uri": "spotify:track:3ndumr5hw721OmT5opZ5Zl",
+                    "track_name": "Errrbody"
+                },
+                {
+                    "artist_name": "Lil Wayne",
+                    "track_uri": "spotify:track:3Eq7yD58dIXqOgw1j7NFhY",
+                    "track_name": "Rich As Fuck"
+                },
+                {
+                    "artist_name": "E-40",
+                    "track_uri": "spotify:track:5PR09nMAHAOOklMQMJchch",
+                    "track_name": "Function - feat. YG, IAmSu & Problem"
+                },
+                {
+                    "artist_name": "Equipto",
+                    "track_uri": "spotify:track:1AppjZZO8lY6VvbOuwApVO",
+                    "track_name": "4am - Bay Bridge Music"
+                },
+                {
+                    "artist_name": "Andre Nickatina",
+                    "track_uri": "spotify:track:3hb9ojVFHw3oX74fQBUmch",
+                    "track_name": "Color Of The Benz"
+                },
+                {
+                    "artist_name": "Yo Gotti",
+                    "track_uri": "spotify:track:1LxKKYsJNPeBdOwdudsJzv",
+                    "track_name": "Down In the DM"
+                },
+                {
+                    "artist_name": "T.I.",
+                    "track_uri": "spotify:track:0SqUFLaRXwufRUsJ0t4dXB",
+                    "track_name": "No Mediocre"
+                },
+                {
+                    "artist_name": "T.I.",
+                    "track_uri": "spotify:track:5cS9jJbwirKrdDIbbAExUz",
+                    "track_name": "About the Money"
+                },
+                {
+                    "artist_name": "T.I.",
+                    "track_uri": "spotify:track:2bPmZjE90uoQgA9GkuwAQ1",
+                    "track_name": "Check, Run It"
+                },
+                {
+                    "artist_name": "Drake",
+                    "track_uri": "spotify:track:27GmP9AWRs744SzKcpJsTZ",
+                    "track_name": "Jumpman"
+                },
+                {
+                    "artist_name": "Jeezy",
+                    "track_uri": "spotify:track:39GC2X2hVKjShQ0GsbZfdo",
+                    "track_name": "Me OK"
+                },
+                {
+                    "artist_name": "Drake",
+                    "track_uri": "spotify:track:5lFDtgWsjRJu8fPOAyJIAK",
+                    "track_name": "Back To Back"
+                },
+                {
+                    "artist_name": "G-Eazy",
+                    "track_uri": "spotify:track:6jmTHeoWvBaSrwWttr8Xvu",
+                    "track_name": "I Mean It"
+                },
+                {
+                    "artist_name": "Mac Dre",
+                    "track_uri": "spotify:track:4sqGlfDc7QCPvAvUBk4OKn",
+                    "track_name": "Fellin' Myself"
+                },
+                {
+                    "artist_name": "A$AP Rocky",
+                    "track_uri": "spotify:track:1j6kDJttn6wbVyMaM42Nxm",
+                    "track_name": "Lord Pretty Flacko Jodye 2 (LPFJ2)"
+                },
+                {
+                    "artist_name": "Future",
+                    "track_uri": "spotify:track:5nN8BwAQDJDguq7Dpd3JQQ",
+                    "track_name": "Where Ya At"
+                },
+                {
+                    "artist_name": "Future",
+                    "track_uri": "spotify:track:6elNeXUhiuHPD9hH5rocQi",
+                    "track_name": "Trap Niggas"
+                },
+                {
+                    "artist_name": "Kevin Gates",
+                    "track_uri": "spotify:track:0wdKiSBUT7aZkXUIdJWcwC",
+                    "track_name": "2 Phones"
+                },
+                {
+                    "artist_name": "Future",
+                    "track_uri": "spotify:track:5ihDGnhQgMA0F0tk9fNLlA",
+                    "track_name": "Thought It Was a Drought"
+                },
+                {
+                    "artist_name": "Kid Ink",
+                    "track_uri": "spotify:track:5IZc3KIVFhjzJ0L2kiXzUl",
+                    "track_name": "Promise"
+                },
+                {
+                    "artist_name": "Young Money",
+                    "track_uri": "spotify:track:6HfOzLLjsaXsehIFEsrxTk",
+                    "track_name": "Trophies"
+                },
+                {
+                    "artist_name": "Clyde Carson",
+                    "track_uri": "spotify:track:1SUlp88ERu0sH178PG6bwC",
+                    "track_name": "Slow Down"
+                },
+                {
+                    "artist_name": "Celly Cel",
+                    "track_uri": "spotify:track:4QYvuCdl2N7cXIxZeN1FHL",
+                    "track_name": "It's Goin' Down"
+                },
+                {
+                    "artist_name": "Yo Gotti",
+                    "track_uri": "spotify:track:6rdeh1uiNU9OmSbKlhcSGH",
+                    "track_name": "Long Way"
+                },
+                {
+                    "artist_name": "Juicy J",
+                    "track_uri": "spotify:track:1qJjofprTOxvqkIAdDixaP",
+                    "track_name": "For Everybody"
+                },
+                {
+                    "artist_name": "Drake",
+                    "track_uri": "spotify:track:7jslhIiELQkgW9IHeYNOWE",
+                    "track_name": "Big Rings"
+                },
+                {
+                    "artist_name": "Yo Gotti",
+                    "track_uri": "spotify:track:6rdeh1uiNU9OmSbKlhcSGH",
+                    "track_name": "Long Way"
+                },
+                {
+                    "artist_name": "Future",
+                    "track_uri": "spotify:track:7givkGZW1cwM8MJYzMd2Na",
+                    "track_name": "Ain't No Time"
+                },
+                {
+                    "artist_name": "Drake",
+                    "track_uri": "spotify:track:79XrkTOfV1AqySNjVlygpW",
+                    "track_name": "Energy"
+                },
+                {
+                    "artist_name": "Drake",
+                    "track_uri": "spotify:track:5InOp6q2vvx0fShv3bzFLZ",
+                    "track_name": "Know Yourself"
+                },
+                {
+                    "artist_name": "E-40",
+                    "track_uri": "spotify:track:5vIu19A3EEdHgFM4Cba6F4",
+                    "track_name": "Choices (Yup)"
+                },
+                {
+                    "artist_name": "Smoovie Baby",
+                    "track_uri": "spotify:track:7AeGfl26CbeVWRKpIrfp9M",
+                    "track_name": "Bag A Beach (feat. IamSu)"
+                },
+                {
+                    "artist_name": "Big Sean",
+                    "track_uri": "spotify:track:4w7yrP4RAeeyhfG9nJqQvS",
+                    "track_name": "I Don't Fuck With You"
+                },
+                {
+                    "artist_name": "Future",
+                    "track_uri": "spotify:track:0BzDQgmeRdA4V71VhfBvXT",
+                    "track_name": "Xanny Family"
+                },
+                {
+                    "artist_name": "Kazzie",
+                    "track_uri": "spotify:track:4uO8V0nLVm7iTPJLHi5ZlE",
+                    "track_name": "Yeah Ok"
+                },
+                {
+                    "artist_name": "C-Murder",
+                    "track_uri": "spotify:track:1N6OyggXB5yMc1pNeEdNZU",
+                    "track_name": "2 Stainz (feat. Vs)"
+                },
+                {
+                    "artist_name": "Baeza",
+                    "track_uri": "spotify:track:7B7L4lVUDFx4D5dSqiJWsy",
+                    "track_name": "Nothin Average"
+                },
+                {
+                    "artist_name": "Gucci Mane",
+                    "track_uri": "spotify:track:4iCtDP4YhPGbfdWwIgR2KJ",
+                    "track_name": "Nothin On Ya (feat. Wiz Khalifa)"
+                },
+                {
+                    "artist_name": "Gillie Da Kid",
+                    "track_uri": "spotify:track:1f6fvKhHDfHzNtJBv11mH5",
+                    "track_name": "Get Down On The Ground"
+                },
+                {
+                    "artist_name": "Jeezy",
+                    "track_uri": "spotify:track:3PJW0yovRQnCkjERXTvfEy",
+                    "track_name": "Hood Nigga"
+                },
+                {
+                    "artist_name": "Speaker Knockerz",
+                    "track_uri": "spotify:track:2qTBAODxjsKCQClRjMthEj",
+                    "track_name": "Dap You Up"
+                },
+                {
+                    "artist_name": "Sage The Gemini",
+                    "track_uri": "spotify:track:6zJbZspPtvhehshdJ9VDoH",
+                    "track_name": "Remember Me"
+                },
+                {
+                    "artist_name": "OJ Da Juiceman",
+                    "track_uri": "spotify:track:1Yt5wacVrPXXTznNrqj6Il",
+                    "track_name": "Quarter Brick"
+                },
+                {
+                    "artist_name": "Young Dro",
+                    "track_uri": "spotify:track:19fKNXNkmWhuAQyGbxyFXg",
+                    "track_name": "FDB"
+                },
+                {
+                    "artist_name": "Yo Gotti",
+                    "track_uri": "spotify:track:7mhk9WyqZZzvTTCQKfh2iV",
+                    "track_name": "Law"
+                },
+                {
+                    "artist_name": "Future",
+                    "track_uri": "spotify:track:49zD0wr2S3d0lZPib0K4e1",
+                    "track_name": "F*ck Up Some Commas"
+                },
+                {
+                    "artist_name": "Desiigner",
+                    "track_uri": "spotify:track:5OOkp4U9P9oL23maHFHL1h",
+                    "track_name": "Panda"
+                },
+                {
+                    "artist_name": "Dre Dog",
+                    "track_uri": "spotify:track:5yeW9wyvtgUHIk27vvcjSR",
+                    "track_name": "Smoke Dope and Rap"
+                },
+                {
+                    "artist_name": "Andre Nickatina",
+                    "track_uri": "spotify:track:4K7ZgXSJvkcgmezLWOFIwQ",
+                    "track_name": "9 To 5"
+                },
+                {
+                    "artist_name": "D-Lo",
+                    "track_uri": "spotify:track:1HDi7xRK2Tnw7nk0Q56OAF",
+                    "track_name": "Get Her Tho (feat. Tyga)"
+                },
+                {
+                    "artist_name": "Mistah F.A.B.",
+                    "track_uri": "spotify:track:6yoRcAvgoIqS6eL8kpJBxF",
+                    "track_name": "N.E.W Oakland"
+                },
+                {
+                    "artist_name": "Fredo Santana",
+                    "track_uri": "spotify:track:3L4aV1H3BorgDK2Bd6Hjdo",
+                    "track_name": "Jealous"
+                },
+                {
+                    "artist_name": "Joe Moses",
+                    "track_uri": "spotify:track:6yaFAVzk4L2SJv2QUsBiIM",
+                    "track_name": "Ratchets (Remix) (feat. Tyga)"
+                },
+                {
+                    "artist_name": "Webbie",
+                    "track_uri": "spotify:track:5PSwYUmodEoyJEwLurbvcT",
+                    "track_name": "F*ck Friends"
+                },
+                {
+                    "artist_name": "O.T. Genasis",
+                    "track_uri": "spotify:track:5sgdhjQwkJv4MnSBmIG7y2",
+                    "track_name": "Touchdown"
+                },
+                {
+                    "artist_name": "Keith Ape",
+                    "track_uri": "spotify:track:0gpFiquPvir7e3RrM4kii9",
+                    "track_name": "IT G MA REMIX (feat. A$AP Ferg, Father, Dumbfoundead, Waka Flocka Flame)"
+                },
+                {
+                    "artist_name": "French Montana",
+                    "track_uri": "spotify:track:1sZWRWPnJoV9ac32i3oMwz",
+                    "track_name": "Moses"
+                },
+                {
+                    "artist_name": "Baby Boy",
+                    "track_uri": "spotify:track:3Tpez8fvZfCMSODg543Ss2",
+                    "track_name": "The Way I Live"
+                },
+                {
+                    "artist_name": "Suga Free",
+                    "track_uri": "spotify:track:3zb1zBmkrPF6VW8RhlSYA1",
+                    "track_name": "Why U Bullshittin'?"
+                },
+                {
+                    "artist_name": "Dae Dae",
+                    "track_uri": "spotify:track:46IdjlVO3EmaMqooXZ1Hcu",
+                    "track_name": "Wat U Mean (Aye, Aye, Aye)"
+                },
+                {
+                    "artist_name": "Rizzoo Rizzoo",
+                    "track_uri": "spotify:track:5LEGPCJ0dr1AfFuDncKHEV",
+                    "track_name": "Off the Lot"
+                },
+                {
+                    "artist_name": "Baby Boy",
+                    "track_uri": "spotify:track:3Tpez8fvZfCMSODg543Ss2",
+                    "track_name": "The Way I Live"
+                },
+                {
+                    "artist_name": "Sleepy D",
+                    "track_uri": "spotify:track:3WVdqSqMuhCCxD0yAMkqby",
+                    "track_name": "It's Crazy (feat. G-Wet)"
+                },
+                {
+                    "artist_name": "Kool John",
+                    "track_uri": "spotify:track:2BFeLCEDQBecReNuLbOHoQ",
+                    "track_name": "Blue Hunnids"
+                },
+                {
+                    "artist_name": "Beatking",
+                    "track_uri": "spotify:track:1q9NvHeGT310zHbU6yJI08",
+                    "track_name": "Rich and Famous (feat. Riff Raff & Paul Wall)"
+                },
+                {
+                    "artist_name": "Young Thug",
+                    "track_uri": "spotify:track:33JcUj9qQDayKswunZP9ar",
+                    "track_name": "Best Friend"
+                },
+                {
+                    "artist_name": "Birdman",
+                    "track_uri": "spotify:track:3rMyMv8EjKXoPnaRo2hdJN",
+                    "track_name": "Stuntin' Like My Daddy - Street"
+                },
+                {
+                    "artist_name": "Fetty Wap",
+                    "track_uri": "spotify:track:4MA2EibH9eGHgkbaTnJ3CR",
+                    "track_name": "Trap Queen (feat. Quavo & Gucci Mane)"
+                },
+                {
+                    "artist_name": "Gorilla Zoe",
+                    "track_uri": "spotify:track:7jj6o3lW66ExL8O4bo4RIm",
+                    "track_name": "I Got It"
+                },
+                {
+                    "artist_name": "Dru Down",
+                    "track_uri": "spotify:track:5f8KgDZ8aQKQii0U1qdRbC",
+                    "track_name": "Pimp Of The Year"
+                }
+            ],
+            "num_edits": 46,
+            "duration_ms": 17665642,
+            "num_artists": 55
+        }
+    ]
+}

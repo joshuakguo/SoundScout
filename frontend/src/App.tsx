@@ -51,10 +51,10 @@ const search: MouseEventHandler<HTMLImageElement> = (e) => {
   }
   fetch(
     "http://localhost:5050/search?" +
-    new URLSearchParams({
-      title: (document.getElementById("filter-text-val") as HTMLInputElement)
-        .value,
-    }).toString()
+      new URLSearchParams({
+        title: (document.getElementById("filter-text-val") as HTMLInputElement)
+          .value,
+      }).toString()
   )
     .then((response) => response.json())
     .then((data) =>

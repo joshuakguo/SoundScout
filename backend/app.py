@@ -22,7 +22,7 @@ os.environ["ROOT_PATH"] = os.path.abspath(os.path.join("..", os.curdir))
 # Don't worry about the deployment credentials, those are fixed
 # You can use a different DB name if you want to
 MYSQL_USER = "root"
-MYSQL_USER_PASSWORD = os.getenv("MYSQL_USER_PASSWORD")
+MYSQL_USER_PASSWORD = "password"
 MYSQL_PORT = 3306
 MYSQL_DATABASE = "playlistsdb"
 
@@ -89,21 +89,47 @@ def index_search(query, index, idf, doc_norms):
 def search():
     query = request.args.get("title")
     query = preprocessing.normalize_name(query)
-    k = 50  # Number of playlists to examine
-    top_playlists = index_search(
-        query, preprocessing.inv_idx, preprocessing.idf, preprocessing.doc_norms
-    )[:k]
-    song_scores = {}
-    for score, pid in top_playlists:
-        for track in preprocessing.playlists[pid]["tracks"]:
-            song = track["track_name"]
-            if song not in song_scores:
-                song_scores[song] = 0
+    k = 100  # Number of playlists to examine
+    queries = query.split()
+    songs = []
+    song_total_scores = {}
+    for q in queries:
+        top_playlists = index_search(
+            q, preprocessing.inv_idx, preprocessing.idf, preprocessing.doc_norms
+        )[:k]
+        song_scores = {}
+        for score, pid in top_playlists:
+            for track in preprocessing.playlists[pid]["tracks"]:
+                song = track["track_name"]
+                if song not in song_scores:
+                    song_scores[song] = 0
+            
+                song_scores[song] += score
 
-            song_scores[song] += score
+        ranked_songs = list(song_scores.items())
+        ranked_songs.sort(key=lambda x: x[1], reverse=True)
+        ranked_songs = ranked_songs[:1000]
+        songs1 = {i: sco for i, sco in ranked_songs}
+        for song, sco in songs1.items():
+            song_total_scores[song] = song_total_scores.get(song,0) + sco
+        songs.append(songs1)
+    outs = set()
+    for i in list(songs[0].items()):
+        cur = i[0]
+        for lists in songs:
+            exists = True
+            if cur not in lists:
+                exists = False
+        if exists:
+            outs.add(i[0])
+    for s in song_total_scores.keys():
+        if s in outs:
+            song_total_scores[s] *= 2.5
+    song_total_scores_tup = list(song_total_scores.items())
+    song_total_scores_tup.sort(key=lambda x: x[1], reverse=True)
 
-    ranked_songs = list(song_scores.items())
-    ranked_songs.sort(key=lambda x: x[1], reverse=True)
-    print(ranked_songs[:50])
-    return ranked_songs[:15]
+   # r_songs = sorted(list(songs.items()), key= lambda x:x[1],reverse=True)
+    print(song_total_scores_tup)
+    return song_total_scores_tup[:15]
+
     # app.run(debug=True)

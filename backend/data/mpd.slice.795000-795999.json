@@ -1,0 +1,2810 @@
+{
+    "info": {
+        "generated_on": "2017-12-04 03:05:11.774401",
+        "slice": "795000-795999",
+        "version": "v1"
+    },
+    "playlists": [
+        {
+            "name": "Throwback",
+            "pid": 301,
+            "num_tracks": 159,
+            "num_followers": 14,
+            "tracks": [
+                {
+                    "artist_name": "Sean Paul",
+                    "track_uri": "spotify:track:0k2GOhqsrxDTAbFFSdNJjT",
+                    "track_name": "Temperature"
+                },
+                {
+                    "artist_name": "Sean Paul",
+                    "track_uri": "spotify:track:3qdVKNSeUOiBoFDPv75LrN",
+                    "track_name": "So Fine"
+                },
+                {
+                    "artist_name": "Sean Paul",
+                    "track_uri": "spotify:track:4kOTDj4SiZPkW1p96WMDNv",
+                    "track_name": "We Be Burnin' (Recognize It)"
+                },
+                {
+                    "artist_name": "Sean Paul",
+                    "track_uri": "spotify:track:7C86DVl6REN8VPeGEMOf9q",
+                    "track_name": "Get Busy"
+                },
+                {
+                    "artist_name": "Sean Kingston",
+                    "track_uri": "spotify:track:1hGy2eLcmC8eKx7qr1tOqx",
+                    "track_name": "Beautiful Girls"
+                },
+                {
+                    "artist_name": "Kevin Lyttle",
+                    "track_uri": "spotify:track:0BBOLOV5JntPL3341swIre",
+                    "track_name": "Turn Me On"
+                },
+                {
+                    "artist_name": "Nelly Furtado",
+                    "track_uri": "spotify:track:2gam98EZKrF9XuOkU13ApN",
+                    "track_name": "Promiscuous"
+                },
+                {
+                    "artist_name": "Chris Brown",
+                    "track_uri": "spotify:track:47x1F4HyX7LafFgxtoa19P",
+                    "track_name": "Kiss Kiss"
+                },
+                {
+                    "artist_name": "Chris Brown",
+                    "track_uri": "spotify:track:2i8hWheuwDUwyPrZynCLEF",
+                    "track_name": "Strip"
+                },
+                {
+                    "artist_name": "Justin Bieber",
+                    "track_uri": "spotify:track:2eJ8ij1T3cNUKiGdcUvKhy",
+                    "track_name": "Baby"
+                },
+                {
+                    "artist_name": "Akon",
+                    "track_uri": "spotify:track:1ARJhjuI6TNYZCxYygFQ4F",
+                    "track_name": "Right Now (Na Na Na)"
+                },
+                {
+                    "artist_name": "Akon",
+                    "track_uri": "spotify:track:5264rU21ndum3CYYaSGUUm",
+                    "track_name": "I'm So Paid"
+                },
+                {
+                    "artist_name": "Akon",
+                    "track_uri": "spotify:track:0dNPpDFdvzj6XFIRzg2hmp",
+                    "track_name": "Bananza (Belly Dancer) - 12\" Version"
+                },
+                {
+                    "artist_name": "Akon",
+                    "track_uri": "spotify:track:1IpYDWB31L1CxDQZztadSi",
+                    "track_name": "Lonely - Old Version"
+                },
+                {
+                    "artist_name": "Akon",
+                    "track_uri": "spotify:track:2kQuhkFX7uSVepCD3h29g5",
+                    "track_name": "Smack That - Dirty"
+                },
+                {
+                    "artist_name": "Kanye West",
+                    "track_uri": "spotify:track:1fLdeDTrJWNkwOeFyAVLvF",
+                    "track_name": "Good Life"
+                },
+                {
+                    "artist_name": "Kanye West",
+                    "track_uri": "spotify:track:6mxyfdyF4LD7PctU3UNyjF",
+                    "track_name": "Touch The Sky"
+                },
+                {
+                    "artist_name": "Kanye West",
+                    "track_uri": "spotify:track:5XJJdNPkwmbUwE79gv0NxK",
+                    "track_name": "Gold Digger"
+                },
+                {
+                    "artist_name": "Luis Fonsi",
+                    "track_uri": "spotify:track:5CtI0qwDJkDQGwXD1H1cLb",
+                    "track_name": "Despacito - Remix"
+                },
+                {
+                    "artist_name": "Maino",
+                    "track_uri": "spotify:track:2aDNcb8FdNkVjYrInP9qQR",
+                    "track_name": "That Could Be Us"
+                },
+                {
+                    "artist_name": "Estelle",
+                    "track_uri": "spotify:track:41on8RwRh22IHcChAN2gm8",
+                    "track_name": "American Boy (feat. Kanye West)"
+                },
+                {
+                    "artist_name": "B.o.B",
+                    "track_uri": "spotify:track:5uHYcK0nbEYgRaFTY5BqnP",
+                    "track_name": "Magic (feat. Rivers Cuomo)"
+                },
+                {
+                    "artist_name": "Don Omar",
+                    "track_uri": "spotify:track:2a1o6ZejUi8U3wzzOtCOYw",
+                    "track_name": "Danza Kuduro"
+                },
+                {
+                    "artist_name": "Jason Derulo",
+                    "track_uri": "spotify:track:5l3CML2OnzfNs5RfVgbcLt",
+                    "track_name": "Talk Dirty (feat. 2 Chainz)"
+                },
+                {
+                    "artist_name": "Jason Derulo",
+                    "track_uri": "spotify:track:4B4zDmbHdkXZ1wUJv1yKFy",
+                    "track_name": "Wiggle (feat. Snoop Dogg)"
+                },
+                {
+                    "artist_name": "Jason Derulo",
+                    "track_uri": "spotify:track:6jizk5lOUnfpaZXYMdfeC6",
+                    "track_name": "Trumpets"
+                },
+                {
+                    "artist_name": "Bruno Mars",
+                    "track_uri": "spotify:track:0KKkJNfGyhkQ5aFogxQAPU",
+                    "track_name": "That's What I Like"
+                },
+                {
+                    "artist_name": "OutKast",
+                    "track_uri": "spotify:track:0I3q5fE6wg7LIfHGngUTnV",
+                    "track_name": "Ms. Jackson"
+                },
+                {
+                    "artist_name": "OutKast",
+                    "track_uri": "spotify:track:2PpruBYCo4H7WOBJ7Q2EwM",
+                    "track_name": "Hey Ya! - Radio Mix / Club Mix"
+                },
+                {
+                    "artist_name": "OutKast",
+                    "track_uri": "spotify:track:6bUNEbXT7HovLW6BgPCBsb",
+                    "track_name": "Roses"
+                },
+                {
+                    "artist_name": "Ne-Yo",
+                    "track_uri": "spotify:track:4kte3OcW800TPvOVgrLLj8",
+                    "track_name": "Let Me Love You (Until You Learn To Love Yourself)"
+                },
+                {
+                    "artist_name": "Akon",
+                    "track_uri": "spotify:track:4rqR0yM2k41leqyErhNzTs",
+                    "track_name": "Beautiful"
+                },
+                {
+                    "artist_name": "Baby Bash",
+                    "track_uri": "spotify:track:0x1LCpY9Rgeq97VPajm81B",
+                    "track_name": "Cyclone - Main"
+                },
+                {
+                    "artist_name": "Enrique Iglesias",
+                    "track_uri": "spotify:track:5QhEzshSe9SA4YiaQr6dNv",
+                    "track_name": "Bailando - English Version"
+                },
+                {
+                    "artist_name": "Ne-Yo",
+                    "track_uri": "spotify:track:34ceTg8ChN5HjrqiIYCn9Q",
+                    "track_name": "Miss Independent"
+                },
+                {
+                    "artist_name": "Shaggy",
+                    "track_uri": "spotify:track:1lzr43nnXAijIGYnCT8M8H",
+                    "track_name": "It Wasn't Me"
+                },
+                {
+                    "artist_name": "Danity Kane",
+                    "track_uri": "spotify:track:4yHFxB8kzzeuNvoouR8N0N",
+                    "track_name": "Damaged"
+                },
+                {
+                    "artist_name": "50 Cent",
+                    "track_uri": "spotify:track:7iL6o9tox1zgHpKUfh9vuC",
+                    "track_name": "In Da Club"
+                },
+                {
+                    "artist_name": "50 Cent",
+                    "track_uri": "spotify:track:3VzJE6yGuj8fDExUh6TLnc",
+                    "track_name": "Candy Shop"
+                },
+                {
+                    "artist_name": "50 Cent",
+                    "track_uri": "spotify:track:4nva9EpKntUTs6CRSGBCn9",
+                    "track_name": "Just A Lil Bit"
+                },
+                {
+                    "artist_name": "The Game",
+                    "track_uri": "spotify:track:6mZcNu9i8uhOYMiEAyEx81",
+                    "track_name": "How We Do"
+                },
+                {
+                    "artist_name": "The Game",
+                    "track_uri": "spotify:track:60WcXjimfbhk6T0gj1Eufg",
+                    "track_name": "Hate It Or Love It"
+                },
+                {
+                    "artist_name": "Beyonc\u00e9",
+                    "track_uri": "spotify:track:557un1HgwYMuqfWGSTmnxw",
+                    "track_name": "Single Ladies (Put a Ring on It)"
+                },
+                {
+                    "artist_name": "Justin Timberlake",
+                    "track_uri": "spotify:track:1AWQoqb9bSvzTjaLralEkT",
+                    "track_name": "Rock Your Body"
+                },
+                {
+                    "artist_name": "Usher",
+                    "track_uri": "spotify:track:0XUfyU2QviPAs6bxSpXYG4",
+                    "track_name": "Yeah!"
+                },
+                {
+                    "artist_name": "R. Kelly",
+                    "track_uri": "spotify:track:5dNfHmqgr128gMY2tc5CeJ",
+                    "track_name": "Ignition - Remix"
+                },
+                {
+                    "artist_name": "Rihanna",
+                    "track_uri": "spotify:track:3U3Ff8ZvL6oEu1r98gCCWW",
+                    "track_name": "Pon de Replay"
+                },
+                {
+                    "artist_name": "Fat Joe",
+                    "track_uri": "spotify:track:2uiEqPjMmIJXOKplzsEASP",
+                    "track_name": "Lean Back (feat. Lil Jon, Eminem, Mase & Remy Martin) - Remix"
+                },
+                {
+                    "artist_name": "Beyonc\u00e9",
+                    "track_uri": "spotify:track:0WqIKmW4BTrj3eJFmnCKMv",
+                    "track_name": "Crazy In Love"
+                },
+                {
+                    "artist_name": "The Notorious B.I.G.",
+                    "track_uri": "spotify:track:4INDiWSKvqSKDEu7mh8HFz",
+                    "track_name": "Mo Money Mo Problems (feat. Mase & Puff Daddy) - 2014 Remastered Version"
+                },
+                {
+                    "artist_name": "Nina Sky",
+                    "track_uri": "spotify:track:2ndnVdR8si7CW9T8vJRHyW",
+                    "track_name": "Move Ya Body"
+                },
+                {
+                    "artist_name": "Nelly",
+                    "track_uri": "spotify:track:04KTF78FFg8sOHC1BADqbY",
+                    "track_name": "Hot In Herre"
+                },
+                {
+                    "artist_name": "Justin Timberlake",
+                    "track_uri": "spotify:track:0O45fw2L5vsWpdsOdXwNAR",
+                    "track_name": "SexyBack"
+                },
+                {
+                    "artist_name": "Bubba Sparxxx",
+                    "track_uri": "spotify:track:0k6HUzaRHpQ3eEWr1C7Esh",
+                    "track_name": "Ms. New Booty - feat. Ying Yang Twins and Mr. ColliPark"
+                },
+                {
+                    "artist_name": "Ne-Yo",
+                    "track_uri": "spotify:track:10aWGOqSDBqvNzJ9NeKDbK",
+                    "track_name": "Sexy Love"
+                },
+                {
+                    "artist_name": "Ne-Yo",
+                    "track_uri": "spotify:track:4SRqDmPxYX0pUb5B5ut2Ri",
+                    "track_name": "So Sick"
+                },
+                {
+                    "artist_name": "Destiny's Child",
+                    "track_uri": "spotify:track:7H6ev70Weq6DdpZyyTmUXk",
+                    "track_name": "Say My Name"
+                },
+                {
+                    "artist_name": "Alicia Keys",
+                    "track_uri": "spotify:track:0JEqGkvUiMTQmFY6sgL9kg",
+                    "track_name": "No One"
+                },
+                {
+                    "artist_name": "Mario",
+                    "track_uri": "spotify:track:5xV0Czdqefft6sPDqjmFBu",
+                    "track_name": "Let Me Love You"
+                },
+                {
+                    "artist_name": "Ciara",
+                    "track_uri": "spotify:track:7uKcScNXuO3MWw6LowBjW1",
+                    "track_name": "One, Two Step"
+                },
+                {
+                    "artist_name": "T.I.",
+                    "track_uri": "spotify:track:1IAzD1muglOxOcPbUHs70R",
+                    "track_name": "Whatever You Like"
+                },
+                {
+                    "artist_name": "Daddy Yankee",
+                    "track_uri": "spotify:track:5kXioaxxQcd69PydTjWzOD",
+                    "track_name": "Gasolina"
+                },
+                {
+                    "artist_name": "Busta Rhymes",
+                    "track_uri": "spotify:track:0vupCkmy497h49a74Xsxj1",
+                    "track_name": "Don't Cha"
+                },
+                {
+                    "artist_name": "The Pussycat Dolls",
+                    "track_uri": "spotify:track:3BxWKCI06eQ5Od8TY2JBeA",
+                    "track_name": "Buttons"
+                },
+                {
+                    "artist_name": "Beyonc\u00e9",
+                    "track_uri": "spotify:track:07lxDm1s8FVO4GF54Nooiz",
+                    "track_name": "Irreplaceable"
+                },
+                {
+                    "artist_name": "Beyonc\u00e9",
+                    "track_uri": "spotify:track:1uXbwHHfgsXcUKfSZw5ZJ0",
+                    "track_name": "Run the World (Girls)"
+                },
+                {
+                    "artist_name": "Sean Kingston",
+                    "track_uri": "spotify:track:43gqalhe3KZX6DAV1C9Hfu",
+                    "track_name": "Me Love"
+                },
+                {
+                    "artist_name": "Mariah Carey",
+                    "track_uri": "spotify:track:3LmvfNUQtglbTrydsdIqFU",
+                    "track_name": "We Belong Together"
+                },
+                {
+                    "artist_name": "Will Smith",
+                    "track_uri": "spotify:track:2bmxx16hNi3W5FGzfFO9xX",
+                    "track_name": "Switch"
+                },
+                {
+                    "artist_name": "Nelly",
+                    "track_uri": "spotify:track:06iMqWThw4w8fTFyccvOwr",
+                    "track_name": "Ride Wit Me"
+                },
+                {
+                    "artist_name": "Baby Bash",
+                    "track_uri": "spotify:track:00LfFm08VWeZwB0Zlm24AT",
+                    "track_name": "Suga Suga"
+                },
+                {
+                    "artist_name": "Iyaz",
+                    "track_uri": "spotify:track:4E5P1XyAFtrjpiIxkydly4",
+                    "track_name": "Replay"
+                },
+                {
+                    "artist_name": "Rihanna",
+                    "track_uri": "spotify:track:3husjxyCMBvNeiTEcrpPSe",
+                    "track_name": "Unfaithful"
+                },
+                {
+                    "artist_name": "Rihanna",
+                    "track_uri": "spotify:track:4S5b3wwIXpVNvY2jeIQdKu",
+                    "track_name": "SOS"
+                },
+                {
+                    "artist_name": "Rihanna",
+                    "track_uri": "spotify:track:62LHRv9uwSNlBmByQF5jdE",
+                    "track_name": "Don't Stop The Music"
+                },
+                {
+                    "artist_name": "Rihanna",
+                    "track_uri": "spotify:track:39afswHs17v53znQm1gDTY",
+                    "track_name": "Take A Bow - Main"
+                },
+                {
+                    "artist_name": "T-Pain",
+                    "track_uri": "spotify:track:5sUlaoVcLPk2Wr695jp6dd",
+                    "track_name": "Bartender"
+                },
+                {
+                    "artist_name": "T-Pain",
+                    "track_uri": "spotify:track:4gFXY5yvHayGckJndafYQE",
+                    "track_name": "Buy U a Drank (Shawty Snappin')"
+                },
+                {
+                    "artist_name": "Lil Wayne",
+                    "track_uri": "spotify:track:4P7VFiaZb3xrXoqGwZXC3J",
+                    "track_name": "Lollipop"
+                },
+                {
+                    "artist_name": "Timbaland",
+                    "track_uri": "spotify:track:5J7iGuzi7Nj8SGvt0TAVzK",
+                    "track_name": "The Way I Are"
+                },
+                {
+                    "artist_name": "Timbaland",
+                    "track_uri": "spotify:track:2KjpWqvSKoQh0XIAywplWn",
+                    "track_name": "Give It To Me"
+                },
+                {
+                    "artist_name": "Missy Elliott",
+                    "track_uri": "spotify:track:6zsk6uF3MxfIeHPlubKBvR",
+                    "track_name": "Get Ur Freak On"
+                },
+                {
+                    "artist_name": "Missy Elliott",
+                    "track_uri": "spotify:track:3jagJCUbdqhDSPuxP8cAqF",
+                    "track_name": "Work It"
+                },
+                {
+                    "artist_name": "Missy Elliott",
+                    "track_uri": "spotify:track:0UaMYEvWZi0ZqiDOoHU3YI",
+                    "track_name": "Lose Control (feat. Ciara & Fat Man Scoop)"
+                },
+                {
+                    "artist_name": "Jay Sean",
+                    "track_uri": "spotify:track:6cmm1LMvZdB5zsCwX5BjqE",
+                    "track_name": "Down"
+                },
+                {
+                    "artist_name": "Chris Brown",
+                    "track_uri": "spotify:track:3H1LCvO3fVsK2HPguhbml0",
+                    "track_name": "Forever"
+                },
+                {
+                    "artist_name": "Pitbull",
+                    "track_uri": "spotify:track:6Zo3wgDE076K2AuiGZF3CS",
+                    "track_name": "Fun"
+                },
+                {
+                    "artist_name": "Gyptian",
+                    "track_uri": "spotify:track:0j55p8YRAPG8yajtNyjt6A",
+                    "track_name": "Hold You - Hold Yuh"
+                },
+                {
+                    "artist_name": "Ray J",
+                    "track_uri": "spotify:track:0DdpxWfVvUGgkJv5536tiF",
+                    "track_name": "Sexy Can I feat. Yung Berg"
+                },
+                {
+                    "artist_name": "Lil Jon & The East Side Boyz",
+                    "track_uri": "spotify:track:5KY7zgFeH2GWoL1zP9mME6",
+                    "track_name": "Get Low - Street"
+                },
+                {
+                    "artist_name": "Soulja Boy",
+                    "track_uri": "spotify:track:66TRwr5uJwPt15mfFkzhbi",
+                    "track_name": "Crank That (Soulja Boy)"
+                },
+                {
+                    "artist_name": "Youngbloodz",
+                    "track_uri": "spotify:track:6o3s08kk2fQI37vxGZDrJ1",
+                    "track_name": "Snap Yo Fingers"
+                },
+                {
+                    "artist_name": "Soulja Boy",
+                    "track_uri": "spotify:track:2q4rjDy9WhaN3o9MvDbO21",
+                    "track_name": "Kiss Me Thru The Phone"
+                },
+                {
+                    "artist_name": "B.o.B",
+                    "track_uri": "spotify:track:6lV2MSQmRIkycDScNtrBXO",
+                    "track_name": "Airplanes (feat. Hayley Williams of Paramore) - Explicit Album Version"
+                },
+                {
+                    "artist_name": "B.o.B",
+                    "track_uri": "spotify:track:28GUjBGqZVcAV4PHSYzkj2",
+                    "track_name": "So Good"
+                },
+                {
+                    "artist_name": "Dr. Dre",
+                    "track_uri": "spotify:track:6ltPEsP4edATzvinHOzvk2",
+                    "track_name": "Still D.R.E."
+                },
+                {
+                    "artist_name": "Snoop Dogg",
+                    "track_uri": "spotify:track:2NBQmPrOEEjA8VbeWOQGxO",
+                    "track_name": "Drop It Like It's Hot"
+                },
+                {
+                    "artist_name": "Pitbull",
+                    "track_uri": "spotify:track:2bJvI42r8EF3wxjOuDav4r",
+                    "track_name": "Time of Our Lives"
+                },
+                {
+                    "artist_name": "Pitbull",
+                    "track_uri": "spotify:track:0OPyDgTRuIdCJ9B4bYSths",
+                    "track_name": "Hotel Room Service"
+                },
+                {
+                    "artist_name": "Pitbull",
+                    "track_uri": "spotify:track:4QNpBfC0zvjKqPJcyqBy9W",
+                    "track_name": "Give Me Everything"
+                },
+                {
+                    "artist_name": "T.I.",
+                    "track_uri": "spotify:track:3jlbL2OTD5YmIunYzgQTAN",
+                    "track_name": "Live Your Life (feat. Rihanna)"
+                },
+                {
+                    "artist_name": "Alexandra Stan",
+                    "track_uri": "spotify:track:4zIaXqKCXZs02eB6jEe5Mf",
+                    "track_name": "Mr. Saxobeat - Radio Edit"
+                },
+                {
+                    "artist_name": "Jennifer Lopez",
+                    "track_uri": "spotify:track:76sWab9iC3vvk21aln8G8t",
+                    "track_name": "I'm Into You"
+                },
+                {
+                    "artist_name": "Chiddy Bang",
+                    "track_uri": "spotify:track:0O986IRZ2rL3qGH5QiD4ZO",
+                    "track_name": "Mind Your Manners (feat. Icona Pop)"
+                },
+                {
+                    "artist_name": "Jibbs",
+                    "track_uri": "spotify:track:0tYPj0NYa7vjlJaqlRSnJb",
+                    "track_name": "Chain Hang Low"
+                },
+                {
+                    "artist_name": "Mariah Carey",
+                    "track_uri": "spotify:track:3IcIIZMMS7UArJJPtEHXG8",
+                    "track_name": "Obsessed"
+                },
+                {
+                    "artist_name": "Bruno Mars",
+                    "track_uri": "spotify:track:5g7sDjBhZ4I3gcFIpkrLuI",
+                    "track_name": "Locked Out Of Heaven"
+                },
+                {
+                    "artist_name": "Bruno Mars",
+                    "track_uri": "spotify:track:6b8Be6ljOzmkOmFslEb23P",
+                    "track_name": "24K Magic"
+                },
+                {
+                    "artist_name": "Bruno Mars",
+                    "track_uri": "spotify:track:4G2Hbfwvn3oH7LxxPXjjGn",
+                    "track_name": "Treasure"
+                },
+                {
+                    "artist_name": "Bruno Mars",
+                    "track_uri": "spotify:track:386RUes7n1uM1yfzgeUuwp",
+                    "track_name": "The Lazy Song"
+                },
+                {
+                    "artist_name": "Flo Rida",
+                    "track_uri": "spotify:track:0CAfXk7DXMnon4gLudAp7J",
+                    "track_name": "Low (feat T-Pain) - Feat T-Pain Album Version"
+                },
+                {
+                    "artist_name": "Rihanna",
+                    "track_uri": "spotify:track:2ENexcMEMsYk0rVJigVD3i",
+                    "track_name": "Only Girl (In The World)"
+                },
+                {
+                    "artist_name": "Gwen Stefani",
+                    "track_uri": "spotify:track:6RcQOut9fWL6FSqeIr5M1r",
+                    "track_name": "Hollaback Girl"
+                },
+                {
+                    "artist_name": "Dem Franchize Boyz",
+                    "track_uri": "spotify:track:7cVmKBwzPsh4Fmb6SplfEm",
+                    "track_name": "Lean Wit It, Rock Wit It - feat. Peanut & Charlay"
+                },
+                {
+                    "artist_name": "Eminem",
+                    "track_uri": "spotify:track:3yfqSUWxFvZELEM4PmlwIR",
+                    "track_name": "The Real Slim Shady"
+                },
+                {
+                    "artist_name": "Eminem",
+                    "track_uri": "spotify:track:0qcjuYtMWhBjXg0Xwt5SzS",
+                    "track_name": "Just Lose It"
+                },
+                {
+                    "artist_name": "David Guetta",
+                    "track_uri": "spotify:track:2dOTkLZFbpNXrhc24CnTFd",
+                    "track_name": "Titanium (feat. Sia) - feat. Sia"
+                },
+                {
+                    "artist_name": "Taio Cruz",
+                    "track_uri": "spotify:track:2CEgGE6aESpnmtfiZwYlbV",
+                    "track_name": "Dynamite"
+                },
+                {
+                    "artist_name": "David Guetta",
+                    "track_uri": "spotify:track:7yO48FWUkqsrdxrwkGcnwl",
+                    "track_name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida) - feat. Nicki Minaj & Flo Rida"
+                },
+                {
+                    "artist_name": "Fergie",
+                    "track_uri": "spotify:track:1D066zixBwqFYqBhKgdPzp",
+                    "track_name": "Fergalicious"
+                },
+                {
+                    "artist_name": "Jennifer Lopez",
+                    "track_uri": "spotify:track:7Hv89f7Dpm5Hce1XkBbjQZ",
+                    "track_name": "On The Floor"
+                },
+                {
+                    "artist_name": "The Black Eyed Peas",
+                    "track_uri": "spotify:track:2WNVqZq1ujhMDlOAqBFkVv",
+                    "track_name": "My Humps"
+                },
+                {
+                    "artist_name": "Michael Jackson",
+                    "track_uri": "spotify:track:1OOtq8tRnDM8kG2gqUPjAj",
+                    "track_name": "Beat It - Single Version"
+                },
+                {
+                    "artist_name": "Michael Jackson",
+                    "track_uri": "spotify:track:5ChkMS8OtdzJeqyybCc9R5",
+                    "track_name": "Billie Jean"
+                },
+                {
+                    "artist_name": "B.o.B",
+                    "track_uri": "spotify:track:59dLtGBS26x7kc0rHbaPrq",
+                    "track_name": "Nothin' On You (feat. Bruno Mars)"
+                },
+                {
+                    "artist_name": "Kardinal Offishall",
+                    "track_uri": "spotify:track:4JFM7KpVxgPXargA4rzB60",
+                    "track_name": "Dangerous"
+                },
+                {
+                    "artist_name": "Miley Cyrus",
+                    "track_uri": "spotify:track:5Q0Nhxo0l2bP3pNjpGJwV1",
+                    "track_name": "Party In The U.S.A."
+                },
+                {
+                    "artist_name": "Katy Perry",
+                    "track_uri": "spotify:track:3f7gYMirBEKuc57218BjOY",
+                    "track_name": "California Gurls - feat. Snoop Dogg"
+                },
+                {
+                    "artist_name": "Mike Posner",
+                    "track_uri": "spotify:track:495O1Affo7AurEPQcvcr18",
+                    "track_name": "Cooler Than Me - Single Mix"
+                },
+                {
+                    "artist_name": "Sean Kingston",
+                    "track_uri": "spotify:track:2oENJa1T33GJ0w8dC167G4",
+                    "track_name": "Fire Burning"
+                },
+                {
+                    "artist_name": "Timbaland",
+                    "track_uri": "spotify:track:5J7iGuzi7Nj8SGvt0TAVzK",
+                    "track_name": "The Way I Are"
+                },
+                {
+                    "artist_name": "David Guetta",
+                    "track_uri": "spotify:track:77V0TWycxV4wuhcip5LF3X",
+                    "track_name": "Sexy Bitch (feat. Akon) - feat. Akon"
+                },
+                {
+                    "artist_name": "Jay Sean",
+                    "track_uri": "spotify:track:6A5NlmBCsCGbJ27jHQgKV5",
+                    "track_name": "Do You Remember"
+                },
+                {
+                    "artist_name": "Shakira",
+                    "track_uri": "spotify:track:3ZFTkvIE7kyPt6Nu3PEa7V",
+                    "track_name": "Hips Don't Lie"
+                },
+                {
+                    "artist_name": "Enrique Iglesias",
+                    "track_uri": "spotify:track:4nVyHATevhl5RC6Qmoko5H",
+                    "track_name": "I Like It"
+                },
+                {
+                    "artist_name": "Justin Bieber",
+                    "track_uri": "spotify:track:4I2GqMe7L2ccMpUbnDzYLH",
+                    "track_name": "Somebody To Love"
+                },
+                {
+                    "artist_name": "Keri Hilson",
+                    "track_uri": "spotify:track:0JmGVy7IzUM27My3UuEOOZ",
+                    "track_name": "Knock You Down"
+                },
+                {
+                    "artist_name": "Jesse McCartney",
+                    "track_uri": "spotify:track:20ORwCJusz4KS2PbTPVNKo",
+                    "track_name": "Leavin'"
+                },
+                {
+                    "artist_name": "Jamie Foxx",
+                    "track_uri": "spotify:track:08uGhvS5MfBk7crUCpnjva",
+                    "track_name": "Blame It"
+                },
+                {
+                    "artist_name": "Justin Bieber",
+                    "track_uri": "spotify:track:6eDApnV9Jdb1nYahOlbbUh",
+                    "track_name": "One Time"
+                },
+                {
+                    "artist_name": "Timbaland",
+                    "track_uri": "spotify:track:4DEmKidTANibjgv2XLVk2L",
+                    "track_name": "Carry Out (Featuring Justin Timberlake)"
+                },
+                {
+                    "artist_name": "Bruno Mars",
+                    "track_uri": "spotify:track:0B7wvvmu9EISAwZnOpjhNI",
+                    "track_name": "When I Was Your Man"
+                },
+                {
+                    "artist_name": "Rihanna",
+                    "track_uri": "spotify:track:5hlWtrnVUyAze5WkxF9P56",
+                    "track_name": "Rude Boy"
+                },
+                {
+                    "artist_name": "Bruno Mars",
+                    "track_uri": "spotify:track:4lLtanYk6tkMvooU0tWzG8",
+                    "track_name": "Grenade"
+                },
+                {
+                    "artist_name": "Michael Jackson",
+                    "track_uri": "spotify:track:2bCQHF9gdG5BNDVuEIEnNk",
+                    "track_name": "Smooth Criminal - 2012 Remaster"
+                },
+                {
+                    "artist_name": "Far East Movement",
+                    "track_uri": "spotify:track:5AyL2kgLtTWEu3qO3B9SqK",
+                    "track_name": "Like A G6"
+                },
+                {
+                    "artist_name": "Bruno Mars",
+                    "track_uri": "spotify:track:7hCNBVRhHzcsRAv0TQnOzq",
+                    "track_name": "Runaway Baby"
+                },
+                {
+                    "artist_name": "Bruno Mars",
+                    "track_uri": "spotify:track:7BqBn9nzAq8spo5e7cZ0dJ",
+                    "track_name": "Just the Way You Are"
+                },
+                {
+                    "artist_name": "Beyonc\u00e9",
+                    "track_uri": "spotify:track:1oQZk2bKBLgP1cbuFKvjkq",
+                    "track_name": "If I Were a Boy"
+                },
+                {
+                    "artist_name": "Beyonc\u00e9",
+                    "track_uri": "spotify:track:2CvOqDpQIMw69cCzWqr5yr",
+                    "track_name": "Halo"
+                },
+                {
+                    "artist_name": "Beyonc\u00e9",
+                    "track_uri": "spotify:track:1z6WtY7X4HQJvzxC4UgkSf",
+                    "track_name": "Love On Top"
+                },
+                {
+                    "artist_name": "Beyonc\u00e9",
+                    "track_uri": "spotify:track:6jG2YzhxptolDzLHTGLt7S",
+                    "track_name": "Drunk in Love"
+                },
+                {
+                    "artist_name": "Beyonc\u00e9",
+                    "track_uri": "spotify:track:5hgnY0mVcVetszbb85qeDg",
+                    "track_name": "Partition"
+                },
+                {
+                    "artist_name": "Akon",
+                    "track_uri": "spotify:track:6NncjnSD7JLEetWb9KqMRY",
+                    "track_name": "I Wanna Love You"
+                },
+                {
+                    "artist_name": "Michael Jackson",
+                    "track_uri": "spotify:track:46eu3SBuFCXWsPT39Yg3tJ",
+                    "track_name": "Don't Stop 'Til You Get Enough - Single Version"
+                },
+                {
+                    "artist_name": "Vanessa Carlton",
+                    "track_uri": "spotify:track:5y69gQtK33qxb8a24ACkCy",
+                    "track_name": "A Thousand Miles"
+                },
+                {
+                    "artist_name": "50 Cent",
+                    "track_uri": "spotify:track:41bIQPBE1lFN0mmw6Lmssz",
+                    "track_name": "21 Questions"
+                },
+                {
+                    "artist_name": "50 Cent",
+                    "track_uri": "spotify:track:5UbJK7IHuc6BSZCwagzp3L",
+                    "track_name": "I Get Money"
+                },
+                {
+                    "artist_name": "50 Cent",
+                    "track_uri": "spotify:track:69bHJ9qs5FrUJbKP8xU8uZ",
+                    "track_name": "Disco Inferno"
+                }
+            ],
+            "num_edits": 11,
+            "duration_ms": 37350961,
+            "num_artists": 80
+        },
+        {
+            "name": "2017",
+            "pid": 302,
+            "num_tracks": 102,
+            "num_followers": 16,
+            "tracks": [
+                {
+                    "artist_name": "Brasstracks",
+                    "track_uri": "spotify:track:7qoyy6rBNCGN27vOEZKgbr",
+                    "track_name": "Say U Won't"
+                },
+                {
+                    "artist_name": "Big Gigantic",
+                    "track_uri": "spotify:track:5BFKBAys16oGtHnywK6W3C",
+                    "track_name": "Polarize"
+                },
+                {
+                    "artist_name": "Big Gigantic",
+                    "track_uri": "spotify:track:0h2DNYdWq3mWE8Ov2A03oU",
+                    "track_name": "The Little Things (feat. Angela McCluskey)"
+                },
+                {
+                    "artist_name": "Big Gigantic",
+                    "track_uri": "spotify:track:1WOQUtya7U8u6fIrW11UaA",
+                    "track_name": "C'mon (feat. GRiZ)"
+                },
+                {
+                    "artist_name": "Amp Live",
+                    "track_uri": "spotify:track:67AtXJrcm3Lx12TfbtQLCC",
+                    "track_name": "Closer To The Sun (Colorado Dreamin') [Bonus Track]"
+                },
+                {
+                    "artist_name": "The Spam Allstars",
+                    "track_uri": "spotify:track:2hOLhOraIs3IK7ewYdRydg",
+                    "track_name": "Fiesta De Los Feos"
+                },
+                {
+                    "artist_name": "Mix N Blend",
+                    "track_uri": "spotify:track:5Gj1cgRmTfoL6QvH9HktUz",
+                    "track_name": "I Got ... - Beats Antique Remix"
+                },
+                {
+                    "artist_name": "Ronald Jenkees",
+                    "track_uri": "spotify:track:2icCKZBpAx9UFBkTAQKLGU",
+                    "track_name": "Magnetic Moment"
+                },
+                {
+                    "artist_name": "Champion",
+                    "track_uri": "spotify:track:6mCkRSgwX3nPmBYsRNOioQ",
+                    "track_name": "Life is Good"
+                },
+                {
+                    "artist_name": "Uppermost",
+                    "track_uri": "spotify:track:0f5KCMh16CsAkVq7f3TUzb",
+                    "track_name": "The Core"
+                },
+                {
+                    "artist_name": "My Brightest Diamond",
+                    "track_uri": "spotify:track:3CFzPi60VmdYbhSVpmFm4o",
+                    "track_name": "To Pluto's Moon (Son Lux Remix)"
+                },
+                {
+                    "artist_name": "Buku",
+                    "track_uri": "spotify:track:7kq9T14nGQfTwV99ejVX7T",
+                    "track_name": "Laugh Track"
+                },
+                {
+                    "artist_name": "ProbCause",
+                    "track_uri": "spotify:track:32aDMHBd8pZ092y7ZqRGTd",
+                    "track_name": "Good Morning (feat. Angel Davanport)"
+                },
+                {
+                    "artist_name": "Mad Manoush",
+                    "track_uri": "spotify:track:3qS7dDFGGb4kQZYjYML13K",
+                    "track_name": "Illusionen"
+                },
+                {
+                    "artist_name": "Boy Eats Drum Machine",
+                    "track_uri": "spotify:track:3gZcahUUUfLyjRhzkfYZHK",
+                    "track_name": "Gun Fight"
+                },
+                {
+                    "artist_name": "Fly Golden Eagle",
+                    "track_uri": "spotify:track:3nYFh1YqIzXibyCB7edcNB",
+                    "track_name": "Psyche's Dagger"
+                },
+                {
+                    "artist_name": "Manau",
+                    "track_uri": "spotify:track:5EQciBl9JeDjbgJJI8k07J",
+                    "track_name": "Fest Noz De Paname"
+                },
+                {
+                    "artist_name": "Mo' Horizons",
+                    "track_uri": "spotify:track:0WWuZVMVrIAD7VWNUE4Juq",
+                    "track_name": "Green Day"
+                },
+                {
+                    "artist_name": "Raashan Ahmad",
+                    "track_uri": "spotify:track:70mPHlk1kaKQvZEpEQf24Q",
+                    "track_name": "The Remedy"
+                },
+                {
+                    "artist_name": "Deluxe",
+                    "track_uri": "spotify:track:67Et9SBNspGJQqCuOCtl6r",
+                    "track_name": "Extra Mile"
+                },
+                {
+                    "artist_name": "The Shanghai Restoration Project",
+                    "track_uri": "spotify:track:3q39WfaNo82tU9ygxMLigA",
+                    "track_name": "Babylon of the Occident - Instrumental"
+                },
+                {
+                    "artist_name": "Phantogram",
+                    "track_uri": "spotify:track:3498wF96LsgVgMkGmJzJOC",
+                    "track_name": "When I'm Small"
+                },
+                {
+                    "artist_name": "Fly Golden Eagle",
+                    "track_uri": "spotify:track:465TCPhfJhG0r7ACs4Ax4k",
+                    "track_name": "Violet Crown"
+                },
+                {
+                    "artist_name": "Domaje",
+                    "track_uri": "spotify:track:5vgYAEbZvDNNDr9TyRHhN4",
+                    "track_name": "Way Down in the Hole"
+                },
+                {
+                    "artist_name": "Gotan Project",
+                    "track_uri": "spotify:track:0BhQa22X066Sgqe7D5gDOU",
+                    "track_name": "La del ruso"
+                },
+                {
+                    "artist_name": "Champion",
+                    "track_uri": "spotify:track:5AMZXsylmjnNM7PJbVTS8Z",
+                    "track_name": "Tawoumga"
+                },
+                {
+                    "artist_name": "Break Science",
+                    "track_uri": "spotify:track:48EoypZJJWCgNIrEFD7Rnf",
+                    "track_name": "Now You Want More (feat. Citizen Chance)"
+                },
+                {
+                    "artist_name": "Galactic",
+                    "track_uri": "spotify:track:5LwZqtuCQ6U5I4HjdjFbV3",
+                    "track_name": "Sugar Doosie"
+                },
+                {
+                    "artist_name": "Inspired Flight",
+                    "track_uri": "spotify:track:5X3BEhOGcbYcQNU0udSZbm",
+                    "track_name": "Jackie's Song"
+                },
+                {
+                    "artist_name": "TORN",
+                    "track_uri": "spotify:track:23ArjLv96tKE9vh4TnbqHw",
+                    "track_name": "Groove"
+                },
+                {
+                    "artist_name": "Mr. Bill",
+                    "track_uri": "spotify:track:1EujpxBQsD8NJDdFixDXG9",
+                    "track_name": "Thwek - Original Mix"
+                },
+                {
+                    "artist_name": "Nobody Beats The Drum",
+                    "track_uri": "spotify:track:5MRTtjEfYBFxoTl6UQ1NGx",
+                    "track_name": "Natural Thing"
+                },
+                {
+                    "artist_name": "Alan Watts",
+                    "track_uri": "spotify:track:192rk52HEJiyTm7SUucDBA",
+                    "track_name": "Mr. Jazz"
+                },
+                {
+                    "artist_name": "Late Night Radio",
+                    "track_uri": "spotify:track:2MoXvVJMD0VNAwx4NxefAJ",
+                    "track_name": "Find the Love (feat. Borahm Lee)"
+                },
+                {
+                    "artist_name": "Booker T. Jones",
+                    "track_uri": "spotify:track:0IzlyXWvtdlsfHiJgwr3Jh",
+                    "track_name": "Rent Party"
+                },
+                {
+                    "artist_name": "Mo Vibez",
+                    "track_uri": "spotify:track:7bJ7DUKMPWKIDfezYgMp4X",
+                    "track_name": "Champion Riddim"
+                },
+                {
+                    "artist_name": "Morillo",
+                    "track_uri": "spotify:track:553MM5Zwl8gkMQy5q0m58S",
+                    "track_name": "Polar Bear"
+                },
+                {
+                    "artist_name": "Don Winsley",
+                    "track_uri": "spotify:track:1fEd7GMQRbXqjoJrEFCBpv",
+                    "track_name": "Space Is the Place"
+                },
+                {
+                    "artist_name": "Valaire",
+                    "track_uri": "spotify:track:7zIognqNgHYkhwYW9YaQNt",
+                    "track_name": "Brandon Marlow"
+                },
+                {
+                    "artist_name": "Kidstreet",
+                    "track_uri": "spotify:track:13JrjjPpFsDcwwbvy0PumL",
+                    "track_name": "Song Reimagined"
+                },
+                {
+                    "artist_name": "Cropper",
+                    "track_uri": "spotify:track:7hUarRFJ3vy5WWo62sNweY",
+                    "track_name": "Step Back Child"
+                },
+                {
+                    "artist_name": "The New Law",
+                    "track_uri": "spotify:track:5kNylCZROyCVQyuVYa2bxG",
+                    "track_name": "Get Your Gun"
+                },
+                {
+                    "artist_name": "Ronald Jenkees",
+                    "track_uri": "spotify:track:21UTNolV5MH4DU9tF8TA4r",
+                    "track_name": "Slow to Spring"
+                },
+                {
+                    "artist_name": "Rich Aucoin",
+                    "track_uri": "spotify:track:6tdDQ11sAT0Z4g8qUXc2oq",
+                    "track_name": "Yelling in Sleep"
+                },
+                {
+                    "artist_name": "DVA",
+                    "track_uri": "spotify:track:4bRNzSQR52bq1SrOpgtoWm",
+                    "track_name": "Nunovo Tango"
+                },
+                {
+                    "artist_name": "Terravita",
+                    "track_uri": "spotify:track:45yqZRPux30yRp2EB8CW7t",
+                    "track_name": "Endangered Species"
+                },
+                {
+                    "artist_name": "FiLiBuStA",
+                    "track_uri": "spotify:track:0s6xNxn6hGiX6OkGddV2MI",
+                    "track_name": "Wild Wild West"
+                },
+                {
+                    "artist_name": "Jel",
+                    "track_uri": "spotify:track:1KNkaOJ9Z8Z0EcTEGXqyjW",
+                    "track_name": "Sweet Cream In It"
+                },
+                {
+                    "artist_name": "Too Many Zooz",
+                    "track_uri": "spotify:track:4keKh92BlOnRSEBeumCPM4",
+                    "track_name": "Warriors"
+                },
+                {
+                    "artist_name": "Toussaint Morrison",
+                    "track_uri": "spotify:track:0To6AYGdFnMjodDnj1hkrl",
+                    "track_name": "Baby, I'm Bad Weather"
+                },
+                {
+                    "artist_name": "Flume",
+                    "track_uri": "spotify:track:1CRFWfZEfLCs7pYDlXFYMJ",
+                    "track_name": "Holdin On"
+                },
+                {
+                    "artist_name": "Big Wild",
+                    "track_uri": "spotify:track:2E2tfz55diBhRxmursGiUl",
+                    "track_name": "Aftergold"
+                },
+                {
+                    "artist_name": "Disclosure",
+                    "track_uri": "spotify:track:1snNAXmmPXCn0dkF9DaPWw",
+                    "track_name": "You & Me - Flume Remix"
+                },
+                {
+                    "artist_name": "FiLiBuStA",
+                    "track_uri": "spotify:track:1zil1zOWfVRTBzxzgVci1h",
+                    "track_name": "High Roller"
+                },
+                {
+                    "artist_name": "FiLiBuStA",
+                    "track_uri": "spotify:track:44WUjxovNFgNzNiNZBU0uf",
+                    "track_name": "Talkin' to You"
+                },
+                {
+                    "artist_name": "Vandelux",
+                    "track_uri": "spotify:track:7tzvXfg423tE7z3df2xxCo",
+                    "track_name": "Stimulus"
+                },
+                {
+                    "artist_name": "Jel",
+                    "track_uri": "spotify:track:1Nub3aDhUKsmbAz9Vjb1gh",
+                    "track_name": "Thrashin"
+                },
+                {
+                    "artist_name": "araabMUZIK",
+                    "track_uri": "spotify:track:4J8My68md8nK7aOjVmTDR9",
+                    "track_name": "Orchestra Massacre"
+                },
+                {
+                    "artist_name": "Tnertle",
+                    "track_uri": "spotify:track:65nzNgQOFEE8gmp5AmBrjW",
+                    "track_name": "Dance All Night"
+                },
+                {
+                    "artist_name": "Swelo",
+                    "track_uri": "spotify:track:1kNAduyssM0OK9ZIwt8vJq",
+                    "track_name": "Brighton"
+                },
+                {
+                    "artist_name": "Professor Kliq",
+                    "track_uri": "spotify:track:1QuON1epjuRDg6PbGGLKCb",
+                    "track_name": "Overhead"
+                },
+                {
+                    "artist_name": "Koloto",
+                    "track_uri": "spotify:track:3Zo9qZVD1Ha1nlr6UV2RHh",
+                    "track_name": "Cedar Shed"
+                },
+                {
+                    "artist_name": "Mary J. Blige",
+                    "track_uri": "spotify:track:6p2guMMBnl8aJROzRgS5R9",
+                    "track_name": "Someone To Love Me (Naked)"
+                },
+                {
+                    "artist_name": "Masego",
+                    "track_uri": "spotify:track:3l75jB2gKi4VpgklWIbTOz",
+                    "track_name": "Sunday Vibes"
+                },
+                {
+                    "artist_name": "Opiuo",
+                    "track_uri": "spotify:track:0FsdP8q6zW9RKBU8faHMxU",
+                    "track_name": "Jelly"
+                },
+                {
+                    "artist_name": "Opiuo",
+                    "track_uri": "spotify:track:5kABMaJsOzFWDeBrqsMmQD",
+                    "track_name": "Wiggle Sticks - Fort Knox Five Remix"
+                },
+                {
+                    "artist_name": "Opiuo",
+                    "track_uri": "spotify:track:6MONhRt2rqmgrCQlNUSJkh",
+                    "track_name": "The Pepper"
+                },
+                {
+                    "artist_name": "Feral Fauna",
+                    "track_uri": "spotify:track:13xY1iMN7ZEOy2igWg379C",
+                    "track_name": "Tincture"
+                },
+                {
+                    "artist_name": "Archnemesis",
+                    "track_uri": "spotify:track:5Bsh8AmwtTINJQYT5rgzIJ",
+                    "track_name": "My Dream Last Night"
+                },
+                {
+                    "artist_name": "Ganja White Night",
+                    "track_uri": "spotify:track:06lcO7devl14yLdTxsVLUg",
+                    "track_name": "Kraken"
+                },
+                {
+                    "artist_name": "Esseks",
+                    "track_uri": "spotify:track:6zjDcoBPCnipa8gI9Ur5XO",
+                    "track_name": "Slomosapian (feat. D.V.S*) - Yheti Remix"
+                },
+                {
+                    "artist_name": "Stylust Beats",
+                    "track_uri": "spotify:track:1rvA6TqIjpJzDxXDngERzH",
+                    "track_name": "Cosmic Slop"
+                },
+                {
+                    "artist_name": "J. Cole",
+                    "track_uri": "spotify:track:6Ius4TC0L3cN74HT7ENE6e",
+                    "track_name": "Wet Dreamz"
+                },
+                {
+                    "artist_name": "GRiZ",
+                    "track_uri": "spotify:track:7eA5bXQ7NhmUwE0eUAXhO1",
+                    "track_name": "Where's the Love"
+                },
+                {
+                    "artist_name": "GRiZ",
+                    "track_uri": "spotify:track:5F2nsxhBG3KwNS8327dUpQ",
+                    "track_name": "Feelin' Fine"
+                },
+                {
+                    "artist_name": "Inf",
+                    "track_uri": "spotify:track:12je1bZdZblrTDRPb2jb0p",
+                    "track_name": "Suit Up - Instrumental"
+                },
+                {
+                    "artist_name": "GRiZ",
+                    "track_uri": "spotify:track:6ZDk3PGFkRKGgk6aSkw2T9",
+                    "track_name": "A Fine Way to Die"
+                },
+                {
+                    "artist_name": "The Q4",
+                    "track_uri": "spotify:track:5yNjQlN7GkXWJi1XxQuLH1",
+                    "track_name": "Beer Goggle Blues"
+                },
+                {
+                    "artist_name": "Russ Liquid",
+                    "track_uri": "spotify:track:61Yjr30ezIF96TRuCyDGxM",
+                    "track_name": "Feral Cat"
+                },
+                {
+                    "artist_name": "Opiuo",
+                    "track_uri": "spotify:track:303K7IDcSoYo6gWkbsPw7D",
+                    "track_name": "Quack Fat"
+                },
+                {
+                    "artist_name": "Lando Chill",
+                    "track_uri": "spotify:track:3ocOgX1dkSg5XDulLzJPc5",
+                    "track_name": "Rock Love"
+                },
+                {
+                    "artist_name": "Heretic Klick",
+                    "track_uri": "spotify:track:4i7YeD2mgQQ0YNSPyUs4rk",
+                    "track_name": "Brave Men"
+                },
+                {
+                    "artist_name": "Scratch Bandits Crew",
+                    "track_uri": "spotify:track:2R7Z7yEj9BptiJDUp56ORa",
+                    "track_name": "Surround Me"
+                },
+                {
+                    "artist_name": "Zack The Lad",
+                    "track_uri": "spotify:track:6Lwun2b8w7f4HwDfpPBjRf",
+                    "track_name": "I Want It"
+                },
+                {
+                    "artist_name": "Barclay Crenshaw",
+                    "track_uri": "spotify:track:0f91F1J7aQl0JJawUdf9mx",
+                    "track_name": "The Gene Sequence"
+                },
+                {
+                    "artist_name": "s0und m1nd",
+                    "track_uri": "spotify:track:0xMu2Myn6alLLUucTYdvlw",
+                    "track_name": "SLAPPED UP."
+                },
+                {
+                    "artist_name": "Lafa Taylor",
+                    "track_uri": "spotify:track:32dlXisrLwN3en5L6gfjsY",
+                    "track_name": "All My Friends Are Freaks"
+                },
+                {
+                    "artist_name": "Manicanparty",
+                    "track_uri": "spotify:track:3qGEWPBZ3L5L6mZrMgezoe",
+                    "track_name": "Fools Gold (Feat. Too Many Zooz)"
+                },
+                {
+                    "artist_name": "Diplo",
+                    "track_uri": "spotify:track:2VRjBAR75uiFsUoA2fcTFn",
+                    "track_name": "As I Lay Dying"
+                },
+                {
+                    "artist_name": "SoDown",
+                    "track_uri": "spotify:track:2kjnrN8dHF4ZORX04KokJm",
+                    "track_name": "Same Same"
+                },
+                {
+                    "artist_name": "Esseks",
+                    "track_uri": "spotify:track:7xffzDb5UPJmfnZslQh8iF",
+                    "track_name": "Business Tripping"
+                },
+                {
+                    "artist_name": "Esseks",
+                    "track_uri": "spotify:track:0RVSYcWJQzmfx5CFeZ9IGt",
+                    "track_name": "Prim"
+                },
+                {
+                    "artist_name": "Russ Liquid",
+                    "track_uri": "spotify:track:3SQyguPI469Poain6nfS8e",
+                    "track_name": "Opus One"
+                },
+                {
+                    "artist_name": "Space Jesus",
+                    "track_uri": "spotify:track:5F3t5WgLyBX2W7un8IXiLD",
+                    "track_name": "Hmu (feat. Clay Parnell & Rory \"Sweet Boy\" Dolan)"
+                },
+                {
+                    "artist_name": "Lettuce",
+                    "track_uri": "spotify:track:31pQtFVYEWAIkYPjSzz4nM",
+                    "track_name": "The Love You Left Behind (feat. Alecia Chakour)"
+                },
+                {
+                    "artist_name": "Copy",
+                    "track_uri": "spotify:track:4GZ6z3sUoH5ws73gGmNZQu",
+                    "track_name": "Closet Face"
+                },
+                {
+                    "artist_name": "Sofi Tukker",
+                    "track_uri": "spotify:track:1Cicn7ce1xoVlq8gthE2eX",
+                    "track_name": "Best Friend"
+                },
+                {
+                    "artist_name": "Artist Of The Year",
+                    "track_uri": "spotify:track:1IxIcHLiaRSGjngnlkXUPr",
+                    "track_name": "Manhunt"
+                },
+                {
+                    "artist_name": "Lucky Chops",
+                    "track_uri": "spotify:track:6EBHDzbw5MpBa3b2GASSjk",
+                    "track_name": "Funkytown / I Feel Good"
+                },
+                {
+                    "artist_name": "Savoy",
+                    "track_uri": "spotify:track:5SJ6KivyJRhhGr1xY6s4jX",
+                    "track_name": "Cata (feat. Lobounce)"
+                },
+                {
+                    "artist_name": "RJD2",
+                    "track_uri": "spotify:track:2Ko2akxyK53npZ5YqQJ7ST",
+                    "track_name": "Doin' It Right (Instrumental Version)"
+                },
+                {
+                    "artist_name": "Andrew Applepie",
+                    "track_uri": "spotify:track:5cUYq975XJ1rWuY1LLThAf",
+                    "track_name": "Hit The Gas"
+                }
+            ],
+            "num_edits": 72,
+            "duration_ms": 25381374,
+            "num_artists": 86
+        },
+        {
+            "name": "Dance Party",
+            "pid": 303,
+            "num_tracks": 42,
+            "num_followers": 22,
+            "tracks": [
+                {
+                    "artist_name": "Alessia Cara",
+                    "track_uri": "spotify:track:2ZyuwVvV6Z3XJaXIFbspeE",
+                    "track_name": "Wild Things"
+                },
+                {
+                    "artist_name": "Drake",
+                    "track_uri": "spotify:track:1xznGGDReH1oQq0xzbwXa3",
+                    "track_name": "One Dance"
+                },
+                {
+                    "artist_name": "Sia",
+                    "track_uri": "spotify:track:27SdWb2rFzO6GWiYDBTD9j",
+                    "track_name": "Cheap Thrills"
+                },
+                {
+                    "artist_name": "Sia",
+                    "track_uri": "spotify:track:7xHWNBFm6ObGEQPaUxHuKO",
+                    "track_name": "The Greatest"
+                },
+                {
+                    "artist_name": "The Chainsmokers",
+                    "track_uri": "spotify:track:7BKLCZ1jbUBVqRi2FVlTVw",
+                    "track_name": "Closer"
+                },
+                {
+                    "artist_name": "Jonas Blue",
+                    "track_uri": "spotify:track:6OZh916QF8XNunWaP97WEZ",
+                    "track_name": "Fast Car"
+                },
+                {
+                    "artist_name": "Rihanna",
+                    "track_uri": "spotify:track:14WWzenpaEgQZlqPq2nk4v",
+                    "track_name": "Work"
+                },
+                {
+                    "artist_name": "R. City",
+                    "track_uri": "spotify:track:7x5xYW5W42OGPAdHUyyguy",
+                    "track_name": "Locked Away"
+                },
+                {
+                    "artist_name": "Meghan Trainor",
+                    "track_uri": "spotify:track:1m4dXbkplvaOO4Wbdjbwxs",
+                    "track_name": "Me Too"
+                },
+                {
+                    "artist_name": "Meghan Trainor",
+                    "track_uri": "spotify:track:3ge54HUrk1ht3EX5SMhIzZ",
+                    "track_name": "NO"
+                },
+                {
+                    "artist_name": "The Chainsmokers",
+                    "track_uri": "spotify:track:0QsvXIfqM0zZoerQfsI9lm",
+                    "track_name": "Don't Let Me Down"
+                },
+                {
+                    "artist_name": "DJ Snake",
+                    "track_uri": "spotify:track:4pdPtRcBmOSQDlJ3Fk945m",
+                    "track_name": "Let Me Love You"
+                },
+                {
+                    "artist_name": "Major Lazer",
+                    "track_uri": "spotify:track:0L7loeTIg6akW84aEQZpCT",
+                    "track_name": "Light It Up (feat. Nyla & Fuse ODG) - Remix"
+                },
+                {
+                    "artist_name": "Justin Timberlake",
+                    "track_uri": "spotify:track:6JV2JOEocMgcZxYSZelKcc",
+                    "track_name": "CAN'T STOP THE FEELING! (Original Song from DreamWorks Animation's \"TROLLS\")"
+                },
+                {
+                    "artist_name": "Major Lazer",
+                    "track_uri": "spotify:track:6DNtNfH8hXkqOX1sjqmI7p",
+                    "track_name": "Cold Water (feat. Justin Bieber & M\u00d8)"
+                },
+                {
+                    "artist_name": "Major Lazer",
+                    "track_uri": "spotify:track:4WjH9Bzt3kx7z8kl0awxh4",
+                    "track_name": "Lean On (feat. M\u00d8 & DJ Snake)"
+                },
+                {
+                    "artist_name": "Jack \u00dc",
+                    "track_uri": "spotify:track:66hayvUbTotekKU3H4ta1f",
+                    "track_name": "Where Are \u00dc Now (with Justin Bieber)"
+                },
+                {
+                    "artist_name": "FRENSHIP",
+                    "track_uri": "spotify:track:2XMTqoHHSH0lvuXrvIEdco",
+                    "track_name": "Capsize"
+                },
+                {
+                    "artist_name": "Twenty One Pilots",
+                    "track_uri": "spotify:track:3CRDbSIZ4r5MsZ0YwxuEkn",
+                    "track_name": "Stressed Out"
+                },
+                {
+                    "artist_name": "Twenty One Pilots",
+                    "track_uri": "spotify:track:2Z8WuEywRWYTKe1NybPQEW",
+                    "track_name": "Ride"
+                },
+                {
+                    "artist_name": "Jess Glynne",
+                    "track_uri": "spotify:track:58jx3tTuDuzHysC77c0AQd",
+                    "track_name": "Hold My Hand"
+                },
+                {
+                    "artist_name": "Zay Hilfigerrr",
+                    "track_uri": "spotify:track:1lItf5ZXJc1by9SbPeljFd",
+                    "track_name": "Juju On That Beat (TZ Anthem)"
+                },
+                {
+                    "artist_name": "Adele",
+                    "track_uri": "spotify:track:4sPmO7WMQUAf45kwMOtONw",
+                    "track_name": "Hello"
+                },
+                {
+                    "artist_name": "Adele",
+                    "track_uri": "spotify:track:4vb4mFvYsr2h6enhjJsq9Y",
+                    "track_name": "Water Under the Bridge"
+                },
+                {
+                    "artist_name": "Adele",
+                    "track_uri": "spotify:track:4BHzQ9C00ceJxfG16AlNWb",
+                    "track_name": "Send My Love (To Your New Lover)"
+                },
+                {
+                    "artist_name": "Charlie Puth",
+                    "track_uri": "spotify:track:68EMU2RD1ECNeOeJ5qAXCV",
+                    "track_name": "We Don't Talk Anymore (feat. Selena Gomez)"
+                },
+                {
+                    "artist_name": "Justin Bieber",
+                    "track_uri": "spotify:track:69bp2EbF7Q2rqc5N3ylezZ",
+                    "track_name": "Sorry"
+                },
+                {
+                    "artist_name": "Daya",
+                    "track_uri": "spotify:track:4Z3qm2aWGTJuJKnv3EWwyD",
+                    "track_name": "Hide Away"
+                },
+                {
+                    "artist_name": "Selena Gomez",
+                    "track_uri": "spotify:track:7KxhSJOYiqCDclXDBNlFSZ",
+                    "track_name": "Kill Em With Kindness"
+                },
+                {
+                    "artist_name": "Shawn Mendes",
+                    "track_uri": "spotify:track:4Hf7WnR761jpxPr5D46Bcd",
+                    "track_name": "Treat You Better"
+                },
+                {
+                    "artist_name": "Charlie Puth",
+                    "track_uri": "spotify:track:6vSforRhuzsA0D0SO9fG1S",
+                    "track_name": "One Call Away"
+                },
+                {
+                    "artist_name": "Justin Bieber",
+                    "track_uri": "spotify:track:3hB5DgAiMAQ4DzYbsMq1IT",
+                    "track_name": "Love Yourself"
+                },
+                {
+                    "artist_name": "ZAYN",
+                    "track_uri": "spotify:track:3NdDpSvN911VPGivFlV5d0",
+                    "track_name": "I Don\u2019t Wanna Live Forever (Fifty Shades Darker) - From \"Fifty Shades Darker (Original Motion Picture Soundtrack)\""
+                },
+                {
+                    "artist_name": "Katy Perry",
+                    "track_uri": "spotify:track:6520aj0B4FSKGVuKNsOCOi",
+                    "track_name": "Chained To The Rhythm"
+                },
+                {
+                    "artist_name": "Zara Larsson",
+                    "track_uri": "spotify:track:4Q4jmPHwu0wrJvqrld0FQ6",
+                    "track_name": "I Would Like"
+                },
+                {
+                    "artist_name": "Ed Sheeran",
+                    "track_uri": "spotify:track:7qiZfU4dY1lWllzX7mPBI3",
+                    "track_name": "Shape of You"
+                },
+                {
+                    "artist_name": "Martin Garrix",
+                    "track_uri": "spotify:track:3ebXMykcMXOcLeJ9xZ17XH",
+                    "track_name": "Scared to Be Lonely"
+                },
+                {
+                    "artist_name": "Flo Rida",
+                    "track_uri": "spotify:track:6t2ubAB4iSYOuIpRAOGd4t",
+                    "track_name": "Cake"
+                },
+                {
+                    "artist_name": "Alessia Cara",
+                    "track_uri": "spotify:track:5hYTyyh2odQKphUbMqc5gN",
+                    "track_name": "How Far I'll Go - From \"Moana\""
+                },
+                {
+                    "artist_name": "will.i.am",
+                    "track_uri": "spotify:track:4DQHskgY5OOkwn9xavjv1g",
+                    "track_name": "#thatPOWER"
+                },
+                {
+                    "artist_name": "Big Gigantic",
+                    "track_uri": "spotify:track:0h2DNYdWq3mWE8Ov2A03oU",
+                    "track_name": "The Little Things (feat. Angela McCluskey)"
+                },
+                {
+                    "artist_name": "Galantis",
+                    "track_uri": "spotify:track:5muMV3XjkURQMdJcrXRDjY",
+                    "track_name": "Hunter - NGHTMRE & Rickyxsan Remix"
+                }
+            ],
+            "num_edits": 8,
+            "duration_ms": 8953345,
+            "num_artists": 31,
+            "description": "Fun CLEAN music for partying! Great upbeat and popular pop music in 2015-17"
+        },
+        {
+            "name": "Old School",
+            "pid": 304,
+            "num_tracks": 86,
+            "num_followers": 14,
+            "tracks": [
+                {
+                    "artist_name": "LL Cool J",
+                    "track_uri": "spotify:track:7F7L9O4m2FiIWV6m4Wyrqa",
+                    "track_name": "Around The Way Girl"
+                },
+                {
+                    "artist_name": "Onyx",
+                    "track_uri": "spotify:track:0W2mz7mvaBaEsC4rmoRNPn",
+                    "track_name": "Slam"
+                },
+                {
+                    "artist_name": "Pete Rock & C.L. Smooth",
+                    "track_uri": "spotify:track:2Mb3zpobD0CvJGWv6NpsPy",
+                    "track_name": "They Reminisce Over You"
+                },
+                {
+                    "artist_name": "Camp Lo",
+                    "track_uri": "spotify:track:20DcrlNK0NcRknbX4wcEO4",
+                    "track_name": "Luchini AKA This Is It"
+                },
+                {
+                    "artist_name": "Camp Lo",
+                    "track_uri": "spotify:track:6yZAdQyPJtXjATvAT8ERQg",
+                    "track_name": "Coolie High"
+                },
+                {
+                    "artist_name": "The Pharcyde",
+                    "track_uri": "spotify:track:4G3dZN9o3o2X4VKwt4CLts",
+                    "track_name": "Passin' Me By"
+                },
+                {
+                    "artist_name": "UGK",
+                    "track_uri": "spotify:track:1BVTXeq3Hv4K1QamHvrt6A",
+                    "track_name": "Front, Back & Side to Side"
+                },
+                {
+                    "artist_name": "Goodie Mob",
+                    "track_uri": "spotify:track:1rJrDaAVtS9g5ij4T88Rj5",
+                    "track_name": "Cell Therapy"
+                },
+                {
+                    "artist_name": "Gang Starr",
+                    "track_uri": "spotify:track:6lqKYoYGYprzbFXT95tDTt",
+                    "track_name": "Take It Personal"
+                },
+                {
+                    "artist_name": "Das EFX",
+                    "track_uri": "spotify:track:3HCzj965m8Fz2E8wZkir6q",
+                    "track_name": "They Want EFX"
+                },
+                {
+                    "artist_name": "Eric B. & Rakim",
+                    "track_uri": "spotify:track:48ZUwXrEOhaXLCxvmRYhZv",
+                    "track_name": "Don't Sweat The Technique"
+                },
+                {
+                    "artist_name": "EPMD",
+                    "track_uri": "spotify:track:5JKSty49E9iv1Tj6lfx68n",
+                    "track_name": "Crossover"
+                },
+                {
+                    "artist_name": "Grand Puba",
+                    "track_uri": "spotify:track:4OlpEdouAXIzch2MnllGq6",
+                    "track_name": "360 Degrees (What Goes Around) - SD50 Remix"
+                },
+                {
+                    "artist_name": "Das EFX",
+                    "track_uri": "spotify:track:5Zo9KsvmGsFHfwA1zlKv6M",
+                    "track_name": "Mic Checka"
+                },
+                {
+                    "artist_name": "Bushwick Bill",
+                    "track_uri": "spotify:track:5ycTwkLUFRzuTgULpzcSHM",
+                    "track_name": "Ever So Clear"
+                },
+                {
+                    "artist_name": "Chubb Rock",
+                    "track_uri": "spotify:track:2QHmGfplU3ypWOGgJM46in",
+                    "track_name": "Treat 'Em Right"
+                },
+                {
+                    "artist_name": "Mad Cobra",
+                    "track_uri": "spotify:track:2TajSezbrdFdex9g5L6wo9",
+                    "track_name": "Flex"
+                },
+                {
+                    "artist_name": "Main Source",
+                    "track_uri": "spotify:track:61xXmEdMWvfvXizxNs3QuU",
+                    "track_name": "Fakin The Funk"
+                },
+                {
+                    "artist_name": "EPMD",
+                    "track_uri": "spotify:track:7nk7oS0G6qG3ofHUAKbg9F",
+                    "track_name": "Da Joint"
+                },
+                {
+                    "artist_name": "EPMD",
+                    "track_uri": "spotify:track:0f1yzIIGD8k32DNVeEn6jb",
+                    "track_name": "You Gots To Chill"
+                },
+                {
+                    "artist_name": "Main Source",
+                    "track_uri": "spotify:track:4usfXMswVpCtsSfJwl6LjH",
+                    "track_name": "Looking At The Front Door"
+                },
+                {
+                    "artist_name": "A Tribe Called Quest",
+                    "track_uri": "spotify:track:4wKi7HqPf6GK0e3qbV0AtO",
+                    "track_name": "Go Ahead in the Rain - Pimp Juice's Player Paradise"
+                },
+                {
+                    "artist_name": "Kool Moe Dee",
+                    "track_uri": "spotify:track:0wbjsm1yJjzS6aVQIkCizh",
+                    "track_name": "Rise 'N' Shine"
+                },
+                {
+                    "artist_name": "Terminator X",
+                    "track_uri": "spotify:track:0qMlj5QffpAixNVYX79O1P",
+                    "track_name": "Homey Don't Play Dat"
+                },
+                {
+                    "artist_name": "Compton's Most Wanted",
+                    "track_uri": "spotify:track:66PMGMD21uPKg1ltfAHPGv",
+                    "track_name": "Growin' Up In the Hood"
+                },
+                {
+                    "artist_name": "The UMC's",
+                    "track_uri": "spotify:track:6h3MNPhpS2fE9qMPGOZSgV",
+                    "track_name": "Blie Cheese"
+                },
+                {
+                    "artist_name": "Geto Boys",
+                    "track_uri": "spotify:track:0HOqINudNgQFpg1le5Hnqe",
+                    "track_name": "Damn It Feels Good to Be a Gangsta"
+                },
+                {
+                    "artist_name": "Geto Boys",
+                    "track_uri": "spotify:track:63BokRfXSQhEU6Qi2dSJpZ",
+                    "track_name": "Mind Playing Tricks on Me"
+                },
+                {
+                    "artist_name": "Geto Boys",
+                    "track_uri": "spotify:track:6js4GbrJjNU0Kp5ipDQ9vc",
+                    "track_name": "G Code"
+                },
+                {
+                    "artist_name": "DJ Jazzy Jeff & The Fresh Prince",
+                    "track_uri": "spotify:track:20XdEFyaUR9C7aDIdq2OAd",
+                    "track_name": "Summertime"
+                },
+                {
+                    "artist_name": "Above The Law",
+                    "track_uri": "spotify:track:0tVSehz9YkXjtlMjtmQwLz",
+                    "track_name": "Murder Rap"
+                },
+                {
+                    "artist_name": "The D.O.C.",
+                    "track_uri": "spotify:track:3rUVrxExy58koSwc7mn5JW",
+                    "track_name": "D.O.C. AND THE DOCTOR"
+                },
+                {
+                    "artist_name": "Candyman",
+                    "track_uri": "spotify:track:4bvqOj9QiH6qKecLiefKst",
+                    "track_name": "Knockin' Boots"
+                },
+                {
+                    "artist_name": "Father MC",
+                    "track_uri": "spotify:track:7zyLObYw4QUKQDyZOb4J0Y",
+                    "track_name": "I'll Do 4 U (Re-Recorded / Remastered)"
+                },
+                {
+                    "artist_name": "Yo-Yo",
+                    "track_uri": "spotify:track:7yFVwzeawvaoysd2fyCR8t",
+                    "track_name": "You Can't Play With My Yo-Yo (feat. Ice Cube)"
+                },
+                {
+                    "artist_name": "Black Sheep",
+                    "track_uri": "spotify:track:1I1ycyokEiLqNHeRR3c63i",
+                    "track_name": "The Choice Is Yours"
+                },
+                {
+                    "artist_name": "Mc Brains",
+                    "track_uri": "spotify:track:2f8uDL0SJJLCDnCemgthZj",
+                    "track_name": "Oochie Coochie"
+                },
+                {
+                    "artist_name": "Shabba Ranks",
+                    "track_uri": "spotify:track:5sW7Me17E0KWeHZ8Jb6CPB",
+                    "track_name": "The Jam"
+                },
+                {
+                    "artist_name": "Arrested Development",
+                    "track_uri": "spotify:track:1aaoIHFT9UqhlaEwLAhh00",
+                    "track_name": "Tennessee"
+                },
+                {
+                    "artist_name": "Nice & Smooth",
+                    "track_uri": "spotify:track:18Mh3v6rBCCpcNYzyaA2RN",
+                    "track_name": "Sometimes I Rhyme Slow"
+                },
+                {
+                    "artist_name": "Intelligent Hoodlum",
+                    "track_uri": "spotify:track:6Y7QZEhFj5nQ4dp19F0XvQ",
+                    "track_name": "Grand Groove"
+                },
+                {
+                    "artist_name": "Lords Of The Underground",
+                    "track_uri": "spotify:track:34MRi5GRWHFUa731JBxFEl",
+                    "track_name": "Chief Rocka"
+                },
+                {
+                    "artist_name": "Trends of Culture",
+                    "track_uri": "spotify:track:3tMSHMRnpPr1XBKY7oe6pZ",
+                    "track_name": "Valley Of The Skinz"
+                },
+                {
+                    "artist_name": "Erick Sermon",
+                    "track_uri": "spotify:track:6jaj4k0LwFLy1q54TXZZpZ",
+                    "track_name": "Stay Real"
+                },
+                {
+                    "artist_name": "Domino",
+                    "track_uri": "spotify:track:6Q1Aop0fjFcyTXuY8OzxtY",
+                    "track_name": "Ghetto Jam"
+                },
+                {
+                    "artist_name": "Craig Mack",
+                    "track_uri": "spotify:track:3X414ZlCf5U7pcpIaIcUkT",
+                    "track_name": "Flava In Ya Ear"
+                },
+                {
+                    "artist_name": "MC Breed",
+                    "track_uri": "spotify:track:5oqSr3rehtGgZyDh0LCSA7",
+                    "track_name": "Gotta Get Mine"
+                },
+                {
+                    "artist_name": "Public Enemy",
+                    "track_uri": "spotify:track:2Zee1WUad6c7Gr2Xny64cE",
+                    "track_name": "Black Steel In The Hour Of Chaos"
+                },
+                {
+                    "artist_name": "Poor Righteous Teachers",
+                    "track_uri": "spotify:track:0f7JWpS4Z59ta9SKkeFavD",
+                    "track_name": "Holy Intellect - Tryandblendit Remix"
+                },
+                {
+                    "artist_name": "MC Eiht",
+                    "track_uri": "spotify:track:5UQOmTylBEdsIfSn37v3DO",
+                    "track_name": "Straight Up Menace"
+                },
+                {
+                    "artist_name": "Brand Nubian",
+                    "track_uri": "spotify:track:4f9CR6P5lcnhMmPRJej02N",
+                    "track_name": "Slow Down - Explicit LP Version"
+                },
+                {
+                    "artist_name": "Brand Nubian",
+                    "track_uri": "spotify:track:6SPLDBrNpTDLdcHV2xGvzu",
+                    "track_name": "Punks Jump Up to Get Beat Down - Explicit LP Version"
+                },
+                {
+                    "artist_name": "Brand Nubian",
+                    "track_uri": "spotify:track:0oRhyzPYXQojkIoSgwmrZy",
+                    "track_name": "All for One"
+                },
+                {
+                    "artist_name": "Big Daddy Kane",
+                    "track_uri": "spotify:track:0dNiLb9FEHrRK7VFDJctiR",
+                    "track_name": "Ain't No Half-Steppin'"
+                },
+                {
+                    "artist_name": "Marley Marl",
+                    "track_uri": "spotify:track:0YF8nmOpGYqzgCEkKNJp6m",
+                    "track_name": "The Symphony"
+                },
+                {
+                    "artist_name": "Big Daddy Kane",
+                    "track_uri": "spotify:track:1Z4mVNtYGnpjHUoZVo3IMU",
+                    "track_name": "Smooth Operator"
+                },
+                {
+                    "artist_name": "Grand Puba",
+                    "track_uri": "spotify:track:3nqnWEZnYoetfO2ksMZZVK",
+                    "track_name": "I Like It (I Wanna Be Where You Are)"
+                },
+                {
+                    "artist_name": "Pete Rock & C.L. Smooth",
+                    "track_uri": "spotify:track:0vDgtmc5vMDyE69oYnAbUm",
+                    "track_name": "The Creator"
+                },
+                {
+                    "artist_name": "Boogie Down Productions",
+                    "track_uri": "spotify:track:79rl4Y3cgPhLKDtzW7zpVZ",
+                    "track_name": "My Philosophy"
+                },
+                {
+                    "artist_name": "Poor Righteous Teachers",
+                    "track_uri": "spotify:track:4sqa3la7lW1uCj10PuUiJK",
+                    "track_name": "Rock Dis Funky Joint"
+                },
+                {
+                    "artist_name": "Black Moon",
+                    "track_uri": "spotify:track:6Xio661Y2iL7SDKFFOG9cv",
+                    "track_name": "Who Got Da Props"
+                },
+                {
+                    "artist_name": "Slick Rick",
+                    "track_uri": "spotify:track:71A6V5dh5Y8ikhm6NGwZ7p",
+                    "track_name": "Children's Story"
+                },
+                {
+                    "artist_name": "Slick Rick",
+                    "track_uri": "spotify:track:4TGHOWSNAwUXn5onDQr0P1",
+                    "track_name": "Street Talkin'"
+                },
+                {
+                    "artist_name": "Slick Rick",
+                    "track_uri": "spotify:track:0q29h0PnCnuo7B0xXcg2mp",
+                    "track_name": "Hey Young World"
+                },
+                {
+                    "artist_name": "KRS-One",
+                    "track_uri": "spotify:track:0H7wdsHwWmKGPbGtBGS9DM",
+                    "track_name": "Sound of da Police"
+                },
+                {
+                    "artist_name": "Gang Starr",
+                    "track_uri": "spotify:track:30oTS7bm0aH3p7lqjEIu8q",
+                    "track_name": "Full Clip"
+                },
+                {
+                    "artist_name": "Gang Starr",
+                    "track_uri": "spotify:track:3JHx8dYpC7DuAAtgzCshaa",
+                    "track_name": "Moment Of Truth"
+                },
+                {
+                    "artist_name": "The Pharcyde",
+                    "track_uri": "spotify:track:0XgpiStoxq1IJncYlPrvZ5",
+                    "track_name": "Runnin'"
+                },
+                {
+                    "artist_name": "De La Soul",
+                    "track_uri": "spotify:track:7ao6UmSKAz3kponATY1qRW",
+                    "track_name": "Me, Myself & I"
+                },
+                {
+                    "artist_name": "De La Soul",
+                    "track_uri": "spotify:track:6RBMpENxbx74lTdR5SBcaF",
+                    "track_name": "Rock Co.Kane Flow (feat. MF Doom)"
+                },
+                {
+                    "artist_name": "Spice 1",
+                    "track_uri": "spotify:track:6ZSzBpV17uSZR1pIP7EZAK",
+                    "track_name": "Welcome To the Ghetto"
+                },
+                {
+                    "artist_name": "Spice 1",
+                    "track_uri": "spotify:track:3KVbft4BvpW1Xas0sT6clb",
+                    "track_name": "187 Proof"
+                },
+                {
+                    "artist_name": "MC Eiht",
+                    "track_uri": "spotify:track:5UQOmTylBEdsIfSn37v3DO",
+                    "track_name": "Straight Up Menace"
+                },
+                {
+                    "artist_name": "Too $hort",
+                    "track_uri": "spotify:track:3B6WDceNe6lUQnczntRIuf",
+                    "track_name": "The Ghetto"
+                },
+                {
+                    "artist_name": "DJ Quik",
+                    "track_uri": "spotify:track:2hluGQtmPypU3tsQudCQ3U",
+                    "track_name": "Tonite"
+                },
+                {
+                    "artist_name": "DJ Quik",
+                    "track_uri": "spotify:track:1N7qu71GFoEzp7KK10Y7m3",
+                    "track_name": "Pitch In OnA Party"
+                },
+                {
+                    "artist_name": "Daz Dillinger",
+                    "track_uri": "spotify:track:0BBE4uwsA27zXmK7T9c2xb",
+                    "track_name": "U Make Me Wanna"
+                },
+                {
+                    "artist_name": "Daz Dillinger",
+                    "track_uri": "spotify:track:1uqMiLD3uoBepH4sf8OEuF",
+                    "track_name": "Money On My Mind - Feat. Kurupt"
+                },
+                {
+                    "artist_name": "Luniz",
+                    "track_uri": "spotify:track:4IYKjN1DrYzxKXt0umJqsG",
+                    "track_name": "I Got 5 On It - Feat. Michael Marshall"
+                },
+                {
+                    "artist_name": "KRS-One",
+                    "track_uri": "spotify:track:0snDRsjNRMJhm7SVja8l6J",
+                    "track_name": "MC's Act Like They Don't Know"
+                },
+                {
+                    "artist_name": "Rakim",
+                    "track_uri": "spotify:track:2p9sprAX27D6U5cuSE9NsM",
+                    "track_name": "When I B On Tha Mic"
+                },
+                {
+                    "artist_name": "N.W.A.",
+                    "track_uri": "spotify:track:52IuMfbQa9aqRPz2oYPAI8",
+                    "track_name": "Express Yourself"
+                },
+                {
+                    "artist_name": "Eric B. & Rakim",
+                    "track_uri": "spotify:track:20s3FayrStM8GY0m4dRFsw",
+                    "track_name": "Paid In Full"
+                },
+                {
+                    "artist_name": "Eazy-E",
+                    "track_uri": "spotify:track:53BZ6XygAoubR5DU5w38Vq",
+                    "track_name": "Real Muthaphuckkin' G's"
+                },
+                {
+                    "artist_name": "Kool G Rap",
+                    "track_uri": "spotify:track:0LfoVjNyrzkCLzarDAazCh",
+                    "track_name": "ILL Street Blues"
+                },
+                {
+                    "artist_name": "Eazy-E",
+                    "track_uri": "spotify:track:4SZ3B3y1TbwTK4OIXMOVEy",
+                    "track_name": "Boyz-N-The-Hood"
+                }
+            ],
+            "num_edits": 5,
+            "duration_ms": 22530065,
+            "num_artists": 60
+        },
+        {
+            "name": "best of 2017",
+            "pid": 305,
+            "num_tracks": 56,
+            "num_followers": 29,
+            "tracks": [
+                {
+                    "artist_name": "Billie Eilish",
+                    "track_uri": "spotify:track:51NFxnQvaosfDDutk0tams",
+                    "track_name": "bellyache"
+                },
+                {
+                    "artist_name": "Amber Run",
+                    "track_uri": "spotify:track:6U8EShYiwNNrGogCxTeFm2",
+                    "track_name": "Haze"
+                },
+                {
+                    "artist_name": "Perfume Genius",
+                    "track_uri": "spotify:track:3Gda1sTo2ZjbztjjsnAsP3",
+                    "track_name": "Slip Away"
+                },
+                {
+                    "artist_name": "MILCK",
+                    "track_uri": "spotify:track:60oCAd3gei66GObniGX4wV",
+                    "track_name": "Quiet - Stripped"
+                },
+                {
+                    "artist_name": "Phantogram",
+                    "track_uri": "spotify:track:707d8L3OzWPJSli7qpnejO",
+                    "track_name": "Fall In Love - Until The Ribbon Breaks Reimagination"
+                },
+                {
+                    "artist_name": "Glass Animals",
+                    "track_uri": "spotify:track:7a9wmrYMkvjS1eEGzQPaLp",
+                    "track_name": "Agnes - Radio Edit"
+                },
+                {
+                    "artist_name": "Harry Styles",
+                    "track_uri": "spotify:track:33bURv895AN4FkBvgFo2dx",
+                    "track_name": "Woman"
+                },
+                {
+                    "artist_name": "Harry Styles",
+                    "track_uri": "spotify:track:1IF5UcqRO42D12vYwceOY6",
+                    "track_name": "From the Dining Table"
+                },
+                {
+                    "artist_name": "MUNA",
+                    "track_uri": "spotify:track:5NfpIjvaqEbrG46NmE3adV",
+                    "track_name": "In My Way"
+                },
+                {
+                    "artist_name": "MUNA",
+                    "track_uri": "spotify:track:7amhPuxeGqyhpSuBfkx9lO",
+                    "track_name": "Everything"
+                },
+                {
+                    "artist_name": "MUNA",
+                    "track_uri": "spotify:track:0bPSRn4crnh5f1JhELPlyL",
+                    "track_name": "I Know A Place"
+                },
+                {
+                    "artist_name": "Lord Huron",
+                    "track_uri": "spotify:track:6mORGLOz79w6VsCRLWYYuK",
+                    "track_name": "The Night We Met"
+                },
+                {
+                    "artist_name": "Lorde",
+                    "track_uri": "spotify:track:1wC93sZRGcTgKLN2UWRSwW",
+                    "track_name": "Perfect Places"
+                },
+                {
+                    "artist_name": "Rihanna",
+                    "track_uri": "spotify:track:2aksifNn5ph8igDOkPBA02",
+                    "track_name": "Love On The Brain"
+                },
+                {
+                    "artist_name": "Lorde",
+                    "track_uri": "spotify:track:5r011NB07RHjABbuVGVIbd",
+                    "track_name": "The Louvre"
+                },
+                {
+                    "artist_name": "Harry Styles",
+                    "track_uri": "spotify:track:4B1rpPmQXwj78wk6aIGwwU",
+                    "track_name": "Two Ghosts"
+                },
+                {
+                    "artist_name": "Paramore",
+                    "track_uri": "spotify:track:2RJfK2pOvGpnxC255YOy5k",
+                    "track_name": "Rose-Colored Boy"
+                },
+                {
+                    "artist_name": "Paramore",
+                    "track_uri": "spotify:track:6t44iU80A0h8WQ7vc4OoRj",
+                    "track_name": "Fake Happy"
+                },
+                {
+                    "artist_name": "The Lumineers",
+                    "track_uri": "spotify:track:2d9totnSVmmczPtHFl8Ys6",
+                    "track_name": "Sleep On The Floor"
+                },
+                {
+                    "artist_name": "SZA",
+                    "track_uri": "spotify:track:06u5LrUpbosQlQ1QJFhPpG",
+                    "track_name": "Drew Barrymore"
+                },
+                {
+                    "artist_name": "Frank Ocean",
+                    "track_uri": "spotify:track:3xKsf9qdS1CyvXSMEid6g8",
+                    "track_name": "Pink + White"
+                },
+                {
+                    "artist_name": "Lorde",
+                    "track_uri": "spotify:track:0dyiHoYbYjYaOEXLpmzQZG",
+                    "track_name": "Supercut"
+                },
+                {
+                    "artist_name": "St. Vincent",
+                    "track_uri": "spotify:track:2qTy3hGSbxoSenKmlKGHFw",
+                    "track_name": "Los Ageless"
+                },
+                {
+                    "artist_name": "Charli XCX",
+                    "track_uri": "spotify:track:5o4yGlG0PfeVUa6ClIyOxq",
+                    "track_name": "Boys"
+                },
+                {
+                    "artist_name": "Allie X",
+                    "track_uri": "spotify:track:5qEBcW3yTpdLscWkZNoO6s",
+                    "track_name": "OLD HABITS DIE HARD"
+                },
+                {
+                    "artist_name": "Bastille",
+                    "track_uri": "spotify:track:2XbPIycgx6OkOXQ9IHbbmL",
+                    "track_name": "Basket Case - From \u2018The Tick\u2019 TV Series"
+                },
+                {
+                    "artist_name": "Zedd",
+                    "track_uri": "spotify:track:0dA2Mk56wEzDgegdC6R17g",
+                    "track_name": "Stay (with Alessia Cara)"
+                },
+                {
+                    "artist_name": "Martin Garrix",
+                    "track_uri": "spotify:track:6jA8HL9i4QGzsj6fjoxp8Y",
+                    "track_name": "There for You"
+                },
+                {
+                    "artist_name": "Halsey",
+                    "track_uri": "spotify:track:11EDhDAVDtGPoSar6ootYA",
+                    "track_name": "Strangers"
+                },
+                {
+                    "artist_name": "Pvris",
+                    "track_uri": "spotify:track:0TQDzRIxkn7Z3FU5Las5QC",
+                    "track_name": "Winter"
+                },
+                {
+                    "artist_name": "Superfruit",
+                    "track_uri": "spotify:track:5qOmZ8D5KueySUYqkyYypI",
+                    "track_name": "Hurry Up!"
+                },
+                {
+                    "artist_name": "Paramore",
+                    "track_uri": "spotify:track:0w5Bdu51Ka25Pf3hojsKHh",
+                    "track_name": "Hard Times"
+                },
+                {
+                    "artist_name": "Sky Ferreira",
+                    "track_uri": "spotify:track:2qM9TCbNQcHvGtwmh5nulc",
+                    "track_name": "Easy - Music From The Motion Picture Baby Driver"
+                },
+                {
+                    "artist_name": "Betty Who",
+                    "track_uri": "spotify:track:7w4mkp1xaWFZXRo3ZxO6Nb",
+                    "track_name": "The Valley"
+                },
+                {
+                    "artist_name": "V\u00c9RIT\u00c9",
+                    "track_uri": "spotify:track:0bcpHtNR3R9twX2w4VjQmz",
+                    "track_name": "When You're Gone"
+                },
+                {
+                    "artist_name": "V\u00c9RIT\u00c9",
+                    "track_uri": "spotify:track:2ShBgThQYkfc5BXXvnDCek",
+                    "track_name": "Saint"
+                },
+                {
+                    "artist_name": "Lorde",
+                    "track_uri": "spotify:track:12o6dxWGk29uIAP3OWY0pM",
+                    "track_name": "Homemade Dynamite"
+                },
+                {
+                    "artist_name": "Halsey",
+                    "track_uri": "spotify:track:7i2DJ88J7jQ8K7zqFX2fW8",
+                    "track_name": "Now Or Never"
+                },
+                {
+                    "artist_name": "Harry Styles",
+                    "track_uri": "spotify:track:3Dwq1oiOFys6Sxr5SslmXw",
+                    "track_name": "Carolina"
+                },
+                {
+                    "artist_name": "Lorde",
+                    "track_uri": "spotify:track:3ZrpYrx9TlulkmWVz4t9Tc",
+                    "track_name": "Hard Feelings/Loveless"
+                },
+                {
+                    "artist_name": "Superfruit",
+                    "track_uri": "spotify:track:3JTjLyrnevl9ASw3ayGO2P",
+                    "track_name": "GUY.exe"
+                },
+                {
+                    "artist_name": "Niall Horan",
+                    "track_uri": "spotify:track:38yBBH2jacvDxrznF7h08J",
+                    "track_name": "Slow Hands"
+                },
+                {
+                    "artist_name": "Paramore",
+                    "track_uri": "spotify:track:7BpYWzZwrsljT1eIjb0TqR",
+                    "track_name": "Told You So"
+                },
+                {
+                    "artist_name": "Kesha",
+                    "track_uri": "spotify:track:0jdny0dhgjUwoIp5GkqEaA",
+                    "track_name": "Praying"
+                },
+                {
+                    "artist_name": "Harry Styles",
+                    "track_uri": "spotify:track:5LABCxgmP7DATATIJXOh6n",
+                    "track_name": "Ever Since New York"
+                },
+                {
+                    "artist_name": "Lorde",
+                    "track_uri": "spotify:track:0or0gNaKAXYYCsOrpvRzAu",
+                    "track_name": "Liability"
+                },
+                {
+                    "artist_name": "Louis Tomlinson",
+                    "track_uri": "spotify:track:7F9vK8hNFMml4GtHsaXui6",
+                    "track_name": "Back to You (feat. Bebe Rexha & Digital Farm Animals)"
+                },
+                {
+                    "artist_name": "Billie Eilish",
+                    "track_uri": "spotify:track:6GehIyYyvHcfhNIG11SU3U",
+                    "track_name": "my boy"
+                },
+                {
+                    "artist_name": "Lorde",
+                    "track_uri": "spotify:track:0gbBzIqrECJOEPvQJIBFs5",
+                    "track_name": "Green Light"
+                },
+                {
+                    "artist_name": "Harry Styles",
+                    "track_uri": "spotify:track:5kRPPEWFJIMox5qIkQkiz5",
+                    "track_name": "Sweet Creature"
+                },
+                {
+                    "artist_name": "Harry Styles",
+                    "track_uri": "spotify:track:5Ohxk2dO5COHF1krpoPigN",
+                    "track_name": "Sign of the Times"
+                },
+                {
+                    "artist_name": "Steve Aoki",
+                    "track_uri": "spotify:track:3EmmCZoqpWOTY1g2GBwJoR",
+                    "track_name": "Just Hold On"
+                },
+                {
+                    "artist_name": "Lana Del Rey",
+                    "track_uri": "spotify:track:0mt02gJ425Xjm7c3jYkOBn",
+                    "track_name": "Lust For Life (with The Weeknd)"
+                },
+                {
+                    "artist_name": "Bruno Mars",
+                    "track_uri": "spotify:track:0KKkJNfGyhkQ5aFogxQAPU",
+                    "track_name": "That's What I Like"
+                },
+                {
+                    "artist_name": "Julia Michaels",
+                    "track_uri": "spotify:track:6D0b04NJIKfEMg040WioJQ",
+                    "track_name": "Issues"
+                },
+                {
+                    "artist_name": "MUNA",
+                    "track_uri": "spotify:track:6U8onHqKn5sBZIUA5vvIaG",
+                    "track_name": "Relief Next to Me"
+                }
+            ],
+            "num_edits": 8,
+            "duration_ms": 12137355,
+            "num_artists": 34,
+            "description": "everything released this year that i personally jammed to (not genre specific. buckle up)"
+        },
+        {
+            "name": "Spanish Trap",
+            "pid": 306,
+            "num_tracks": 33,
+            "num_followers": 14,
+            "tracks": [
+                {
+                    "artist_name": "Farruko",
+                    "track_uri": "spotify:track:2FrnTVSHjgnEylKGdHRUK1",
+                    "track_name": "Diles (feat. Arcangel, Nengo Flow, Dj Luian & Mambo Kings)"
+                },
+                {
+                    "artist_name": "Ozuna",
+                    "track_uri": "spotify:track:6041gM9Th1ViQcnzkIxnuv",
+                    "track_name": "Me Ama Me Odia"
+                },
+                {
+                    "artist_name": "Mambo Kingz",
+                    "track_uri": "spotify:track:4ojwGTehgBRAg52jbFgzJg",
+                    "track_name": "Me Reclama"
+                },
+                {
+                    "artist_name": "Ozuna",
+                    "track_uri": "spotify:track:0QetVR4wwvyiTezQeFNdeZ",
+                    "track_name": "En La Intimidad"
+                },
+                {
+                    "artist_name": "Arcangel",
+                    "track_uri": "spotify:track:6NSMQFKgjpQb0KkjMDYIK0",
+                    "track_name": "Tu No Vive Asi (feat. Mambo Kingz & DJ Luian)"
+                },
+                {
+                    "artist_name": "Arcangel",
+                    "track_uri": "spotify:track:3LgtCt7CVhMvNSMGoQD9i1",
+                    "track_name": "Me Llamas"
+                },
+                {
+                    "artist_name": "Anuel Aa",
+                    "track_uri": "spotify:track:1JUb1eFUB4MXlyJUGCDUS3",
+                    "track_name": "Me Contagie"
+                },
+                {
+                    "artist_name": "Bad Bunny",
+                    "track_uri": "spotify:track:5MT96Zz0ymUJNm8obKZQr0",
+                    "track_name": "Soy Peor"
+                },
+                {
+                    "artist_name": "El Alfa",
+                    "track_uri": "spotify:track:1appeARJNMsAD2TCKhbS6y",
+                    "track_name": "Dema Ga Ge Gi Go Gu"
+                },
+                {
+                    "artist_name": "Atomic Otro Way",
+                    "track_uri": "spotify:track:6OdD1XrpFD5BuxiAMFUWZC",
+                    "track_name": "Te De Campana"
+                },
+                {
+                    "artist_name": "Los De La Nazza",
+                    "track_uri": "spotify:track:36JI0KHc591i9liHaFqDFG",
+                    "track_name": "Falsas Mentiras (feat. Ozuna)"
+                },
+                {
+                    "artist_name": "Jory Boy",
+                    "track_uri": "spotify:track:5hKjEpYrJIJs6uPl7zw6Y6",
+                    "track_name": "No Te Hagas"
+                },
+                {
+                    "artist_name": "Bad Bunny",
+                    "track_uri": "spotify:track:17nOaHsTn06jxuU9NpHuFU",
+                    "track_name": "Pa Ti"
+                },
+                {
+                    "artist_name": "J Balvin",
+                    "track_uri": "spotify:track:693iqPOQvhI7PobtR8CC8v",
+                    "track_name": "Bonita"
+                },
+                {
+                    "artist_name": "Ozuna",
+                    "track_uri": "spotify:track:5zSOVwaY3sVjnmLhuEfsuf",
+                    "track_name": "T\u00fa Foto"
+                },
+                {
+                    "artist_name": "Chris Jeday",
+                    "track_uri": "spotify:track:22eADXu8DfOAUEDw4vU8qy",
+                    "track_name": "Ahora Dice"
+                },
+                {
+                    "artist_name": "J Balvin",
+                    "track_uri": "spotify:track:6qDF4wWL49CAVbgT7yuHl8",
+                    "track_name": "Sigo Extra\u00f1\u00e1ndote"
+                },
+                {
+                    "artist_name": "Daddy Yankee",
+                    "track_uri": "spotify:track:4okba5wu9mMLXx79DXLKi3",
+                    "track_name": "La Rompe Corazones"
+                },
+                {
+                    "artist_name": "J Alvarez",
+                    "track_uri": "spotify:track:3tWeAH4IYIrxV2jrUk9Ab3",
+                    "track_name": "Esa Boquita"
+                },
+                {
+                    "artist_name": "Noriel",
+                    "track_uri": "spotify:track:62NeZ2Vtrz5HgtQibleMNs",
+                    "track_name": "Diablita"
+                },
+                {
+                    "artist_name": "Bad Bunny",
+                    "track_uri": "spotify:track:2wgDAPgBhFA7pnIbm0YOhP",
+                    "track_name": "Me Mata"
+                },
+                {
+                    "artist_name": "Bad Bunny",
+                    "track_uri": "spotify:track:7oZKzSymWd6cTXX4sEYiXo",
+                    "track_name": "Me Llueven 2"
+                },
+                {
+                    "artist_name": "Arcangel",
+                    "track_uri": "spotify:track:2FIm6YsSGL5acOqSuJDh5s",
+                    "track_name": "Me Acostumbre (feat. Bad Bunny)"
+                },
+                {
+                    "artist_name": "DJ Nelson",
+                    "track_uri": "spotify:track:1UlTQp0mvyG3HLTfoRkgl5",
+                    "track_name": "Ayer (remix) [feat. Anuel Aa & Farruko]"
+                },
+                {
+                    "artist_name": "Bad Bunny",
+                    "track_uri": "spotify:track:10nQ3Pj0o1XotcikgJPVKD",
+                    "track_name": "Tu No Metes Cabra"
+                },
+                {
+                    "artist_name": "Arcangel",
+                    "track_uri": "spotify:track:6nQCni9g6jDYKXaViEuDyS",
+                    "track_name": "Hace Mucho Tiempo"
+                },
+                {
+                    "artist_name": "Farruko",
+                    "track_uri": "spotify:track:7FfpP3YZ6fOWMdxkIAtud9",
+                    "track_name": "Krippy Kush"
+                },
+                {
+                    "artist_name": "Gigolo Y La Exce",
+                    "track_uri": "spotify:track:3iDPALl8BoUbuXZgy6EOWY",
+                    "track_name": "Sexto Sentido (feat. Bad Bunny)"
+                },
+                {
+                    "artist_name": "Rvssian",
+                    "track_uri": "spotify:track:2naJy8SKJ27gj6ZhRPDKaz",
+                    "track_name": "Si Tu Lo Dejas"
+                },
+                {
+                    "artist_name": "Major Lazer",
+                    "track_uri": "spotify:track:6ciFFQZcrCwSiUBZvEZrJc",
+                    "track_name": "Know No Better (feat. Travis Scott & Quavo) - Bad Bunny Remix"
+                },
+                {
+                    "artist_name": "Ozuna",
+                    "track_uri": "spotify:track:5EId1m4DNwTf3at31w8bPJ",
+                    "track_name": "El Farsante"
+                },
+                {
+                    "artist_name": "Jonz",
+                    "track_uri": "spotify:track:4COGASZEbAxmH6k5gYMo6G",
+                    "track_name": "0 Sentimientos (Remix) [feat. Noriel, Darkiel, Lyan, Messiah & Baby Rasta]"
+                },
+                {
+                    "artist_name": "Brytiago",
+                    "track_uri": "spotify:track:0swhRlMVAFZUralMYJ7RAj",
+                    "track_name": "Punto G - Remix"
+                }
+            ],
+            "num_edits": 14,
+            "duration_ms": 8362723,
+            "num_artists": 21
+        },
+        {
+            "name": "Stay Alive",
+            "pid": 307,
+            "num_tracks": 17,
+            "num_followers": 3197,
+            "tracks": [
+                {
+                    "artist_name": "Kendrick Lamar",
+                    "track_uri": "spotify:track:2LTlO3NuNVN70lp2ZbVswF",
+                    "track_name": "FEEL."
+                },
+                {
+                    "artist_name": "J. Period",
+                    "track_uri": "spotify:track:72AHM4UKrD5E0hsBhlCE8Q",
+                    "track_name": "Stay Alive - Interlude"
+                },
+                {
+                    "artist_name": "Dessa",
+                    "track_uri": "spotify:track:0DBIBXDluJ3aGEWmRMAPnN",
+                    "track_name": "Dixon's Girl"
+                },
+                {
+                    "artist_name": "Frank Sinatra",
+                    "track_uri": "spotify:track:6OUZL1ept8Ay2cwesHyi8y",
+                    "track_name": "I Believe In You"
+                },
+                {
+                    "artist_name": "Juan Luis Guerra 4.40",
+                    "track_uri": "spotify:track:7sR9FP2jSgci9pm83MPaey",
+                    "track_name": "De Moca A Paris"
+                },
+                {
+                    "artist_name": "The Smashing Pumpkins",
+                    "track_uri": "spotify:track:4iCGSi1RonREsPtfEKYj5b",
+                    "track_name": "Tonight, Tonight"
+                },
+                {
+                    "artist_name": "The Cure",
+                    "track_uri": "spotify:track:4xiyq1iRdsxuU1BPUJ490Z",
+                    "track_name": "Close To Me"
+                },
+                {
+                    "artist_name": "Childish Gambino",
+                    "track_uri": "spotify:track:5LTgI9VsuL3NKrv2WHBgNx",
+                    "track_name": "Have Some Love"
+                },
+                {
+                    "artist_name": "Ennio Morricone",
+                    "track_uri": "spotify:track:1ZeJMd7uWFANwPI9kqfM1w",
+                    "track_name": "Ave Maria Guarani"
+                },
+                {
+                    "artist_name": "Donnie Trumpet & The Social Experiment",
+                    "track_uri": "spotify:track:4Zf351SuPuXo8w6IIMsxev",
+                    "track_name": "Wanna Be Cool"
+                },
+                {
+                    "artist_name": "The Pharcyde",
+                    "track_uri": "spotify:track:3zrqcFaZI10iKuiFwKBNlD",
+                    "track_name": "If I Were President (Skit)"
+                },
+                {
+                    "artist_name": "Bloody Bloody Andrew Jackson Company",
+                    "track_uri": "spotify:track:1A3Y81o8egHAKuBELfWCCB",
+                    "track_name": "Populism, Yea Yea"
+                },
+                {
+                    "artist_name": "8-Bit Misfits",
+                    "track_uri": "spotify:track:6MEMTPqURnTGAIvFC8F63p",
+                    "track_name": "Lithium"
+                },
+                {
+                    "artist_name": "Original Broadway Cast Recording",
+                    "track_uri": "spotify:track:59KuNsg8HOBWDlco0wnJFp",
+                    "track_name": "The I Love You Song"
+                },
+                {
+                    "artist_name": "David Bowie",
+                    "track_uri": "spotify:track:0LrwgdLsFaWh9VXIjBRe8t",
+                    "track_name": "Changes - 2015 Remastered Version"
+                },
+                {
+                    "artist_name": "Residente",
+                    "track_uri": "spotify:track:0ynMdz0BsYpaiemBi26rid",
+                    "track_name": "Hijos del Ca\u00f1averal"
+                },
+                {
+                    "artist_name": "The Mountain Goats",
+                    "track_uri": "spotify:track:3yCoOS2dZhZkgSRKWZwNAJ",
+                    "track_name": "Spent Gladiator 2"
+                }
+            ],
+            "num_edits": 4,
+            "duration_ms": 3386800,
+            "num_artists": 17,
+            "description": "Here&#x27;s where I&#x27;m at, Tuesday, May 2, 2017. Enjoy."
+        },
+        {
+            "name": "Worship",
+            "pid": 308,
+            "num_tracks": 47,
+            "num_followers": 15,
+            "tracks": [
+                {
+                    "artist_name": "Jenn Johnson",
+                    "track_uri": "spotify:track:5B8Lofpu4fWlOWC3nPrxmo",
+                    "track_name": "In over My Head (Crash over Me) [Live]"
+                },
+                {
+                    "artist_name": "Jenn Johnson",
+                    "track_uri": "spotify:track:1EaiPpgFliszmuGasWVXXO",
+                    "track_name": "A Little Longer (Live)"
+                },
+                {
+                    "artist_name": "Kristene Dimarco",
+                    "track_uri": "spotify:track:5t0izTLPeWYLiIfHPJbORJ",
+                    "track_name": "It Is Well (Live)"
+                },
+                {
+                    "artist_name": "Amanda Cook",
+                    "track_uri": "spotify:track:345RHjiEdIVedsxtiwGG7t",
+                    "track_name": "You Make Me Brave (Live)"
+                },
+                {
+                    "artist_name": "Kalley Heiligenthal",
+                    "track_uri": "spotify:track:2vNY0WQo5xtwQPYnuPlwEB",
+                    "track_name": "Ever Be (Live)"
+                },
+                {
+                    "artist_name": "Kari Jobe",
+                    "track_uri": "spotify:track:3RBnnfWA4Q2AqNuwTDdDgz",
+                    "track_name": "I Am Not Alone - Radio Version"
+                },
+                {
+                    "artist_name": "Gateway Worship",
+                    "track_uri": "spotify:track:6S1MSbfwfLYK9ewHq08dHQ",
+                    "track_name": "Let the Heavens Open"
+                },
+                {
+                    "artist_name": "Gateway Worship",
+                    "track_uri": "spotify:track:1i3OdyfFg1QHE2B1IhsFr2",
+                    "track_name": "Walls"
+                },
+                {
+                    "artist_name": "Gateway Worship",
+                    "track_uri": "spotify:track:7DI3HpsKbQAsOsi2jD3EwK",
+                    "track_name": "Holy, Holy, Holy (Savior & King) [Studio Version] (feat. Kari Jobe & Thomas Miller)"
+                },
+                {
+                    "artist_name": "Gateway Worship",
+                    "track_uri": "spotify:track:3ERd26mAJIOgdCGzKe1Q7U",
+                    "track_name": "O the Blood - Live"
+                },
+                {
+                    "artist_name": "Gateway Worship",
+                    "track_uri": "spotify:track:668P1q7NuVsr0s1XNpNx3j",
+                    "track_name": "We Cry Out - Live"
+                },
+                {
+                    "artist_name": "Jenn Johnson",
+                    "track_uri": "spotify:track:241rchyLTZnB5A5FAN6wbb",
+                    "track_name": "Nearness (Live)"
+                },
+                {
+                    "artist_name": "Hillsong Worship",
+                    "track_uri": "spotify:track:4wdm7quWdFdjSbxTFp40fw",
+                    "track_name": "This Is Living - Live"
+                },
+                {
+                    "artist_name": "Hillsong Worship",
+                    "track_uri": "spotify:track:5WMTu6y1QGqVS6EjL4Xf6R",
+                    "track_name": "Here With You - Live"
+                },
+                {
+                    "artist_name": "Hillsong Worship",
+                    "track_uri": "spotify:track:79lAi6ZeFt9Wsn4GyD6IaZ",
+                    "track_name": "Transfiguration - Live"
+                },
+                {
+                    "artist_name": "Hillsong Worship",
+                    "track_uri": "spotify:track:2vKbeRiB5JI8WFnZY0Nu4X",
+                    "track_name": "Thank You Jesus - Live"
+                },
+                {
+                    "artist_name": "Hillsong Worship",
+                    "track_uri": "spotify:track:29z3ihitUAS0p2QqwNXsyo",
+                    "track_name": "Love On The Line - Live"
+                },
+                {
+                    "artist_name": "Brian Johnson",
+                    "track_uri": "spotify:track:4sGtFckkbxe7Ua9g2Kavl0",
+                    "track_name": "More of You Less of Me (feat. Jenn Johnson)"
+                },
+                {
+                    "artist_name": "Steffany Gretzinger",
+                    "track_uri": "spotify:track:1C4p7axHOmDCB5mZIYhuqT",
+                    "track_name": "Closer"
+                },
+                {
+                    "artist_name": "Amanda Cook",
+                    "track_uri": "spotify:track:6ioD6MFM6yjNsadkfVMSXj",
+                    "track_name": "You Don\u2019t Miss a Thing (Live)"
+                },
+                {
+                    "artist_name": "Hillsong United",
+                    "track_uri": "spotify:track:7i2ZmmyLzE7NcFAJl30mKY",
+                    "track_name": "Lead Me to the Cross"
+                },
+                {
+                    "artist_name": "Hillsong United",
+                    "track_uri": "spotify:track:5VlojXyAGM1q9ke2ybxrVT",
+                    "track_name": "Hosanna"
+                },
+                {
+                    "artist_name": "Jenn Johnson",
+                    "track_uri": "spotify:track:0BipnjKRokabgC01I3KCHq",
+                    "track_name": "Come to Me (Live)"
+                },
+                {
+                    "artist_name": "Kari Jobe",
+                    "track_uri": "spotify:track:2F4YkNHWdMKvZnusnQVvxA",
+                    "track_name": "You Are for Me"
+                },
+                {
+                    "artist_name": "Steffany Gretzinger",
+                    "track_uri": "spotify:track:1GonqVH4ptYKwPNZ9f3l49",
+                    "track_name": "You Know Me"
+                },
+                {
+                    "artist_name": "Passion",
+                    "track_uri": "spotify:track:6P3CiG7KVGUxZLsYDBJEjQ",
+                    "track_name": "Healing Is In Your Hands - Live"
+                },
+                {
+                    "artist_name": "Chris Tomlin",
+                    "track_uri": "spotify:track:7CNINxlyvWE15Dees3X5zC",
+                    "track_name": "Jesus"
+                },
+                {
+                    "artist_name": "Hillsong United",
+                    "track_uri": "spotify:track:3EVY5Vm5vjPpUjRQEcpsPE",
+                    "track_name": "Prince Of Peace - Live"
+                },
+                {
+                    "artist_name": "Chris Tomlin",
+                    "track_uri": "spotify:track:1CvoOXxJqC2VHwgjZxjGX5",
+                    "track_name": "Good Good Father"
+                },
+                {
+                    "artist_name": "Passion",
+                    "track_uri": "spotify:track:5zavjk5WOGxtk3SbuqINDX",
+                    "track_name": "Remember"
+                },
+                {
+                    "artist_name": "Lauren Daigle",
+                    "track_uri": "spotify:track:4908mwb34dqgcaxHeFjitw",
+                    "track_name": "Trust In You"
+                },
+                {
+                    "artist_name": "Hillsong United",
+                    "track_uri": "spotify:track:6TKBZDvwIH3b3YWVcGgXVd",
+                    "track_name": "Saviour King"
+                },
+                {
+                    "artist_name": "Kari Jobe",
+                    "track_uri": "spotify:track:5legy0bvOLwAo0eBjXmee6",
+                    "track_name": "The More I Seek You"
+                },
+                {
+                    "artist_name": "Hillsong Worship",
+                    "track_uri": "spotify:track:1yYUIjT3bZ9RB9vejqYy9f",
+                    "track_name": "What A Beautiful Name - Live"
+                },
+                {
+                    "artist_name": "North Point InsideOut",
+                    "track_uri": "spotify:track:7eBybNhcjCylloMZT2QjQE",
+                    "track_name": "Death Was Arrested"
+                },
+                {
+                    "artist_name": "All Sons & Daughters",
+                    "track_uri": "spotify:track:13p3U002Sv8z722mFjTuWi",
+                    "track_name": "I Surrender"
+                },
+                {
+                    "artist_name": "Kim Walker-Smith",
+                    "track_uri": "spotify:track:02X93AUKXP7FPJBPckqgGu",
+                    "track_name": "Throne Room"
+                },
+                {
+                    "artist_name": "Hillsong United",
+                    "track_uri": "spotify:track:1ed3wNCecRIp6SugyR0w2J",
+                    "track_name": "So Will I (100 Billion X)"
+                },
+                {
+                    "artist_name": "Hillsong United",
+                    "track_uri": "spotify:track:33Nyq9QfKCXEQtzeg22vg7",
+                    "track_name": "Not Today"
+                },
+                {
+                    "artist_name": "New Life Worship",
+                    "track_uri": "spotify:track:3rJAP9G6hjx2kN8Jsvas09",
+                    "track_name": "Great I Am"
+                },
+                {
+                    "artist_name": "Mosaic MSC",
+                    "track_uri": "spotify:track:2zo3OqbjBZgyDCRdOzv9qz",
+                    "track_name": "Back To You"
+                },
+                {
+                    "artist_name": "Mosaic MSC",
+                    "track_uri": "spotify:track:4f7TYK5Yn43ffrr7RdPdEG",
+                    "track_name": "So I Sing"
+                },
+                {
+                    "artist_name": "Mosaic MSC",
+                    "track_uri": "spotify:track:0lu3rjJhq6eywt1dvnVRyF",
+                    "track_name": "New Heart"
+                },
+                {
+                    "artist_name": "Mosaic MSC",
+                    "track_uri": "spotify:track:3dFVZAk1C3dtowpYiKPiXC",
+                    "track_name": "Unknown"
+                },
+                {
+                    "artist_name": "Mosaic MSC",
+                    "track_uri": "spotify:track:2q2yTnZZ5GU0OzRiEwlxkE",
+                    "track_name": "King of All (Remix)"
+                },
+                {
+                    "artist_name": "Mosaic MSC",
+                    "track_uri": "spotify:track:1m1SsseoEXMxFbg0x9WaPp",
+                    "track_name": "Your Love (Remix)"
+                },
+                {
+                    "artist_name": "Mosaic MSC",
+                    "track_uri": "spotify:track:6RTOAaQeVkm1GUTqIY0hjp",
+                    "track_name": "Tremble (Radio Version)"
+                }
+            ],
+            "num_edits": 16,
+            "duration_ms": 15427382,
+            "num_artists": 18
+        }
+    ]
+}
