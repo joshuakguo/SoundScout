@@ -4,6 +4,7 @@ import re
 import math
 import numpy as np
 import nltk
+from nltk.corpus import stopwords
 from flask import Flask, render_template, request
 from flask_cors import CORS
 from helpers.MySQLDatabaseHandler import MySQLDatabaseHandler
@@ -41,18 +42,17 @@ preprocessing.preprocess()
 text_mining.init()
 
 
-def accumulate_dot_scores(query_word_counts):
+def accumulate_dot_scores(query_word_counts, inv_idx, idf):
     doc_scores = {}
-    for term, count in query_word_counts.items():
-        if term in preprocessing.idf:
-            for doc in preprocessing.inv_idx[term]:
-                doc_scores[doc] = doc_scores.get(doc, 0) + (
-                    preprocessing.idf[term] * count * preprocessing.idf[term]
-                )
+    for i, qi in query_word_counts.items():
+        if i in idf:
+            for j, dij in inv_idx[i]:
+                doc_scores[j] = doc_scores.get(j, 0) + idf[i] * qi * idf[i] * dij
+
     return doc_scores
 
 
-def index_search(query, index, idf, doc_norms):
+def index_search(query, inv_idx, idf, doc_norms):
     """
     Search the collection of documents for the given query.
 
@@ -62,13 +62,9 @@ def index_search(query, index, idf, doc_norms):
     """
     results = []
 
-    query_tokens = nltk.word_tokenize(query)
-    lemmatizer = nltk.WordNetLemmatizer()
-    query_tokens = [lemmatizer.lemmatize(tok) for tok in query_tokens]
+    query_tokens = preprocessing.tokenize(query)
 
-    query_word_counts = {t: 0 for t in query_tokens}
-    for token in query_tokens:
-        query_word_counts[token] += 1
+    query_word_counts = nltk.FreqDist(query_tokens)
 
     query_norm = 0
     for i, tf in query_word_counts.items():
@@ -76,7 +72,7 @@ def index_search(query, index, idf, doc_norms):
             query_norm += (tf * idf[i]) ** 2
     query_norm = np.sqrt(query_norm)
 
-    dot_scores = accumulate_dot_scores(query_word_counts)
+    dot_scores = accumulate_dot_scores(query_word_counts, inv_idx, idf)
     for doc, score in dot_scores.items():
         cossim = score / (query_norm * doc_norms[doc])
         results.append((cossim, doc))
@@ -88,7 +84,6 @@ def index_search(query, index, idf, doc_norms):
 @app.route("/search")
 def search():
     query = request.args.get("title")
-    query = preprocessing.normalize_name(query)
     k = 50  # Number of playlists to examine
     top_playlists = index_search(
         query, preprocessing.inv_idx, preprocessing.idf, preprocessing.doc_norms

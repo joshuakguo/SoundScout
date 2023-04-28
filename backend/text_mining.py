@@ -24,7 +24,7 @@ def init():
 
 
 # cosine similarity
-def closest_songs(song_in, k=10):
+def closest_songs(song_in, k=15):
     if song_in not in word_to_index:
         raise Exception("Not in dataset")
     sims = songs_compressed.dot(songs_compressed[word_to_index[song_in], :])
