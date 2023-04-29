@@ -19,7 +19,7 @@ documents = []
 def process_mpd(path):
     filenames = os.listdir(path)
     for filename in sorted(filenames):
-        if filename.startswith("mpd.slice.") and filename.endswith(".json"):
+        if filename.endswith(".json"):
             fullpath = os.sep.join((path, filename))
             f = open(fullpath)
             js = f.read()
@@ -92,7 +92,8 @@ def preprocess():
 
     print("Computing idf")
     compute_idf(total_playlists)
-    inv_idx = {key: val for key, val in inv_idx.items() if key in idf}  # Prune inv_idx
+    inv_idx = {key: val for key,
+               val in inv_idx.items() if key in idf}  # Prune inv_idx
 
     print("Computing doc norms")
     compute_doc_norms(total_playlists)
