@@ -11,6 +11,15 @@ from helpers.MySQLDatabaseHandler import MySQLDatabaseHandler
 from dotenv import load_dotenv
 import preprocessing
 import text_mining
+import ssl
+
+try:
+    _create_unverified_https_context = ssl._create_unverified_context
+except AttributeError:
+    pass
+else:
+    ssl._create_default_https_context = _create_unverified_https_context
+
 
 load_dotenv()
 nltk.download("punkt")

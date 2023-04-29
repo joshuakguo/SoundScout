@@ -7,6 +7,7 @@ import math
 import re
 from sklearn.feature_extraction.text import TfidfVectorizer
 from scipy.sparse.linalg import svds
+from unidecode import unidecode
 
 stopWords = set(stopwords.words("english"))
 stopWords = stopWords.union(
@@ -126,7 +127,7 @@ def tokenize(s, lemmatizer=nltk.WordNetLemmatizer()):
     s = normalize_name(s)
     tokens = nltk.word_tokenize(s)
     tokens = [lemmatizer.lemmatize(tok) for tok in tokens]
-    tokens = [tok for tok in tokens if tok not in stopWords]
+    tokens = [unidecode(tok) for tok in tokens if tok not in stopWords]
     return tokens
 
 
