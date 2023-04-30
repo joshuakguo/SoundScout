@@ -118,22 +118,41 @@ def search():
         for song, sco in songs1.items():
             song_total_scores[song] = song_total_scores.get(song,0) + sco
         songs.append(songs1)
+
+    top_playlists = index_search(
+        query, preprocessing.inv_idx, preprocessing.idf, preprocessing.doc_norms)[:k]
+    song_scores = {}
+    for score, pid in top_playlists:
+        for track in preprocessing.playlists[pid]["tracks"]:
+            song = track["track_name"]
+            if song not in song_scores:
+                song_scores[song] = 0
+        
+            song_scores[song] += score
+
+    ranked_songs = list(song_scores.items())
+    ranked_songs.sort(key=lambda x: x[1], reverse=True)
+    ranked_songs = ranked_songs[:1000]
+    songs1 = {i: sco for i, sco in ranked_songs}
+
     outs = set()
-    for i in list(songs[0].items()):
+    for i in list(songs1.items()):
         cur = i[0]
+        exists = True
         for lists in songs:
-            exists = True
             if cur not in lists:
                 exists = False
         if exists:
             outs.add(i[0])
+    print(outs)
+    song_total_scores = song_scores
     for s in song_total_scores.keys():
         if s in outs:
-            song_total_scores[s] *= 2.5
+            song_total_scores[s] += 100
     song_total_scores_tup = list(song_total_scores.items())
     song_total_scores_tup.sort(key=lambda x: x[1], reverse=True)
 
    # r_songs = sorted(list(songs.items()), key= lambda x:x[1],reverse=True)
-    print(song_total_scores_tup)
+    print(song_total_scores_tup[:15])
     return song_total_scores_tup[:15]
     # app.run(debug=True)
