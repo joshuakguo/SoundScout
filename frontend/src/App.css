@@ -145,3 +145,16 @@ footer {
     padding: 0rem 1rem;
   }
 }
+
+#iframes {
+  padding-top: 2rem;
+  width: calc(800px);
+  display: grid;
+  grid-template-columns: 390px 390px;
+  gap: 20px;
+}
+
+#iframes > * {
+  width: 390px;
+  height: 80px;
+}

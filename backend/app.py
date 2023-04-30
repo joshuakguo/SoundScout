@@ -60,7 +60,6 @@ def accumulate_dot_scores(query_word_counts, inv_idx, idf):
 
     return doc_scores
 
-
 def index_search(query, inv_idx, idf, doc_norms):
     """
     Search the collection of documents for the given query.
@@ -98,6 +97,7 @@ def search():
     queries = query.split()
     songs = []
     song_total_scores = {}
+    track_info = {}
     for q in queries:
         top_playlists = index_search(
             q, preprocessing.inv_idx, preprocessing.idf, preprocessing.doc_norms
@@ -106,8 +106,11 @@ def search():
         for score, pid in top_playlists:
             for track in preprocessing.playlists[pid]["tracks"]:
                 song = track["track_name"]
+                artist = track['artist_name']
+                uri = track['track_uri']
                 if song not in song_scores:
                     song_scores[song] = 0
+                    track_info[song] = (artist, uri)
             
                 song_scores[song] += score
 
@@ -153,6 +156,10 @@ def search():
     song_total_scores_tup.sort(key=lambda x: x[1], reverse=True)
 
    # r_songs = sorted(list(songs.items()), key= lambda x:x[1],reverse=True)
-    print(song_total_scores_tup[:15])
-    return song_total_scores_tup[:15]
+    # print(song_total_scores_tup)
+    # print(track_info)
+    res = []
+    for song in song_total_scores_tup[:10]:
+        res.append((song[0], track_info[song[0]][0], track_info[song[0]][1]))
+    return res
     # app.run(debug=True)
