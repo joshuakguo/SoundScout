@@ -8,7 +8,14 @@ declare global {
   }
 }
 
+let ready: boolean = false;
+
 let IFrameAPI: any = null;
+let EmbedController: any = null;
+
+let result: String[][] = [];
+
+let selected: number = 0;
 
 function App() {
   return (
@@ -28,33 +35,29 @@ function App() {
             <input placeholder="Search for a playlist" id="filter-text-val" />
           </div>
         </div>
-        <div id="iframes">
-          <div id="embed-iframe0"></div>
-          <div id="embed-iframe1"></div>
-          <div id="embed-iframe2"></div>
-          <div id="embed-iframe3"></div>
-          <div id="embed-iframe4"></div>
-          <div id="embed-iframe5"></div>
-          <div id="embed-iframe6"></div>
-          <div id="embed-iframe7"></div>
-          <div id="embed-iframe8"></div>
-          <div id="embed-iframe9"></div>
+        <div id="result">
+          <div id="left" />
+          <div id="right">
+            <div id="iframe">
+              <div id="embed-iframe" />
+            </div>
+            <div id="roc">
+              <div onClick={rocUp}>👍</div>
+              <div onClick={rocDown}>👎</div>
+            </div>
+          </div>
         </div>
-        <div id="answer-box"></div>
       </main>
       <footer>
         Created by Harrison Chin, Willy Jiang, Joshua Guo, Eric Huang, Alex
         Levinson
       </footer>
-      <script
-        src="https://open.spotify.com/embed-podcast/iframe-api/v1"
-        async></script>
     </>
   );
 }
 
-function answerBoxTemplate(title: string, titleDesc: string) {
-  return `<div class='song-title'>${title}</div>`;
+function songTemplate(song: string[]) {
+  return `<p>${song[0]}</p><p>${song[1]}</p>`;
 }
 
 const sendFocus: MouseEventHandler<HTMLDivElement> = (e) => {
@@ -62,16 +65,23 @@ const sendFocus: MouseEventHandler<HTMLDivElement> = (e) => {
 };
 
 const search: MouseEventHandler<HTMLImageElement> = (e) => {
+  checkReady();
   // (document.getElementById("answer-box") as HTMLDivElement).innerHTML = "";
-  const box: HTMLElement = document.getElementById("iframes") as HTMLDivElement;
+  const main: HTMLElement = document.getElementById("result") as HTMLDivElement;
+  main.style.display = "grid";
+  const box: HTMLElement = document.getElementById("iframe") as HTMLDivElement;
   while (box.lastElementChild) {
     box.removeChild(box.lastElementChild);
   }
-  for (let i = 0; i < 10; i++) {
-    const el = document.createElement("div");
-    el.setAttribute("id", "embed-iframe" + i);
-    box.appendChild(el);
+  let temp = document.createElement("div");
+  temp.id = "embed-iframe";
+  box.appendChild(temp);
+  const boxbox: HTMLElement = document.getElementById("left") as HTMLDivElement;
+  while (boxbox.lastElementChild) {
+    boxbox.removeChild(boxbox.lastElementChild);
   }
+  result = [];
+  EmbedController = null;
   fetch(
     "http://localhost:5000/search?" +
       new URLSearchParams({
@@ -83,18 +93,36 @@ const search: MouseEventHandler<HTMLImageElement> = (e) => {
     .then((data) =>
       data.forEach((row: string[], i: number) => {
         // each row is [song name, song artist, song uri]
-        // for (let i = 0; i < 10; i++) {
-        const element = document.getElementById("embed-iframe" + i);
-        const options = {
-          width: "400",
-          height: "150",
-          uri: row[2],
+        result[i] = row;
+        let tempDiv = document.createElement("div");
+        tempDiv.setAttribute("data-id", i.toString());
+        tempDiv.onclick = function (e) {
+          const element = e.target as HTMLElement;
+          const i = parseInt(element.getAttribute("data-id") || "0");
+          selected = i;
+          EmbedController.loadUri(result[i][2]);
         };
-        const callback = (EmbedController: any) => {};
-        IFrameAPI.createController(element, options, callback);
-        // }
+        tempDiv.innerHTML = songTemplate(row);
+        const doc = document.getElementById("left") as HTMLElement;
+        doc.appendChild(tempDiv);
       })
-    );
+    )
+    .then(() => {
+      if (IFrameAPI == null) {
+        // MAKE IT WAIT
+      }
+      console.log(result);
+      const element = document.getElementById("embed-iframe");
+      const options = {
+        width: "400",
+        height: "400",
+        uri: result[0][2],
+      };
+      const callback = (controller: any) => {
+        EmbedController = controller;
+      };
+      IFrameAPI.createController(element, options, callback);
+    });
 };
 
 const parallax = (event: MouseEvent) => {
@@ -110,6 +138,22 @@ document.addEventListener("mousemove", parallax);
 
 window.onSpotifyIframeApiReady = (IFrameApi: any) => {
   IFrameAPI = IFrameApi;
+  ready = true;
+  console.log("ready");
+};
+
+function checkReady() {
+  if (!ready) {
+    window.setTimeout(checkReady, 50);
+  }
+}
+
+const rocUp: MouseEventHandler<HTMLDivElement> = (e) => {
+  console.log(result[selected]);
+};
+
+const rocDown: MouseEventHandler<HTMLDivElement> = (e) => {
+  console.log(result[selected]);
 };
 
 export default App;

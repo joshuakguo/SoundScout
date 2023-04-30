@@ -147,7 +147,7 @@ def search():
                 exists = False
         if exists:
             outs.add(i[0])
-    print(outs)
+    # print(outs)
     song_total_scores = song_scores
     for s in song_total_scores.keys():
         if s in outs:
@@ -156,7 +156,7 @@ def search():
     song_total_scores_tup.sort(key=lambda x: x[1], reverse=True)
 
    # r_songs = sorted(list(songs.items()), key= lambda x:x[1],reverse=True)
-    # print(song_total_scores_tup)
+    print(song_total_scores_tup[:10])
     # print(track_info)
     res = []
     for song in song_total_scores_tup[:10]:
