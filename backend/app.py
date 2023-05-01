@@ -25,26 +25,7 @@ else:
 load_dotenv()
 nltk.download("punkt")
 
-# ROOT_PATH for linking with all your files.
-# Feel free to use a config.py or settings.py with a global export variable
-# os.environ["ROOT_PATH"] = os.path.abspath(os.path.join("..", os.curdir))
-
-# # These are the DB credentials for your OWN MySQL
-# # Don't worry about the deployment credentials, those are fixed
-# # You can use a different DB name if you want to
-# MYSQL_USER = "root"
-# MYSQL_USER_PASSWORD = os.getenv("MYSQL_USER_PASSWORD")
-# MYSQL_PORT = 3306
-# MYSQL_DATABASE = "playlistsdb"
-
-# mysql_engine = MySQLDatabaseHandler(
-#     MYSQL_USER, MYSQL_USER_PASSWORD, MYSQL_PORT, MYSQL_DATABASE
-# )
-
-# # Path to init.sql file. This file can be replaced with your own file for testing on localhost, but do NOT move the init.sql file
-# # albert xiao is so hot
-# mysql_engine.load_file_into_db()
-
+# albert xiao is so hot
 app = Flask(__name__)
 CORS(app)
 
