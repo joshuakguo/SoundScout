@@ -56,7 +56,8 @@ def accumulate_dot_scores(query_word_counts, inv_idx, idf):
     for i, qi in query_word_counts.items():
         if i in idf:
             for j, dij in inv_idx[i]:
-                doc_scores[j] = doc_scores.get(j, 0) + idf[i] * qi * idf[i] * dij
+                doc_scores[j] = doc_scores.get(
+                    j, 0) + idf[i] * qi * idf[i] * dij
 
     return doc_scores
 
@@ -90,14 +91,59 @@ def index_search(query, inv_idx, idf, doc_norms):
     return results
 
 
+def rocchio(query, relevant, irrelevant, playlists, a, b, c):
+
+    q0_dict = dict()
+    for w in query.split(" "):
+        q0_dict.update({w: q0_dict.get(w, 0) + a})
+
+    sum_r = dict()
+    sum_nr = dict()
+
+    for pl in relevant:
+        for w in pl.split(" "):
+            sum_r.update({w: sum_r.get(w, 0) + b})
+    if len(relevant) != 0:
+        for pl in relevant:
+            for w in pl.split(" "):
+                sum_r.update({w: sum_r.get(w, 0)/len(relevant)})
+
+    for pl in irrelevant:
+        for w in pl.split(" "):
+            sum_r.update({w: sum_nr.get(w, 0) - c})
+    if len(irrelevant) != 0:
+        for pl in irrelevant:
+            for w in pl.split(" "):
+                sum_nr.update({w: sum_nr.get(w, 0)/len(irrelevant)})
+
+    all_keys = set(q0_dict.keys())
+    all_keys.update(set(sum_r.keys()))
+    all_keys.update(set(sum_nr.keys()))
+
+    q1_dict = dict()
+    q1 = ""
+    for w in all_keys:
+        q1_dict[w] = round(q0_dict.get(w, 0) +
+                           sum_r.get(w, 0) - sum_nr.get(w, 0))
+        if q1_dict[w] < 0:
+            q1_dict[w] = 0
+        for i in range(q1_dict[w]):
+            q1 += w
+
+    return q1
+
+
 @app.route("/search")
 def search():
     query = request.args.get("title")
     query = preprocessing.normalize_name(query)
+    query = rocchio(query, {"nothing", "Nothing"}, {"Views", "views"},
+                    preprocessing.playlists, 1, .5, -.5)
     k = 100  # Number of playlists to examine
     queries = query.split()
     songs = []
     song_total_scores = {}
+# made with each word
     for q in queries:
         top_playlists = index_search(
             q, preprocessing.inv_idx, preprocessing.idf, preprocessing.doc_norms
@@ -108,7 +154,7 @@ def search():
                 song = track["track_name"]
                 if song not in song_scores:
                     song_scores[song] = 0
-            
+
                 song_scores[song] += score
 
         ranked_songs = list(song_scores.items())
@@ -116,9 +162,9 @@ def search():
         ranked_songs = ranked_songs[:1000]
         songs1 = {i: sco for i, sco in ranked_songs}
         for song, sco in songs1.items():
-            song_total_scores[song] = song_total_scores.get(song,0) + sco
+            song_total_scores[song] = song_total_scores.get(song, 0) + sco
         songs.append(songs1)
-
+# made with full query
     top_playlists = index_search(
         query, preprocessing.inv_idx, preprocessing.idf, preprocessing.doc_norms)[:k]
     song_scores = {}
@@ -127,7 +173,7 @@ def search():
             song = track["track_name"]
             if song not in song_scores:
                 song_scores[song] = 0
-        
+
             song_scores[song] += score
 
     ranked_songs = list(song_scores.items())
