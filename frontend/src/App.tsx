@@ -1,7 +1,6 @@
 import React, { MouseEventHandler } from "react";
 import "./App.css";
 import "./iframe-api";
-import { string } from "yargs";
 declare global {
   interface Window {
     onSpotifyIframeApiReady: any;
