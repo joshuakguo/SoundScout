@@ -12,6 +12,7 @@ from dotenv import load_dotenv
 import preprocessing
 import text_mining
 import ssl
+from fuzzywuzzy import process, fuzz
 
 try:
     _create_unverified_https_context = ssl._create_unverified_context
@@ -51,115 +52,46 @@ preprocessing.preprocess()
 text_mining.init()
 
 
-def accumulate_dot_scores(query_word_counts, inv_idx, idf):
-    doc_scores = {}
-    for i, qi in query_word_counts.items():
-        if i in idf:
-            for j, dij in inv_idx[i]:
-                doc_scores[j] = doc_scores.get(j, 0) + idf[i] * qi * idf[i] * dij
-
-    return doc_scores
-
-def index_search(query, inv_idx, idf, doc_norms):
-    """
-    Search the collection of documents for the given query.
-
-    Returns
-    =======
-    results: sorted tuple list (score, pid)
-    """
-    results = []
-
-    query_tokens = preprocessing.tokenize(query)
-
-    query_word_counts = nltk.FreqDist(query_tokens)
-
-    query_norm = 0
-    for i, tf in query_word_counts.items():
-        if i in idf:
-            query_norm += (tf * idf[i]) ** 2
-    query_norm = np.sqrt(query_norm)
-
-    dot_scores = accumulate_dot_scores(query_word_counts, inv_idx, idf)
-    for doc, score in dot_scores.items():
-        cossim = score / (query_norm * doc_norms[doc])
-        results.append((cossim, doc))
-
-    results.sort(reverse=True, key=lambda x: x[0])
-    return results
-
-
 @app.route("/search")
 def search():
     query = request.args.get("title")
     query = preprocessing.normalize_name(query)
-    k = 100  # Number of playlists to examine
-    queries = query.split()
-    songs = []
-    song_total_scores = {}
-    track_info = {}
-    for q in queries:
-        top_playlists = index_search(
-            q, preprocessing.inv_idx, preprocessing.idf, preprocessing.doc_norms
-        )[:k]
-        song_scores = {}
-        for score, pid in top_playlists:
-            for track in preprocessing.playlists[pid]["tracks"]:
-                song = track["track_name"]
-                artist = track['artist_name']
-                uri = track['track_uri']
-                if song not in song_scores:
-                    song_scores[song] = 0
-                    track_info[song] = (artist, uri)
-            
-                song_scores[song] += score
-
-        ranked_songs = list(song_scores.items())
-        ranked_songs.sort(key=lambda x: x[1], reverse=True)
-        ranked_songs = ranked_songs[:1000]
-        songs1 = {i: sco for i, sco in ranked_songs}
-        for song, sco in songs1.items():
-            song_total_scores[song] = song_total_scores.get(song,0) + sco
-        songs.append(songs1)
-
-    top_playlists = index_search(
-        query, preprocessing.inv_idx, preprocessing.idf, preprocessing.doc_norms)[:k]
-    song_scores = {}
-    for score, pid in top_playlists:
-        for track in preprocessing.playlists[pid]["tracks"]:
-            song = track["track_name"]
-            if song not in song_scores:
-                song_scores[song] = 0
-        
-            song_scores[song] += score
-
-    ranked_songs = list(song_scores.items())
-    ranked_songs.sort(key=lambda x: x[1], reverse=True)
-    ranked_songs = ranked_songs[:1000]
-    songs1 = {i: sco for i, sco in ranked_songs}
-
-    outs = set()
-    for i in list(songs1.items()):
-        cur = i[0]
-        exists = True
-        for lists in songs:
-            if cur not in lists:
-                exists = False
-        if exists:
-            outs.add(i[0])
-    print(outs)
-    song_total_scores = song_scores
-    for s in song_total_scores.keys():
-        if s in outs:
-            song_total_scores[s] += 100
-    song_total_scores_tup = list(song_total_scores.items())
-    song_total_scores_tup.sort(key=lambda x: x[1], reverse=True)
-
-   # r_songs = sorted(list(songs.items()), key= lambda x:x[1],reverse=True)
-    # print(song_total_scores_tup)
-    # print(track_info)
-    res = []
-    for song in song_total_scores_tup[:10]:
-        res.append((song[0], track_info[song[0]][0], track_info[song[0]][1]))
-    return res
-    # app.run(debug=True)
+    top_songs = []
+    k = 15
+    if query not in list(preprocessing.documents.keys()):
+        print("Not an existing playlist name.")
+        # Find best matches to existing playlist names
+        query = " ".join(preprocessing.tokenize(query))
+        closest_playlist_names = process.extract(
+            query,
+            list(preprocessing.documents.keys()),
+            scorer=fuzz.token_set_ratio,
+        )
+        print(closest_playlist_names)
+        if closest_playlist_names[0][1] == 100:
+            exact_matches = [
+                name for (name, score) in closest_playlist_names if score == 100
+            ]
+            for match in exact_matches:
+                # Get best songs of match
+                closest_playlists = text_mining.closest_playlists(
+                    match, k=10 // len(exact_matches)
+                )
+                for song_info, score in text_mining.top_songs(closest_playlists)[
+                    : k // len(exact_matches)
+                ]:
+                    top_songs.append((song_info, score))
+            print(top_songs[:k])
+            top_songs.sort(key=lambda x: x[1], reverse=True)
+            return [song for song, score in top_songs[:k]]
+        else:
+            # No optimal matches, settle on closest existing name
+            query = closest_playlist_names[0][0]
+    # Query is existing playlist name
+    closest_playlists = text_mining.closest_playlists(query, k=10)
+    for name, _, _ in closest_playlists:
+        print(name)
+    top_songs.extend(text_mining.top_songs(closest_playlists))
+    print(top_songs[:k])
+    top_songs.sort(key=lambda x: x[1], reverse=True)
+    return [song for song, score in top_songs[:k]]
