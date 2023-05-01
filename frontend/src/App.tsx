@@ -14,6 +14,8 @@ let IFrameAPI: any = null;
 let EmbedController: any = null;
 
 let result: String[][] = [];
+let rel_track_list: String[][] = [];
+let irrel_track_list: String[][] = [];
 
 let selected: number = 0;
 
@@ -67,9 +69,7 @@ const sendFocus: MouseEventHandler<HTMLDivElement> = (e) => {
   (document.getElementById("filter-text-val") as HTMLInputElement).focus();
 };
 
-const search: MouseEventHandler<HTMLImageElement> = (e) => {
-  checkReady();
-  // (document.getElementById("answer-box") as HTMLDivElement).innerHTML = "";
+function clear() {
   const main: HTMLElement = document.getElementById("result") as HTMLDivElement;
   main.style.display = "grid";
   const box: HTMLElement = document.getElementById("iframe") as HTMLDivElement;
@@ -85,6 +85,12 @@ const search: MouseEventHandler<HTMLImageElement> = (e) => {
   }
   result = [];
   EmbedController = null;
+}
+
+const search: MouseEventHandler<HTMLImageElement> = (e) => {
+  checkReady();
+  // (document.getElementById("answer-box") as HTMLDivElement).innerHTML = "";
+  clear();
   fetch(
     "http://localhost:5000/search?" +
       new URLSearchParams({
@@ -152,15 +158,49 @@ function checkReady() {
 }
 
 const rocUp: MouseEventHandler<HTMLDivElement> = (e) => {
-  console.log(result[selected]);
+  // console.log(result[selected]);
+  if (
+    !rel_track_list.includes(result[selected]) &&
+    !irrel_track_list.includes(result[selected])
+  ) {
+    rel_track_list.push(result[selected]);
+    // console.log("stored");
+  } else {
+    // console.log("already stored");
+  }
 };
 
 const rocDown: MouseEventHandler<HTMLDivElement> = (e) => {
-  console.log(result[selected]);
+  // console.log(result[selected]);
+  if (
+    !rel_track_list.includes(result[selected]) &&
+    !irrel_track_list.includes(result[selected])
+  ) {
+    irrel_track_list.push(result[selected]);
+    // console.log("stored");
+  } else {
+    // console.log("already stored");
+  }
 };
 
 const regen: MouseEventHandler<HTMLDivElement> = (e) => {
-  console.log(result[selected]);
+  let send = {
+    rel_track_list: rel_track_list,
+    irrel_track_list: irrel_track_list,
+  };
+  console.log(send);
+  fetch("http://localhost:5000/rocchio", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      // 'Content-Type': 'application/x-www-form-urlencoded',
+    },
+    body: JSON.stringify(send),
+  })
+    .then((response) => response.json())
+    .then((data) => {
+      console.log(data);
+    });
 };
 
 export default App;
