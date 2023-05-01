@@ -26,7 +26,7 @@ function App() {
       </div>
       <main>
         <div className="top-text">
-          <div className="title">
+          <div id="title">
             <h1>
               <span style={{ color: "deepskyblue" }}>Sound</span>Scout
             </h1>
@@ -92,6 +92,7 @@ const search: MouseEventHandler<HTMLImageElement> = (e) => {
   checkReady();
   // (document.getElementById("answer-box") as HTMLDivElement).innerHTML = "";
   clear();
+  (document.getElementById("title") as HTMLDivElement).style.display = "none";
   fetch(
     "http://localhost:5000/search?" +
       new URLSearchParams({
@@ -106,7 +107,7 @@ const search: MouseEventHandler<HTMLImageElement> = (e) => {
         result[i] = row;
         let tempDiv = document.createElement("div");
         tempDiv.setAttribute("data-id", i.toString());
-        tempDiv.onclick = function (e) {
+        tempDiv.onclick = function(e) {
           const element = e.target as HTMLElement;
           const i = parseInt(element.getAttribute("data-id") || "0");
           selected = i;
@@ -139,9 +140,9 @@ const parallax = (event: MouseEvent) => {
   const x = (window.innerWidth - event.pageX * 1) / 90;
   const y = (window.innerHeight - event.pageY * 1) / 90;
 
-  (
-    document.querySelector(".parallax-wrap .background-grid") as HTMLDivElement
-  ).style.transform = `translateX(${x}px) translateY(${y}px)`;
+  (document.querySelector(
+    ".parallax-wrap .background-grid"
+  ) as HTMLDivElement).style.transform = `translateX(${x}px) translateY(${y}px)`;
 };
 
 document.addEventListener("mousemove", parallax);
@@ -206,7 +207,7 @@ const regen: MouseEventHandler<HTMLDivElement> = (e) => {
         result[i] = row;
         let tempDiv = document.createElement("div");
         tempDiv.setAttribute("data-id", i.toString());
-        tempDiv.onclick = function (e) {
+        tempDiv.onclick = function(e) {
           const element = e.target as HTMLElement;
           const i = parseInt(element.getAttribute("data-id") || "0");
           selected = i;
