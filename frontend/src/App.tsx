@@ -83,6 +83,8 @@ function clear() {
     boxbox.removeChild(boxbox.lastElementChild);
   }
   result = [];
+  rel_track_list = [];
+  irrel_track_list = [];
   EmbedController = null;
 }
 
