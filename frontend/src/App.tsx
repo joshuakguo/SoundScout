@@ -189,7 +189,8 @@ const regen: MouseEventHandler<HTMLDivElement> = (e) => {
     rel_track_list: rel_track_list,
     irrel_track_list: irrel_track_list,
   };
-  console.log(send);
+  // console.log(send);
+  clear();
   fetch("http://localhost:5000/rocchio", {
     method: "POST",
     headers: {
@@ -200,7 +201,37 @@ const regen: MouseEventHandler<HTMLDivElement> = (e) => {
   })
     .then((response) => response.json())
     .then((data) => {
-      console.log(data);
+      data.forEach((row: string[], i: number) => {
+        // each row is [song name, song artist, song uri]
+        result[i] = row;
+        let tempDiv = document.createElement("div");
+        tempDiv.setAttribute("data-id", i.toString());
+        tempDiv.onclick = function (e) {
+          const element = e.target as HTMLElement;
+          const i = parseInt(element.getAttribute("data-id") || "0");
+          selected = i;
+          EmbedController.loadUri(result[i][2]);
+        };
+        tempDiv.innerHTML = songTemplate(row);
+        const doc = document.getElementById("left") as HTMLElement;
+        doc.appendChild(tempDiv);
+      });
+    })
+    .then(() => {
+      if (IFrameAPI == null) {
+        // MAKE IT WAIT
+      }
+      // console.log(result);
+      const element = document.getElementById("embed-iframe");
+      const options = {
+        width: "400",
+        height: "400",
+        uri: result[0][2],
+      };
+      const callback = (controller: any) => {
+        EmbedController = controller;
+      };
+      IFrameAPI.createController(element, options, callback);
     });
 };
 
