@@ -77,7 +77,7 @@ def closest_playlists_to_query(query_vec_in, k=10):
     return res
 
 
-def regenerate_results(relevant, irrelevant, a=3, b=1):
+def regenerate_closest_playlists(relevant, irrelevant, a=3, b=1):
     query_tfidf = a * vectorizer.transform([relevant]).toarray()
     query_tfidf -= b * vectorizer.transform([irrelevant]).toarray()
     query_vec = normalize(np.dot(query_tfidf, songs_compressed)).squeeze()

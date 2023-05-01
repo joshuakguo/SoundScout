@@ -77,10 +77,23 @@ def search():
     top_songs.sort(key=lambda x: x[1], reverse=True)
     return [song for song, score in top_songs[:k]]
 
-@app.route("/rocchio", methods = ['POST'])
+
+@app.route("/rocchio", methods=["POST"])
 def rocchio():
     data = request.json
-    rel_track_list = data['rel_track_list']
-    irrel_track_list = data['irrel_track_list']
+    rel_track_list = data["rel_track_list"]
+    irrel_track_list = data["irrel_track_list"]
+    rel_track_list = [tuple(x) for x in rel_track_list]
+    irrel_track_list = [tuple(x) for x in irrel_track_list]
+    k = 15
     # if both are empty then just send the results as usual
-    return [{"res": "true"}]
+    print("Relevant:", rel_track_list)
+    print("Irrelevant:", irrel_track_list)
+    closest_playlists = text_mining.regenerate_closest_playlists(
+        rel_track_list, irrel_track_list
+    )
+    top_songs = text_mining.top_songs(closest_playlists)
+    top_songs.sort(key=lambda x: x[1], reverse=True)
+    results = [song for song, score in top_songs[:k]]
+    print(results)
+    return results
