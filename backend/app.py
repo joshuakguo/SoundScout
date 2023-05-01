@@ -128,8 +128,8 @@ def rocchio(query, relevant, irrelevant, playlists, a, b, c):
         if q1_dict[w] < 0:
             q1_dict[w] = 0
         for i in range(q1_dict[w]):
-            q1 += w
-
+            q1 += w + " "
+    print(q1)
     return q1
 
 
