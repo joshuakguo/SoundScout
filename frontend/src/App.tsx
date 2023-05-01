@@ -45,6 +45,9 @@ function App() {
               <div onClick={rocUp}>👍</div>
               <div onClick={rocDown}>👎</div>
             </div>
+            <div id="regen" onClick={regen}>
+              Regenerate Results
+            </div>
           </div>
         </div>
       </main>
@@ -111,7 +114,7 @@ const search: MouseEventHandler<HTMLImageElement> = (e) => {
       if (IFrameAPI == null) {
         // MAKE IT WAIT
       }
-      console.log(result);
+      // console.log(result);
       const element = document.getElementById("embed-iframe");
       const options = {
         width: "400",
@@ -153,6 +156,10 @@ const rocUp: MouseEventHandler<HTMLDivElement> = (e) => {
 };
 
 const rocDown: MouseEventHandler<HTMLDivElement> = (e) => {
+  console.log(result[selected]);
+};
+
+const regen: MouseEventHandler<HTMLDivElement> = (e) => {
   console.log(result[selected]);
 };
 
