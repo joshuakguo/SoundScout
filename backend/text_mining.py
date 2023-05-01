@@ -45,11 +45,15 @@ def closest_playlists(playlist_name, k=10):
     index = list(preprocessing.documents.keys()).index(playlist_name)
     sims = docs_compressed.dot(docs_compressed[index, :])
     asort = np.argsort(-sims)[:k]
-    return [
-        (
-            list(preprocessing.documents.items())[i][0],
-            list(preprocessing.documents.items())[i][1],
-            sims[i],
-        )
-        for i in asort
-    ]
+
+    res = []
+    num_playlists = 0
+    for i in asort:
+        if num_playlists < k:
+            name, tracks = list(preprocessing.documents.items())[i]
+            num_playlists += preprocessing.title_histogram[name]
+            res.append((name, tracks, sims[i]))
+        else:
+            break
+
+    return res

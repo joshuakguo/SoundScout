@@ -8,6 +8,7 @@ import re
 from sklearn.feature_extraction.text import TfidfVectorizer
 from scipy.sparse.linalg import svds
 from unidecode import unidecode
+import collections
 
 stopWords = set(stopwords.words("english"))
 stopWords = stopWords.union(
@@ -21,6 +22,7 @@ stopWords = stopWords.union(
 total_playlists = 0
 total_tracks = 0
 documents = {}  # playlist_name : [song1, song2, ...]
+title_histogram = collections.Counter()
 
 
 def process_mpd(path):
@@ -39,7 +41,7 @@ def process_mpd(path):
 
 
 def process_playlist(playlist):
-    global total_playlists, total_tracks
+    global total_playlists, total_tracks, title_histogram
     total_playlists += 1
 
     # Create documents for SVD
@@ -51,6 +53,8 @@ def process_playlist(playlist):
         )
 
     nname = normalize_name(playlist["name"])
+    title_histogram[nname] += 1
+
     if nname not in documents:
         documents[nname] = []
     documents[nname].extend(playlist_tracks)
